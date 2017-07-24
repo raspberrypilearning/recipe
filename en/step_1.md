@@ -6,7 +6,7 @@ In this project, you’ll learn how to create a webpage for your favourite recip
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/recipe/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 
 --- collapse ---
