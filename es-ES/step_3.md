@@ -2,8 +2,6 @@
 
 Vamos a mostrar la lista de ingredientes necesarios para tu receta.
 
-## Lista de tareas de la actividad { .check}
-
 + Abre esta plantilla de trinket: [jumpto.cc/trinket-template](http://jumpto.cc/trinket-template). Si estás leyendo esto en el navegador incluso podrías usar la versión embebida del trinket que verás abajo.
 
 ![screenshot](images/recipe-starter.png)
