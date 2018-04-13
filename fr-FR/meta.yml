@@ -1,38 +1,41 @@
 ---
-hero_image: images/banner.png
+hero_image: images/recipe.png
 theme: blue
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: Recipe
-description: Create a webpage of your favourite recipe, so that your friends can make it!
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Recette de cuisine
+description: Créer une page web au sujet de votre recette préférée, afin que vos amis puissent la suivre!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
 steps:
   - 
     title: Introduction
   - 
-    title: Decide on a recipe
+    title: Choisi ta recette
   - 
-    title: Ingredients
+    title: Ingrédients
   - 
-    title: 'Challenge: More ingredients'
+    title: 'Défi: Plus d''ingrédients'
   - 
     title: Method
   - 
-    title: 'Challenge: More steps'
+    title: 'Défi: Plus d''étapes'
   - 
-    title: Colours!
+    title: Couleurs!
   - 
-    title: Finishing touches
+    title: Touches finales
   - 
-    title: 'Challenge: More colours!'
+    title: 'Défi: Plus de couleurs!'
   - 
-    title: 'Challenge: Reviews'
+    title: 'Défi: Commentaires'
   - 
-    title: 'Challenge: More styling'
-
+    title: 'Défi: Plus de style'
