@@ -6,7 +6,7 @@ In dit project leer je hoe je een webpagina kunt maken voor je favoriete recept.
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/recipe/print).
+Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/recipe/print).
 
 --- collapse ---
 ---
