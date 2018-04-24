@@ -25,7 +25,7 @@ Kinderen kunnen ook gebruik maken van deze lege trinket [(jumpto.cc/html-blank)]
 
 Er is ook een trinket met een voorbeeldoplossing van de uitdagingen:
 
-+ [‘Recept’ klaar -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/2ccdf3663d)
++ [‘Recept’ klaar -- htrinket.io/html/8ca90000e9](https://trinket.io/html/8ca90000e9)
 
 ## Offline bronnen
 
@@ -89,7 +89,7 @@ title: Projectmaterialen
 ## Clubleider bronnen
 
 + [.zip-bestand met alle voltooide projectbronnen](resources/recipe-volunteer-resources.zip)
-+ [Online voltooid Trinket-project](https://trinket.io/html/2ccdf3663d)
++ [Online voltooid Trinket-project](https://trinket.io/html/8ca90000e9)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
