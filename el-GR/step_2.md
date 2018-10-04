@@ -1,10 +1,10 @@
-## Decide on a recipe
+## Διάλεξε μια συνταγή
 
-Before you get coding, you’ll need to decide on a recipe.
+Πριν προχωρήσεις στην κωδικοποίηση, πρέπει να διαλέξεις μια συνταγή.
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ Σκέψου μια συνταγή που θέλεις να μοιραστείς με τους φίλους σου. Θα μπορούσε να είναι: 
+    + Μια συνταγή που βρήκες στο διαδίκτυο.
+    + Το αγαπημένο σου φαγητό.
+    + Κάτι που έφτιαξες εσύ!
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+Η συνταγή παράδειγμα που θα δεις σε αυτό το έργο είναι για μιλκσεϊκ μπανάνα. Μπορείς να αντιγράψεις αυτή τη συνταγή εάν δεν μπορείς να βρεις μία δική σου.
