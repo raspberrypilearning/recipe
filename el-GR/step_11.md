@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: More styling
+## Πρόκληση: Περισσότερο στυλ
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+Μπορείς να προσθέσεις μια εικόνα στην ιστοσελίδα σου; Ή να αλλάξεις τη γραμματοσειρά; Δες πώς θα μπορούσε να φαίνεται η ιστοσελίδα σου:
 
 ![screenshot](images/recipe-final.png)
 
-Here’s some code that will help you:
+Εδώ είναι ένας κώδικας που θα σε βοηθήσει:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
