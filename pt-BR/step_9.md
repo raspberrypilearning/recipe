@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## Desafio: Mais cores!
 
-Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+Altere as cores do seu código usando nomes de cores, valores de `rgb()` ou códigos hexadecimais. Há uma lista de várias cores em <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a> ou você pode ir para <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> e você pode customizar suas próprias cores!
 
-Here are some example colours:
+Aqui estão algumas cores de exemplo:
 
-+ Red can be written as:
++ Vermelho (red) pode ser escrito como:
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + `red` (obvio!)
+    + `rgb(255,0,0)` (Todo vermelho, sem verde e sem azul)
     + `#ff0000`
 
-+ Olive can be written as:
++ Oliva pode ser escrita como:
     
     + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + `rgb(128,128,0)` (um pouco de vermelho e verde, sem azul)
     + `#808000`
 
-Try to make sure that the colours you use match your recipe!
+Tente se certificar de que as cores que você usa correspondem à sua receita!
 
 \--- /challenge \---
