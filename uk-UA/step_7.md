@@ -1,48 +1,48 @@
-## Colours!
+## Кольори!
 
-Let’s add some colour to your recipe webpage.
+Давайте додямо якийсь колір до веб-сторінки вашого рецепта.
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ Ви вже дізналися, як додати кольоровий текст веб-сторінці. Додайте цей код у свій файл `style.css`, щоб зробити весь текст на веб-сайті синім кольором:
 
-    body {
-        color: blue;
+    структура{
+         колір: синій;
     }
     
 
-![screenshot](images/recipe-blue.png)
+![скріншот](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ Ваш браузер знає такі кольори, як ` синій `, `жовтий` і навіть `світло-зелений`, але чи знаєте ви, що ваш браузер насправді знає **імена** більше 140 різних кольорів?
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Тут є список всіх імен кольорів, які ви можете використовувати: [jumpto.cc/colours](http://jumpto.cc/colours), що включає імена кольорів, такі як `томатний`, `цегляний` та `персековий`.
 
-Change the text colour from `blue` to `tomato`.
+Змініть колір тексту з `синього` на `томатний`.
 
-![screenshot](images/recipe-tomato.png)
+![скріншот](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ Ваш браузер знає назви 140 кольорів, але фактично знає **значення кольорів** більше 16 мільйонів кольорів!
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+Щоб браузер знав, який колір відображати, потрібно просто повідомити, скільки червоного, зеленого та синього кольорів використовувати.
 
-The amounts of red, green and blue are written as a number between `` and `255`.
+Кількість червоного, зеленого та синього кольорів записується як число між `0` та `255`.
 
-![screenshot](images/recipe-rgb-img.png)
+![скріншот](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+Додайте цей код до CSS для структури веб-сторінки, щоб відобразити світло-жовтий фон:
 
-    background: rgb(250,250,210);
+    фон: чзс(250,250,210);
     
 
-![screenshot](images/recipe-rgb.png)
+![скріншот](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Якщо бажаєте, ви можете вказати браузер, який колір відображатиметься, використовуючи шістнадцятковий код (або **шістнадцятковий код**). Це працює аналогічно до коду `чзс()`, за винятком того, що шістнадцяткові коди завжди починаються з `#`, та використовують шістнадцяткові числа між `00` та `ff` для кількості червоного, зеленого та синього.
 
-![screenshot](images/recipe-hex-img.png)
+![скріншот](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+Замініть код `чзс()` у ваш CSS за допомогою цього шістнадцяткового коду:
 
-    background: #fafad2;
+    фон: #fafad2;
     
 
-![screenshot](images/recipe-hex.png)
+![скріншот](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+Ви повинні побачити той же світло-жовтий, як і раніше!
