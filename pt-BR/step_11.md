@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: More styling
+## Desafio: Mais estilos
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+Você pode adicionar uma imagem à sua página da web? Ou mudar a fonte? Veja como sua página da Web pode ser:
 
-![screenshot](images/recipe-final.png)
+![captura de tela](images/recipe-final.png)
 
-Here’s some code that will help you:
+Veja alguns códigos que ajudarão você neste desafio:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
