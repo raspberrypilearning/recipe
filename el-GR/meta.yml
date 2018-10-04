@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Recipe
-description: Create a webpage of your favourite recipe, so that your friends can make it!
+title: Συνταγή
+description: Δημιούργησε μια ιστοσελίδα της αγαπημένης σου συνταγής, ώστε να την εκτελέσουν οι φίλοι σου!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Decide on a recipe
+    title: Διάλεξε μια συνταγή
   - 
-    title: Ingredients
+    title: Συστατικά
   - 
-    title: 'Challenge: More ingredients'
+    title: 'Πρόκληση: Περισσότερα συστατικά'
   - 
-    title: Method
+    title: Εκτέλεση
   - 
-    title: 'Challenge: More steps'
+    title: 'Πρόκληση: Περισσότερα βήματα'
   - 
-    title: Colours!
+    title: Χρώματα!
   - 
-    title: Finishing touches
+    title: Τελευταίες πινελιές
   - 
-    title: 'Challenge: More colours!'
+    title: 'Πρόκληση: Περισσότερα χρώματα!'
   - 
-    title: 'Challenge: Reviews'
+    title: 'Πρόκληση: Κριτικές'
   - 
-    title: 'Challenge: More styling'
+    title: 'Πρόκληση: Περισσότερο στυλ'
