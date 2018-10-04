@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More ingredients
+## Desafio: Mais ingredientes
 
-Can you add all of the ingredients for **your** recipe?
+Você consegue adicionar todos os ingredientes de sua receita?
 
-Your webpage should look something like this:
+A sua página web deve se parecer com esta:
 
-![screenshot](images/recipe-more-ingredients.png)
+![captura de tela](images/recipe-more-ingredients.png)
 
 \--- /challenge \---
