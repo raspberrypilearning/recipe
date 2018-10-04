@@ -1,14 +1,14 @@
-## Method
+## Εκτέλεση
 
-Next, let’s explain how to make your recipe.
+Στη συνέχεια, ας εξηγήσουμε πώς φτιάχνεις τη συνταγή σου.
 
-+ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
++ Θα χρησιμοποιήσεις μια άλλη λίστα για να γράψεις την εκτέλεση, αλλά αυτή τη φορά θα χρησιμοποιήσεις μια **αριθμημένη λίστα**, με την ετικέτα `<ol>`.
 
-An ordered list is a numbered list, which you should use when the order of the steps is important.
+Μια αριθμημένη λίστα έχει αριθμούς μπροστά από τα στοιχεία και χρησιμοποιείται όταν η σειρά των βημάτων είναι σημαντική.
 
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
+Πρόσθεσε αυτόν τον κώδικα κάτω από τη λίστα συστατικών, σιγουρεύοντας ότι είναι μέσα στην ετικέτα `<body>`:
 
-    <h3>Method:</h3>
+    <h3>Εκτέλεση:</h3>
     
     <ol>
     
@@ -17,11 +17,11 @@ Add this code underneath your ingredients list, making sure that it’s still in
 
 ![screenshot](images/recipe-method.png)
 
-+ Now you just need to add list items into your new ordered list:
++ Τώρα πρέπει απλά να προσθέσεις στοιχεία στη νέα αριθμημένη λίστα:
 
-    <li>Peel the banana and add to a blender</li>
+    <li>Ξεφλούδισε τη μπανάνα και βάλτην σε ένα μίξερ</li>
     
 
 ![screenshot](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+Παρατήρησε ότι τα στοιχεία λίστας αριθμούνται αυτόματα!
