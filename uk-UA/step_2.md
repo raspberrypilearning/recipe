@@ -1,10 +1,10 @@
-## Decide on a recipe
+## Оберіть рецепт
 
-Before you get coding, you’ll need to decide on a recipe.
+Перш ніж почати кодування, вам потрібно обрати рецепт.
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ Подумайте про рецепт, яким ви хочете поділитися з друзями. Це може бути: 
+    + Рецепт, який ви знайшли онлайн;
+    + Ваша улюблена їжа;
+    + Щось, що ви видумали!
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+Приклад рецепта, який ви побачите в цьому проекті, - це банановий молочний коктейль. Ви можете скопіювати цей рецепт, якщо ви не можете знайти якийсь із ваших власних.
