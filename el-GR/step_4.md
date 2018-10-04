@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: More ingredients
+## Πρόκληση: Περισσότερα συστατικά
 
-Can you add all of the ingredients for **your** recipe?
+Μπορείς να προσθέσεις όλα τα συστατικά για την **δική σου** συνταγή;
 
-Your webpage should look something like this:
+Η ιστοσελίδα σου πρέπει να έχει την εξής μορφή:
 
 ![screenshot](images/recipe-more-ingredients.png)
 
