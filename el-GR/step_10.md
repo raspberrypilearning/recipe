@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Reviews
+## Πρόκληση: Κριτικές
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+Ζήτα από μερικούς φίλους σου να γράψουν μια κριτική για τη συνταγή σου. Θα χρειαστεί να δημιουργήσεις μια άλλη λίστα για αυτό.
 
 ![screenshot](images/recipe-reviews.png)
 
