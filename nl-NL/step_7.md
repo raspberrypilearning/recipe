@@ -23,7 +23,7 @@ Verander de tekstkleur van `blue` naar `tomato`.
 
 Om de browser te laten weten welke kleur moet worden weergegeven, hoef je alleen maar te laten weten hoeveel rood, groen en blauw er nodig is.
 
-De hoeveelheden rood, groen en blauw worden geschreven als een getal tussen `` en `255`.
+De hoeveelheden rood, groen en blauw worden geschreven als een getal tussen `0` en `255`.
 
 ![screenshot](images/recipe-rgb-img.png)
 
