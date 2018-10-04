@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: More steps
+## Πρόκληση: Περισσότερα βήματα
 
-Can you add all of the steps for making **your** recipe?
+Μπορείς να προσθέσεις όλα τα βήματα για την εκτέλεση **της δικής σου** συνταγής;
 
-Your method should look something like this:
+Η εκτέλεση θα πρέπει να φαίνεται ως εξής:
 
 ![screenshot](images/recipe-more-method.png)
 
