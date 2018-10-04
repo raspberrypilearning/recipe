@@ -1,35 +1,32 @@
-## Ingredients
+## Інгредієнти
 
-Let’s list the ingredients that are needed for your recipe.
+Давайте перерахуємо інгредієнти, необхідні для вашого рецепта.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Відкрийте цей шаблон: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    Проект повинен виглядати так:
     
-    ![screenshot](images/recipe-starter.png)
+    ![скріншот](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ Для вашого списку інгредієнтів ви збираєтеся використовувати **неупорядкований список**, використовуючи `<ul>` тег. Перейдіть до рядка 8 шаблону та додайте цей HTML, замінивши текст у заголовку `<h1>` title вашого власного рецепта:
 
-    <h1>Banana Milkshake</h1>
-    
-    <h3>Ingredients:</h3>
-    
+    <h1>Банановий мілкшейк</h1>
+    <h3>Інгредієти:</h3>
     <ul>
-    
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Перегляньте свою веб-сторінку, і ви повинні побачити своїх два заголовки.
 
-![screenshot](images/recipe-headings.png)
+![скріншот](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+Ви ще не побачите свій список, тому що ви не додали ще жодних предметів до списку!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ Наступним кроком буде додавання елементів списку у ваш список, використовуючи `<li>` тег. Додайте наступний код в `<ul>` тег:
 
-    <li>1 banana</li>
+    <li>1 банан</li>
     
 
-![screenshot](images/recipe-ul.png)
+![скріншот](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+Оскільки ваш список неупорядкований, поряд із елементами списку немає чисел, а всього лише кульки.
