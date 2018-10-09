@@ -1,35 +1,35 @@
-## Ingredients
+## ingredienser
 
-Let’s list the ingredients that are needed for your recipe.
+La oss liste ingrediensene som trengs for oppskriften din.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Åpne denne malbehandlingen: [jumpto.cc/html-template](http://jumpto.cc/html-template){: target = "_ blank"}.
     
-    The project should look like this:
+    Prosjektet skal se slik ut:
     
-    ![screenshot](images/recipe-starter.png)
+    ![skjermbilde](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ For listen over ingredienser, skal du bruke en **uordnet liste**, ved hjelp av `<ul>` taggen. Gå til linje 8 i malen og legg til denne HTML-teksten, erstatt teksten i `<h1>` tittelen med navnet på din egen oppskrift:
 
-    <h1>Banana Milkshake</h1>
+    <h1>Banan Milkshake</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>Ingredienser:</h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Se din nettside, og du bør se de to overskriftene dine.
 
-![screenshot](images/recipe-headings.png)
+![skjermbilde](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+Du vil ikke se listen din ennå, fordi du ikke har lagt til noen listeposter til den!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ Det neste trinnet er å legge til listeposter i listen din, ved å bruke `<li>` taggen. Legg til følgende kode inne i din `<ul>` tag:
 
-    <li>1 banana</li>
+    <li>1 banan</li>
     
 
-![screenshot](images/recipe-ul.png)
+![skjermbilde](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+Siden listen er uordnet, er det ingen tall ved siden av listepostene, bare punktposter.
