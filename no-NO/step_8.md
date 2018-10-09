@@ -1,29 +1,29 @@
-## Finishing touches
+## Finpuss
 
-Let’s add a little more HTML and CSS to improve your webpage.
+La oss legge til litt mer HTML og CSS for å forbedre websiden din.
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ Du kan legge til en horisontal linje på slutten av oppskriften, ved å bruke `<hr>` taggen.
 
-![screenshot](images/recipe-hr.png)
+![skjermbilde](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+Legg merke til at denne taggen ikke har en sluttkode, akkurat som `<img>` taggen.
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ Linjen du nettopp har lagt til, samsvarer ikke med stilen til resten av nettsiden din. La oss fikse det ved å legge til noen CSS-kode:
 
     hr {
-        height: 2px;
-        border: none;
-        background-color: tomato;
+        høyde: 2px;
+        kantlinje: ingen;
+        bakgrunnsfarge: tomat;
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![skjermbilde](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ Du kan til og med endre hvordan kulepoengene dine ser ut med denne CSS-koden:
 
     ul {
-        list-style-type: square;
+        liste-stil-type: square;
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![skjermbilde](images/recipe-ul-css.png)
