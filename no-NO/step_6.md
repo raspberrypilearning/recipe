@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- utfordring \---
 
-## Challenge: More steps
+## Utfordring: Flere skritt
 
-Can you add all of the steps for making **your** recipe?
+Kan du legge til alle trinnene for å lage **din** oppskrift?
 
-Your method should look something like this:
+Metoden din bør se slik ut:
 
-![screenshot](images/recipe-more-method.png)
+![skjermbilde](images/recipe-more-method.png)
 
-\--- /challenge \---
+\--- /utfordring \---
