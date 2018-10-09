@@ -1,10 +1,10 @@
-## Decide on a recipe
+## Bestem deg på en oppskrift
 
-Before you get coding, you’ll need to decide on a recipe.
+Før du får koding, må du bestemme deg for en oppskrift.
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ Tenk på en oppskrift du vil dele med vennene dine. Det kan være: 
+    + En oppskrift du fant på nettet;
+    + Ditt favorittmåltid;
+    + Noe du gjorde opp!
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+Eksemplet oppskriften du vil se i dette prosjektet er for en banan milkshake. Du kan kopiere denne oppskriften hvis du ikke finner en av dine egne.
