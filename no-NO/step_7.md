@@ -1,48 +1,48 @@
-## Colours!
+## Farger!
 
-Let’s add some colour to your recipe webpage.
+La oss legge til litt farge på oppskriftswebsiden din.
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ Du har allerede lært hvordan du legger til farget tekst på en nettside. Legg til denne koden i din `style.css` fil, for å gjøre hele teksten i nettstedet kroppsblå:
 
-    body {
-        color: blue;
+    kropp {
+        farge: blå;
     }
     
 
-![screenshot](images/recipe-blue.png)
+![skjermbilde](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ Nettleseren din kjenner farger som `blå`, `gul` og til og med `lysegrønn`, men visste du at nettleseren din faktisk kjenner de **navnene** med over 140 forskjellige farger?
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Det er en liste over alle farge navnene du kan bruke: [jumpto.cc/colours](http://jumpto.cc/colours), som inkluderer farge navn som `tomat`, `firebrick` og `ferskenpuff`.
 
-Change the text colour from `blue` to `tomato`.
+Endre tekstfargen fra `blå` til `tomat`.
 
-![screenshot](images/recipe-tomato.png)
+![skjermbilde](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ Nettleseren din vet navnene på 140 farger, men vet faktisk **farger verdier** av mer enn 16 millioner farger!
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+For å fortelle nettleseren hvilken farge som skal vises, trenger du bare å fortelle den hvor mye rød, grønn og blå som skal brukes.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+Mengden rød, grønn og blå er skrevet som et tall mellom `0` og `255`.
 
-![screenshot](images/recipe-rgb-img.png)
+![skjermbilde](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+Legg denne koden til CSS for websiden, for å vise en lys gul bakgrunn:
 
-    background: rgb(250,250,210);
+    bakgrunn: rgb (250.250.210);
     
 
-![screenshot](images/recipe-rgb.png)
+![skjermbilde](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Hvis du foretrekker det, kan du fortelle nettleseren hvilken farge som skal vises ved hjelp av en heksadesimal kode (eller **heksekode**). Dette fungerer på samme måte som `rgb ()` koden ovenfor, bortsett fra at heksekoder alltid starter med en `#`, og bruk heksadesimale tall mellom `00` og `ff` for mengden rød, grønn og blå.
 
-![screenshot](images/recipe-hex-img.png)
+![skjermbilde](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+Erstatt `rgb ()` koden i ditt CSS med denne heksekoden:
 
-    background: #fafad2;
+    bakgrunn: # fafad2;
     
 
-![screenshot](images/recipe-hex.png)
+![skjermbilde](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+Du bør se den samme lysegul som før!
