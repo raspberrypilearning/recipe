@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- utfordring \---
 
-## Challenge: Reviews
+## Utfordring: Anmeldelser
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+Spør noen av vennene dine om å legge igjen en anmeldelse for oppskriften din. Du må lage en annen liste for å gjøre dette.
 
-![screenshot](images/recipe-reviews.png)
+![skjermbilde](images/recipe-reviews.png)
 
-\--- /challenge \---
+\--- /utfordring \---
