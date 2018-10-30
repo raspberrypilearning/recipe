@@ -1,0 +1,41 @@
+---
+hero_image: images / banner.png
+theme: sinine
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, disain-1, programmeerimine-0, phys-comp-0, production-0, community-0
+title: Retsept
+description: Loo oma lemmikretsept veebileht, nii et teie sõbrad saavad seda teha!
+original_url: https://codeclubprojects.org/en-GB/webdev/recipe
+interests: ''
+technologies: html-css-javascript
+site_areas: projektid
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Sissejuhatus
+  - 
+    title: Otsustage retsepti järgi
+  - 
+    title: Koostisosad
+  - 
+    title: 'Väljakutse: rohkem koostisosi'
+  - 
+    title: Meetod
+  - 
+    title: 'Väljakutse: täiendavad sammud'
+  - 
+    title: Värvid!
+  - 
+    title: Viimistlus puudutab
+  - 
+    title: 'Väljakutse: rohkem värve!'
+  - 
+    title: 'Väljakutse: arvustused'
+  - 
+    title: 'Väljakutse: rohkem stiili'
