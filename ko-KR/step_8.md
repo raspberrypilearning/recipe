@@ -1,14 +1,14 @@
-## Finishing touches
+## 레시피 제작 마무리
 
-Let’s add a little more HTML and CSS to improve your webpage.
+HTML과 CSS 코드를 조금만 더 추가해서 홈페이지를 완성시켜 봅시다.
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ 아래와 같이 내용 끝에 줄을 추가하고 싶은 경우 `<hr>` 태그를 사용합니다.
 
-![screenshot](images/recipe-hr.png)
+![스크린샷](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+이 태그는 끝을 의미하는 태그가 존재하지 않으며, 단순한 `<img>` 같은 태그입니다.
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ 근데 줄과 홈페이지의 색깔하고 뭔가 어울리지 않습니다. 아래와 같이 CSS Code를 수정하여 해결할 수 있습니다:
 
     hr {
         height: 2px;
@@ -17,13 +17,13 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![스크린샷](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ 아래와 같이 둥근 포인트를 사각형으로 바꿀 수 있습니다.
 
     ul {
         list-style-type: square;
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![스크린샷](images/recipe-ul-css.png)
