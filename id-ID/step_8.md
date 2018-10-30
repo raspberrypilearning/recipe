@@ -1,29 +1,29 @@
-## Finishing touches
+## Sentuhan akhir
 
-Let’s add a little more HTML and CSS to improve your webpage.
+Mari tambahkan sedikit lebih banyak HTML dan CSS untuk meningkatkan halaman web Anda.
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ Anda dapat menambahkan garis horizontal di akhir resep Anda, dengan menggunakan tag `<hr>`.
 
-![screenshot](images/recipe-hr.png)
+![tangkapan layar](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+Perhatikan bahwa tag ini tidak memiliki tag akhir, seperti tag `<img>`.
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ Baris yang baru saja Anda tambahkan tidak cocok dengan gaya dari sisa halaman web Anda. Mari perbaiki itu dengan menambahkan beberapa kode CSS:
 
     hr {
         height: 2px;
-        border: none;
-        background-color: tomato;
+        batas: tidak ada;
+        warna latar belakang: tomat;
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![tangkapan layar](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ Anda bahkan dapat mengubah bagaimana poin-poin bullet Anda terlihat dengan kode CSS ini:
 
     ul {
-        list-style-type: square;
+        list-style-type: persegi;
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![tangkapan layar](images/recipe-ul-css.png)
