@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: More ingredients
+## Tantangan: Lebih banyak bahan
 
-Can you add all of the ingredients for **your** recipe?
+Bisakah Anda menambahkan semua bahan untuk **** resep Anda?
 
-Your webpage should look something like this:
+Halaman web Anda akan terlihat seperti ini:
 
-![screenshot](images/recipe-more-ingredients.png)
+![tangkapan layar](images/recipe-more-ingredients.png)
 
-\--- /challenge \---
+\--- / tantangan \---
