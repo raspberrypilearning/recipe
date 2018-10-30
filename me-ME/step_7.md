@@ -2,7 +2,7 @@
 
 Dodajmo veb-stranici tvog recepta malo boja.
 
-+ Već smo naučili kako da na veb-stranicu dodamo tekst u različitim bojama. U `style.css` datoteku dodaj sljedeći kôd, tako da sav tekst na veb-stranici bude plave boje:
++ Već smo naučili kako da na veb-stranicu dodamo tekst u različitim bojama. U `style.css` datoteku dodaj sljedeći kôd, tako da sav tekst u tijelu (body) veb-stranice bude plave boje:
 
     body {
         color: blue;
@@ -13,13 +13,13 @@ Dodajmo veb-stranici tvog recepta malo boja.
 
 + Tvoj pregledač prepoznaje boje kao što su `blue` (plava), `yelow` (žuta), pa čak i `lightgreen` (svijetlozelena). Ali, da li ti je poznato da pregledač, u stvari, prepoznaje **nazive** za više od 140 različitih boja?
 
-Ovdje se nalazi spisak svih naziva boja koje možeš koristiti: [jumpto.cc/colours](http://jumpto.cc/colours). Ovaj spisak sadrži nazive boja kao što su `tomato` (paradajz), `firebrick` (cigla) ili `peachpuff` (breskva).
+Ovdje se nalazi spisak svih naziva boja koje možeš koristiti: [jumpto.cc/colours](http://jumpto.cc/colours). Ovaj spisak sadrži nazive boja kao što su `tomato` (paradajz), `firebrick` (cigla) i `peachpuff` (breskva).
 
 Promijeni boju teksta iz `blue` u `tomato`.
 
 ![screenshot](images/recipe-tomato.png)
 
-+ Tvoj pregledač prepoznaje nazive 140 boja, ali zapravo zna **vrijednosti ** za više od 16 miliona boja!
++ Tvoj pregledač prepoznaje nazive 140 boja, ali zapravo zna **vrijednosti boja** za više od 16 miliona boja!
 
 Da bismo kazali pregledaču koju boju da prikaže, potrebno je da samo da odredimo koliko crvene, zelene i plave boje će koristiti.
 
@@ -34,7 +34,7 @@ Dodaj CSS-u sljedeći kôd za tijelo (body) veb-stranice, kako bi se prikazala s
 
 ![screenshot](images/recipe-rgb.png)
 
-+ Ako želiš, možeš da kažeš pregledaču koju boju da prikaže koristeći heksadecimalni kôd ( ili **hex code**). Ovo funkcioniše na sličan način kao `rgb()` kôd iznad, osim što heksadecimalni kôd uvijek počinje znakom `#`, a za određivanje količine crvene, zelene i plave boje koristi heksadecimalne 'brojeve' između `00` i `ff`.
++ Ako želiš, možeš da kažeš pregledaču koju boju da prikaže koristeći heksadecimalni kôd (ili **hex code**). Ovo funkcioniše na sličan način kao `rgb()` kôd iznad, osim što heksadecimalni kôd uvijek počinje znakom `#`, a za određivanje količine crvene, zelene i plave boje koristi heksadecimalne 'brojeve' između `00` i `ff`.
 
 ![screenshot](images/recipe-hex-img.png)
 
