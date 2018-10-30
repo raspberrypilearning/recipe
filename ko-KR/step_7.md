@@ -1,48 +1,48 @@
-## Colours!
+## 색상 추가하기
 
-Let’s add some colour to your recipe webpage.
+레시피 페이지에 색상을 추가해 봅시다.
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ 우리는 이미 색상이 입혀진 텍스트를 추가하는 법에 대해 알고 있습니다. 아래 Code를 `style.css` 파일에 추가합니다. 그럼 페이지의 모든 글이 파란색으로 바뀔 것입니다.
 
     body {
         color: blue;
     }
     
 
-![screenshot](images/recipe-blue.png)
+![스크린샷](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ 브라우저는 `blue`, `yellow`, 심지어는 `lightgreen` 등의 색상도 인지합니다. **사실 이외에도 140개의 다른 색상이 지정되어 있다는 사실을 알고 계시나요?**
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+[jumpto.cc/colours](http://jumpto.cc/colours) 페이지에서 색상명을 알 수 있습니다. 여기서는 `tomato`, `firebrick`, `peachpuff` 등의 색상도 찾을 수 있습니다.
 
-Change the text colour from `blue` to `tomato`.
+텍스트 색상을 `blue`에서 `tomato`으로 바꾸어 봅시다.
 
-![screenshot](images/recipe-tomato.png)
+![스크린샷](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ 브라우저에서 키워드로 지정된 색상은 140개밖에 안되지만, ** RGB 값으로는 1600만개의 다른 색상이 지정되어 있습니다!**
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+쓰고 싶은 색상이 있는경우 해당 색상의 빨간색, 초록색, 파란색의 값을 브라우저에 알려 주면 됩니다.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+빨간색, 초록색, 파란색의 값은 `0`부터 `255`까지 분포해 있습니다.
 
-![screenshot](images/recipe-rgb-img.png)
+![스크린샷](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+아래 Code를 CSS Code에 추가하여, 배경을 옅은 노란색으로 바꾸어 봅시다:
 
     background: rgb(250,250,210);
     
 
-![screenshot](images/recipe-rgb.png)
+![스크린샷](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ 만약 원한다면 RGB 색상 값을 **16진수 색상값으로 변환할 수 있습니다.** 이 방법도 아까 사용했던 `rgb()`와 비슷한데, 다른 점은 `#`으로 시작한다는 점이고, 16진수 숫자를 사용하여 `00`부터 `ff`까지 빨간색, 초록색, 파란색의 값으로 지정할 수 있다라는 점입니다.
 
-![screenshot](images/recipe-hex-img.png)
+![스크린샷](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+아래 Code를 `rgb()` 대신 넣어 봅시다.
 
     background: #fafad2;
     
 
-![screenshot](images/recipe-hex.png)
+![스크린샷](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+아까와 같이 같은 옅은 노란색을 볼 수 있습니다.
