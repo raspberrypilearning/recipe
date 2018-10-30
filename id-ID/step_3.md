@@ -1,35 +1,35 @@
-## Ingredients
+## Bahan
 
-Let’s list the ingredients that are needed for your recipe.
+Mari daftar bahan-bahan yang dibutuhkan untuk resep Anda.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Buka trinket template ini: [jumpto.cc/html-template](http://jumpto.cc/html-template){: target = "_ blank"}.
     
-    The project should look like this:
+    Proyek akan terlihat seperti ini:
     
-    ![screenshot](images/recipe-starter.png)
+    ![tangkapan layar](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ Untuk daftar bahan-bahan Anda, Anda akan menggunakan **daftar tanpa urutan**, menggunakan tag `<ul>`. Pergi ke baris 8 dari template dan tambahkan HTML ini, mengganti teks dalam judul `<h1>` dengan nama resep Anda sendiri:
 
     <h1>Banana Milkshake</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>Bahan:</h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Lihat halaman web Anda, dan Anda akan melihat dua judul Anda.
 
-![screenshot](images/recipe-headings.png)
+![tangkapan layar](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+Anda belum akan melihat daftar Anda, karena Anda belum menambahkan item daftar apa pun ke dalamnya!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ Langkah selanjutnya adalah menambahkan item daftar ke daftar Anda, dengan menggunakan tag `<li>`. Tambahkan kode berikut di dalam tag `<ul>`:
 
-    <li>1 banana</li>
+    <li>1 pisang</li>
     
 
-![screenshot](images/recipe-ul.png)
+![tangkapan layar](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+Karena daftar Anda tidak disusun, tidak ada angka di samping daftar item, hanya poin-poin.
