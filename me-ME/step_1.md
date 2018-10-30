@@ -24,7 +24,7 @@ Za pisanje sopstvenog HTML-a i CSS-a, djeca takođe mogu da koriste ovaj prazan 
 
 Takođe postoji trinket koji sadrži primjer rješenja izazova:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [Završen projekat 'Recept' -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
 ## Offline izvori
 
@@ -63,9 +63,9 @@ Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digi
 
 ## Izrada projekta offline
 
-Ako djeca izrađuju ovaj projekat offline, biće potrebno da sačuvaju slike koje namjeravaju da koriste u istom direktorijumu u kojem se nalazi njihova Template.html datoteka.
+Ako djeca izrađuju ovaj projekat offline, biće potrebno da sačuvaju slike koje namjeravaju da koriste u istom folderu u kojem se nalazi njihova Template.html datoteka.
 
-Onda mogu samo da dodaju naziv datoteke unutar oznake `<img>`:
+Onda mogu samo da dodaju naziv datoteke u oznaku `<img>`:
 
     <img src="banana.jpg" />
     
@@ -86,7 +86,7 @@ Onda mogu samo da dodaju naziv datoteke unutar oznake `<img>`:
 
 ## Izvori za vođe kluba
 
-+ [.zip datoteka koja sadrži sve izvore projekta](resources/recipe-volunteer-resources.zip)
++ [.zip datoteka koja sadrži sve završene izvore projekta](resources/recipe-volunteer-resources.zip)
 + [Završen Trinket projekat online](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
