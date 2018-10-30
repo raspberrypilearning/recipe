@@ -6,7 +6,7 @@ Dodajmo još malo HTML-a i CSS-a kako bismo poboljšali tvoju veb-stranicu.
 
 ![screenshot](images/recipe-hr.png)
 
-Obrati pažnju da ova oznaka nema završnu oznaku, isto kao oznaka `<img>`.
+Imaj u vidu da ova oznaka nema završnu oznaku, isto kao oznaka `<img>`.
 
 + Dodata linija ne slaže se sa stilom ostatka tvoje veb-stranice. Popravimo to dodajući CSS kôd:
 
