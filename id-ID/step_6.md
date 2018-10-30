@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: More steps
+## Tantangan: Lebih banyak langkah
 
-Can you add all of the steps for making **your** recipe?
+Bisakah Anda menambahkan semua langkah untuk membuat **** resep Anda?
 
-Your method should look something like this:
+Metode Anda harus terlihat seperti ini:
 
-![screenshot](images/recipe-more-method.png)
+![tangkapan layar](images/recipe-more-method.png)
 
-\--- /challenge \---
+\--- / tantangan \---
