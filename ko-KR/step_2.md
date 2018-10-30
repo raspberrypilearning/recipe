@@ -1,10 +1,10 @@
-## Decide on a recipe
+## 레시피 페이지에 들어갈 내용을 정하기
 
-Before you get coding, you’ll need to decide on a recipe.
+코딩을 하기 전에, 무슨 주제를 가지고 페이지를 작성할 지 생각해 봅시다.
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ 다른 친구들과 나누고 싶은 음식과 레시피에 대해 생각해 봅시다. 다음과 같은 예시가 있을 수 있습니다: 
+    + 온라인에서 찾은 레시피;
+    + 내가 가장 좋아하는 음식;
+    + 내가 직접 만든 레시피!
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+이 프로젝트에서는 바나나 밀크쉐이크를 바탕으로 레시피 페이지를 작성합니다. 자신의 주제로 레시피를 만들고 싶지 않다면 이 예제를 따라하셔도 좋습니다.
