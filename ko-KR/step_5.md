@@ -1,27 +1,27 @@
-## Method
+## 레시피 방법 추가하기
 
-Next, let’s explain how to make your recipe.
+이번에는 요리를 어떻게 하면 되는지 방법에 대해 적어봅시다.
 
-+ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
++ 요리의 방법을 적기 위해서는 기존 리스트가 아닌 새로운 리스트를 작성해야 합니다. 이번에는 **순서 있는 리스트**(`<ol>` 태그 사용)를 활용하여 요리의 방법을 적어 봅시다.
 
-An ordered list is a numbered list, which you should use when the order of the steps is important.
+순서 있는 리스트는 번호가 정해져 있는 리스트로, 리스트를 1, 2, 3... 등의 순서로 표현해야 할 때 사용합니다.
 
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
+아래 Code를 재료를 작성한 Code 밑에 적어 봅시다, Code는 `<body>` 태그 안에 들어 있어야 합니다.
 
-    <h3>Method:</h3>
+    <h3>방법:</h3>
     
     <ol>
     
     </ol>
     
 
-![screenshot](images/recipe-method.png)
+![스크린샷](images/recipe-method.png)
 
-+ Now you just need to add list items into your new ordered list:
++ 아래 Code를 새로운 순서 있는 리스트에 삽입합니다.
 
-    <li>Peel the banana and add to a blender</li>
+    <li>바나나 껍질을 벗기고 믹서기에 넣는다</li>
     
 
 ![screenshot](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+이 리스트에 있는 항목들은 자동으로 숫자가 매겨집니다!
