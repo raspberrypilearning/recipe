@@ -1,48 +1,48 @@
-## Colours!
+## Warna!
 
-Let’s add some colour to your recipe webpage.
+Mari tambahkan beberapa warna ke halaman web resep Anda.
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ Anda sudah belajar cara menambahkan teks berwarna ke halaman web. Tambahkan kode ini di dalam file `style.css` , untuk membuat semua teks di biru badan situs web:
 
-    body {
-        color: blue;
+    badan {
+        warna: biru;
     }
     
 
-![screenshot](images/recipe-blue.png)
+![tangkapan layar](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ Browser Anda tahu warna seperti `biru`, `kuning` dan bahkan `lightgreen`, tetapi apakah Anda tahu bahwa peramban Anda benar-benar mengetahui **nama** dari 140 lebih warna yang berbeda?
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Ada daftar semua nama warna yang bisa Anda gunakan: [jumpto.cc/colours](http://jumpto.cc/colours), yang mencakup nama warna seperti `tomat`, `firebrick` dan `peachpuff`.
 
-Change the text colour from `blue` to `tomato`.
+Ubah warna teks dari `biru` menjadi `tomat`.
 
-![screenshot](images/recipe-tomato.png)
+![tangkapan layar](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ Browser Anda tahu nama-nama 140 warna, tetapi sebenarnya tahu nilai-nilai **warna** lebih dari 16 juta warna!
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+Untuk memberi tahu browser mana warna yang akan ditampilkan, Anda hanya perlu membiarkannya mengetahui seberapa banyak warna merah, hijau, dan biru yang digunakan.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+Jumlah warna merah, hijau dan biru ditulis sebagai angka antara `0` dan `255`.
 
-![screenshot](images/recipe-rgb-img.png)
+![tangkapan layar](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+Tambahkan kode ini ke CSS untuk badan halaman web, untuk menampilkan latar belakang kuning muda:
 
-    background: rgb(250,250,210);
+    latar belakang: rgb (250,250,210);
     
 
-![screenshot](images/recipe-rgb.png)
+![tangkapan layar](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Jika Anda suka, Anda dapat memberi tahu browser mana warna yang akan ditampilkan dengan menggunakan kode heksadesimal (atau **kode hex**). Ini bekerja dengan cara yang mirip dengan `rgb ()` kode di atas, kecuali bahwa kode hex selalu dimulai dengan `#`, dan menggunakan 'angka' heksadesimal antara `00` dan `ff` untuk jumlah merah, hijau dan biru.
 
-![screenshot](images/recipe-hex-img.png)
+![tangkapan layar](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+Ganti kode `rgb ()` di CSS Anda dengan kode hex ini:
 
-    background: #fafad2;
+    latar belakang: # fafad2;
     
 
-![screenshot](images/recipe-hex.png)
+![tangkapan layar](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+Anda seharusnya melihat warna kuning yang sama seperti sebelumnya!
