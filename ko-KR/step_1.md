@@ -1,71 +1,71 @@
-## Introduction
+## 들어가며
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+이 프로젝트에서는 자신이 좋아하는 음식의 레시피를 설명하는 웹페이지를 만듭니다.
 
-![screenshot](images/recipe-final.png)
+![스크린샷](images/recipe-final.png)
 
-### Additional information for club leaders
+### 교육자들을 위한 추가 정보
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberrypi.org/en/projects/recipe/print)를 사용하십시오.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: 교육자 노트
 
-## Introduction:
+## 소개
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+이 프로젝트에서 학생들은 HTML List와 CSS Colours를 배웁니다. 학생들은 자신이 좋아하는 음식에 대한 레시피를 추가하고, 음식의 재료 등을 추가합니다.
 
-## Online Resources
+## 온라인 자료들
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+이 자료에서는 [Trinket](https://trinket.io/)을 사용하여 HTML & CSS를 온라인으로 편집할 것을 권장합니다.
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+학생들은 새로운 Trinket[(jumpto.cc/html-black)](http://jumpto.cc/html-blank)을 사용할 수 있으며, 이를 통해 자신만의 HTML & CSS 코드를 작성하는 법을 배울 수 있습니다. 또한, 템플릿이 제공되어 있는 Trinket을 사용할 수 있습니다. [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+프로젝트의 샘플 정답이 다음 Trinket에 있습니다.
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ ['레시피' 완료 버전 -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline Resources
+## 오프라인 자료
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+여러분의 선호에 따라 프로젝트를 [오프라인에서 완성](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)할 수 있습니다. 'Project Materials' 라는 링크를 클릭하여 이 프로젝트의 자료를 확인해볼 수 있습니다. 이 링크에는 학생들이 프로젝트를 오프라인으로 완료하는 데 필요한 자료가 포함된 'Project Resource' 섹션이 있습니다. 학생들이 이러한 자료의 사본에 접근할 수 있는지 확인하십시오. 이 섹션에는 아래와 같은 파일들이 포함되어 있습니다.
 
 + template/index.html
 + template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+이 프로젝트의 완성된 버전은 'Volunteer Resources' 섹션에서 찾을 수 있습니다. 다음 파일이 있습니다:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(또한 위의 모든 자료는 프로젝트 및 자원봉사자 `.zip` 파일로 다운로드 할 수 있습니다.)
 
-## Learning Objectives
+## 학습 목표
 
-+ Writing HTML:
++ HTML 사용
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + `<ul>`, `<ol>`, `<li>` 태그 사용법
+    + `<hr/>` 태그 사용법
+    + 중첩 태그 사용법
 
-+ Writing CSS:
++ CSS 사용
     
-    + Colours (names & hexadecimal codes).
+    + Colours(색상 이름 & 대응되는 Hex Code) 사용법
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [2D와 3D 디자인](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## 도전과제
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"더 많은 재료"- 순서 없는 리스트에 더 많은 항목을 추가합니다; "더 많은 단계"- 순서 있는 리스트에 항목을 더 추가합니다; "다른 색상"- 색상 이름, RGB 값 및 16 진수 코드 추가; "리뷰"- 음식에 대한 리뷰 추가; "홈페이지 꾸미기"- 이미지 및 글꼴 추가.
 
-## Completing this project offline
+## 오프라인으로 프로젝트 수행하기
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+만약 학생들이 이 프로젝트를 오프라인에서 수행할 경우, 같은 폴더 내에 사용하고자 하는 이미지를 저장해야 합니다.
 
-They can then just add the name of the file in their `<img>` tags:
+그림 파일을 `<img>` 태그를 사용하여 손쉽게 웹 페이지에 추가할 수 있습니다:
 
     <img src="banana.jpg" />
     
@@ -74,20 +74,20 @@ They can then just add the name of the file in their `<img>` tags:
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: 프로젝트 자료
 
-## Project resources
+## 프로젝트 리소스
 
-+ [.zip file containing all project resources](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [프로젝트의 모든 리소스가 들어있는 .zip 파일](resources/recipe-project-resources.zip)
++ [온라인 Trinket 템플릿](http://jumpto.cc/trinket-template)
++ [빈 Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Club leader resources
+## 교육자를 위한 자료
 
-+ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
-+ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
++ [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](resources/recipe-volunteer-resources.zip)
++ [완성된 온라인 Trinket 프로젝트](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
