@@ -1,18 +1,18 @@
-\--- challenge \---
+\--- چالش \---
 
-## Challenge: More styling
+## چالش: یک ظاهر طراحی شده بیشتر
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+آیا می توانید یک تصویر را به صفحه وب خود اضافه کنید؟ یا فونت را تغییر دهید؟ در اینجا نحوه نمایش وب سایت شما به شرح زیر است:
 
-![screenshot](images/recipe-final.png)
+![تصویری](images/recipe-final.png)
 
-Here’s some code that will help you:
+در اینجا چند کد وجود دارد که به شما کمک می کند:
 
-    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    font-size: 12pt;
-    font-weight: bold;
+    فونت خانواده: Arial / Comic Sans MS / Courier / Impact / Tahoma؛
+    font-size: 12pt؛
+    font-weight: bold؛
     
     <img src="image-link-goes-here">
     
 
-\--- /challenge \---
+\--- \--- چالش \---
