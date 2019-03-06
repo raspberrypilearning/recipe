@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- چالش \---
 
-## Challenge: More ingredients
+## چالش: مواد بیشتر
 
-Can you add all of the ingredients for **your** recipe?
+آیا می توانید تمام مواد تشکیل دهنده برای **دستور** خود را اضافه کنید؟
 
-Your webpage should look something like this:
+صفحه وب شما باید چیزی شبیه به این باشد:
 
-![screenshot](images/recipe-more-ingredients.png)
+![تصویری](images/recipe-more-ingredients.png)
 
-\--- /challenge \---
+\--- \--- چالش \---
