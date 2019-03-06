@@ -1,71 +1,71 @@
-## Introduction
+## Uvod
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+U ovom projektu, naučiti ćete kako napraviti web stranicu za vaš najdraži recept.
 
 ![screenshot](images/recipe-final.png)
 
-### Additional information for club leaders
+### Dodatne informacije za voditelje kluba
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## naslov: Bilješke voditelja kluba
 
-## Introduction:
+## Uvod:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+U ovom projektu, djeca će naučiti o HTML listi i o CSS bojama. Kreirati će svoj recept, dodavanjem sastojaka i metoda na listu.
 
-## Online Resources
+## Online izvori
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+Preporučamo korištenje [trinket](https://trinket.io/) za pisanje HTML & CSS online.
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Djeca također mogu koristiti ovu praznu trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) napisati vlastiti HTML & CSS ili alternativno mogu upotrijebiti ovaj predložak trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [‘Recept’ dovršeni projekt -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline Resources
+## Offline izvori
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu ‘Materijali projekta’. Poveznica sadrži odjeljak 'Resursi projekta' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
 
 + template/index.html
 + template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Dovršene verzije izazova projekta možete pronaći i u odjeljku 'Resursi za volontere' koji sadrži:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Svi spomenuti materijali nalaze se u materijalima projekta i materijalima za volontere, koje je moguće preuzeti kao `.zip` datoteke.)
 
-## Learning Objectives
+## Ciljevi učenja
 
-+ Writing HTML:
++ Pisanje HTML-a:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
+    + `<ul>`, `<ol>` i `<li>` lista tagova;
     + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + Konsolidacija korištenja ugnježdenih tagova.
 
-+ Writing CSS:
++ Pisanje CSS-a:
     
-    + Colours (names & hexadecimal codes).
+    + Boje (imena & hexadecimal kodovi).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ovaj projekt pokriva elemente sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [Dizajnirajte osnovna 2D i 3D asete](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Izazovi
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"Više sastojaka" - dodavanje sastojaka na neuređenu listu; "Više koraka" - dodavanje koraka na uređenu listu; "Više boja" - dodavanje imena boja, rgb vrijednosti i hex kodova; "Recenzije" - dodavanje na neuređenu listu; "Više stilova" - dodavanje stilova i fontova.
 
-## Completing this project offline
+## Završite projekt offline
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+Ako djeca završavaju projekt offline, trebati će spremiti slike koje namjeravaju koristiti u iste mape kao i njihova Template.html datoteka.
 
-They can then just add the name of the file in their `<img>` tags:
+Mogu samo dodati ime datoteke u njihvov `<img>` tag:
 
     <img src="banana.jpg" />
     
@@ -74,20 +74,20 @@ They can then just add the name of the file in their `<img>` tags:
 
 ## \--- collapse \---
 
-## title: Project materials
+## naslov: Materijali projekta
 
-## Project resources
+## Resursi projekta
 
-+ [.zip file containing all project resources](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [.zip datoteka koja sadrži sve materijale projekta](resources/recipe-project-resources.zip)
++ [Online Trinket predložak](http://jumpto.cc/trinket-template)
++ [Online prazan Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Club leader resources
+## Materijali za voditelja Kluba
 
-+ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
-+ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
++ [.zip datoteka koja sadrži sve dovršene materijale projekta](resources/recipe-volunteer-resources.zip)
++ [Dovršeni Online Trinket projekt](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
