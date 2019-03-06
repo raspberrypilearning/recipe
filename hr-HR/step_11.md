@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: More styling
+## Izazov: Više stilova
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+Možete li dodati sliku na vašu web stranicu? Ili promijeniti font? Evo kako bi vaša web-stranica mogla izgledati:
 
 ![screenshot](images/recipe-final.png)
 
-Here’s some code that will help you:
+Ovdje je kod koji vam može pomoći:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
@@ -15,4 +15,4 @@ Here’s some code that will help you:
     <img src="image-link-goes-here">
     
 
-\--- /challenge \---
+\--- challenge \---
