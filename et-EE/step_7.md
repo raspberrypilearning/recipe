@@ -1,48 +1,48 @@
 ## Värvid!
 
-Lisame teie retsepti veebilehele värvi.
+Lisame sinu retsepti veebilehele natuke värvi.
 
-+ Olete juba õppinud, kuidas värvilist teksti veebilehele lisada. Lisage see kood oma `style.css` faili sisse, et kogu veebisaidi tekst oleks sinine:
++ Oled juba õppinud, kuidas veebilehele värvilist teksti lisada. Lisa see kood oma `style.css` faili sisse, et kogu veebisaidi kehatekst oleks sinine:
 
-    keha {
-        värv: sinine;
+    body {
+    color: blue;
     }
     
 
-![ekraanipilt](images/recipe-blue.png)
+![kuvatõmmis](images/recipe-blue.png)
 
-+ Teie brauseril on sellised värvid nagu `sinine`, `kollane` ja isegi `lightgreen`, kuid kas teadsite, et teie brauseril on tegelikult teada rohkem kui 140 eri värvi **nimed**?
++ Sinu brauser tunneb selliseid värve nagu `blue`, `yellow` ja isegi `lightgreen`, kuid kas teadsid, et sinu brauseril on tunneb tegelikult rohkem kui 140 eri värvi**nimetust**?
 
-Siin on nimekiri kõikidest värvinimedest, mida saate kasutada: [jumpto.cc/colours](http://jumpto.cc/colours), mis sisaldab värvimeid nagu `tomatit`, `firebrick` ja `peachpuff`.
+Siin on nimekiri kõikidest värvinimetustest, mida saad kasutada: [jumpto.cc/colours](http://jumpto.cc/colours), mis sisaldab värvinimetusi nagu `tomato`, `firebrick` ja `peachpuff`.
 
-Muuda teksti värvi `sinist` kuni `tomatit`.
+Muuda `blue` värvi tekst `tomato` värvi tekstiks.
 
-![ekraanipilt](images/recipe-tomato.png)
+![kuvatõmmis](images/recipe-tomato.png)
 
-+ Teie brauser teab 140 värvi nimed, kuid tegelikult teab, et **värviväärtusega** on rohkem kui 16 miljonit värvi!
++ Sinu brauser teab 140 värvi nimetusi, kuid tegelikult teab ta rohkem kui 16 miljoni värvi **värviväärtuseid**!
 
-Kui soovite brausile öelda, millist värvi kuvada, peate lihtsalt teavitama sellest, kui palju punast, rohelist ja sinist värvi kasutatakse.
+Kui soovid brauserile öelda, millist värvi kuvada, pead talle lihtsalt teada andma, kui palju punast, rohelist ja sinist värvi kasutada.
 
 Punase, rohelise ja sinise kogused on kirjutatud numbritega vahemikus `0` ja `255`.
 
-![ekraanipilt](images/recipe-rgb-img.png)
+![kuvatõmmis](images/recipe-rgb-img.png)
 
-Lisage see kood veebilehe kehasse CSS-i, et kuvada helekollane taust:
+Lisa see kood veebilehe CSS-kehasse, et kuvada helekollane taust:
 
-    taust: rgb (250 250 250);
+    background: rgb(250,250,210);
     
 
-![ekraanipilt](images/recipe-rgb.png)
+![kuvatõmmis](images/recipe-rgb.png)
 
-+ Kui soovite, võite öelda brauseris, milline värv kuvamiseks kasutatakse kuueteistkümnendkoodi (või **hex koodi**). See toimib sarnaselt ülaltoodud koodiga `rgb ()` , välja arvatud see, et hex koodid algavad alati `#`-ga ja kasutage kuueteistkümnemaid numbreid vahemikus `00` ja `ff` punase, rohelise ja sinine.
++ Kui soovid, võid öelda brauserile, millist värvi kuvada, kasutades heksadetsimaalkoodi (ehk **heksakoodi**). See toimib sarnaselt ülaltoodud `rgb()` koodiga, välja arvatud see, et heksakoodid algavad alati `#`-ga ja kasutavad heksadetsimaal"numbreid" vahemikus `00` ja `ff` punase, rohelise ja sinise koguste jaoks.
 
-![ekraanipilt](images/recipe-hex-img.png)
+![kuvatõmmis](images/recipe-hex-img.png)
 
-Asendage oma CSS-iga koodi `rgb ()` selle kuuekordse koodiga:
+Asenda oma CSS-is `rgb()` kood selle heksakoodiga:
 
-    taust: # fafad2;
+    background: #fafad2;
     
 
-![ekraanipilt](images/recipe-hex.png)
+![kuvatõmmis](images/recipe-hex.png)
 
 Sa peaksid nägema sama helekollast nagu varem!
