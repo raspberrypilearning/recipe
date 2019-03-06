@@ -1,23 +1,23 @@
-\--- challenge \---
+\--- چالش \---
 
-## Challenge: More colours!
+## چالش: رنگ بیشتر!
 
-Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+با استفاده از نام رنگ ها، رنگ ها را در کد خود تغییر دهید، مقادیر `rgb ()` و کد های هگزا. یک لیست از بارهای رنگ در <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colors</a>، یا شما می توانید به <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> و رنگ های خود را ایجاد کنید!
 
-Here are some example colours:
+در اینجا برخی از رنگ های مثال:
 
-+ Red can be written as:
++ قرمز را می توان به عنوان:
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
-    + `#ff0000`
+    + `قرمز` (بدیهی است!)
+    + `rgb (255،0،0)` (بارهای قرمز، بدون سبز و بدون آبی)
+    + `# ff0000`
 
-+ Olive can be written as:
++ زیتون را می توان به عنوان:
     
-    + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
-    + `#808000`
+    + `زیتون`
+    + `rgb (128، 128، 0)` (کمی قرمز و سبز و بدون آبی)
+    + `# 808000`
 
-Try to make sure that the colours you use match your recipe!
+سعی کنید اطمینان حاصل کنید که رنگهایی که استفاده میکنید، دستورالعمل خود را مطابقت میدهند!
 
-\--- /challenge \---
+\--- \--- چالش \---
