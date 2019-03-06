@@ -1,11 +1,11 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: täiendavad sammud
+## Väljakutse: veel samme
 
-Kas saate lisada kõik sammud oma</strong> retsept **tegemiseks?</p> 
+Kas oskad lisada kõik sammud **oma** retsepti valmistamiseks?
 
-Teie meetod peaks nägema umbes sellist:
+Su valmistusjuhend peaks välja nägema umbes selline:
 
-![ekraanipilt](images/recipe-more-method.png)
+![kuvatõmmis](images/recipe-more-method.png)
 
-\--- / väljakutse \---
+\--- /challenge \---
