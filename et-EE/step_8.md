@@ -1,29 +1,29 @@
-## Viimistlus puudutab
+## Viimistlus
 
-Lisage veebisaidi parandamiseks natuke rohkem HTML-i ja CSS-i.
+Lisame veebisaidi täiustamiseks natuke veel HTML-i ja CSS-i.
 
-+ Teie retsepti lõpus saate lisada horisontaalse jooni, kasutades märgist `<hr>`.
++ Saad oma retsepti lõppu lisada horisontaalse joone, kasutades `<hr>` silti.
 
-![ekraanipilt](images/recipe-hr.png)
+![kuvatõmmis](images/recipe-hr.png)
 
-Pidage meeles, et sellel sildil pole lõppsilti, nagu silt `<img>`.
+Pea meeles, et sellel sildil pole lõppsilti, just nagu sildil `<img>`.
 
-+ Liin, mille olete just lisanud, ei ühti ülejäänud veebisaidi stiiliga. Lahendage see, lisades mõne CSS-koodi:
++ Joon, mille oled just lisanud, ei ühti ülejäänud veebilehe stiiliga. Lahendame selle, lisades natuke CSS-koodi:
 
     hr {
-        kõrgus: 2px;
-        piir: puudub;
-        taustavärvi: tomati;
+    height: 2px;
+    border: none;
+    background-color: tomato;
     }
     
 
-![ekraanipilt](images/recipe-hr-css.png)
+![kuvatõmmis](images/recipe-hr-css.png)
 
-+ Võite isegi muuta seda, kuidas teie kuuli punktid välja näevad, kasutades seda CSS-koodi:
++ Võid isegi muuta seda, kuidas sinu loetelupunktid välja näevad, kasutades seda CSS-koodi:
 
     ul {
-        list-style-type: square;
+    list-style-type: square;
     }
     
 
-![ekraanipilt](images/recipe-ul-css.png)
+![kuvatõmmis](images/recipe-ul-css.png)
