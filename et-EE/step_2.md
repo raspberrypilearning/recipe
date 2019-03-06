@@ -1,10 +1,10 @@
-## Otsustage retsepti järgi
+## Vali retsept
 
-Enne koodi saamist peate otsustama retsepti üle.
+Enne kodeerimisega alustamist pead valima retsepti.
 
-+ Mõelge retseptile, mida soovite oma sõpradega jagada. See võib olla: 
-    + Retsepti, mille leidsite veebis;
-    + Sinu lemmik jahu;
-    + Miski, mille te olete teinud!
++ Mõtle retseptile, mida soovid oma sõpradega jagada. See võib olla: 
+    + Retsepti, mille leidsid veebist;
+    + Sinu lemmiktoit;
+    + Midagi, mille oled ise välja mõelnud!
 
-Näide selle retsepti kohta, mida selles projektis näete, on banaani piimakook. Saate seda retsepti kopeerida, kui te ei leia seda omaette.
+Näidisretsept, mida selles projektis näed, on banaani-piimakokteili oma. Saad seda retsepti järele teha, kui sa ise midagi ei leia.
