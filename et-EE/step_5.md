@@ -1,27 +1,27 @@
-## Meetod
+## Valmistamine
 
-Järgnevalt selgitame, kuidas teie retsepti teha.
+Järgnevalt selgitame, kuidas sinu retsepti valmistada.
 
-+ Olete meetodi kirjutamiseks kasutanud teist loendit, kuid seekord kasutate **tellitud nimekirja**, kasutades märgendit `<ol>`.
++ Oma valmistamisjuhendi kirjutamiseks kasutad teist loendit, kuid seekord kasutad **järjestatud loendit**, kasutades silti `<ol>`.
 
-Tellitud nimekiri on nummerdatud loend, mida peaksite kasutama, kui sammude järjekord on oluline.
+Järjestatud loend on nummerdatud loend, mida peaksid kasutama, kui sammude järjekord on oluline.
 
-Lisage see kood oma koostisosade loendi all, veendumaks, et see on ikka teie `<body>` sildi sees:
+Lisa see kood oma koostisosade loendi alla, veendudes, et see on ikka sinu `<body>` sildi sees:
 
-    <h3>Meetod:</h3>
+    <h3>Valmistamine:</h3>
     
     <ol>
     
     </ol>
     
 
-![ekraanipilt](images/recipe-method.png)
+![kuvatõmmis](images/recipe-method.png)
 
-+ Nüüd peate lisama oma uue tellitud loendi loendiüksused:
++ Nüüd pead lisama oma uude järjestatud loendisse nimetused:
 
-    <li>Puhastage banaan ja lisage segistisse</li>
+    <li>Koori banaan ja pane blenderisse</li>
     
 
-![ekraanipilt](images/recipe-ol.png)
+![kuvatõmmis](images/recipe-ol.png)
 
-Pange tähele, et loendiüksused on automaatselt nummerdatud!
+Pane tähele, et nimetused on automaatselt nummerdatud!
