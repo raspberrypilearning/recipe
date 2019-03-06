@@ -1,10 +1,10 @@
-## Decide on a recipe
+## تصمیم بگیرید
 
-Before you get coding, you’ll need to decide on a recipe.
+قبل از اینکه برنامه را دریافت کنید، باید تصمیم بگیرید که بر اساس دستورالعمل باشد.
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ در مورد یک دستورالعمل که می خواهید با دوستان خود به اشتراک بگذارید، فکر کنید. میتونه باشه: 
+    + یک دستورالعمل آنلاین پیدا کنید
+    + غذای مورد علاقه شما؛
+    + چیزی که شما ساخته اید!
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+دستورالعمل نمونه ای که در این پروژه مشاهده می کنید برای شیرینی سازی موز است. شما می توانید این دستور را کپی کنید اگر نمیتوانید یکی از خودتان را پیدا کنید.
