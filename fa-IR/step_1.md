@@ -1,95 +1,95 @@
-## Introduction
+## معرفی
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+در این پروژه، شما یاد خواهید گرفت که چگونه یک صفحه وب را برای دستورالعمل مورد علاقه خود ایجاد کنید.
 
-![screenshot](images/recipe-final.png)
+![تصویری](images/recipe-final.png)
 
-### Additional information for club leaders
+### اطلاعات اضافی برای رهبران باشگاه
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+اگر شما نیاز به چاپ این پروژه، لطفا با استفاده از [پرینتر نسخه دوستانه](https://projects.raspberrypi.org/en/projects/recipe/print).
 
-## \--- collapse \---
+## \--- سقوط - فروپاشی \---
 
-## title: Club leader notes
+## عنوان: رهبر باشگاه یادداشت می کند
 
-## Introduction:
+## معرفی:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+در این پروژه، کودکان در مورد لیست های HTML و رنگ های CSS یاد خواهند گرفت. آنها دستور العمل خود را اضافه، اضافه کردن لیست عناصر و روش.
 
-## Online Resources
+## منابع آنلاین
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+توصیه می کنیم با استفاده از [trinket](https://trinket.io/) برای نوشتن HTML & CSS آنلاین.
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+کودکان همچنین می توانند از این پنل خالی [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) برای نوشتن CSS HTML & خود استفاده کنند یا از این الگو [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+همچنین یک نکته حاوی یک راه حل نمونه برای این چالش ها وجود دارد:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ ['دستور العمل' به پایان رسید - trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline Resources
+## منابع آفلاین
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+این پروژه می تواند [به پایان نیست](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) اگر ترجیح داده. شما می توانید با کلیک روی لینک «Project Materials» برای این پروژه به منابع پروژه دسترسی پیدا کنید. این لینک حاوی بخش «منابع پروژه» است که شامل منابعی است که کودکان باید این پروژه را بدون نیاز به تکمیل انجام دهند. اطمینان حاصل کنید که هر کودک به یک کپی از این منابع دسترسی داشته باشد. این بخش شامل فایل های زیر است:
 
-+ template/index.html
-+ template/style.css
++ template / index.html
++ الگو / style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+شما همچنین می توانید یک نسخه کامل از چالش های این پروژه را در بخش «منابع داوطلبانه» پیدا کنید که شامل موارد زیر است:
 
-+ recipe-finished/index.html
-+ recipe-finished/style.css
-+ recipe-finished/banana.jpg
++ دستور غذا / index.html
++ دستور غذا / style.css
++ دستور غذا / banana.jpg
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(تمام منابع موجود در بالا نیز به عنوان پروژه و داوطلب `.zip` فایل قابل دانلود هستند.)
 
-## Learning Objectives
+## اهداف یادگیری
 
-+ Writing HTML:
++ نوشتن HTML:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + `<ul>`، `<ol>` و `<li>` برچسب لیست؛
+    + `<hr/>` tag؛
+    + تثبیت استفاده از تگ های تو در تو
 
-+ Writing CSS:
++ نوشتن CSS:
     
-    + Colours (names & hexadecimal codes).
+    + رنگ ها (اسامی & کد های هگزادسیمال).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+این پروژه عناصر را از رشته های زیر از [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [طراحی پایه های 2D و 3D دارایی](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## چالش ها
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"مواد بیشتر" - اضافه کردن موارد بیشتر به یک لیست غیر ارادی؛ "گام های بیشتر" - اضافه کردن موارد بیشتری به یک لیست مرتب؛ "رنگهای بیشتر" - اضافه کردن نام رنگ، مقادیر rgb و کدهای هگزا. "نظرات" - اضافه کردن یک فهرست غیر ارادی "بیشتر یک ظاهر طراحی شده" - اضافه کردن تصاویر و فونت ها.
 
-## Completing this project offline
+## تکمیل این پروژه آفلاین
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+اگر بچه ها این پروژه را به اتمام رسانند، باید تصاویری را که قصد استفاده از آنها را در پوشه مشابه فایل Template.html خود دارند ذخیره کنند.
 
-They can then just add the name of the file in their `<img>` tags:
+سپس آنها می توانند نام فایل را در برچسب های `<img>` اضافه کنند:
 
     <img src="banana.jpg" />
     
 
-\--- /collapse \---
+\--- /سقوط - فروپاشی \---
 
-## \--- collapse \---
+## \--- سقوط - فروپاشی \---
 
-## title: Project materials
+## عنوان: مواد پروژه
 
-## Project resources
+## منابع پروژه
 
-+ [.zip file containing all project resources](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
-+ [template/index.html](resources/template-index.html)
-+ [template/style.css](resources/template-style.css)
++ [.zip فایل حاوی تمام منابع پروژه](resources/recipe-project-resources.zip)
++ [قالب بیلیارد آنلاین](http://jumpto.cc/trinket-template)
++ [بلوتوث خالی آنلاین](http://jumpto.cc/trinket-blank)
++ [template / index.html](resources/template-index.html)
++ [الگو / style.css](resources/template-style.css)
 
-## Club leader resources
+## منابع رهبر باشگاه
 
-+ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
-+ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
-+ [recipe-finished/index.html](resources/recipe-finished-index.html)
-+ [recipe-finished/style.css](resources/recipe-finished-style.css)
-+ [recipe-finished/banana.png](resources/recipe-finished-banana.png)
++ [.zip فایل حاوی تمام منابع پروژه تکمیل شده](resources/recipe-volunteer-resources.zip)
++ [آنلاین تکمیل پروژه بلوتوث](https://trinket.io/html/c0fd9b40cd)
++ [دستور غذا / index.html](resources/recipe-finished-index.html)
++ [دستور غذا / style.css](resources/recipe-finished-style.css)
++ [دستور غذا / banana.png](resources/recipe-finished-banana.png)
 
-\--- /collapse \---
+\--- /سقوط - فروپاشی \---
