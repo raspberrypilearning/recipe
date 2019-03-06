@@ -1,23 +1,23 @@
-\--- väljakutse \---
+\--- challenge \---
 
 ## Väljakutse: rohkem värve!
 
-Muutke oma koodi värve, kasutades värvimärke, `rgb ()` väärtusi ja hex koode. <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>on värskenduste arv, või võite minna <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> ja luua oma värvid!
+Muuda värve oma koodis, kasutades värvinimetusi, `rgb()`väärtusi ja heksakoode. Rohkelt värve võid leida <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, võid minna ka <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> ja luua oma värvid!
 
 Siin on mõned näitevärvid:
 
-+ Punane saab kirjutada järgmiselt:
++ Punase saab kirjutada järgmiselt:
     
-    + `punane` (muidugi!)
-    + `rgb (255,0,0)` (koormate punane, rohelistamata ja sinist ei ole)
-    + `# ff0000`
+    + `red` (muidugi!)
+    + `rgb(255,0,0)` (rohkelt punast, üldse mitte rohelist ja sinist)
+    + `#ff0000`
 
 + Oliivi saab kirjutada järgmiselt:
     
-    + `oliiviõli`
-    + `rgb (128, 128, 0)` (natuke punast ja rohelist ning sinist ei ole)
-    + `# 808000`
+    + `olive`
+    + `rgb(128, 128, 0)` (natuke punast ja rohelist ning üldse mitte sinist)
+    + `#808000`
 
-Proovige veenduda, et kasutatavad värvid vastavad teie retseptile!
+Proovi veenduda, et kasutatavad värvid vastavad sinu retseptile!
 
-\--- / väljakutse \---
+\--- /challenge \---
