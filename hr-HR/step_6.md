@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More steps
+## Izazov: Više koraka
 
-Can you add all of the steps for making **your** recipe?
+Možete li dodati sve sastojke za izradu **vašeg** recepta?
 
-Your method should look something like this:
+Metoda bi trebala izgledati ovako:
 
 ![screenshot](images/recipe-more-method.png)
 
-\--- /challenge \---
+\--- challenge \---
