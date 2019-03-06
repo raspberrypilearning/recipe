@@ -1,35 +1,35 @@
 ## Koostisosad
 
-Lisage koostisosad, mis on teie retsepti jaoks vajalikud.
+Loetleme koostisosad, mis on sinu retsepti jaoks vajalikud.
 
-+ Avage see malli võlts: [jumpto.cc/html-template](http://jumpto.cc/html-template){: target = "_ blank"}.
++ Ava see näidistrinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){: target="_blank"}.
     
-    Projekt peaks olema selline:
+    Projekt peaks välja nägema selline:
     
-    ![ekraanipilt](images/recipe-starter.png)
+    ![kuvatõmmis](images/recipe-starter.png)
 
-+ Teie koostisosade loendi jaoks kasutate märgistust `<ul>` kasutades **järjestamata loendit**. Mine malli rida 8 ja lisage see HTML, asendades teksti pealkirjaga `<h1>` oma retsepti nimega:
++ Oma koostisosade loendi jaoks kasutad **järjestamata loendit**, kasutades `<ul>` silti. Mine näidise reale 8 ja lisa see HTML, asendades teksti `<h1>` pealkirjas oma retsepti nimega:
 
-    <h1>Banana Milkshake</h1>
+    <h1>Banaani-piimakokteil</h1>
     
-    <h3>Koostis:</h3>
+    <h3>Koostisosad:</h3>
     
     <ul>
     
     </ul>
     
 
-+ Vaadake oma veebilehte ja peate nägema oma kahte pealkirja.
++ Vaata oma veebilehte, peaksid nägema oma kahte pealkirja.
 
-![ekraanipilt](images/recipe-headings.png)
+![kuvatõmmis](images/recipe-headings.png)
 
-Kuid te ei näe oma loendit veel, kuna te pole sellele lisanud ühtki loendielementi!
+Oma loendit sa siiski veel ei näe, kuna sa pole sellele lisanud ühtki loendi elementi!
 
-+ Järgmine samm on loendi elementide lisamine, kasutades märgist `<li>`. Lisage oma koodi `<ul>` sees järgmine kood:
++ Järgmine samm on nimetuste lisamine, kasutades silti `<li>`. Lisa oma `<ul>` sildi sisse järgmine kood:
 
     <li>1 banaan</li>
     
 
-![ekraanipilt](images/recipe-ul.png)
+![kuvatõmmis](images/recipe-ul.png)
 
-Kuna teie loend on ebakorrektsed, pole loendiüksuste kõrval numbreid, vaid täppide punkte.
+Kuna su loend on järjestamata, pole nimetuste kõrval numbreid, vaid loetelupunktid.
