@@ -1,9 +1,9 @@
-\--- väljakutse \---
+\--- challenge \---
 
 ## Väljakutse: arvustused
 
-Paluge mõnedel oma sõpradel oma retsepti üle vaadata. Selle tegemiseks peate tegema teise loendi.
+Palu mõnedel oma sõpradel oma retsepti arvustada. Selle tegemiseks pead tegema teise loendi.
 
-![ekraanipilt](images/recipe-reviews.png)
+![kuvatõmmis](images/recipe-reviews.png)
 
-\--- / väljakutse \---
+\--- /challenge \---
