@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## Izazov: Još boja!
 
-Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+Promijenite boje na u vašem kodu koristeći nazive boja, `rgb()` vrijednosti i hex kodove. Postoji popis boja na <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, ili možete ići na <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> i kreirati svoju boju!
 
-Here are some example colours:
+Nekoliko primjera boja:
 
-+ Red can be written as:
++ Crvena može biti napisana kao:
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + `red` (očito!)
+    + `rgb(255,0,0)` (puno crvene, bez zelene i bez plave)
     + `#ff0000`
 
-+ Olive can be written as:
++ Maslinasto zelena možebiti napisana kao:
     
     + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + `rgb(128, 128, 0)` (malo crvene i zelene, bez plave)
     + `#808000`
 
-Try to make sure that the colours you use match your recipe!
+Probajte viti sigurni da boje koja odaberete odgovaraju vašem receptu!
 
-\--- /challenge \---
+\--- challenge \---
