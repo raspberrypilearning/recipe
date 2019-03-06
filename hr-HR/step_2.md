@@ -1,10 +1,10 @@
-## Decide on a recipe
+## Odučite se za recept
 
-Before you get coding, you’ll need to decide on a recipe.
+Prije nego što krenete programirati, morate odabrati recept.
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ Razmislite o receptu koji želite podijeliti sa svojim prijateljima. Može biti: 
+    + Recept koji ste pronašli na internetu;
+    + Vaše omiljeno jelo;
+    + Nešto što ste sami smislili!
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+Primjer recepta koji možete vidjeti u ovom projektu je za frape od banana. Možete koristiti ovaj recept ako ne nađete svoj.
