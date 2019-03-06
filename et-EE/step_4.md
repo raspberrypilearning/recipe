@@ -1,11 +1,11 @@
-\--- väljakutse \---
+\--- challenge \---
 
 ## Väljakutse: rohkem koostisosi
 
-Kas saate lisada kõik koostisained **oma** retseptile?
+Kas oskad **oma** retseptile kõik koostisosad lisada?
 
-Teie veebileht peaks nägema umbes sellist:
+Su veebileht peaks välja nägema umbes selline:
 
-![ekraanipilt](images/recipe-more-ingredients.png)
+![kuvatõmmis](images/recipe-more-ingredients.png)
 
-\--- / väljakutse \---
+\--- /challenge \---
