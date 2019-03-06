@@ -1,14 +1,14 @@
-## Method
+## Priprema
 
-Next, let’s explain how to make your recipe.
+Sljedeće, objasnimo kako ćete izraditi vaš recept.
 
-+ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
++ Korisiti ćete drugu listu za pisanje svoje metode, ali sada ćete koristiti **uređenu listu**, koristeći `<ol>` tag.
 
-An ordered list is a numbered list, which you should use when the order of the steps is important.
+Uređena lista je numerirana lista, koja se koristi kada je redosljed koraka bitan.
 
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
+Dodajte sljedeći kod ispod vaše liste sastojaka, budite sigurni da je unutar vašeg `<body>` taga:
 
-    <h3>Method:</h3>
+    <h3>Priprema:</h3>
     
     <ol>
     
@@ -17,11 +17,11 @@ Add this code underneath your ingredients list, making sure that it’s still in
 
 ![screenshot](images/recipe-method.png)
 
-+ Now you just need to add list items into your new ordered list:
++ Sada morate samo dodati na listu sastojke vaše nove uređene liste:
 
-    <li>Peel the banana and add to a blender</li>
+    <li>Ogulite bananu i stavite ju u blender</li>
     
 
 ![screenshot](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+Uočite da su sastojci na listi automataski numerirani!
