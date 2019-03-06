@@ -1,27 +1,27 @@
-## Method
+## روش
 
-Next, let’s explain how to make your recipe.
+بعد، بیایید توضیح دهیم که چگونه دستورالعمل خود را آماده کنیم.
 
-+ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
++ شما می خواهید از یک لیست دیگر برای نوشتن روش خود استفاده کنید، اما این بار با استفاده از تگ `<ol>` شما از لیست **دستورالعمل**استفاده می کنید.
 
-An ordered list is a numbered list, which you should use when the order of the steps is important.
+لیست دستورالعمل لیست شمارشی است که باید هنگام استفاده از دستور مراحل مهم باشد.
 
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
+اضافه کردن این کد زیر لیست مواد خود را، اطمینان حاصل کنید که آن را هنوز در داخل خود `<body>` برچسب:
 
-    <h3>Method:</h3>
+    <h3>روش:</h3>
     
     <ol>
     
     </ol>
     
 
-![screenshot](images/recipe-method.png)
+![تصویری](images/recipe-method.png)
 
-+ Now you just need to add list items into your new ordered list:
++ حالا شما فقط باید موارد لیست را در فهرست دستورالعمل جدید خود اضافه کنید:
 
-    <li>Peel the banana and add to a blender</li>
+    <li>پوست موز و اضافه کردن به یک مخلوط کن</li>
     
 
-![screenshot](images/recipe-ol.png)
+![تصویری](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+توجه داشته باشید که موارد لیست به صورت خودکار شماره گذاری می شوند!
