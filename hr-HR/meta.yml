@@ -1,6 +1,6 @@
 ---
 hero_image: images/banner.png
-theme: blue
+theme: plava
 duration: 2
 listed: true
 ingredient: false
@@ -11,7 +11,7 @@ description: U ovom projektu napravit ćemo stranicu najdražih recepata.
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projekt
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -20,22 +20,22 @@ steps:
   - 
     title: Recept
   - 
-    title: Decide on a recipe
+    title: Odučite se za recept
   - 
-    title: Ingredients
+    title: Sastojci
   - 
-    title: 'Challenge: More ingredients'
+    title: 'Izazov: Dodaj još sastojaka'
   - 
-    title: Method
+    title: Metoda
   - 
-    title: 'Challenge: More steps'
+    title: 'Izazov: Više koraka'
   - 
-    title: Colours!
+    title: Boje!
   - 
-    title: Finishing touches
+    title: Završne finese
   - 
-    title: 'Challenge: More colours!'
+    title: 'Izazov: Još boja!'
   - 
-    title: 'Challenge: Reviews'
+    title: 'Izazov: Mišljenja'
   - 
-    title: 'Challenge: More styling'
+    title: 'Izazov: Više stilova'
