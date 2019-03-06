@@ -1,0 +1,30 @@
+---
+hero_image: images/banner.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: 레시피
+description: 자신이 좋아하는 음식의 레시피 페이지를 만들어 친구들에게 설명해 보세요!
+original_url: https://codeclubprojects.org/en-GB/webdev/recipe
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: 소개
+  - title: 레시피 페이지에 들어갈 내용을 정하기
+  - title: 레시피 재료 추가하기
+  - title: '과제: 더 많은 재료 추가하기'
+  - title: 레시피 방법 추가하기
+  - title: '과제: 요리 방법 추가하기'
+  - title: 색상 추가하기
+  - title: 레시피 제작 마무리
+  - title: '과제: 더 많은 색상 추가!'
+  - title: '과제: 리뷰'
+  - title: '과제: 스타일 꾸미기'
