@@ -1,18 +1,18 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: rohkem stiili
+## Väljakutse: rohkem laade
 
-Kas saate lisada pildi oma veebilehele? Või muutke fonti? Siin on kujutatud teie veebisait:
+Kas oskad oma veebilehele pilti lisada? Või fonti muuta? Sinu veebileht võiks välja näha selline:
 
-![ekraanipilt](images/recipe-final.png)
+![kuvatõmmis](images/recipe-final.png)
 
-Siin on mõni kood, mis aitab teil:
+Siin on veidi koodi, mis sind aitab:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
-    font-mass: paksus;
+    font-weight: bold;
     
     <img src="image-link-goes-here">
     
 
-\--- / väljakutse \---
+\--- /challenge \---
