@@ -1,4 +1,4 @@
-\--- challenge \---
+скриншот
 
 ## Challenge: More colours!
 
