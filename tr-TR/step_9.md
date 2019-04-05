@@ -20,4 +20,4 @@ Renk adlarını, `rgb ()` değerleri ve onaltılık kodları kullanarak kodunuzd
 
 Kullandığınız renklerin tarifinize uyduğundan emin olun!
 
-\--- /meydan okuma \---
+\--- /challenge \---
