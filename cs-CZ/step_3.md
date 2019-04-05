@@ -4,7 +4,7 @@ Let’s list the ingredients that are needed for your recipe.
 
 + Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    Projekt by měl vypadat přibližně takto:
     
     ![screenshot](images/recipe-starter.png)
 
