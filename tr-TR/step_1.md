@@ -4,13 +4,13 @@ Bu projede, favori tarifiniz için nasıl bir web sayfası oluşturulacağını 
 
 ![ekran görüntüsü](images/recipe-final.png)
 
-### Kulüp liderleri için ek bilgi
+### Kulüp liderleri için ek bilgiler
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/recipe/print).
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürümü](https://projects.raspberrypi.org/en/projects/recipe/print) kullanın.
 
-## \--- çöküş \---
+## \--- küçült \---
 
-## başlık: Kulüp lideri notları
+## title: Kulüp lideri notları
 
 ## Giriş:
 
@@ -20,15 +20,15 @@ Bu projede çocuklar HTML listelerini ve CSS renklerini öğrenecekler. İçerik
 
 Çevrimiçi HTML & CSS yazmak için [biblo](https://trinket.io/) kullanmanızı öneririz.
 
-Çocuklar da bu boş biblo yararlanabilirler [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) kendi HTML yazmak için & CSS ya da alternatif olarak bu şablon biblo kullanabilirsiniz [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Çocuklar kendi HTML & CSS 'leri yazmak için ayrıca bu boş trinket'lardan [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) yararlanabilirler ya da alternatif olarak şu şablon trinket 'ı da [(jumpto.cc/html-template)](http://jumpto.cc/html-template) kullanabilirler.
 
-Ayrıca zorluklara örnek bir çözüm içeren bir biblo da var:
+Ayrıca meydan okumalara örnek bir çözüm içeren trinket da var:
 
 + ['Tarif' Tamamlandı - trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
 ## Çevrimdışı Kaynaklar
 
-Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) tamamlanabilir. Proje kaynaklarına, bu proje için 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
+Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) olarak tamamlanabilir. Proje kaynaklarına, bu proje için 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
 
 + Şablon / index.html
 + Şablon / style.css
@@ -53,11 +53,11 @@ Bu projenin zorluklarının tamamlanmış bir versiyonunu da içeren 'Gönüllü
     
     + Renkler ( & onaltılık kodları adlandırır).
 
-Bu proje, [Raspberry Pi Dijital Hazırlama Müfredatı](http://rpf.io/curriculum)aşağıdaki bölümlerinden elemanları içermektedir:
+Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un aşağıdaki bölümlerinden unsurları kapsamaktadır:
 
 + [Temel 2B ve 3B varlıkların tasarlanması](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Zorluklar
+## Meydan Okumalar
 
 "Diğer içerikler" - sıralanmamış bir listeye daha fazla öğe ekleme; "Diğer adımlar" - sıralı bir listeye daha fazla öğe ekleyerek; "Daha fazla renk" - renk adları, rgb değerleri ve onaltılık kodlar ekleme; "Yorumlar" - sıralanmamış bir liste ekleyerek; "Daha fazla stil" - resim ve yazı tipi ekleme.
 
@@ -70,11 +70,11 @@ Daha sonra `<img>` etiketlerine dosyanın adını ekleyebilirler:
     <img src="banana.jpg" />
     
 
-\--- /çöküş \---
+\--- /collapse \---
 
-## \--- çöküş \---
+## \--- collapse \---
 
-## başlık: Proje malzemeleri
+## title: Proje materyalleri
 
 ## Proje kaynakları
 
@@ -84,7 +84,7 @@ Daha sonra `<img>` etiketlerine dosyanın adını ekleyebilirler:
 + [Şablon / index.html](resources/template-index.html)
 + [Şablon / style.css](resources/template-style.css)
 
-## Kulüp lideri kaynakları
+## Kulüp lideri için kaynaklar
 
 + [tamamlanan tüm proje kaynaklarını içeren .zip dosyası](resources/recipe-volunteer-resources.zip)
 + [Online biblo projesi tamamlandı](https://trinket.io/html/c0fd9b40cd)
@@ -92,4 +92,4 @@ Daha sonra `<img>` etiketlerine dosyanın adını ekleyebilirler:
 + [tarifi mamul / style.css](resources/recipe-finished-style.css)
 + [tarifi mamul / banana.png](resources/recipe-finished-banana.png)
 
-\--- /çöküş \---
+\--- /collapse \---
