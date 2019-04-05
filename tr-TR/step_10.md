@@ -6,4 +6,4 @@ Bir kaç arkadaşınızdan tarifiniz için inceleme bırakmasını isteyin. Bunu
 
 ![ekran görüntüsü](images/recipe-reviews.png)
 
-\--- /meydan okuma \---
+\--- /challenge \---
