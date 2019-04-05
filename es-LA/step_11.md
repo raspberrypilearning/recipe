@@ -4,7 +4,7 @@
 
 Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
 
-![screenshot](images/recipe-final.png)
+![captura de pantalla](images/recipe-final.png)
 
 Here’s some code that will help you:
 
