@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- kihívás \---
 
 ## Challenge: More ingredients
 
@@ -8,4 +8,4 @@ Your webpage should look something like this:
 
 ![screenshot](images/recipe-more-ingredients.png)
 
-\--- /challenge \---
+\--- / challenge \---
