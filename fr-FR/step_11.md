@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- challange \---
 
-## Challenge: More styling
+## Défi: Plus de style
 
 Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
 
