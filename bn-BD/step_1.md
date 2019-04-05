@@ -1,12 +1,12 @@
-## Introduction
+## পরিচিতি
 
 In this project, you’ll learn how to create a webpage for your favourite recipe.
 
 ![screenshot](images/recipe-final.png)
 
-### Additional information for club leaders
+### ক্লাব নেতাদের জন্য তথ্য
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান, তাহলে [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print){:target="_blank"} ব্যবহার করুন।
 
 ## \--- collapse \---
 
@@ -53,7 +53,7 @@ You can also find a completed version of this project's challenges in the 'Volun
     
     + Colours (names & hexadecimal codes).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+এই প্রজেক্টটি [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) এর যাবতীয় কার্যক্রমকে উপস্থাপন করেঃ 
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,7 +70,7 @@ They can then just add the name of the file in their `<img>` tags:
     <img src="banana.jpg" />
     
 
-\--- /collapse \---
+-- /collapse \---
 
 ## \--- collapse \---
 
@@ -92,4 +92,4 @@ They can then just add the name of the file in their `<img>` tags:
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
 
-\--- /collapse \---
+-- /collapse \---
