@@ -4,9 +4,9 @@ Let’s list the ingredients that are needed for your recipe.
 
 + Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    檔案應該像這樣︰
     
-    ![screenshot](images/recipe-starter.png)
+    ![截圖](images/recipe-starter.png)
 
 + For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
 
@@ -21,7 +21,7 @@ Let’s list the ingredients that are needed for your recipe.
 
 + View your webpage, and you should see your two headings.
 
-![screenshot](images/recipe-headings.png)
+![截圖](images/recipe-headings.png)
 
 You won’t see your list yet though, because you haven’t added any list items to it!
 
@@ -30,6 +30,6 @@ You won’t see your list yet though, because you haven’t added any list items
     <li>1 banana</li>
     
 
-![screenshot](images/recipe-ul.png)
+![截圖](images/recipe-ul.png)
 
 As your list is unordered, there are no numbers next to the list items, just bullet points.
