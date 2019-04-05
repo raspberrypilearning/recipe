@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More ingredients
+## Sfida: Altri ingredienti
 
 Can you add all of the ingredients for **your** recipe?
 
 Your webpage should look something like this:
 
-![screenshot](images/recipe-more-ingredients.png)
+![schermata](images/recipe-more-ingredients.png)
 
 \--- /challenge \---
