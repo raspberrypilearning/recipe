@@ -11,11 +11,11 @@ description: Arkadaşlarınızın bunu yapabilmesi için favori tarifinizin bir 
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html CSS-JavaScript
-site_areas: projeler
+site_areas: projects
 hardware: ''
 software: html CSS-JavaScript
 version: 3
-last_tested: 2017/01/01
+last_tested: 2017-01-01
 steps:
   - 
     title: Giriş
