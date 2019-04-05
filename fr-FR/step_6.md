@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- challange \---
 
-## Challenge: More steps
+## Défi: Plus d'étapes
 
 Can you add all of the steps for making **your** recipe?
 
 Your method should look something like this:
 
-![screenshot](images/recipe-more-method.png)
+![capture d'écran](images/recipe-more-method.png)
 
 \--- /challenge \---
