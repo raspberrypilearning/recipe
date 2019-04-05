@@ -1,10 +1,10 @@
-\--- tantangan \---
+\--- challenge \---
 
 ## Tantangan: Lebih banyak gaya
 
 Bisakah Anda menambahkan gambar ke halaman web Anda? Atau ubah fontnya? Begini tampilan halaman web Anda:
 
-![tangkapan layar](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
 Berikut beberapa kode yang akan membantu Anda:
 
@@ -15,4 +15,4 @@ Berikut beberapa kode yang akan membantu Anda:
     <img src="image-link-goes-here">
     
 
-\--- / tantangan \---
+\--- /challenge \---
