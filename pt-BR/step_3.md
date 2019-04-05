@@ -21,7 +21,7 @@ Vamos listar os ingredientes que são necessários para sua receita.
 
 + Veja sua página de internet, você deverá visualizar algo como isto.
 
-![captura de tela](images/recipe-headings.png)
+![screenshot](images/recipe-headings.png)
 
 Você ainda não verá sua lista, porque ficou sem adicionar a lista de ingredientes!
 
@@ -30,6 +30,6 @@ Você ainda não verá sua lista, porque ficou sem adicionar a lista de ingredie
     <li>1 banana ou duas</li>
     
 
-![captura de tela](images/recipe-ul.png)
+![screenshot](images/recipe-ul.png)
 
 Como sua lista é sem ordenação, não há nenhum número nas linhas de items, apenas marcadores em forma de bolinha.
