@@ -2,15 +2,15 @@
 
 У цьому проекті ви дізнаєтеся, як створити веб-сторінку для вашого улюбленого рецепта.
 
-![скріншот](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-### Додаткова інформація для керівників клубу
+### Додаткова інформація для керівників гуртка
 
-Якщо вам потрібно роздрукувати цей проект, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/recipe/print).
+Якщо вам потрібно роздрукувати цей проект, скористайтеся [ Версія для друку ](https://projects.raspberrypi.org/en/projects/recipe/print).
 
-## \--- колапс \---
+## \--- collapse \---
 
-## title: Нотатки керівника
+## title: Нотатки керівника гуртка
 
 ## Вступ:
 
@@ -28,7 +28,7 @@
 
 ## Офлайн Ресурси
 
-Цей проект може бути [завершений офлайн](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо потрібно. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання " Матеріали Проекту" для цього проекту. Це посилання містить розділ "Ресурси Проекту", який включає в себе ресурси, що будуть потрібні дітям, аби завершити проект офлайн. Переконайтеся, що кожна дитина має доступ до копій цих ресурсів. Ця секція містить наступні файли:
+Цей проект може бути [ завершено оффлайн ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо це є бажаним. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання "Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси Проекту", який включає в себе ресурси, що будуть потрібні дітям, аби завершити проект офлайн. Переконайтеся, що кожна дитина має доступ до копій цих ресурсів. Ця секція містить наступні файли:
 
 + template/index.html
 + template/style.css
@@ -53,9 +53,9 @@
     
     + Кольори (імена & шістнадцяткові коди).
 
-Цей проект охоплює елементи з наступними напрямками [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Цей проект охоплює елементи з наступними стандартами [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Розробка основних 2D та 3D активів](https://www.raspberrypi.org/curriculum/design/creator).
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Завдання
 
@@ -70,26 +70,26 @@
     <img src="banana.jpg" />
     
 
-\--- / колапс \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
 ## title: Матеріали проекту
 
-## Ресурси проекту
+## Проектні ресурси
 
-+ [.zip файли, що містять всі проектні ресурси](resources/recipe-project-resources.zip)
++ [.zip file, що містить всі ресурси проекту](resources/recipe-project-resources.zip)
 + [Шаблон Online Trinket](http://jumpto.cc/trinket-template)
 + [Пустий Online Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Ресурси лідера клубу
+## Ресурси керівника клубу
 
-+ [.zip файли, що містять всі ресурси проекту](resources/recipe-volunteer-resources.zip)
-+ [Завершений Trinket проект онлайн](https://trinket.io/html/c0fd9b40cd)
++ [.zip-файл, що містить всі ресурси завершеного проекту](resources/recipe-volunteer-resources.zip)
++ [Завершений "Трінкет" проект](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
 
-\--- / колапс \---
+\--- /collapse \---
