@@ -8,4 +8,4 @@ Yöntemin şöyle görünmeli:
 
 ![ekran görüntüsü](images/recipe-more-method.png)
 
-\--- /meydan okuma \---
+\--- /challenge \---
