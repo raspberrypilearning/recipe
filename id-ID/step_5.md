@@ -15,13 +15,13 @@ Tambahkan kode ini di bawah daftar bahan Anda, pastikan bahwa itu masih di dalam
     </ol>
     
 
-![tangkapan layar](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
 + Sekarang Anda hanya perlu menambahkan item daftar ke dalam daftar pesanan baru Anda:
 
     <li>Kupas pisang dan tambahkan ke blender</li>
     
 
-![tangkapan layar](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
 Perhatikan bahwa daftar item secara otomatis diberi nomor!
