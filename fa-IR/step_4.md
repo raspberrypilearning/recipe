@@ -1,4 +1,4 @@
-\--- چالش \---
+\--- challenge \---
 
 ## چالش: مواد بیشتر
 
@@ -8,4 +8,4 @@
 
 ![تصویری](images/recipe-more-ingredients.png)
 
-\--- \--- چالش \---
+\--- /challenge \---
