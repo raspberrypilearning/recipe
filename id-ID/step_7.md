@@ -17,7 +17,7 @@ Ada daftar semua nama warna yang bisa Anda gunakan: [jumpto.cc/colours](http://j
 
 Ubah warna teks dari `biru` menjadi `tomat`.
 
-![tangkapan layar](images/recipe-tomato.png)
+![screenshot](images/recipe-tomato.png)
 
 + Browser Anda tahu nama-nama 140 warna, tetapi sebenarnya tahu nilai-nilai **warna** lebih dari 16 juta warna!
 
@@ -25,24 +25,24 @@ Untuk memberi tahu browser mana warna yang akan ditampilkan, Anda hanya perlu me
 
 Jumlah warna merah, hijau dan biru ditulis sebagai angka antara `0` dan `255`.
 
-![tangkapan layar](images/recipe-rgb-img.png)
+![screenshot](images/recipe-rgb-img.png)
 
 Tambahkan kode ini ke CSS untuk badan halaman web, untuk menampilkan latar belakang kuning muda:
 
     latar belakang: rgb (250,250,210);
     
 
-![tangkapan layar](images/recipe-rgb.png)
+![screenshot](images/recipe-rgb.png)
 
 + Jika Anda suka, Anda dapat memberi tahu browser mana warna yang akan ditampilkan dengan menggunakan kode heksadesimal (atau **kode hex**). Ini bekerja dengan cara yang mirip dengan `rgb ()` kode di atas, kecuali bahwa kode hex selalu dimulai dengan `#`, dan menggunakan 'angka' heksadesimal antara `00` dan `ff` untuk jumlah merah, hijau dan biru.
 
-![tangkapan layar](images/recipe-hex-img.png)
+![screenshot](images/recipe-hex-img.png)
 
 Ganti kode `rgb ()` di CSS Anda dengan kode hex ini:
 
     latar belakang: # fafad2;
     
 
-![tangkapan layar](images/recipe-hex.png)
+![screenshot](images/recipe-hex.png)
 
 Anda seharusnya melihat warna kuning yang sama seperti sebelumnya!
