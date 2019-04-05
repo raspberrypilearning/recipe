@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: More steps
+## Aufgabe: Weitere Schritte
 
 Can you add all of the steps for making **your** recipe?
 
