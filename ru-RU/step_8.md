@@ -17,7 +17,7 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![скриншот](images/recipe-hr-css.png)
 
 + You can even change how your bullet points look with this CSS code:
 
