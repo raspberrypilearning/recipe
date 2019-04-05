@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- kihívás \---
 
 ## Challenge: More styling
 
@@ -15,4 +15,4 @@ Here’s some code that will help you:
     <img src="image-link-goes-here">
     
 
-\--- /challenge \---
+\--- / challenge \---
