@@ -1,5 +1,5 @@
 ---
-hero_image: images/banner.png
+hero_image: images / banner.png
 theme: blue
 duration: 2
 listed: true
@@ -11,7 +11,7 @@ description: Naucz się, jak stworzyć stronę internetową ze swoim ulubionym p
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projekty
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -34,7 +34,7 @@ steps:
   - 
     title: Finishing touches
   - 
-    title: 'Challenge: More colours!'
+    title: 'Wyzwanie: Więcej kolorów!'
   - 
     title: 'Challenge: Reviews'
   - 
