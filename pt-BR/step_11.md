@@ -1,10 +1,10 @@
-\--- challenge \---
+\--- desafio \---
 
 ## Desafio: Mais estilos
 
 Você pode adicionar uma imagem à sua página da web? Ou mudar a fonte? Veja como sua página da Web pode ser:
 
-![captura de tela](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
 Veja alguns códigos que ajudarão você neste desafio:
 
