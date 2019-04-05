@@ -1,4 +1,4 @@
-## Finishing touches
+## Il tocco finale
 
 Let’s add a little more HTML and CSS to improve your webpage.
 
@@ -17,7 +17,7 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![schermata](images/recipe-hr-css.png)
 
 + You can even change how your bullet points look with this CSS code:
 
@@ -26,4 +26,4 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![schermata](images/recipe-ul-css.png)
