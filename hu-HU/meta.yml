@@ -1,6 +1,6 @@
 ---
-hero_image: images/banner.png
-theme: blue
+hero_image: images / banner.png
+theme: kék
 duration: 2
 listed: true
 ingredient: false
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Bevezetés
   - 
     title: Decide on a recipe
   - 
