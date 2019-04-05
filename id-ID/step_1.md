@@ -1,16 +1,16 @@
-## pengantar
+## Pengantar
 
 Dalam proyek ini, Anda akan belajar cara membuat halaman web untuk resep favorit Anda.
 
 ![tangkapan layar](images/recipe-final.png)
 
-### Informasi tambahan untuk pemimpin klub
+### Informasi tambahan untuk para ketua klub
 
-Jika Anda perlu mencetak proyek ini, silakan gunakan [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+Jika kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://projects.raspberrypi.org/en/projects/recipe/print).
 
-## \--- jatuh \---
+## \--- collapse \---
 
-## judul: Catatan pemimpin klub
+## title: Catatan ketua klub
 
 ## Pengantar:
 
@@ -53,7 +53,7 @@ Anda juga dapat menemukan versi lengkap dari tantangan proyek ini di bagian 'Sum
     
     + Warna (nama & kode heksadesimal).
 
-Proyek ini mencakup elemen dari untaian berikut dari [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Proyek ini mencakup unsur-unsur dari rangkaian [Kurikulum Digital Making Raspberry Pi](http://rpf.io/curriculum):
 
 + [Desain aset 2D dan 3D dasar](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -70,11 +70,11 @@ Mereka kemudian dapat menambahkan nama file dalam tag `<img>`:
     <img src="banana.jpg" />
     
 
-\--- /jatuh \---
+\--- /menggulung \---
 
-## \--- jatuh \---
+## \--- collapse \---
 
-## judul: Materi proyek
+## title: Materi proyek
 
 ## Sumber daya proyek
 
@@ -84,7 +84,7 @@ Mereka kemudian dapat menambahkan nama file dalam tag `<img>`:
 + [template / index.html](resources/template-index.html)
 + [template / style.css](resources/template-style.css)
 
-## Sumber daya pemimpin klub
+## Sumber daya ketua klub
 
 + [file .zip yang berisi semua sumber daya proyek yang telah selesai](resources/recipe-volunteer-resources.zip)
 + [Proyek Trinket yang diselesaikan secara daring](https://trinket.io/html/c0fd9b40cd)
@@ -92,4 +92,4 @@ Mereka kemudian dapat menambahkan nama file dalam tag `<img>`:
 + [resep-selesai / style.css](resources/recipe-finished-style.css)
 + [resep selesai / pisang.png](resources/recipe-finished-banana.png)
 
-\--- /jatuh \---
+\--- /menggulung \---
