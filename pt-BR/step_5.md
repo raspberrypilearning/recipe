@@ -1,4 +1,4 @@
-## Modo de preparo
+## Modo de fazer
 
 Em seguida, vamos explicar como fazer a receita.
 
@@ -15,13 +15,13 @@ Adicione este código abaixo da sua lista de ingredientes, certificando-se de qu
     </ol>
     
 
-![captura de tela](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
 + Agora você vai adicionar novos itens na sua nova lista ordenada:
 
     <li>Descasque a banana e adicione ao liquidificador</li>
     
 
-![captura de tela](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
 Observe que os itens da lista são automaticamente numerados!
