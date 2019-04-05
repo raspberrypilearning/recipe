@@ -6,7 +6,7 @@ Mari daftar bahan-bahan yang dibutuhkan untuk resep Anda.
     
     Proyek akan terlihat seperti ini:
     
-    ![tangkapan layar](images/recipe-starter.png)
+    ![screenshot](images/recipe-starter.png)
 
 + Untuk daftar bahan-bahan Anda, Anda akan menggunakan **daftar tanpa urutan**, menggunakan tag `<ul>`. Pergi ke baris 8 dari template dan tambahkan HTML ini, mengganti teks dalam judul `<h1>` dengan nama resep Anda sendiri:
 
@@ -30,6 +30,6 @@ Anda belum akan melihat daftar Anda, karena Anda belum menambahkan item daftar a
     <li>1 pisang</li>
     
 
-![tangkapan layar](images/recipe-ul.png)
+![screenshot](images/recipe-ul.png)
 
 Karena daftar Anda tidak disusun, tidak ada angka di samping daftar item, hanya poin-poin.
