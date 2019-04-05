@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## 挑战：更多颜色！
 
 Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
 
