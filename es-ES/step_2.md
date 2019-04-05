@@ -1,4 +1,4 @@
-## Decide on a recipe
+## Decide que receta quieres hacer
 
 Before you get coding, you’ll need to decide on a recipe.
 
