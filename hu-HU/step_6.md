@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- kihívás \---
 
 ## Challenge: More steps
 
@@ -8,4 +8,4 @@ Your method should look something like this:
 
 ![screenshot](images/recipe-more-method.png)
 
-\--- /challenge \---
+\--- / challenge \---
