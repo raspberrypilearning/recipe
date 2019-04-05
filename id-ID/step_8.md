@@ -17,7 +17,7 @@ Perhatikan bahwa tag ini tidak memiliki tag akhir, seperti tag `<img>`.
     }
     
 
-![tangkapan layar](images/recipe-hr-css.png)
+![screenshot](images/recipe-hr-css.png)
 
 + Anda bahkan dapat mengubah bagaimana poin-poin bullet Anda terlihat dengan kode CSS ini:
 
@@ -26,4 +26,4 @@ Perhatikan bahwa tag ini tidak memiliki tag akhir, seperti tag `<img>`.
     }
     
 
-![tangkapan layar](images/recipe-ul-css.png)
+![screenshot](images/recipe-ul-css.png)
