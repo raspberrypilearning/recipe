@@ -1,5 +1,5 @@
 ---
-hero_image: images / banner.png
+hero_image: images/banner.png
 theme: آبی
 duration: 2
 listed: true
@@ -11,14 +11,14 @@ description: یک صفحه وب از دستورالعمل مورد علاقه خ
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
-site_areas: پروژه ها
+site_areas: پروژه‌ها
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: معرفی
+    title: مقدمه
   - 
     title: تصمیم بگیرید
   - 
