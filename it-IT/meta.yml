@@ -1,5 +1,5 @@
 ---
-hero_image: images/recipe.png
+hero_image: images/banner.png
 theme: blue
 duration: 2
 listed: true
@@ -11,7 +11,7 @@ description: Crea una pagina web della tua ricetta preferita, in modo che i tuoi
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
-site_areas: projects
+site_areas: progetti
 hardware: ''
 software: html-css-javascript
 version: 3
