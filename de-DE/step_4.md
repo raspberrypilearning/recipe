@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: More ingredients
+## Aufgabe: Noch mehr Zutaten
 
 Can you add all of the ingredients for **your** recipe?
 
