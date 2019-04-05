@@ -4,7 +4,7 @@ Let’s list the ingredients that are needed for your recipe.
 
 + Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    A projektnek így kell kinéznie:
     
     ![screenshot](images/recipe-starter.png)
 
