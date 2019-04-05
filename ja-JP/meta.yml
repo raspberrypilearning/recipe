@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: 前書き
   - 
     title: Decide on a recipe
   - 
@@ -34,7 +34,7 @@ steps:
   - 
     title: Finishing touches
   - 
-    title: 'Challenge: More colours!'
+    title: 'チャレンジ：もっと色！'
   - 
     title: 'Challenge: Reviews'
   - 
