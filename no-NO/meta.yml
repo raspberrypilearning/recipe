@@ -5,13 +5,13 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programmering-0, phys-comp-0, produksjon-0, fellesskap-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Oppskrift
 description: Lag en nettside av favorittoppskriften din, slik at vennene dine kan gjøre det!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
-site_areas: prosjekter
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
