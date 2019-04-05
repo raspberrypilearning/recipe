@@ -1,4 +1,4 @@
-## Method
+## Methode
 
 Next, let’s explain how to make your recipe.
 
@@ -22,6 +22,6 @@ Add this code underneath your ingredients list, making sure that it’s still in
     <li>Peel the banana and add to a blender</li>
     
 
-![screenshot](images/recipe-ol.png)
+![Screenshot](images/recipe-ol.png)
 
 Notice that the list items are automatically numbered!
