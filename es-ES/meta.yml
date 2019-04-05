@@ -1,5 +1,5 @@
 ---
-hero_image: images/recipe.png
+hero_image: images/banner.png
 theme: blue
 duration: 2
 listed: true
@@ -30,11 +30,11 @@ steps:
   - 
     title: 'Desafío: Más pasos'
   - 
-    title: '¡Colores!'
+    title: Colours!
   - 
     title: Toques finales
   - 
-    title: 'Desafío: ¡Más colores!'
+    title: 'Reto: ¡Más colores!'
   - 
     title: 'Desafío: Revisiones'
   - 
