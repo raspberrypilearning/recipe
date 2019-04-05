@@ -1,4 +1,4 @@
-\--- tantangan \---
+\--- challenge \---
 
 ## Tantangan: Lebih banyak warna!
 
@@ -20,4 +20,4 @@ Berikut beberapa contoh warna:
 
 Cobalah untuk memastikan bahwa warna yang Anda gunakan cocok dengan resep Anda!
 
-\--- / tantangan \---
+\--- /challenge \---
