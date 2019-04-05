@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Izazov: Više boja!
+## Izazov: Još boja!
 
 Promijeni boje u svom kôdu koristeći nazive boja, `rgb()` vrijednosti i heksadecimalne kôdove. Spisak raznih boja možeš naći na <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, a možeš i da otvoriš <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> i kreiraš sopstvene boje!
 
