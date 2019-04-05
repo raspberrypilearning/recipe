@@ -15,4 +15,4 @@ Web sayfanıza bir resim ekleyebilir misiniz? Veya yazı tipini değiştirmek? �
     <img src="image-link-goes-here">
     
 
-\--- /meydan okuma \---
+\--- /challenge \---
