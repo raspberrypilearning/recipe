@@ -2,15 +2,15 @@
 
 Neste projeto, você aprenderá a criar uma página da Web para suas receitas favoritas.
 
-![captura de tela](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-### Informações adicionais para o líder do clube
+### Informação adicional para líderes de clubes
 
-Se você precisar imprimir este projeto, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/recipe/print).
+Se você precisar imprimir este projeto, use a [Versão para Impressão](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Notas para o líder do Clube
+## title: Notas do líder do clube
 
 ## Introdução:
 
@@ -18,17 +18,17 @@ Neste projeto, as crianças aprenderão sobre listas HTML e cores CSS. Eles cria
 
 ## Recursos Online
 
-Recomendamos usar o [trinket](https://trinket.io/) para escrever HTML & CSS online.
+Nós recomendamos usar [trinket](https://trinket.io/) para escrever HTML & CSS online.
 
-As crianças também podem fazer uso deste trinket em branco [ (jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este template trinket [ (jumpto.cc/html-template)](http://jumpto.cc/html-template).
+As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Há também uma trinket contendo uma solução de amostra para os desafios:
+Há também um Trinket contendo um exemplo de solução para os desafios:
 
 + [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Recursos offline
+## Recursos Offline
 
-Este projeto pode ser [concluído off-line](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se preferir. Você pode acessar os recursos do projeto clicando no link 'Materiais do Projeto' para este projeto. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
 + template/index.html
 + template/style.css
@@ -39,9 +39,9 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(Todos os recursos acima também podem ser baixados como arquivos do Projeto no formato `.zip`.)
+(Todos os recursos acima também podem ser baixados como arquivos de projeto e de voluntário no formato `.zip`.)
 
-## Objetivos do aprendizado
+## Objetivos de aprendizado
 
 + Escrevendo HTML:
     
@@ -53,7 +53,7 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
     
     + Cores (nomes & códigos hexadecimais).
 
-Este projeto abrange elementos das seguintes vertentes do [ Currículo de criação digital do Raspberry Pi](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
 + [Design de ativos 2D e 3D básicos](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -78,20 +78,20 @@ Eles podem então adicionar o nome do arquivo em suas tags `<img>`:
 
 ## \--- collapse \---
 
-## title: Materiais do Projeto
+## Título: Materiais do projeto
 
 ## Recursos do projeto
 
-+ [.zip contendo todos os recursos do projeto](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online Trinket em branco](http://jumpto.cc/trinket-blank)
++ [Arquivo .zip contendo todos os recursos do projeto](resources/recipe-project-resources.zip)
++ [Template Online Trinket](http://jumpto.cc/trinket-template)
++ [Trinket online em branco](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Recursos para o Líder do Clube
+## Recursos do líder do clube
 
-+ [.zip contendo todos os recursos do projeto](resources/recipe-volunteer-resources.zip)
-+ [Online Trinket Projeto Completo](https://trinket.io/html/c0fd9b40cd)
++ [Arquivo .zip contendo todos os recursos do projeto concluídos](resources/recipe-volunteer-resources.zip)
++ [Projeto Trinket concluído online](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
