@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- завдання \---
 
 ## \--- challenge \---: Наступні кроки
 
@@ -8,4 +8,4 @@
 
 ![скріншот](images/recipe-more-method.png)
 
-\--- challenge \---
+\--- /challenge \---
