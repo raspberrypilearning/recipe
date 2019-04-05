@@ -1,10 +1,10 @@
-\--- challenge \---
+\--- défi \---
 
 ## Challenge: More styling
 
 Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
 
-![screenshot](images/recipe-final.png)
+![capture d'écran](images/recipe-final.png)
 
 Here’s some code that will help you:
 
@@ -15,4 +15,4 @@ Here’s some code that will help you:
     <img src="image-link-goes-here">
     
 
-\--- /challenge \---
+\--- /défi \---
