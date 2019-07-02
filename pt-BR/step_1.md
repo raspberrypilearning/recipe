@@ -43,33 +43,33 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 
 ## Objetivos de aprendizado
 
-+ Escrevendo HTML:
++ Escrever HTML:
     
     + `<ul>`, `<ol>` e `<li>` são lista de tags html;
     + `<hr/>` tag;
     + Consolidando o uso de tags aninhadas.
 
-+ Escrevendo CSS:
++ Escrever CSS:
     
     + Cores (nomes & códigos hexadecimais).
 
 Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
-+ [Design de ativos 2D e 3D básicos](https://www.raspberrypi.org/curriculum/design/creator).
++ [Design de ativos básicos em 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Desafios
 
-"Mais ingredientes" - adicionando mais itens a uma lista não ordenada;  
-"Mais etapas" - adicionando mais itens a uma lista ordenada;  
-"Mais cores" - adicionando nomes de cores, valores de rgb e códigos hexadecimais;  
-"Comentários" - adicionando outra lista não ordenada;  
-"Mais estilo" - adicionando imagens e fontes.
+"Mais ingredientes" - adicionar mais itens a uma lista não ordenada;  
+"Mais etapas" - adicionar mais itens a uma lista ordenada;  
+"Mais cores" - adicionar nomes de cores, valores de rgb e códigos hexadecimais;  
+"Comentários" - adicionar outra lista não ordenada;  
+"Mais estilo" - adicionar imagens e fontes</br>.
 
 ## Complete este projeto offline
 
 Se as crianças concluírem esse projeto offline, elas precisarão salvar as imagens que pretendem usar na mesma pasta do arquivo Template.html.
 
-Eles podem então adicionar o nome do arquivo em suas tags `<img>`:
+Elas podem então adicionar o nome do arquivo em suas tags `<img>`:
 
     <img src="banana.jpg" />
     
@@ -88,9 +88,9 @@ Eles podem então adicionar o nome do arquivo em suas tags `<img>`:
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Recursos do líder do clube
+## Recursos para o Líder do Clube
 
-+ [Arquivo .zip contendo todos os recursos do projeto concluídos](resources/recipe-volunteer-resources.zip)
++ [Arquivo .zip contendo todos os recursos concluídos do projeto](resources/recipe-volunteer-resources.zip)
 + [Projeto Trinket concluído online](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
