@@ -10,17 +10,17 @@ Se você precisar imprimir este projeto, use a [Versão para Impressão](https:/
 
 ## \--- collapse \---
 
-## title: Notas do líder do clube
+## title: Notas para o líder do Clube
 
 ## Introdução:
 
-Neste projeto, as crianças aprenderão sobre listas HTML e cores CSS. Eles criarão suas próprias receitas, adicionando listas de ingredientes e métodos.
+Neste projeto, as crianças aprenderão sobre listas HTML e cores CSS. Elas criarão suas próprias receitas, adicionando listas de ingredientes e modos de preparo.
 
 ## Recursos Online
 
-Nós recomendamos usar [trinket](https://trinket.io/) para escrever HTML & CSS online.
+Recomendamos usar [trinket](https://trinket.io/) para escrever HTML & CSS online.
 
-As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS ou, como alternativa, elas podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Há também um Trinket contendo um exemplo de solução para os desafios:
 
