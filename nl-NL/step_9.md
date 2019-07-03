@@ -2,7 +2,7 @@
 
 ## Uitdaging: meer kleuren!
 
-Wijzig de kleuren in je code door kleurnamen, `rgb()` -waarden en hex-codes te gebruiken. Er is een lijst met veel kleuren op <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, of je kunt naar <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> gaan en je eigen kleuren maken!
+Wijzig de kleuren in je code door kleurnamen, `rgb()` waarden en hex-codes te gebruiken. Er is een lijst met veel kleuren op <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, of je kunt naar <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> gaan en je eigen kleuren maken!
 
 Hier zijn enkele voorbeeldkleuren:
 
