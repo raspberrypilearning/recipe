@@ -2,7 +2,7 @@
 
 We gaan nu uitleggen hoe je het recept maakt.
 
-+ Je gaat een andere lijst gebruiken om de bereiding te schrijven, maar deze keer gebruik je een **geordende lijst**door de `<ol>` tag te gebruiken.
++ Je gaat een andere lijst gebruiken om de bereiding te schrijven, maar deze keer gebruik je een **geordende lijst** door de `<ol>` tag te gebruiken.
 
 Een geordende lijst is een genummerde lijst die je gebruikt als de volgorde van de stappen belangrijk is.
 
