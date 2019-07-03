@@ -8,7 +8,7 @@ We gaan een beetje meer HTML en CSS toevoegen om de webpagina te verbeteren.
 
 Let op: deze tag heeft geen eindtag, net als de tag `<img>`.
 
-+ De regel die je zojuist hebt toegevoegd komt niet overeen met de stijl van de rest van de webpagina. Laten we dit oplossen door een CSS-code toe te voegen:
++ De regel die je zojuist hebt toegevoegd komt niet overeen met de stijl van de rest van de webpagina. Laten we dit oplossen door CSS-code toe te voegen:
 
     hr {
         height: 2px;
