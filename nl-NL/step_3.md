@@ -8,7 +8,7 @@ We gaan een lijst maken van de ingrediënten die voor het recept nodig zijn.
     
     ![screenshot](images/recipe-starter.png)
 
-+ Voor de lijst met ingrediënten ga je een **ongeordende lijst**gebruiken, met behulp van de `<ul>` tag. Ga naar regel 8 van het sjabloon en voeg deze HTML toe, die de tekst vervangt in de `<h1>` kop met de naam van je eigen recept:
++ Voor de lijst met ingrediënten ga je een **ongeordende lijst** gebruiken, met behulp van de `<ul>` tag. Ga naar regel 8 van het sjabloon en voeg deze HTML toe, die de tekst vervangt in de `<h1>` kop met de naam van je eigen recept:
 
     <h1>Milkshake Banaan</h1>
     
@@ -25,7 +25,7 @@ We gaan een lijst maken van de ingrediënten die voor het recept nodig zijn.
 
 Je ziet geen lijst omdat je er nog geen items aan hebt toegevoegd!
 
-+ De volgende stap is om items toe te voegen aan je lijst met behulp van de `<li>` -tag. Voeg de volgende code toe aan de `<ul>` tag:
++ De volgende stap is om items toe te voegen aan je lijst met behulp van de `<li>` tag. Voeg de volgende code toe aan de `<ul>` tag:
 
     <li>1 banaan</li>
     
