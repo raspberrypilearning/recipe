@@ -1,10 +1,10 @@
 ## Introducción
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+En este proyecto aprenderéis a crear una página web para vuestra receta favorita.
 
 ![captura de pantalla](images/recipe-final.png)
 
-### Información adicional para líderes de club
+### Información adicional para los líderes de club
 
 Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/recipe/print).
 
