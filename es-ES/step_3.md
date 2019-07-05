@@ -8,28 +8,28 @@ Vamos a listar los ingredientes que necesitarás para tu receta.
     
     ![captura de pantalla](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ Para tu lista de ingredientes, vas a usar una **lista desordenada**, usando la etiqueta `<ul>`. Ve a la línea 8 de la plantilla y alade este código HTML, sustituyendo el texto en el`<h1>` título con el título de tu receta:
 
-    <h1>Banana Milkshake</h1>
+    <h1>Batido de plátano</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>Ingredientes:</h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Mira tu página web, debería tener 2 cabeceros.
 
 ![captura de pantalla](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+Si no ves tu lista aun, es porque no la hemos añadido aún!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ El próximo paso es añadir los elementos a tu lista usando la etiqueta `<li>`. Añade el siguiente código en tu etiqueta `<ul>`:
 
-    <li>1 banana</li>
+    <li>1 plátano</li>
     
 
 ![captura de pantalla](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+Como tu lista es desordenada, no hay números al lado de los elementos de la lista, sólo puntos de enumeración.
