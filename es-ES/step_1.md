@@ -14,7 +14,7 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 ## Introducción:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+En este proyecto, los niños aprenderán sobre listas de HTML y colores CSS. They will create their own recipe, adding ingredient and method lists.
 
 ## Recursos en línea
 
