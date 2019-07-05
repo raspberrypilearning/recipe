@@ -45,4 +45,4 @@ Sustituye el código `rgb()` en tu CSS con este código hex:
 
 ![captura de pantalla](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+¡Deberías ver el mismo amarillo claro de antes!
