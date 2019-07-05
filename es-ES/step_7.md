@@ -17,7 +17,7 @@ Hay una lista de todos los nombres de colores que puedes usar: [ jumpto.cc/colou
 
 Cambia el color del texto de `azul` a `tomate`.
 
-![screenshot](images/recipe-tomato.png)
+![captura de pantalla](images/recipe-tomato.png)
 
 + Tu navegador sabe los nombres de 140 colores, pero de hecho sabe los ** códigos de color ** de ¡más de 16 millones de colores!
 
@@ -32,13 +32,13 @@ Añade este código de CSS para el cuerpo de la página web, para mostrar el ver
     background: rgb(250,250,210);
     
 
-![screenshot](images/recipe-rgb.png)
+![captura de pantalla](images/recipe-rgb.png)
 
-+ Si lo prefieres, puedes decirle al navegador qué color mostrar usando el código hexadecimal (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Si lo prefieres, puedes decirle al navegador qué color mostrar usando el código hexadecimal (or **hex code**). Esto funciona de forma similar al código `rgb()` de arriba, excepto que el código hex siempre empieza con `#`, y usa números hexadecimales entre `00` y `ff` para la cantidad de rojo, verde y azul.
 
 ![captura de pantalla](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+Sustituye el código `rgb()` en tu CSS con este código hex:
 
     background: #fafad2;
     
