@@ -14,15 +14,15 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 ## Introducción:
 
-En este proyecto, los niños aprenderán sobre listas de HTML y colores CSS. They will create their own recipe, adding ingredient and method lists.
+En este proyecto, los niños aprenderán sobre listas de HTML y colores CSS. Crearán su propia receta, añadiendo ingredientes y la lista de pasos.
 
 ## Recursos en línea
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
-Los niños también pueden hacer uso de esta baratija en blanco [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o alternativamente pueden usar este trinket plantilla [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
+Los niños también pueden hacer uso de este trinket en blanco [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o alternativamente pueden usar esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
-También hay una baratija que contiene una solución de muestra para los desafíos:
+También hay un trinket que contiene una solución de muestra para los desafíos:
 
 + [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
