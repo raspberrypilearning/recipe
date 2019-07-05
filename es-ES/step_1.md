@@ -18,7 +18,7 @@ En este proyecto, los niños aprenderán sobre listas de HTML y colores CSS. Cre
 
 ## Recursos en línea
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+Recomendamos usar [trinket](https://trinket.io/) para escribir HTML& CSS en línea.
 
 Los niños también pueden hacer uso de este trinket en blanco [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o alternativamente pueden usar esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
@@ -74,13 +74,13 @@ Pueden simplemente añadir el nombre de su ficher en las etiquetas `<img>`:
 
 ## \--- collapse \---
 
-## title: materiales del proyecto
+## título: Materiales del proyecto
 
 ## Recursos del proyecto
 
 + [archivo .zip que contiene todos los recursos del proyecto](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
++ [Página en blanco de Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
