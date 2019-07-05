@@ -24,7 +24,7 @@ Los niños también pueden hacer uso de este trinket en blanco [ (jumpto.cc/html
 
 También hay un trinket que contiene una solución de muestra para los desafíos:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [‘Receta’ terminada-- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
 ## Recursos sin conexión
 
@@ -43,29 +43,29 @@ También puede encontrar una versión completa de los desafíos de este proyecto
 
 ## Objetivos del Aprendizaje
 
-+ Writing HTML:
++ Escribir HTML:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + Etiquetas de lista `<ul>`, `<ol>` y `<li>`;
+    + Etiqueta `<hr/>`;
+    + Consolidar el uso de etiquetas indentadas.
 
-+ Writing CSS:
++ Escribir CSS:
     
-    + Colours (names & hexadecimal codes).
+    + Colores (nombres & códigos hexadecimales).
 
 Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [Activos de diseño básico en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Retos
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"Más ingredientes" - añadir más elementos a una lista desordenada; "Más pasos" - añadir más elementos a una lista ordenada; "Más colores" - añadir nombres de colores, valores rgb y codigos hexadecimales; "Opiniones" - añadir otra lista desordenada; "Más estilos" - añadir imágenes y fuentes de letra.
 
-## Completing this project offline
+## Completar este proyecto sin conexión
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+Si los niños están completando este proyecto sin conexión, necesitarán guardar las imágenes que quieran usar en la misma carpeta que su fichero Template.html.
 
-They can then just add the name of the file in their `<img>` tags:
+Pueden simplemente añadir el nombre de su ficher en las etiquetas `<img>`:
 
     <img src="banana.jpg" />
     
