@@ -1,14 +1,14 @@
 ## Toques finales
 
-Let’s add a little more HTML and CSS to improve your webpage.
+Vamos a añadir un poco más de HTML y CSS para mejorar tu página web.
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ Puedes añadir una línea horizontal al final de tu recta, usando la etiqueta `<hr>`.
 
 ![captura de pantalla](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+Fíjate que esta etiqueta no tiene etiqueta de fin, como la etiqueta `<img>`.
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ La línea que acabas de añadir no cuadra con el estilo de tu página web. Vamos a arreglarlo añadiendo un poco de código CSS:
 
     hr {
         height: 2px;
@@ -19,11 +19,11 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
 
 ![captura de pantalla](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ Hasta puedes cambiar la apariencia de los puntos de enumeración con código CSS:
 
     ul {
         list-style-type: square;
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![captura de pantalla](images/recipe-ul-css.png)
