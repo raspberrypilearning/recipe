@@ -1,4 +1,4 @@
-\--- desafío \---
+\--- challenge \---
 
 ## Desafío: Más pasos
 
@@ -8,4 +8,4 @@ Tu receta debería parecerse a este ejemplo:
 
 ![captura de pantalla](images/recipe-more-method.png)
 
-\--- /desafío\---
+\--- /challenge \---
