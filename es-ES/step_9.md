@@ -1,6 +1,6 @@
-\--- desafío \---
+\--- challenge \---
 
-## Reto: ¡Más colores!
+## Desafío: ¡Más colores!
 
 Cambia los colores en tu código usando los nombres de color, valores de `rgb()` y códigos hex. Hay una lista con un montón de colores en <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, o puedes ir a <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> ¡y crear tu propios colores!
 
@@ -20,4 +20,4 @@ Aquí hay algunos ejemplos de colores:
 
 ¡Intenta asegurarte que tus colores pegan con tu receta!
 
-\--- /desafío \---
+\--- /challenge \---
