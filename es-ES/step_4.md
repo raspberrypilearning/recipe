@@ -1,4 +1,4 @@
-\--- desafío \---
+\--- challenge \---
 
 ## Desafío: Más ingredientes
 
@@ -8,4 +8,4 @@ Tu página web debería tener un aspecto como éste:
 
 ![captura de pantalla](images/recipe-more-ingredients.png)
 
-\--- /desafío\---
+\--- /challenge \---
