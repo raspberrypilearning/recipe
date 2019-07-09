@@ -1,4 +1,4 @@
-\--- desafío \---
+\--- challenge \---
 
 ## Desafío: Más estilos
 
@@ -15,4 +15,4 @@ Aquí tienes el código que te va a ayudar:
     <img src="image-link-goes-here">
     
 
-\--- /desafío\---
+\--- /challenge \---
