@@ -1,4 +1,4 @@
-\--- desafío \---
+\--- challenge \---
 
 ## Desafío: Opiniones
 
@@ -6,4 +6,4 @@ Pide a algunos de tus amigos que dejen una opinión sobre tu receta. Deberás ha
 
 ![captura de pantalla](images/recipe-reviews.png)
 
-\--- /desafío \---
+\--- /challenge \---
