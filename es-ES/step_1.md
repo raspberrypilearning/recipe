@@ -10,7 +10,7 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 ## \--- collapse \---
 
-## título: Notas del líder del club
+## title: Notas para el líder del club
 
 ## Introducción:
 
@@ -74,7 +74,7 @@ Pueden simplemente añadir el nombre de su ficher en las etiquetas `<img>`:
 
 ## \--- collapse \---
 
-## título: Materiales del proyecto
+## title: materiales del proyecto
 
 ## Recursos del proyecto
 
