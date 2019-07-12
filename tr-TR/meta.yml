@@ -1,41 +1,41 @@
 ---
-hero_image: images / banner.png
+hero_image: images/banner.png
 theme: mavi
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, tasarım-1, programlama-0, phys-comp-0, üretim-0, topluluk-0
+curriculum: 1, tasarım-1, programlama-0, fizik-hesaplama-0, üretim-0, topluluk-0
 title: Yemek tarifi
-description: Arkadaşlarınızın bunu yapabilmesi için favori tarifinizin bir web sayfasını oluşturun!
+description: Favori tarifinizin bir web sayfasını oluşturun, böylelikle arkadaşlarınız da bunu yapabilir!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
-technologies: html CSS-JavaScript
-site_areas: projects
+technologies: html-css-javascript
+site_areas: projeler
 hardware: ''
-software: html CSS-JavaScript
+software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
+last_tested: 01/01/2017
 steps:
   - 
     title: Giriş
   - 
-    title: Bir tarif karar verin
+    title: Bir tarife karar verin
   - 
-    title: malzemeler
+    title: İçindekiler
   - 
-    title: 'Zorluk: Daha fazla içerik'
+    title: 'Meydan okuma: Daha fazla malzeme'
   - 
     title: Yöntem
   - 
-    title: 'Zorluk: Daha fazla adım'
+    title: 'Meydan Okuma: Daha fazla adım'
   - 
     title: Renkler!
   - 
-    title: Son rötuşları
+    title: Son rötuşlar
   - 
-    title: 'Zorluk: Daha fazla renk!'
+    title: 'Meydan Okuma: Daha fazla renk!'
   - 
-    title: 'Görev: Yorumlar'
+    title: 'Meydan Okuma: Yorumlar'
   - 
-    title: 'Zorluk: Daha fazla stil'
+    title: 'Meydan Okuma: Daha fazla şekillendirme'
