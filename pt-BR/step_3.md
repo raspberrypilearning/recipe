@@ -2,9 +2,9 @@
 
 Vamos listar os ingredientes que são necessários para sua receita.
 
-+ Abra este template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Abra este modelo trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    O projeto deve ficar assim:
+    O projeto deve ficar parecido com isso:
     
     ![captura de tela](images/recipe-starter.png)
 
@@ -19,17 +19,17 @@ Vamos listar os ingredientes que são necessários para sua receita.
     </ul>
     
 
-+ Veja sua página de internet, você deverá visualizar algo como isto.
++ Veja sua página de internet, e você deverá visualizar seus dois cabeçalhos.
 
-![screenshot](images/recipe-headings.png)
+![captura de tela](images/recipe-headings.png)
 
-Você ainda não verá sua lista, porque ficou sem adicionar a lista de ingredientes!
+Você ainda não verá sua lista, porque ainda não adicionou nenhum item na lista!
 
-+ O próximo passo é adicionar itens de lista à sua lista, usando a tag `<li>`. Adicione o seguinte código dentro da sua tag `<ul>`:
++ O próximo passo é adicionar itens a sua lista, usando a tag `<li>`. Adicione o seguinte código dentro da sua tag `<ul>`:
 
-    <li>1 banana ou duas</li>
+    <li>1 banana</li>
     
 
-![screenshot](images/recipe-ul.png)
+![captura de tela](images/recipe-ul.png)
 
-Como sua lista é sem ordenação, não há nenhum número nas linhas de items, apenas marcadores em forma de bolinha.
+Como sua lista é sem ordenação, não há nenhum número nas linhas de itens, apenas marcadores em forma de bolinha.
