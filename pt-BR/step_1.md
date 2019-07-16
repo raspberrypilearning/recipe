@@ -20,7 +20,7 @@ Neste projeto, as crianças aprenderão sobre listas HTML e cores CSS. Elas cria
 
 Recomendamos usar [trinket](https://trinket.io/) para escrever HTML & CSS online.
 
-As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS ou, como alternativa, elas podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS ou, como alternativa, elas podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Há também um Trinket contendo um exemplo de solução para os desafios:
 
@@ -43,13 +43,13 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 
 ## Objetivos de aprendizado
 
-+ Escrever HTML:
++ Escrevendo HTML:
     
     + `<ul>`, `<ol>` e `<li>` são lista de tags html;
     + `<hr/>` tag;
     + Consolidando o uso de tags aninhadas.
 
-+ Escrever CSS:
++ Escrevendo CSS:
     
     + Cores (nomes & códigos hexadecimais).
 
@@ -59,11 +59,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Desafios
 
-"Mais ingredientes" - adicionar mais itens a uma lista não ordenada;  
-"Mais etapas" - adicionar mais itens a uma lista ordenada;  
-"Mais cores" - adicionar nomes de cores, valores de rgb e códigos hexadecimais;  
-"Comentários" - adicionar outra lista não ordenada;  
-"Mais estilo" - adicionar imagens e fontes</br>.
+"Mais ingredientes" - adicionar mais itens a uma lista não ordenada; "Mais etapas" - adicionar mais itens a uma lista ordenada; "Mais cores" - adicionar nomes de cores, valores de rgb e códigos hexadecimais; "Comentários" - adicionar outra lista não ordenada; "Mais estilo" - adicionar imagens e fontes.
 
 ## Complete este projeto offline
 
