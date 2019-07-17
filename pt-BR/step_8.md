@@ -1,10 +1,10 @@
 ## Toques finais
 
-Vamos acrescentar um pouco mais de HTML e CSS para aperfeiçoar a sua página de internet.
+Vamos acrescentar um pouco mais de HTML e CSS para melhorar a sua página de internet.
 
 + Você pode adicionar uma linha horizontal no final da sua receita, usando a tag `<hr>`.
 
-![screenshot](images/recipe-hr.png)
+![captura de tela](images/recipe-hr.png)
 
 Observe que essa tag não tem uma tag final, como a tag `<img>`.
 
@@ -17,7 +17,7 @@ Observe que essa tag não tem uma tag final, como a tag `<img>`.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![captura de tela](images/recipe-hr-css.png)
 
 + Você pode até mudar a aparência dos seus marcadores da lista com este código CSS:
 
@@ -26,4 +26,4 @@ Observe que essa tag não tem uma tag final, como a tag `<img>`.
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![captura de tela](images/recipe-ul-css.png)
