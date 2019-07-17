@@ -1,9 +1,9 @@
-\--- desafio \---
+\--- challenge \---
 
-## Desafio: Opiniões
+## Desafio: Comentários
 
 Peça a alguns de seus amigos que deixem um comentário para sua receita. Você precisará criar outra lista para fazer isso.
 
-![screenshot](images/recipe-reviews.png)
+![captura de tela](images/recipe-reviews.png)
 
 \--- /challenge \---
