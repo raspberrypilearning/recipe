@@ -15,13 +15,13 @@ Adicione este código abaixo da sua lista de ingredientes, certificando-se de qu
     </ol>
     
 
-![screenshot](images/recipe-method.png)
+![captura de tela](images/recipe-method.png)
 
 + Agora você vai adicionar novos itens na sua nova lista ordenada:
 
     <li>Descasque a banana e adicione ao liquidificador</li>
     
 
-![screenshot](images/recipe-ol.png)
+![captura de tela](images/recipe-ol.png)
 
 Observe que os itens da lista são automaticamente numerados!
