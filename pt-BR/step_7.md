@@ -1,4 +1,4 @@
-## Colorindo!
+## Cores!
 
 Vamos adicionar algumas cores à página de internet de sua receita.
 
