@@ -1,11 +1,11 @@
-\--- desafio \---
+\--- challenge \---
 
 ## Desafio: Mais ingredientes
 
-Você consegue adicionar todos os ingredientes de sua receita?
+Você consegue adicionar todos os ingredientes da **sua** receita?
 
-A sua página web deve se parecer com esta:
+Sua página web deve ser parecida com esta:
 
-![screenshot](images/recipe-more-ingredients.png)
+![captura de tela](images/recipe-more-ingredients.png)
 
 \--- /challenge \---
