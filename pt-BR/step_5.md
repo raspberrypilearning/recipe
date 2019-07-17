@@ -1,10 +1,10 @@
-## Modo de fazer
+## Modo de preparo
 
-Em seguida, vamos explicar como fazer a receita.
+Em seguida, vamos explicar como fazer a sua receita.
 
-+ Você usará outra lista para escrever seu Modo de preparo, mas, desta vez, usará uma **lista ordenada**, usando a tag `<ol>` (ol vem do inglês "ordered list", que significa lista com ordenação).
++ Você usará outra lista para escrever seu modo de preparo, mas desta vez, usará uma **lista ordenada**, usando a tag `<ol>` (ol vem do inglês "ordered list", que significa lista com ordenação).
 
-Uma lista ordenada é uma lista numerada, que você deve usar quando a ordem das etapas é muito importante.
+Uma lista ordenada é uma lista numerada, que você deve usar quando a ordem das etapas é importante.
 
 Adicione este código abaixo da sua lista de ingredientes, certificando-se de que seu código esteja dentro da sua tag `<body>`:
 
