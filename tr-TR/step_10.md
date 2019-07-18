@@ -1,8 +1,8 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Görev: Yorumlar
+## Meydan Okuma: Yorumlar
 
-Bir kaç arkadaşınızdan tarifiniz için inceleme bırakmasını isteyin. Bunu yapmak için başka bir liste yapmanız gerekecek.
+Bir kaç arkadaşınızdan tarifiniz için yorum bırakmasını isteyin. Bunu yapmak için başka bir liste yapmanız gerekecek.
 
 ![ekran görüntüsü](images/recipe-reviews.png)
 
