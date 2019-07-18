@@ -1,16 +1,16 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Zorluk: Daha fazla stil
+## Meydan Okuma: Daha fazla şekillendirme
 
-Web sayfanıza bir resim ekleyebilir misiniz? Veya yazı tipini değiştirmek? İşte web sayfanızın nasıl göründüğü:
+Web sayfanıza bir resim ekleyebilir misiniz? Veya yazı tipini değiştirebilir misiniz? Web sayfanız şunun gibi gözükebilir:
 
 ![ekran görüntüsü](images/recipe-final.png)
 
 İşte size yardımcı olacak bazı kodlar:
 
-    font ailesi: Arial / Comic Sans MS / Kurye / Etki / Tahoma;
-    yazı tipi boyutu: 12pt;
-    yazı tipi ağırlığı: kalın;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
     
     <img src="image-link-goes-here">
     
