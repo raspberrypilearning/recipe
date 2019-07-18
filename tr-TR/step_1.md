@@ -33,25 +33,25 @@ Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/reso
 + template/index.html
 + template/style.css
 
-Bu projenin zorluklarının tamamlanmış bir versiyonunu da içeren 'Gönüllü Kaynaklar' bölümünde bulabilirsiniz:
+Bu projenin meydan okumalarının tamamlanmış bir versiyonunu 'Gönüllü Kaynaklar' bölümünde bulabilirsiniz, içerdikleri:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(Yukarıdaki kaynakların tümü proje olarak da indirilebilir ve gönüllü `.zip` dosyadır)
+(Yukarıdaki kaynakların tümü proje ve gönüllü olarak indirilebilen `.zip` dosyalarıdır)
 
-## Öğrenme hedefleri
+## Kazanımlar
 
 + HTML yazma:
     
     + `<ul>`, `<ol>` ve `<li>` liste etiketlerini;
     + `<hr/>` etiketi;
-    + Yuvalanmış etiketlerin kullanımını birleştirme.
+    + İç içe etiketlerin kullanımını birleştirme.
 
 + CSS Yazma:
     
-    + Renkler ( & onaltılık kodları adlandırır).
+    + Renkler (isimler & onaltılık kodlar).
 
 Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un aşağıdaki bölümlerinden unsurları kapsamaktadır:
 
