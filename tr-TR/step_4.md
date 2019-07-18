@@ -1,6 +1,6 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Zorluk: Daha fazla içerik
+## Meydan okuma: Daha fazla malzeme
 
 Bütün tarifleri **** ekleyebilir misin?
 
