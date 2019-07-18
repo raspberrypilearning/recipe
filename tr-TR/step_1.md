@@ -59,7 +59,7 @@ Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un
 
 ## Meydan Okumalar
 
-"Diğer içerikler" - sıralanmamış bir listeye daha fazla öğe ekleme; "Diğer adımlar" - sıralı bir listeye daha fazla öğe ekleyerek; "Daha fazla renk" - renk adları, rgb değerleri ve onaltılık kodlar ekleme; "Yorumlar" - sıralanmamış bir liste ekleyerek; "Daha fazla stil" - resim ve yazı tipi ekleme.
+"Daha fazla malzeme" - sırasız listeye yeni elemanlar ekleme; "Daha fazla adım" - sıralı listeye yeni elemanlar ekleme; "Daha fazla renk" - renk isimleri, rgb, heksadesimal kod ekleme; "Yorumlar" - başka bir sırasız liste daha ekleme; "Daha fazla şekillendirme" - resim ve yazı tipi ekleme.
 
 ## Bu projeyi çevrimdışı tamamlama
 
