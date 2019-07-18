@@ -1,8 +1,8 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Zorluk: Daha fazla adım
+## Meydan Okuma: Daha fazla adım
 
-Eğer yapmak için tüm adımları ekleyebilir **sizin** tarifi?
+**Kendi** tarifinizi yapmak için bütün adımları ekleyebilir misiniz?
 
 Yöntemin şöyle görünmeli:
 
