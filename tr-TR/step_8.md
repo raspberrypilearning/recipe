@@ -1,4 +1,4 @@
-## Son rötuşları
+## Son rötuşlar
 
 Web sayfanızı geliştirmek için biraz daha HTML ve CSS ekleyelim.
 
@@ -6,14 +6,14 @@ Web sayfanızı geliştirmek için biraz daha HTML ve CSS ekleyelim.
 
 ![ekran görüntüsü](images/recipe-hr.png)
 
-Bu etiketin, `<img>` etiketi gibi bir bitiş etiketi olmadığına dikkat edin.
+Bu etiketin, `<img>` etiketi gibi bir bitiş etiketine sahip olmadığına dikkat edin.
 
-+ Yeni eklediğiniz satır, web sayfanızın geri kalanıyla aynı değil. Biraz CSS kodu ekleyerek düzeltelim:
++ Yeni eklediğiniz satır, web sayfanızın geri kalanına uymuyor. Biraz CSS kodu ekleyerek düzeltelim:
 
-    saat {
-        yükseklik: 2 piksel;
-        sınır: yok;
-        arka plan rengi: domates;
+    hr {
+        height: 2px;
+        border: none;
+        background-color: tomato;
     }
     
 
