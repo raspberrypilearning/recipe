@@ -19,10 +19,10 @@ Bu etiketin, `<img>` etiketi gibi bir bitiş etiketine sahip olmadığına dikka
 
 ![ekran görüntüsü](images/recipe-hr-css.png)
 
-+ Madde imli noktalarınızın bu CSS koduyla nasıl göründüğünü bile değiştirebilirsiniz:
++ Bu CSS koduyla madde işaretlerinizin nasıl gözüktüğünü bile değiştirebilirsiniz:
 
     ul {
-        liste tarzı türü: kare;
+        list-style-type: square;
     }
     
 
