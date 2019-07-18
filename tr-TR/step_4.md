@@ -2,7 +2,7 @@
 
 ## Meydan okuma: Daha fazla malzeme
 
-Bütün tarifleri **** ekleyebilir misin?
+**Kendi** tarifinizi yapmak için bütün malzemeleri ekleyebilir misiniz?
 
 Web sayfanız şöyle görünmelidir:
 
