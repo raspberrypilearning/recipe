@@ -34,15 +34,15 @@ Açık sarı bir arka plan görüntülemek için bu kodu web sayfasının gövde
 
 ![ekran görüntüsü](images/recipe-rgb.png)
 
-+ İsterseniz, onaltılık bir kod (veya **hexadecimal kod**) kullanarak tarayıcıya hangi rengin görüntüleneceğini söyleyebilirsiniz. Bu benzer bir şekilde çalışır `rgb ()` o altıgen kodları her zaman başlamak dışında yukarıda kod `#`ve arasında, onaltılık numaralarını kullanabilirsiniz `00` ve `ff` kırmızı, yeşil miktarı için ve mavi.
++ İsterseniz, onaltılık bir kod (veya **heksadesimal kod**) kullanarak tarayıcıya hangi rengin görüntüleneceğini söyleyebilirsiniz. Bu yukarıdaki `rgb()` koduna benzer bir şekilde çalışır, tek farkı heksadesimal kodlar her zaman `#` ile başlar ve kırmızı, yeşil ve mavi miktarı için `00` ve `ff` arası heksadesimal bir değer verilir.
 
 ![ekran görüntüsü](images/recipe-hex-img.png)
 
-CSS'nizdeki `rgb ()` kodunu bu hex koduyla değiştirin:
+CSS'inizdeki `rgb ()` kodunu bu heksadesimal kodla değiştirin:
 
-    arkaplan: # fafad2;
+    background: #fafad2;
     
 
 ![ekran görüntüsü](images/recipe-hex.png)
 
-Daha önce olduğu gibi aynı açık sarı görmelisin!
+Daha önce olduğu gibi aynı açık sarı rengini görmelisiniz!
