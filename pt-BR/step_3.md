@@ -27,8 +27,9 @@ Você ainda não verá sua lista, porque ainda não adicionou nenhum item na lis
 
 + O próximo passo é adicionar itens a sua lista, usando a tag `<li>`. Adicione o seguinte código dentro da sua tag `<ul>`:
 
-    <li>1 banana</li>
-    
+```
+<li>1 banana</li>
+```
 
 ![captura de tela](images/recipe-ul.png)
 
