@@ -1,6 +1,6 @@
 ## अंतिम रूप देना
 
-Let’s add a little more HTML and CSS to improve your webpage.
+चलिए आपके वेबपेज को सुधरने के लिए थोड़े और HTML और CSS जोड़ें।
 
 + You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
 
