@@ -1,6 +1,6 @@
 ## विधि
 
-Next, let’s explain how to make your recipe.
+चलो, अब हम आपको रेसिपी बनाने की तरकीब सिखाते हैं।
 
 + You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
 
