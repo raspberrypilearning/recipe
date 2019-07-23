@@ -1,6 +1,6 @@
 ## परिचय
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+इस प्रोजेक्ट में, आप अपनी पसंदीदा रेसिपी के लिए वेबपेज बनाना सीखेंगे।
 
 ![screenshot](images/recipe-final.png)
 
@@ -14,13 +14,13 @@ In this project, you’ll learn how to create a webpage for your favourite recip
 
 ## परिचय:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+इस प्रोजेक्ट में, बच्चे HTML सूचियों और CSS रंगों के बारे में जानेंगे। वे सामग्री और विधियों की सूची जोड़कर, अपनी स्वयं की रेसिपी बनाएँगे।
 
 ## ऑनलाइन संसाधन
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+HTML और CSS को ऑनलाइन लिखने के लिए हम trinket का उपयोग करने की अनुशंसा करते हैं।
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+बच्चे स्वयं का HTML और CSS लिखने के लिए इस [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) खाली ट्रिंकेट का भी उपयोग कर सकते हैं, या वैकल्पिक तौर पर वे इस टैंपलेट ट्रिंकेट का उपयोग कर सकते हैं [(jumpto.cc/html-template)](http://jumpto.cc/html-template)।
 
 There is also a trinket containing a sample solution to the challenges:
 
