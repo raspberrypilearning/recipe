@@ -4,10 +4,11 @@ Vamos adicionar algumas cores à página de internet de sua receita.
 
 + Você já aprendeu a adicionar texto colorido a uma página de internet. Adicione este código dentro do seu arquivo `style.css`, para fazer com que o texto no corpo da sua página fique azul:
 
-    body {
-        color: blue;
-    }
-    
+```
+body {
+    color: blue;
+}
+```
 
 ![captura de tela](images/recipe-blue.png)
 
