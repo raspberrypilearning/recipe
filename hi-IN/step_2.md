@@ -1,8 +1,8 @@
 ## रेसिपी तय करें
 
-Before you get coding, you’ll need to decide on a recipe.
+कोडिंग करने से पहले, आपको रेसिपी तय करनी होगी।
 
-+ Think about a recipe you want to share with your friends. It could be: 
++ ऐसी रेसिपी के बारे में सोचें, जो आप अपने मित्रों के साथ साझा करना चाहते हैं। यह ऐसा हो सकता है: आपके द्वारा ऑनलाइन खोजी गई रेसिपी; 
     + A recipe you found online;
     + Your favourite meal;
     + Something you made up!
