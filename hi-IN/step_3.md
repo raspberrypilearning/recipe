@@ -1,10 +1,10 @@
 ## सामग्री
 
-Let’s list the ingredients that are needed for your recipe.
+चलिए आपकी रेसिपी के लिए आवश्यक सामग्री की सूची बनाते हैं।
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ इस टैंपलेट ट्रिंकेट को खोलें: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    परियोजना इस तरह दिखनी चाहिए:
+    आपकी प्रोजेक्ट इस तरह दिखनी चाहिए:
     
     ![स्क्रीनशॉट](images/recipe-starter.png)
 
