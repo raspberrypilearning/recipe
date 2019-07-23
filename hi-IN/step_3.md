@@ -8,7 +8,7 @@
     
     ![स्क्रीनशॉट](images/recipe-starter.png)
 
-+ आपकी सामग्री की सूची के लिए, आप ** unordered list ** `<ul>`टैग का उपयोग करेंगे। Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ आपकी सामग्री की सूची के लिए, आप `<ul>` टैग से **अव्यवस्थित सूची ** का उपयोग करेंगे। टैंपलेट की पंक्ति 8 पर जाएँ और यह HTML जोड़ें, `<h1>` शीर्षक को अपनी खुद की रेपिसी के नाम के साथ बदलें:
 
     <h1>Banana Milkshake</h1>
     
@@ -19,11 +19,11 @@
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ अपना वेबपेज देखें, और आपको अपने दो शीर्षक दिखाई देने चाहिए।
 
 ![screenshot](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+आपको अभी भी अपनी सूची दिखाई नहीं देगी, क्योंकि आपने अभी तक कोई भी चीज़े इस सूचि में शामिल नहीं किया हैं!
 
 + The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
 
