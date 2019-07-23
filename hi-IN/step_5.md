@@ -2,11 +2,11 @@
 
 चलो, अब हम आपको रेसिपी बनाने की तरकीब सिखाते हैं।
 
-+ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
++ आप अपनी विधि लिखने के लिए एक दूसरी सूची का इस्तेमाल करेंगे, लेकिन इस बार आप `<ol>` टैग का इस्तेमाल करके एक **क्रमबद्ध सूची** बनाने वाले हैं।।
 
-An ordered list is a numbered list, which you should use when the order of the steps is important.
+क्रमबद्ध सूची एक क्रमांकित सूची होती है, जिसका उपयोग आपको तब करना चाहिए जब चरणों का क्रम आपके लिए ज़रूरी हैं।
 
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
+इस कोड को अपनी सामग्री की सूची के नीचे जोड़ दीजिये, और यह देख लीजिये कि यह अभी भी आपके `<body>` टैग के अंदर है:
 
     <h3>Method:</h3>
     
@@ -17,11 +17,11 @@ Add this code underneath your ingredients list, making sure that it’s still in
 
 ![स्क्रीनशॉट](images/recipe-method.png)
 
-+ Now you just need to add list items into your new ordered list:
++ अब आपको सिर्फ सूचि के चीज़ो को आपके नए क्रमबद्ध सूची में जोड़ना है:
 
     <li>Peel the banana and add to a blender</li>
     
 
 ![स्क्रीनशॉट](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+अब देखिये कैसे अपनेआप सारी चीज़े क्रमांकित हो गयी हैं!
