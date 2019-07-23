@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 theme: blue
 duration: 2
@@ -6,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Receita
-description: Neste projeto você aprenderá a criar uma página de internet para sua receita favorita.
+description: Crie uma página da sua receita favorita, para que seus amigos também possam fazê-la!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -14,6 +15,16 @@ site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
-steps: 
-- title: Receita
+last_tested: 01/01/2017
+steps:
+  - title: Introdução
+  - title: Escolha uma receita
+  - title: Ingredientes
+  - title: 'Desafio: Mais ingredientes'
+  - title: Modo de preparo
+  - title: 'Desafio: Mais passos'
+  - title: Cores!
+  - title: Toques finais
+  - title: 'Desafio: Mais cores!'
+  - title: 'Desafio: Comentários'
+  - title: 'Desafio: Mais estilos'
