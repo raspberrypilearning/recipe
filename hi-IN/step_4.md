@@ -2,9 +2,9 @@
 
 ## चुनौती: और सामग्री
 
-Can you add all of the ingredients for **your** recipe?
+क्या आप **अपनी** रेसिपी के लिए सारी सामग्री जोड़ सकते हैं?
 
-Your webpage should look something like this:
+आपका वेबपेज कुछ इस तरह दिखाई देना चाहिए:
 
 ![स्क्रीनशॉट](images/recipe-more-ingredients.png)
 
