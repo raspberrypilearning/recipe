@@ -11,11 +11,11 @@
 
 ![screenshot](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ आपका ब्राउज़र `blue`, `yellow` और यहाँ तक कि `lightgreen` जैसे रंगों के बारे में जानता है, लेकिन क्या आपको पताथा कि आपका ब्राउज़र वास्तव में 140 से ज़्यादा रंगों के **नाम** जानता है?
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+आपके लिए उपयोग करने के लिए सभी रंगों की सूची आपको यहाँ मिलेंगी: [jumpto.cc/colours](http://jumpto.cc/colours), जिसमें `tomato`, `firebrick` और `peachpuff` जैसे रंगों के नाम शामिल हैं।
 
-Change the text colour from `blue` to `tomato`.
+क्स्ट के रंग को `blue` से `tomato` में बदलें।
 
 ![स्क्रीनशॉट](images/recipe-tomato.png)
 
