@@ -2,9 +2,9 @@
 
 ## चुनौती: और चरण
 
-Can you add all of the steps for making **your** recipe?
+क्या आप **अपनी **रेसिपी बनाने के लिए सभी चरण जोड़ सकते हैं?
 
-Your method should look something like this:
+आपकी विधि कुछ इस तरह दिखनी चाहिए:
 
 ![स्क्रीनशॉट](images/recipe-more-method.png)
 
