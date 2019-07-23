@@ -74,8 +74,9 @@ Elas podem então adicionar o nome do arquivo em suas tags `<img>`:
 --- /collapse ---
 
 --- collapse ---
-
-## Título: Materiais do projeto
+---
+title: Materiais do projeto
+---
 
 ## Recursos do projeto
 
