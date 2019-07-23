@@ -19,7 +19,7 @@
 
 ![स्क्रीनशॉट](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ आपका ब्राउज़र 140 रंगों के नाम जानता है, लेकिन वास्तव में यह 1.6 करोड़ से ज़्यादा रंगों के ** रंग मूल्य ** जानता है!
 
 To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
 
