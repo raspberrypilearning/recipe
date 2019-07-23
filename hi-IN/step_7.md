@@ -1,8 +1,8 @@
 ## रंग!
 
-Let’s add some colour to your recipe webpage.
+चलिए आपकी रेसिपी के वेबपेज को रंगीन बनाते हैं।
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ आपने पहले से सिख रखा हैं कैसे अपने वेबपेज में रंगीन शब्द जोड़ा जाता हैं। Add this code inside your `style.css` file, to make all of the text in the website body blue:
 
     body {
         color: blue;
