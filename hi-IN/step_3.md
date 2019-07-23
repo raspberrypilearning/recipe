@@ -21,15 +21,15 @@
 
 + अपना वेबपेज देखें, और आपको अपने दो शीर्षक दिखाई देने चाहिए।
 
-![screenshot](images/recipe-headings.png)
+![स्क्रीनशॉट](images/recipe-headings.png)
 
 आपको अभी भी अपनी सूची दिखाई नहीं देगी, क्योंकि आपने अभी तक कोई भी चीज़े इस सूचि में शामिल नहीं किया हैं!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ अगला चरण है, `<li>` टैग इस्तेमाल करके अपनी सूची में चीज़े भरिये। अपने `<ul>` टैग में निम्नलिखित कोड जोड़ें:
 
     <li>1 banana</li>
     
 
 ![स्क्रीनशॉट](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+क्योंकि आपकी सूची अव्यवस्थित है, आपके सूची में कोई भी संख्या दिख नहीं रही है, सिर्फ बुलेट पॉइंट्स हैं।
