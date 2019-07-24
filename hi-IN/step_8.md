@@ -2,13 +2,13 @@
 
 चलिए आपके वेबपेज को सुधरने के लिए थोड़े और HTML और CSS जोड़ें।
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ आप `<hr>` टैग का उपयोग करके अपनी रेसिपी के अंत में क्षैतिज लाइन जोड़ सकते हैं।
 
 ![screenshot](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+ध्यान दें कि `<img>` टैग की तरह, इस टैग का कोई अंत टैग नहीं है।
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ आपने अभी जो लाइन जोड़ा, वह आपके वेबपेज के स्टाइल के साथ मिल नहीं रहा हैं। चलिए कुछ CSS कोड जोड़कर इसे ठीक करें:
 
     hr {
         height: 2px;
@@ -19,7 +19,7 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
 
 ![स्क्रीनशॉट](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ आप CSS कोड द्वारा अपने बुलेट पॉइंट्स का स्वरूप भी बदल सकते हैं:
 
     ul {
         list-style-type: square;
