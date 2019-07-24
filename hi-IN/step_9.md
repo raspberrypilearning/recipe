@@ -2,22 +2,22 @@
 
 ## चुनौती: और रंग!
 
-रंगों के नाम, `rgb()` मान और हेक्स कोड्स का उपयोग करके अपने कोड में रंग बदलें। There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+रंगों के नाम, `rgb()` मान और हेक्स कोड्स का उपयोग करके अपने कोड में रंग बदलें। <a href="http://jumpto.cc/colours" target="_blank"> jumpto.cc/colours</a> पर रंगों की बड़ी सूची दी गई है, या फिर आप <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> पर जा सकते हैं और अपने स्वयं के रंग बना सकते हैं!
 
-Here are some example colours:
+रंगों के कुछ उदाहरण इधर दिया हुआ हैं:
 
-+ Red can be written as:
++ लाल को इस प्रकार लिखा जा सकता है:
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + `red`(ज़ाहिर है!)
+    + `rgb(255,0,0)`(अत्यधिक लाल, हरा और नीला नहीं)
     + `#ff0000`
 
-+ Olive can be written as:
++ ओलिव, एक हल्का हरा रंग, को इस प्रकार लिखा जा सकता है:
     
     + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + `rgb(128,128,0)`(लाल और हरे रंग की कुछ मात्रा, और नीला नहीं)
     + `#808000`
 
-Try to make sure that the colours you use match your recipe!
+यह देख लीजिये कि जोह भी रंग आप इस्तेमाल करते हैं, वह आपके रेसिपी के साथ मिल जाती हैं!
 
 \--- /challenge \---
