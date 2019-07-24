@@ -2,7 +2,7 @@
 
 ## चुनौती: समीक्षाएँ
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+अपने कुछ दोस्तों से अपनी रेसिपी की समीक्षा करने के लिए कहें। इसके लिए आपको अन्य सूची बनानी होगी।
 
 ![स्क्रीनशॉट](images/recipe-reviews.png)
 
