@@ -2,7 +2,7 @@
 
 ## Aufgabe: Beurteilungen
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+Frage einige Freunde nach Beurteilungen für dein Rezept. Du kannst noch eine Liste dafür machen.
 
 ![screenshot](images/recipe-reviews.png)
 
