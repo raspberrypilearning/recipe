@@ -1,8 +1,8 @@
 ## Zutaten
 
-Let’s list the ingredients that are needed for your recipe.
+Lass uns die Zutaten, die wir für dein Rezept brauchen, auflisten.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Öffne dieses Beispiel-Trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
     Das Projekt sollte so aussehen:
     
