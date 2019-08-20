@@ -2,11 +2,11 @@
 
 ## Aufgabe: Noch mehr Gestaltungsmöglichkeiten
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+Kannst du ein Bild zu deiner Webseite hinzufügen? Oder die Schriftart verändern? Hier siehst du, wie deine Webseite aussehen könnte:
 
 ![screenshot](images/recipe-final.png)
 
-Here’s some code that will help you:
+Hier ist etwas Code, der dir helfen wird:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
