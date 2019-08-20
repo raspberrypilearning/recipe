@@ -11,17 +11,17 @@ Lass uns Farben zu deiner Rezept-Webseite hinzufügen.
 
 ![Screenshot](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ Dein Browser kennt Farben wie `blue`, `yellow` und sogar `lightgreen`, aber hast du gewusst, dass dein Browser tatsächlich die **Namen** von 140 verschiedenen Farben kennt?
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Es gibt eine List von allen Farbnamen, die du benützen kannst: [umpto.cc/colours](http://jumpto.cc/colours), welche Farbnamen wie `tomato`, `firebrick` und `peachpuff`.
 
-Change the text colour from `blue` to `tomato`.
+Verändere die Textfarbe von `blue` zu `tomato`.
 
 ![Screenshot](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ Dein Browser kennt die Namen von 140 Farben, aber kennt eigentlich die **Farbwerte** von mehr als 16 Millionen Farben!
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+Um dem Browser zu sagen, welche Farbe er darstellen soll, musst du ihn nur wissen lassen, wie viel rot, grün und blau er verwenden soll.
 
 The amounts of red, green and blue are written as a number between `0` and `255`.
 
