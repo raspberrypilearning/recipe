@@ -63,9 +63,9 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Das Project offline abschließen
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+Wenn Kinder dieses Projekt offline abschließen, müssen sie die Bilder die sie verwenden wollen im selben Folder wie ihr Template.html file speichern.
 
-They can then just add the name of the file in their `<img>` tags:
+Sie können einfach den Namen der Datei in ihren `<img>` tags hinzufügen:
 
     <img src="banana.jpg" />
     
