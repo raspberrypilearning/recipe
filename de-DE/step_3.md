@@ -25,11 +25,11 @@ Lass uns die Zutaten, die wir für dein Rezept brauchen, auflisten.
 
 Du wirst allerdings deine Liste noch nicht sehen, weil du noch keine Punkte zu ihr hinzugefügt hast!
 
-+ Als Nächstes werden wir Listenpunkte zu deiner Liste hinzufügen. Benütze dafür das `<li>` Tag. Add the following code inside your `<ul>` tag:
++ Als Nächstes werden wir Listenpunkte zu deiner Liste hinzufügen. Benütze dafür das `<li>` Tag. Füge den folgenden Code in dein `<ul>` Tag ein:
 
-    <li>1 banana</li>
+    <li>1 Banane</li>
     
 
 ![screenshot](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+Da eine Liste ungeordnet ist, sind keine Nummern neben deinen Listenpunkten, sondern nur Aufzählungspunkte.
