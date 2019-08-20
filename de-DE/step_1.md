@@ -59,7 +59,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Herausforderungen
 
-"Noch mehr Zutaten" - weitere Punkte zu einer ungeordneten Liste hinzufügen; "Weitere Schritte" - weitere Punkte zu einer geordneten Liste hinzufügen; "Weitere Farben" - Farbnamen, Rgb Werte und hex Codes hinzufügen; "Reviews" - noch eine ungeordnete Liste hinzufügen; "Weiteres Styling" - Bilder und Schriftarten hinzufügen.
+"Noch mehr Zutaten" - weitere Punkte zu einer ungeordneten Liste hinzufügen; "Weitere Schritte" - weitere Punkte zu einer geordneten Liste hinzufügen; "Noch mehr Farben" - Farbnamen, RGB Werte und hex Codes hinzufügen; "Reviews" - noch eine ungeordnete Liste hinzufügen; "Weiteres Styling" - Bilder und Schriftarten hinzufügen.
 
 ## Das Project offline abschließen
 
