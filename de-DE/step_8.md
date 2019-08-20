@@ -8,7 +8,7 @@ Lass uns noch mehr HTML und CSS hinzufügen, um deine Webseite zu verbessern.
 
 Beachte, dass dieses Tag kein End-Tag hat, genau wie das `<img>` Tag.
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ Die Linie, du du gerade hinzugefügt hast, passt nicht so recht zum Rest deiner Webseite. Lass uns das mit etwas CSS Code beheben:
 
     hr {
         height: 2px;
@@ -17,9 +17,9 @@ Beachte, dass dieses Tag kein End-Tag hat, genau wie das `<img>` Tag.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![Screenshot](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ Du kannst sogar das Aussehen der Listenpunkte mit diesem CSS Code verändern:
 
     ul {
         list-style-type: square;
