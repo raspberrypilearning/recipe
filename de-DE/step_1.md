@@ -1,6 +1,6 @@
 ## Einleitung
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+In diesem Projekt lernst du, eine Webseite für dein Lieblingsrezept zu erstellen.
 
 ![Screenshot](images/recipe-final.png)
 
@@ -14,17 +14,17 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## Einleitung:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+In diesem Projekt können Kinder über HTML Listen und CSS Farben lernen. Sie werden ihr eigenes Rezept erstellen, und Zutaten- und Zubreitungslisten hinzufügen.
 
 ## Online-Ressourcen
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+Wir empfehlen, [trinket](https://trinket.io/) zu verwenden um HTML & CSS online zu schreiben.
 
 Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [‘Recipe’ Endpunkt -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
 ## Offline-Ressourcen
 
@@ -43,11 +43,11 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
 
 ## Lernziele
 
-+ Writing HTML:
++ HTML schreiben:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
+    + `<ul>`,`<ol>` und `<li>` Listenpunkte;
     + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + Verwendung von verschachtelten Tags (nested tags).
 
 + Writing CSS:
     
