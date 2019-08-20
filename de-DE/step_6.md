@@ -2,9 +2,9 @@
 
 ## Aufgabe: Weitere Schritte
 
-Can you add all of the steps for making **your** recipe?
+Schaffst du es, alle Schritte für **dein** Rezept hinzuzufügen?
 
-Your method should look something like this:
+Deine Zubreitungsmethode sollte nun in etwa so aussehen:
 
 ![screenshot](images/recipe-more-method.png)
 
