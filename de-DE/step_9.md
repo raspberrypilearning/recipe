@@ -6,18 +6,18 @@ Verändere die Farben in deinem Code mit Hilfe von `rgb()` Werten und hex Codes.
 
 Hier sind einige Beispielfarben:
 
-+ Red can be written as:
++ Rot kann geschrieben werden als:
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + `red` (offensichtlich!)
+    + `rgb(255,0,0)` (nur rot, kein grün oder blau)
     + `#ff0000`
 
-+ Olive can be written as:
++ Olivgrün kann geschrieben werden als:
     
     + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + `rgb(128, 128, 0)` (ein bisschen rot und grün, kein blau)
     + `#808000`
 
-Try to make sure that the colours you use match your recipe!
+Stelle sicher, dass die Farben die du verwendest, zu deinem Rezept passen!
 
 \--- /challenge \---
