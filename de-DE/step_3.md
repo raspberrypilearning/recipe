@@ -8,24 +8,24 @@ Lass uns die Zutaten, die wir für dein Rezept brauchen, auflisten.
     
     ![Screenshot](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ Für deine Zutatenliste wirst du eine **ungeordnete Liste** mit dem `<ul>` Tag verwenden. Gehe zur Zeile 8 des Templates und füge den folgenden HTML Code hinzu, und ersetze den Text in die `<h1>` Überschrift mit dem Namen deines eigenen Rezeptes:
 
-    <h1>Banana Milkshake</h1>
+    <h1>Bananen-Milchshake</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>Zutaten:</h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Besuche deine Webseite, und du solltest zwei Überschriften sehen.
 
 ![Screenshot](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+Du wirst allerdings deine Liste noch nicht sehen, weil du noch keine Punkte zu ihr hinzugefügt hast!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ Als Nächstes werden wir Listenpunkte zu deiner Liste hinzufügen. Benütze dafür das `<li>` Tag. Add the following code inside your `<ul>` tag:
 
     <li>1 banana</li>
     
