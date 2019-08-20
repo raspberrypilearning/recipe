@@ -2,9 +2,9 @@
 
 ## Aufgabe: Noch mehr Farben!
 
-Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+Verändere die Farben in deinem Code mit Hilfe von `rgb()` Werten und hex Codes. Es gibt eine Liste mit einer riesigen Anzahl von Farben unter <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, oder du kannst unter <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> deine eigenen Farben erstellen!
 
-Here are some example colours:
+Hier sind einige Beispielfarben:
 
 + Red can be written as:
     
