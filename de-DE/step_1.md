@@ -49,9 +49,9 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
     + `<hr/>` tag;
     + Verwendung von verschachtelten Tags (nested tags).
 
-+ Writing CSS:
++ CSS schreiben:
     
-    + Colours (names & hexadecimal codes).
+    + Farben (Namen& hexadezimal Codes).
 
 Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
@@ -59,9 +59,9 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Herausforderungen
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"Weitere Zutaten" - weitere Punkte zu einer ungeordneten Liste hinzufügen; "Weitere Schritte" - weitere Punkte zu einer geordneten Liste hinzufügen; "Weitere Farben" - Farbnamen, RGB Werte und hex Codes hinzufügen; "Reviews" - noch eine ungeordnete Liste hinzufügen; "Weiteres Styling" - Bilder und Schriftarten hinzufügen.
 
-## Completing this project offline
+## Das Project offline abschließen
 
 If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
 
