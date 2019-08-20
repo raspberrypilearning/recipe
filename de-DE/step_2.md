@@ -1,10 +1,10 @@
 ## Wähle ein Rezept aus
 
-Before you get coding, you’ll need to decide on a recipe.
+Bevor du mit dem programmieren startest, solltest du dir ein Rezept aussuchen.
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ Überlege dir ein Rezept, das du mit Freunden teilen möchtest. Zum Beispiel: 
+    + Ein Rezept, das du online gefunden hast;
+    + Dein Lieblingsessen;
+    + Etwas, das du selbst erfunden hast!
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+Das Beispielrezept, dass du in diesem Projekt siehst, ist ein Bananen-Milchshake. Du kannst dieses Rezept kopieren, wenn du kein eignes finden kannst.
