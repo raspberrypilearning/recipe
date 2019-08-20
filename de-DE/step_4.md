@@ -2,9 +2,9 @@
 
 ## Aufgabe: Noch mehr Zutaten
 
-Can you add all of the ingredients for **your** recipe?
+Kannst du alle Zutaten für **dein** Rezept hinzufügen?
 
-Your webpage should look something like this:
+Deine Webseite sollte in etwas so aussehen:
 
 ![screenshot](images/recipe-more-ingredients.png)
 
