@@ -23,11 +23,11 @@ Verändere die Textfarbe von `blue` zu `tomato`.
 
 Um dem Browser zu sagen, welche Farbe er darstellen soll, musst du ihn nur wissen lassen, wie viel rot, grün und blau er verwenden soll.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+Die Mengen an rot, grün und blau werden als eine Nummer zwischen `0` und `255` geschrieben.
 
 ![Screenshot](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+Füge diesen Code zu deinem CSS für den body der Webseite, um einen gelben Hintergrund darzustellen:
 
     background: rgb(250,250,210);
     
