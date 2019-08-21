@@ -34,15 +34,15 @@ Füge diesen Code zu deinem CSS für den body der Webseite, um einen gelben Hint
 
 ![Screenshot](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Wenn du möchtest, kannst du dem Browser auch mit dem Hexadezimal-Code (oder **hex code**) mitteilen, welche Farbe er darstellen soll. Das funktioniert so ähnlich wie der `rgb()` überhalb, außer dass hex codes immer mit `#` starten, und hexadezimale "Nummern" zwischen `00` und `ff` für die Menge an rot, grün und blau verwenden.
 
 ![Screenshot](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+Ersetze den `rgb()` Code in deinem CSS mit diesem hex code:
 
     background: #fafad2;
     
 
 ![Screenshot](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+Du solltest die selbe Farbe wie zuvor sehen!
