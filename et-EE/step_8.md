@@ -10,20 +10,23 @@ Pea meeles, et sellel sildil pole lõppsilti, just nagu sildil `<img>`.
 
 + Joon, mille oled just lisanud, ei ühti ülejäänud veebilehe stiiliga. Lahendame selle, lisades natuke CSS-koodi:
 
-    hr {
+```
+hr {
     height: 2px;
     border: none;
     background-color: tomato;
-    }
+}
+```
     
 
 ![kuvatõmmis](images/recipe-hr-css.png)
 
 + Võid isegi muuta seda, kuidas sinu loetelupunktid välja näevad, kasutades seda CSS-koodi:
 
-    ul {
+```
+ul {
     list-style-type: square;
-    }
-    
+}
+```
 
 ![kuvatõmmis](images/recipe-ul-css.png)

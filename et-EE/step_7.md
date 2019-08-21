@@ -4,10 +4,11 @@ Lisame sinu retsepti veebilehele natuke värvi.
 
 + Oled juba õppinud, kuidas veebilehele värvilist teksti lisada. Lisa see kood oma `style.css` faili sisse, et kogu veebisaidi kehatekst oleks sinine:
 
-    body {
+```
+body {
     color: blue;
-    }
-    
+}
+```
 
 ![kuvatõmmis](images/recipe-blue.png)
 
