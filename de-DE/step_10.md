@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Aufgabe: Beurteilungen
+## Aufgabe: Bewertungen
 
 Frage einige Freunde nach Beurteilungen für dein Rezept. Du kannst noch eine Liste dafür machen.
 
