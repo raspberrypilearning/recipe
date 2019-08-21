@@ -1,4 +1,4 @@
-## Zubreitung
+## Zubereitung
 
 Lass uns nun erklären, wie man dein Rezept zubereitet.
 
