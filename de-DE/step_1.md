@@ -20,7 +20,7 @@ In diesem Projekt können Kinder über HTML Listen und CSS Farben lernen. Sie we
 
 Wir empfehlen, [trinket](https://trinket.io/) zu verwenden um HTML & CSS online zu schreiben.
 
-Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
