@@ -6,7 +6,7 @@ Lass uns nun erklären, wie man dein Rezept zubereitet.
 
 Eine geordnete Liste ist eine nummerierte Liste, die du verwenden solltest, wenn die Reihenfolge der Schritte wichtig ist.
 
-Verwenden den Code unterhalb deiner Zutatenliste, und stelle sicher, dass er in deinem `<body>` Tag ist:
+Verwende den Code unterhalb deiner Zutatenliste, und stelle sicher, dass er in deinem `<body>` Tag ist:
 
     <h3>Zubereitung:</h3>
     
