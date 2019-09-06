@@ -34,7 +34,7 @@ Füge diesen Code zu deinem CSS für den body der Webseite, um einen gelben Hint
 
 ![Screenshot](images/recipe-rgb.png)
 
-+ Wenn du möchtest, kannst du dem Browser auch mit dem Hexadezimal-Code (oder **hex code**) mitteilen, welche Farbe er darstellen soll. Das funktioniert so ähnlich wie der `rgb()` überhalb, außer dass hex codes immer mit `#` starten, und hexadezimale "Nummern" zwischen `00` und `ff` für die Menge an rot, grün und blau verwenden.
++ Wenn du möchtest, kannst du dem Browser auch mit dem Hexadezimal-Code (oder **hex code**) mitteilen, welche Farbe er darstellen soll. Das funktioniert so ähnlich wie der `rgb()` weiter oben, nur dass hex codes immer mit `#` starten, und hexadezimale "Nummern" zwischen `00` und `ff` für die Menge an rot, grün und blau verwenden.
 
 ![Screenshot](images/recipe-hex-img.png)
 
