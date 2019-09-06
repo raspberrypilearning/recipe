@@ -13,7 +13,7 @@ Lass uns Farben zu deiner Rezept-Webseite hinzufügen.
 
 + Dein Browser kennt Farben wie `blue`, `yellow` und sogar `lightgreen`, aber hast du gewusst, dass dein Browser tatsächlich die **Namen** von 140 verschiedenen Farben kennt?
 
-Es gibt eine List von allen Farbnamen, die du benützen kannst: [umpto.cc/colours](http://jumpto.cc/colours), welche Farbnamen wie `tomato`, `firebrick` und `peachpuff`.
+Es gibt eine List von allen Farbnamen, die du benutzen kannst: [umpto.cc/colours](http://jumpto.cc/colours), welche Farbnamen wie `tomato`, `firebrick` und `peachpuff`.
 
 Verändere die Textfarbe von `blue` zu `tomato`.
 
