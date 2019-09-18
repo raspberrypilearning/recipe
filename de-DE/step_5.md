@@ -8,19 +8,21 @@ Eine geordnete Liste ist eine nummerierte Liste, die du verwenden solltest, wenn
 
 Verwende den Code unterhalb deiner Zutatenliste, und stelle sicher, dass er in deinem `<body>` Tag ist:
 
-    <h3>Zubereitung:</h3>
+```
+<h3>Zubereitung:</h3>
     
-    <ol>
+<ol>
     
-    </ol>
-    
+</ol>
+```  
 
 ![Screenshot](images/recipe-method.png)
 
 + Jetzt kannst du Listenpunkte zu deiner neuen geordneten Liste hinzufügen:
 
-    <li>Schäle die Banane und gib sie in den Mixer</li>
-    
+```
+<li>Schäle die Banane und gib sie in den Mixer</li>
+```    
 
 ![Screenshot](images/recipe-ol.png)
 

@@ -4,10 +4,11 @@ Lass uns Farben zu deiner Rezept-Webseite hinzufügen.
 
 + Du hast bereits gelernt, wie man farbigen Text zu einer Webseite hinzufügt. Füge den unten stehenden Code in deine `style.css` Datei, um den gesamten Text in deinem Webseite body blau zu machen:
 
-    body {
-        color: blue;
-    }
-    
+```
+body {
+    color: blue;
+}
+``` 
 
 ![Screenshot](images/recipe-blue.png)
 
