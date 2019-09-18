@@ -1,36 +1,35 @@
 ## Zutaten
 
-Lass uns die Zutaten, die wir für dieses Rezept brauchen, auflisten.
+Lass uns die Zutaten, die wir für dein Rezept brauchen, auflisten.
 
-+ Öffne das Vorlage-Trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template).
++ Öffne dieses Beispiel-Trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
+    
+    Das Projekt sollte so aussehen:
+    
+    ![Screenshot](images/recipe-starter.png)
 
-	Das Projekt sollte so aussehen:
++ Für deine Zutatenliste wirst du eine **ungeordnete Liste** mit dem `<ul>` Tag verwenden. Gehe zur Zeile 8 des Templates und füge den folgenden HTML Code hinzu, und ersetze den Text in die `<h1>` Überschrift mit dem Namen deines eigenen Rezeptes:
 
-	![screenshot](images/recipe-starter.png)
+    <h1>Bananen-Milchshake</h1>
+    
+    <h3>Zutaten:</h3>
+    
+    <ul>
+    
+    </ul>
+    
 
-+ Für deine Zutatenliste wirst du mit Hilfe des `<ul>` Tags eine __ungeordnete Liste__ benutzen. Gehe zu Zeile 8 der Vorlage und füge diesen HTML-Code hinzu und ersetze den Text in der `<h1>` Überschrift mit dem Namen deines eigenen Rezepts:
++ Besuche deine Webseite, und du solltest zwei Überschriften sehen.
 
-```
-<h1>Bananen-Milchshake</h1>
+![Screenshot](images/recipe-headings.png)
 
-<h3>Zutaten:</h3>
+Du wirst allerdings deine Liste noch nicht sehen, weil du noch keine Punkte zu ihr hinzugefügt hast!
 
-<ul>
++ Als Nächstes werden wir Listenpunkte zu deiner Liste hinzufügen. Benütze dafür das `<li>` Tag. Füge den folgenden Code in dein `<ul>` Tag ein:
 
-</ul>
-```
+    <li>1 Banane</li>
+    
 
-+ Sieh dir deine Webseite an und du solltest jetzt deine beiden Überschriften sehen können.
-
-![screenshot](images/recipe-headings.png)
-
-Du wirst jedoch noch nicht deine Liste sehen können, weil du bisher noch keine Posten hierfür hinzugefügt hast!
-
-+ Der nächste Schritt ist, die einzelnen Posten mit Hilfe des `<li>` Tags zu deiner Liste hinzuzufügen. Füge den folgenden Code innerhalb deines `<ul>` Tags hinzu:
-
-```
-<li>1 Banane</li>
-```
 ![screenshot](images/recipe-ul.png)
 
-Da deine Liste unsortiert, bzw. ungeordnet ist, gibt es keine Zahlen neben der Listenposten, nur die einzelnen Gliederungspunkte.
+Da eine Liste ungeordnet ist, sind keine Nummern neben deinen Listenpunkten, sondern nur Aufzählungspunkte.

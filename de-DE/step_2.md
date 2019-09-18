@@ -1,10 +1,10 @@
 ## Wähle ein Rezept aus
 
-Ehe du mit dem Programmieren beginnst, musst du ein Rezept auswählen.
+Bevor du mit dem programmieren startest, solltest du dir ein Rezept aussuchen.
 
-+ Denk dir ein Rezept aus, das du mit deinen Freunden teilen kannst. Es könnte z. B. Folgendes sein:
-	+ Ein Rezept, das du online gefunden hast;
-	+ Deine Lieblingsspeise;
-	+ Etwas, das du dir ausgedacht hast!
++ Überlege dir ein Rezept, das du mit Freunden teilen möchtest. Zum Beispiel: 
+    + Ein Rezept, das du online gefunden hast;
+    + Dein Lieblingsessen;
+    + Etwas, das du selbst erfunden hast!
 
-Das Musterrezept, das du in diesem Projekt sehen wirst, ist ein Rezept für einen Bananen-Milchshake. Du kannst dieses Rezept natürlich kopieren, falls du kein eigenes Rezept finden kannst.
+Das Beispielrezept, dass du in diesem Projekt siehst, ist ein Bananen-Milchshake. Du kannst dieses Rezept kopieren, wenn du kein eignes finden kannst.

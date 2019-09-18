@@ -1,21 +1,23 @@
 --- challenge ---
-## Aufgabe: Noch mehr Farben!
-Ändere die Farben in deinem Code, indem du Farbnamen, `rgb()` Werte und Hexadezimal Code benutzt. Es gibt eine Liste mit jeder Menge Farben unter <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a> oder du gehst zu <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> und produzierst deine eigenen Farben!
 
-Hier sind ein paar Farbbeispiele:
+## Aufgabe: Noch mehr Farben!
+
+Verändere die Farben in deinem Code mit Hilfe von `rgb()` Werten und hex Codes. Es gibt eine Liste mit einer riesigen Anzahl von Farben unter <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, oder du kannst unter <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> deine eigenen Farben erstellen!
+
+Hier sind einige Beispielfarben:
 
 + Rot kann geschrieben werden als:
-	+ `red` (Rot) – natürlich! 
-	+ `rgb(255,0,0)` (jede Menge Rot, kein Grün und kein Blau)
-	+ `#ff0000`
+    
+    + `red` (offensichtlich!)
+    + `rgb(255,0,0)` (nur rot, kein grün oder blau)
+    + `#ff0000`
 
-+ Oliven-farben kann geschrieben werden als:
-	+ `olive`
-	+ `rgb(128, 128, 0)` (ein bischen Rot und Grün, aber kein Blau)
-	+ `#808000`
++ Olivgrün kann geschrieben werden als:
+    
+    + `olive`
+    + `rgb(128, 128, 0)` (ein bisschen rot und grün, kein blau)
+    + `#808000`
 
-Versuche darauf zu achten, dass die Farben auch zu deinem Rezept passen!
-
-
+Stelle sicher, dass die Farben die du verwendest, zu deinem Rezept passen!
 
 --- /challenge ---
