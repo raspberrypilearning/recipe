@@ -1,31 +1,29 @@
 ## Der letzte Schliff
 
-Lass uns noch etwas mehr HTML- und CSS-Code hinzufügen, um deine Webseite zu verbessern.
+Lass uns noch mehr HTML und CSS hinzufügen, um deine Webseite zu verbessern.
 
-+ Du kannst eine horizontale Linie am Ende deines Rezepts einfügen, indem du das <hr> Tag benutzt.
++ Du kannst eine horizontale Linie am Ende deines Rezeptes hinzufügen, wenn du das `<hr>` Tag benützt.
 
-![screenshot](images/recipe-hr.png)
+![Screenshot](images/recipe-hr.png)
 
-Hast du bemerkt, dass dieses Tag kein End-Tag besitzt, genau wie das `<img>` Tag?
+Beachte, dass dieses Tag kein End-Tag hat, genau wie das `<img>` Tag.
 
-+ Die Zeile, die du soeben eingefügt hast, passt allerdings nicht zum Rest deiner Webseite. Lass uns das beheben, indem wir weiteren CSS-Code hinzufügen:
++ Die Linie, du du gerade hinzugefügt hast, passt nicht so recht zum Rest deiner Webseite. Lass uns das mit etwas CSS Code beheben:
 
-```
-hr {
-    Höhe: 2px;
-    Grenze: keine;
-    Hintergrundfarbe: Tomate;
-}
-```
+    hr {
+        height: 2px;
+        border: none;
+        background-color: tomato;
+    }
+    
 
-![screenshot](images/recipe-hr-css.png)
+![Screenshot](images/recipe-hr-css.png)
 
-+ Du kannst mit Hilfe dieses CSS-Codes sogar auch ändern, wie deine Gliederungspunkte aussehen sollen:
++ Du kannst sogar das Aussehen der Listenpunkte mit diesem CSS Code verändern:
 
-```
-ul {
-    Listenstil Art: quadratisch;
-}
-```
+    ul {
+        list-style-type: square;
+    }
+    
 
-![screenshot](images/recipe-ul-css.png)
+![Screenshot](images/recipe-ul-css.png)

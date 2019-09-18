@@ -1,10 +1,9 @@
 --- challenge ---
-## Aufgabe: Beurteilungen 
-Bitte ein paar deiner Freunde, dir eine Beurteilung über dein Rezept zu schreiben. Du wirst hierfür eine weitere Liste anfertigen müssen.
+
+## Aufgabe: Beurteilungen
+
+Frage einige Freunde nach Beurteilungen für dein Rezept. Du kannst noch eine Liste dafür machen.
 
 ![screenshot](images/recipe-reviews.png)
-
-
-
 
 --- /challenge ---

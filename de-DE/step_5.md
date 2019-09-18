@@ -1,30 +1,27 @@
-## Methode
+## Zubereitung
 
-Als nächstes müssen wir erklären, wie wir dein Rezept herstellen.
+Lass uns nun erklären, wie man dein Rezept zubereitet.
 
-+ Du wirst eine weitere Liste benutzen, um deine Methode aufzuschreiben, aber dieses Mal wirst du eine __geordnete Liste__ mit Hilfe des `<ol>` Tags benutzen. 
++ Du wirst noch eine Liste für die Zubereitung verwenden, aber dieses mal wirst du eine **geordnete** Liste mit dem `<ol>` Tag verwenden.
 
-Eine sortierte, bzw. geordnete Liste ist eine durchnummerierte Liste, die du benutzen solltest, wenn die Reihenfolge der einzelnen Schritte wichtig ist.
+Eine geordnete Liste ist eine nummerierte Liste, die du verwenden solltest, wenn die Reihenfolge der Schritte wichtig ist.
 
-Füge diesen Code unterhalb deiner Zutatenliste hinzu und achte darauf, dass er exakt in deinem `<body>` Tag steht:
+Verwende den Code unterhalb deiner Zutatenliste, und stelle sicher, dass er in deinem `<body>` Tag ist:
 
-```
-<h3>Methode:</h3>
+    <h3>Zubereitung:</h3>
+    
+    <ol>
+    
+    </ol>
+    
 
-<ol>
+![Screenshot](images/recipe-method.png)
 
-</ol>
-```
++ Jetzt kannst du Listenpunkte zu deiner neuen geordneten Liste hinzufügen:
 
-![screenshot](images/recipe-method.png)
+    <li>Schäle die Banane und gib sie in den Mixer</li>
+    
 
-+ Jetzt musst du nur noch die einzelnen Posten in deine neue, geordnete Liste hinzufügen:
+![Screenshot](images/recipe-ol.png)
 
-```
-<li>Die Banane pellen und in den Mixer legen</li>
-```
-
-![screenshot](images/recipe-ol.png)
-
-Siehst du, dass die einzelnen Posten automatisch nummeriert werden?
-
+Siehst du, dass die Listenpunkte automatisch nummeriert sind?

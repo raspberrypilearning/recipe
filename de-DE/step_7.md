@@ -1,52 +1,48 @@
 ## Farben!
 
-Lass uns ein paar Farben zu deiner Rezept-Webseite hinzufügen.
+Lass uns Farben zu deiner Rezept-Webseite hinzufügen.
 
-+ Du hast bereits gelernt, wie man bunten Text zu einer Webseite hinzufügt. Füge diesen Code in deiner `style.css` Datei hinzu, damit der gesamte Text auf deiner Webseite Blau erscheint:
++ Du hast bereits gelernt, wie man farbigen Text zu einer Webseite hinzufügt. Füge den unten stehenden Code in deine `style.css` Datei, um den gesamten Text in deinem Webseite body blau zu machen:
 
-```
-body {
-    Farbe: Blau;
-}
-```
+    body {
+        color: blue;
+    }
+    
 
-![screenshot](images/recipe-blue.png)
+![Screenshot](images/recipe-blue.png)
 
-+ Dein Browser kennt Farben wie `blue` (Blau), `yellow` (Gelb) und auch `lightgreen` (Hellgrün), wusstest du aber, dass dein Browser tatsächlich die __Farbnamen__ von mehr als 500 verschiedenen Farben kennt?
++ Dein Browser kennt Farben wie `blue`, `yellow` und sogar `lightgreen`, aber hast du gewusst, dass dein Browser tatsächlich die **Namen** von 140 verschiedenen Farben kennt?
 
-Es gibt eine Liste an Farbnamen, die du benutzen kannst: Gehe zu [jumpto.cc/colours](http://jumpto.cc/colours) dort findest du Farbnamen wie `tomato` (Tomate), `firebrick` (Feuerziegel) und `peachpuff` (Pfirsichhauch).
+Es gibt eine List von allen Farbnamen, die du benutzen kannst: [jumpto.cc/colours](http://jumpto.cc/colours), welche Farbnamen wie `tomato`, `firebrick` und `peachpuff`.
 
-Ändere die Textfarbe von `blue` (Blau) zu `tomato` (Tomate).
+Verändere die Textfarbe von `blue` zu `tomato`.
 
-![screenshot](images/recipe-tomato.png)
+![Screenshot](images/recipe-tomato.png)
 
-+ Dein Browser kennt nicht nur die Namen von 140 Farben, sondern er kennt tatsächlich auch die __Farbwerte__ von über 16 Millionen Farben!
++ Dein Browser kennt die Namen von 140 Farben, aber kennt eigentlich die **Farbwerte** von mehr als 16 Millionen Farben!
 
+Um dem Browser zu sagen, welche Farbe er darstellen soll, musst du ihn nur wissen lassen, wie viel rot, grün und blau er verwenden soll.
 
-Um dem Browser mitteilen zu können, welche Farbe er anzeigen soll, musst du nur sagen können, wie viel Rot, Grün und Blau benutzt werden soll.
+Die Mengen an rot, grün und blau werden als eine Nummer zwischen `0` und `255` geschrieben.
 
-Die Menge an Rot, Grün und Blau wird als Ziffer zwischen `0` und `255` geschrieben.
+![Screenshot](images/recipe-rgb-img.png)
 
-![screenshot](images/recipe-rgb-img.png)
+Füge diesen Code zu deinem CSS für den body der Webseite, um einen gelben Hintergrund darzustellen:
 
-Füge diesen Code zum CSS für den Body deiner Webseite hinzu, um einen hellgelben Hintergrund anzuzeigen:
+    background: rgb(250,250,210);
+    
 
-```
-Hintergrund: rgb(250,250,210);
-```
+![Screenshot](images/recipe-rgb.png)
 
-![screenshot](images/recipe-rgb.png)
++ Wenn du möchtest, kannst du dem Browser auch mit dem Hexadezimal-Code (oder **hex code**) mitteilen, welche Farbe er darstellen soll. Das funktioniert so ähnlich wie der `rgb()` weiter oben, nur dass hex codes immer mit `#` starten, und hexadezimale "Nummern" zwischen `00` und `ff` für die Menge an rot, grün und blau verwenden.
 
-+ Wenn du magst, kannst du dem Browser sagen, welche Farbe er anzeigen soll, indem du den Hexadezimal Code (oder __hex code__) benutzt. Dies funktioniert ähnlich zum `rgb()` Code, wie oben beschrieben, mit Ausnahme, dass der Hexadezimal Code immer mit einem Rautenzeichen beginnt `#` und man die Hexadezimal â€˜Zahlenâ€™ zwischen `00` und `ff` für die Menge an Rot, Grün und Blau benutzt.
+![Screenshot](images/recipe-hex-img.png)
 
-![screenshot](images/recipe-hex-img.png)
+Ersetze den `rgb()` Code in deinem CSS mit diesem hex code:
 
-Ersetze den `rgb()` Code in deinem CSS mit diesem Hexadezimal Code:
+    background: #fafad2;
+    
 
-```
-Hintergrund: #fafad2;
-```
+![Screenshot](images/recipe-hex.png)
 
-![screenshot](images/recipe-hex.png)
-
-Du solltest jetzt das gleiche Hellgelb wie zuvor sehen können!
+Du solltest die selbe Farbe wie zuvor sehen!

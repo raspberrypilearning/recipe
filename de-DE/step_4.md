@@ -1,12 +1,11 @@
 --- challenge ---
-## Aufgabe: Noch mehr Zutaten
-Kannst du alle Zutaten für __dein__ Rezept hinzufügen?
 
-Deine Webseite sollte jetzt etwa so aussehen:
+## Aufgabe: Noch mehr Zutaten
+
+Kannst du alle Zutaten für **dein** Rezept hinzufügen?
+
+Deine Webseite sollte in etwas so aussehen:
 
 ![screenshot](images/recipe-more-ingredients.png)
-
-
-
 
 --- /challenge ---

@@ -1,58 +1,97 @@
-## Einführung
+## Einleitung
 
-In diesem Projekt lernst du, wie du eine Webseite mit deinem Lieblingsrezept anfertigst.
+In diesem Projekt lernst du, eine Webseite für dein Lieblingsrezept zu erstellen.
 
-![screenshot](images/recipe-final.png)
+![Screenshot](images/recipe-final.png)
 
-## Online Ressourcen
+### Zusätzliche Information für Clubleiter
 
-Wir empfehlen [trinket](https://trinket.io/) zu benutzen, um HTML und CSS online schreiben zu können.
+Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/recipe/print).
 
-Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) benutzen, um ihr eigenes HTML und CSS zu schreiben oder alternativ können sie dieses Vorlage-Trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) benutzen.
+--- collapse ---
+---
+title: Anmerkungen für Clubleiter
+---
 
-Es gibt auch ein Trinket, dass eine Lösungsvorlage für die Aufgaben enthält:
+## Einleitung:
 
-+ [â€˜Recipeâ€™ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
+In diesem Projekt können Kinder über HTML Listen und CSS Farben lernen. Sie werden ihr eigenes Rezept erstellen, und Zutaten- und Zubreitungslisten hinzufügen.
 
-## Offline Ressourcen
-Dieses Projekt kann [offline fertig gestellt werden](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), wenn bevorzugt. Zugang zu den Projekt-Ressourcen ist durch das Klicken auf den „Projekt-Materialien“ Link für dieses Projekt möglich. Dieser Link enthält einen Abschnitt über „Projekt-Ressourcen“, die u.a. auch Ressourcen beinhalten, welche die Kinder benötigen, um dieses Projekt offline beenden zu können. Achten Sie darauf, dass jedes Kind Zugang zu einer Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+## Online-Ressourcen
+
+Wir empfehlen, [trinket](https://trinket.io/) zu verwenden um HTML & CSS online zu schreiben.
+
+Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+
+Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
+
++ [‘Recipe’ Endpunkt -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/52dbbf5cdb)
+
+## Offline-Ressourcen
+
+Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) durchgeführt werden. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stelle sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
 
 + template/index.html
 + template/style.css
 
-Sie können eine fertig gestellte Version dieses Projekts im Abschnitt „Helfer Ressourcen“ finden, welcher u.a. Folgendes enthält:
+Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(Alle der o.g. Ressourcen können auch als Projekt und Helfer `.zip` Dateien heruntergeladen werden.)
+(Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwillige heruntergeladen werden.)
 
 ## Lernziele
+
 + HTML schreiben:
-	+ `<ul>`, `<ol>` und `<li>` Listen Tags;
-	+ `<hr/>` Tag;
-	+ Konsolidierung der Nutzung von verschachtelten Tags.
+    
+    + `<ul>`,`<ol>` und `<li>` Listenpunkte;
+    + `<hr/>` tag;
+    + Verwendung von verschachtelten Tags (nested tags).
 
 + CSS schreiben:
-	+ Farben (Namen und Hexadezimal Code).
+    
+    + Farben (Namen & hexadezimal Codes).
 
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
+Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
-+ [Design Grundlagen: 2D und 3D Assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Aufgaben
-„Noch mehr Zutaten“: Hinzufügen von weiteren Posten zu einer ungeordneten Liste;
-„Weitere Schritte“: Hinzufügen von weiteren Schritten zu einer geordneten Liste;
-„Noch mehr Farben“: Hinzufügen von Farbnamen, RGB-Werten und Hexadezimalcode;
-„Beurteilungen“: Hinzufügen einer weiteren, ungeordneten Liste;
-„Noch mehr Gestaltung“: Hinzufügen von Bildern und Schriftarten.
+## Herausforderungen
 
-## Dieses Projekt offline beenden
-Falls die Kinder dieses Projekt offline beenden, müssen sie die Bilder, die sie benutzen wollen, im gleichen Verzeichnis wie ihre Template.html (Vorlage) Datei abspeichern.
+"Noch mehr Zutaten" - weitere Punkte zu einer ungeordneten Liste hinzufügen; "Weitere Schritte" - weitere Punkte zu einer geordneten Liste hinzufügen; "Noch mehr Farben" - Farbnamen, rgb Werte und hex Codes hinzufügen; "Bewertungen - noch eine ungeordnete Liste hinzufügen; "Noch mehr Gestaltungsmöglichkeiten" - Bilder und Schriftarten hinzufügen.
 
-Sie brauchen dann einfach nur den Namen der Datei in ihren `<img>` Tags hinzuzufügen:
+## Das Project offline abschließen
 
-```
-<img src="banana.jpg" />
-```
+Wenn Kinder dieses Projekt offline abschließen, müssen sie die Bilder die sie verwenden wollen im selben Folder wie ihr Template.html file speichern.
+
+Sie können einfach den Namen der Datei in ihren `<img>` tags hinzufügen:
+
+    <img src="banana.jpg" />
+    
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Projektmaterial
+---
+
+## Projektressourcen
+
++ [.zip-Datei, die alle Projektressourcen enthält](resources/recipe-project-resources.zip)
++ [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
++ [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
++ [template/index.html](resources/template-index.html)
++ [template/style.css](resources/template-style.css)
+
+## Ressourcen für Clubleiter
+
++ [.zip-Datei, die alle fertig gestellten Projektressourcen enthält](resources/recipe-volunteer-resources.zip)
++ [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/52dbbf5cdb)
++ [recipe-finished/index.html](resources/recipe-finished-index.html)
++ [recipe-finished/style.css](resources/recipe-finished-style.css)
++ [recipe-finished/banana.png](resources/recipe-finished-banana.png)
+
+--- /collapse ---
