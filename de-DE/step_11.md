@@ -6,7 +6,7 @@ Kannst du ein Bild zu deiner Webseite hinzufügen? Oder die Schriftart veränder
 
 ![screenshot](images/recipe-final.png)
 
-Hier ist etwas Code, der dir helfen wird:
+Hier ist ein Code, der dir helfen wird:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
