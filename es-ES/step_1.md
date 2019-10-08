@@ -18,9 +18,9 @@ En este proyecto, los niños aprenderán sobre listas de HTML y colores CSS. Cre
 
 ## Recursos en línea
 
-Recomendamos usar [trinket](https://trinket.io/) para escribir HTML& CSS en línea.
+Recomendamos usar [trinket](https://trinket.io/) para programar en HTML y CSS en línea.
 
-Los niños también pueden hacer uso de este trinket en blanco [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o alternativamente pueden usar esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
+Los niños también pueden hacer uso de este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio código HTML y CSS, o alternativamente, pueden usar esta plantilla de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 También hay un trinket que contiene una solución de muestra para los desafíos:
 
@@ -33,7 +33,7 @@ Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.or
 + template/index.html
 + template/style.css
 
-También puede encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
+También puedes encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
