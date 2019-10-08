@@ -1,22 +1,22 @@
 ## Introdução
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+Neste projeto vais aprender a criar uma página web para a tua receita favorita.
 
 ![captura de ecrã](images/recipe-final.png)
 
-### Informações adicionais para os líderes do clube
+### Informações adicionais para os líderes de clube
 
 Se precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Notas de líder de clube
+## title: Notas para os líderes de clube
 
 ## Introdução:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+Neste projeto, as crianças vāo aprender acerca de listas HTML e cores CSS. Elas irāo criar a sua própria receita, adicionando listas de ingredientes e métodos de preparaçāo.
 
-## Online Resources
+## Recursos online
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
