@@ -28,18 +28,18 @@ Há também um trinket que contém uma amostra de solução para os desafios:
 
 ## Recursos offline
 
-Este projeto pode ser [ concluído offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) se preferires. Pode aceder aos recursos do projeto clicando no link 'Materiais de Projeto' deste projeto. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Este projeto pode ser [ concluído offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) se preferires. Pode aceder aos recursos do projeto clicando no link 'Materiais de Projeto' deste projeto. Este link contém uma secção 'Recursos do projeto', que inclui recursos que as crianças precisam para concluir este projeto offline. Certifique-se de que cada criança tem acesso a uma cópia destes recursos. Esta secção inclui os seguintes arquivos:
 
 + template/index.html
 + template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Também pode encontrar uma versão completa dos desafios deste projeto na secção 'Recursos Voluntários', que contém:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Todos os recursos acima também são transferíveis como arquivos `.zip` do projeto e voluntários.)
 
 ## Objetivos de Aprendizagem
 
