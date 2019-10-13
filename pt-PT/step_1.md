@@ -43,19 +43,19 @@ Também pode encontrar uma versão completa dos desafios deste projeto na secç�
 
 ## Objetivos de Aprendizagem
 
-+ Writing HTML:
++ Escrever HTML:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
+    + Etiquetas de lista `<ul>`, `<ol>` and `<li>`;
+    + Etiqueta `<hr/>`;
     + Consolidating the use of nested tags.
 
-+ Writing CSS:
++ Escrever CSS:
     
-    + Colours (names & hexadecimal codes).
+    + Cores (nomes & códigos hexadecimais).
 
 Este projeto abrange elementos das seguintes vertentes do [ Curriculo Raspberry Pi Digital Making ](http://rpf.io/curriculum):
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [ Projetar ativos 2D e 3D básicos ](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Desafios
 
