@@ -61,7 +61,7 @@ Este projeto abrange elementos das seguintes vertentes do [ Curriculo Raspberry 
 
 "Mais ingredientes" - adicionar mais itens a uma lista desordenada; "Mais passos" - adicionar mais itens a uma lista ordenada; "Mais cores" - adicionar nomes de cores, valores rgb e códigos hex; "Comentários" - adicionar outra lista desordenada; "Mais estilo" - adicionar imagens e fontes.
 
-## Completing this project offline
+## Completar este projeto offline
 
 If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
 
