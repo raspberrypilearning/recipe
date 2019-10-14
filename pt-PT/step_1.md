@@ -63,9 +63,9 @@ Este projeto abrange elementos das seguintes vertentes do [ Curriculo Raspberry 
 
 ## Completar este projeto offline
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+Se as crianças estāo a concluir este projecto offline, vāo precisar de guardar as imagens que pretenderem utilizar na mesma pasta que o seu ficheiro Template.html.
 
-They can then just add the name of the file in their `<img>` tags:
+Entāo só basta adicionar o nome do ficheiro às etiquetas `<img>`:
 
     <img src="banana.jpg" />
     
