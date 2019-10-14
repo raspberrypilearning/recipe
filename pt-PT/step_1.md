@@ -59,7 +59,7 @@ Este projeto abrange elementos das seguintes vertentes do [ Curriculo Raspberry 
 
 ## Desafios
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"Mais ingredientes" - adicionar mais itens a uma lista desordenada; "Mais passos" - adicionar mais itens a uma lista ordenada; "Mais cores" - adicionar nomes de cores, valores rgb e códigos hex; "Comentários" - adicionar outra lista desordenada; "Mais estilo" - adicionar imagens e fontes.
 
 ## Completing this project offline
 
