@@ -76,18 +76,18 @@ Entāo só basta adicionar o nome do ficheiro às etiquetas `<img>`:
 
 ## title: Materiais do projeto
 
-## Project resources
+## Recursos do projeto
 
-+ [.zip file containing all project resources](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [Arquivo .zip contendo todos os recursos do projeto](resources/recipe-project-resources.zip)
++ [Trinket modelo on-line](http://jumpto.cc/trinket-template)
++ [Trinket em branco on-line](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
 ## Recursos do líder de clube
 
-+ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
-+ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
++ [Arquivo .zip contendo todos os recursos do projeto concluído](resources/recipe-volunteer-resources.zip)
++ [Projeto Trinket concluido on-line](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
