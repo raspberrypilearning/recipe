@@ -15,13 +15,13 @@
     </ol>
     
 
-![स्क्रीनशॉट](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
 + अब आपको सिर्फ सूचि के चीज़ो को आपके नए क्रमबद्ध सूची में जोड़ना है:
 
     <li>Peel the banana and add to a blender</li>
     
 
-![स्क्रीनशॉट](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
 अब देखिये कैसे अपनेआप सारी चीज़े क्रमांकित हो गयी हैं!
