@@ -17,7 +17,7 @@
     }
     
 
-![स्क्रीनशॉट](images/recipe-hr-css.png)
+![screenshot](images/recipe-hr-css.png)
 
 + आप CSS कोड द्वारा अपने बुलेट पॉइंट्स का स्वरूप भी बदल सकते हैं:
 
@@ -26,4 +26,4 @@
     }
     
 
-![स्क्रीनशॉट](images/recipe-ul-css.png)
+![screenshot](images/recipe-ul-css.png)
