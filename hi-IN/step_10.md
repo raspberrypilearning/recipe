@@ -4,6 +4,6 @@
 
 अपने कुछ दोस्तों से अपनी रेसिपी की समीक्षा करने के लिए कहें। इसके लिए आपको अन्य सूची बनानी होगी।
 
-![स्क्रीनशॉट](images/recipe-reviews.png)
+![screenshot](images/recipe-reviews.png)
 
 \--- /challenge \---
