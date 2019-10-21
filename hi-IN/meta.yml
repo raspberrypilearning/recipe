@@ -10,10 +10,10 @@ title: रेसिपी
 description: अपनी पसंदीदा रेसिपी का वेबपेज बनाएँ, ताकि आपके मित्र इसे बना सकें!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
-technologies: html/css
+technologies: html-css-javascript
 site_areas: प्रोजेक्ट
 hardware: ''
-software: htmp-css-javascript
+software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
@@ -24,18 +24,18 @@ steps:
   - 
     title: सामग्री
   - 
-    title: 'चुनौती: और सामग्री'
+    title: 'चुनौती: अधिक सामग्री'
   - 
     title: विधि
   - 
-    title: 'चुनौती: और चरण'
+    title: 'चुनौती: अधिक चरण'
   - 
     title: रंग!
   - 
     title: अंतिम रूप देना
   - 
-    title: 'चुनौती: और रंग!'
+    title: 'चुनौती: अधिक रंग!'
   - 
     title: 'चुनौती: समीक्षाएँ'
   - 
-    title: 'चुनौती: और स्टाइलिंग'
+    title: 'चुनौती: अधिक स्टाइलिंग'
