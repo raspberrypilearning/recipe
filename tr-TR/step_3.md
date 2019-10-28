@@ -1,4 +1,4 @@
-## İçindekiler
+## malzemeler
 
 Tarifiniz için gereken malzemeleri listeleyelim.
 
