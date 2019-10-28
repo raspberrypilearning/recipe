@@ -12,7 +12,7 @@ In this project, you’ll learn how to create a webpage for your favourite recip
 
 ## title: 俱乐部导师说明
 
-## 简介
+## 简介：
 
 In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
@@ -20,7 +20,7 @@ In this project, children will learn about HTML lists and CSS colours. They will
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+孩子们也可以用这个空白 trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) 来编写自己的 HTML & CSS，或者他们可以用 trinket 模板 [(jumpto.cc/html-template)](http://jumpto.cc/html-template)。
 
 以下的trinket代码包含编写挑战的示范解决方案：
 
@@ -28,7 +28,7 @@ Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http:/
 
 ## 离线资源
 
-如果你愿意，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)。 你可以点击本项目的“项目资料”链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都能获得这些资源。 这部分包含如下文件：
+如果愿意的话，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)。 你可以点击本项目的“项目资料”链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都可以访问这些资源。 这部分包含如下文件：
 
 + template/index.html
 + template/style.css
@@ -39,7 +39,7 @@ Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http:/
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(上述所有资源也可以以`.zip`压缩包的形式下载。)
+(上述所有资源均可下载为项目和志愿者`.zip`文件。)
 
 ## 学习目标
 
@@ -55,7 +55,7 @@ Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http:/
 
 本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [设计基本的 2D 和 3D 资源](https://www.raspberrypi.org/curriculum/design/creator) 。
 
 ## 挑战
 
@@ -79,8 +79,8 @@ They can then just add the name of the file in their `<img>` tags:
 ## 项目资源
 
 + [包含所有项目资源的.zip压缩包](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [在线 Trinket 模板](http://jumpto.cc/trinket-template)
++ [在线空白 Trinket 项目](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
