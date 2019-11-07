@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- izazov \---
 
 ## Izazov: Više stilova
 
