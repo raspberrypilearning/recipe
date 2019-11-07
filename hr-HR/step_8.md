@@ -8,7 +8,7 @@ Dodajmo još malo HTML i CSS koda kako bi poboljšali stranicu.
 
 Uočite da ovaj tag nema završni tag, kao i `<img>` tag.
 
-+ Linija koju ste dodali ne podudara se sa stulom ostatka vaše stranice. Ispravimo to dodajući malo CSS koda:
++ Linija koju ste dodali ne podudara se sa stilom ostatka vaše stranice. Ispravimo to dodajući malo CSS koda:
 
     hr {
         height: 2px;
