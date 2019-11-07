@@ -1,4 +1,4 @@
-\--- izazov \---
+\--- challenge \---
 
 ## Izazov: Više stilova
 
@@ -15,4 +15,4 @@ Ovdje je kod koji vam može pomoći:
     <img src="image-link-goes-here">
     
 
-\--- challenge \---
+\--- /challenge \---
