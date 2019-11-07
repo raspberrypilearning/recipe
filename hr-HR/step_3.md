@@ -12,14 +12,14 @@ Navedimo na listi sastojke koji su potrebni za vaš recept.
 
     <h1>Frape od banana</h1>
     
-    <h3>Sastpjci:</h3>
+    <h3>Sastojci:</h3>
     
     <ul>
     
     </ul>
     
 
-+ Pogedajte vašu interentsku stranicu, trebali bi vidjeti vaša dva naslova.
++ Pogledajte vašu internetsku stranicu, trebali bi vidjeti vaša dva naslova.
 
 ![screenshot](images/recipe-headings.png)
 
