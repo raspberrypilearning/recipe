@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- izazov \---
 
 ## Izazov: Još boja!
 
@@ -18,6 +18,6 @@ Nekoliko primjera boja:
     + `rgb(128, 128, 0)` (malo crvene i zelene, bez plave)
     + `#808000`
 
-Probajte viti sigurni da boje koja odaberete odgovaraju vašem receptu!
+Probajte biti sigurni da boje koja odaberete odgovaraju vašem receptu!
 
-\--- challenge \---
+\--- /izazov \---
