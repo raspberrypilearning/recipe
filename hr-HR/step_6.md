@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- izazov \---
 
 ## Izazov: Više koraka
 
@@ -8,4 +8,4 @@ Metoda bi trebala izgledati ovako:
 
 ![screenshot](images/recipe-more-method.png)
 
-\--- challenge \---
+\--- /izazov \---
