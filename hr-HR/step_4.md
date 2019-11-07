@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- izazov \---
 
 ## Izazov: Dodaj još sastojaka
 
@@ -8,4 +8,4 @@ Vaša internetska stranica trebala bi izgledati ovako:
 
 ![screenshot](images/recipe-more-ingredients.png)
 
-\--- challenge \---
+\--- /izazov \---
