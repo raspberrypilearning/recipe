@@ -4,7 +4,7 @@ Sljedeće, objasnimo kako ćete izraditi vaš recept.
 
 + Korisiti ćete drugu listu za pisanje svoje metode, ali sada ćete koristiti **uređenu listu**, koristeći `<ol>` tag.
 
-Uređena lista je numerirana lista, koja se koristi kada je redosljed koraka bitan.
+Uređena lista je numerirana lista, koja se koristi kada je redoslijed koraka bitan.
 
 Dodajte sljedeći kod ispod vaše liste sastojaka, budite sigurni da je unutar vašeg `<body>` taga:
 
@@ -24,4 +24,4 @@ Dodajte sljedeći kod ispod vaše liste sastojaka, budite sigurni da je unutar v
 
 ![screenshot](images/recipe-ol.png)
 
-Uočite da su sastojci na listi automataski numerirani!
+Uočite da su sastojci na listi automatski numerirani!
