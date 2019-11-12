@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Reviews
+## 挑战：评论
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+让你的一些朋友为你的食谱留下评论。 你需要再写一个列表。
 
 ![截屏](images/recipe-reviews.png)
 
