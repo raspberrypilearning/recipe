@@ -59,13 +59,13 @@
 
 ## 挑战
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+“更多原料”——在无序列表中添加更多项目； “更多步骤”——在有序列表中添加更多项目； “更多的颜色”——添加颜色名称，rgb值和十六进制代码； “评论”——添加另一个无序列表； “更多的样式”——添加图片和字体。
 
-## Completing this project offline
+## 离线完成这个项目
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+如果孩子们离线完成这个项目，他们需要将打算使用的图片保存在与Template.html 文件相同的文件夹中。
 
-They can then just add the name of the file in their `<img>` tags:
+然后他们可以在`<img>`标签中添加文件的名称：
 
     <img src="banana.jpg" />
     
