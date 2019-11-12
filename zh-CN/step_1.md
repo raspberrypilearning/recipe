@@ -14,17 +14,17 @@
 
 ## 简介：
 
-在这个项目中，孩子们将学习HTML列表和CSS颜色。 They will create their own recipe, adding ingredient and method lists.
+在这个项目中，孩子们将学习HTML列表和CSS颜色。 他们将创建自己的食谱、添加原料和方法列表。
 
 ## 在线资源
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+我们推荐使用[trinket](https://trinket.io/) 来在线完成 HTML & CSS 的代码。
 
 孩子们也可以用这个空白 trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) 来编写自己的 HTML & CSS，或者他们可以用 trinket 模板 [(jumpto.cc/html-template)](http://jumpto.cc/html-template)。
 
 以下的trinket代码包含编写挑战的示范解决方案：
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [完成的“食谱” -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
 ## 离线资源
 
@@ -43,15 +43,15 @@ We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
 ## 学习目标
 
-+ Writing HTML:
++ 学习以下HTML：
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + `<ul>`, `<ol>` 和 `<li>` 列表标签；
+    + `<hr/>` 标签；
+    + 巩固嵌套标签的使用。
 
-+ Writing CSS:
++ 学习以下CSS：
     
-    + Colours (names & hexadecimal codes).
+    + 颜色（名称 & 十六进制表示方式）。
 
 本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
 
