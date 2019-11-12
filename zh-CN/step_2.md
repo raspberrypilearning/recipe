@@ -1,10 +1,10 @@
-## Decide on a recipe
+## 选择一份食谱
 
-Before you get coding, you’ll need to decide on a recipe.
+在开始编写代码之前，你需要选择一份食谱。
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ 想出一个你想和朋友分享的食谱。 可以是： 
+    + 在网上找到的一份食谱；
+    + 你最喜欢的菜；
+    + 自己编的！
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+在这个项目中，你将看到的示例视频是香蕉奶昔。 如果你找不到自己的食谱，你可以复制这个食谱。
