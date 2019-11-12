@@ -1,6 +1,6 @@
 ## 简介
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+在这个项目中，你将学习如何为你最喜欢的食谱创建一个网页。
 
 ![截图](images/recipe-final.png)
 
@@ -14,7 +14,7 @@ In this project, you’ll learn how to create a webpage for your favourite recip
 
 ## 简介：
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+在这个项目中，孩子们将学习HTML列表和CSS颜色。 They will create their own recipe, adding ingredient and method lists.
 
 ## 在线资源
 
