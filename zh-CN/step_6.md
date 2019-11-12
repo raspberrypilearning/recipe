@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: More steps
+## 挑战：更多步骤
 
-Can you add all of the steps for making **your** recipe?
+你能把所有步骤都加到**你的**食谱中吗？
 
-Your method should look something like this:
+你的方法应该看起来像这样：
 
 ![截屏](images/recipe-more-method.png)
 
