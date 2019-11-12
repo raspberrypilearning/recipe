@@ -23,13 +23,13 @@
 
 ![截图](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+你现在看不到你的列表，因为你还没有添加任何列表项！
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ 下一步是使用`<li>`标签将列表项添加到列表中。 在你的`<ul>`标签中添加以下代码：
 
-    <li>1 banana</li>
+    <li>1个香蕉</li>
     
 
 ![截屏](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+由于列表是无序的，所以列表项旁边没有数字，只有项目符号。
