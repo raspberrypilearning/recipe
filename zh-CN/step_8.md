@@ -8,7 +8,7 @@
 
 注意，这个标签没有结束标签，就像`<img>`标记一样。
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ 你刚刚添加的行与你的其他页面样式不匹配。 让我们通过添加一些CSS代码来解决这个问题：
 
     hr {
         height: 2px;
@@ -19,7 +19,7 @@
 
 ![截屏](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ 你甚至可以通过这个CSS代码来改变项目符号的形状：
 
     ul {
         list-style-type: square;
