@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: More styling
+## 挑战：更多样式
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+你可以在你的网页上添加图片吗？ 或者改变字体？ 你的网页可以是这样的：
 
-![screenshot](images/recipe-final.png)
+![截屏](images/recipe-final.png)
 
-Here’s some code that will help you:
+这里有一些代码可能会帮到你：
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
