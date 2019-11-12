@@ -1,25 +1,25 @@
-## Ingredients
+## 原料
 
-Let’s list the ingredients that are needed for your recipe.
+让我们列出你的食谱所需要的原料。
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ 打开这个示例 trinket： [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
     效果应该是这样：
     
     ![截屏](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ 对于你的原料列表，你将使用**无序列表**，用`<ul>`标签表示。 转到模板的第8行，添加这个HTML，将`<h1>`标题中的文本替换为你的食谱的名称：
 
-    <h1>Banana Milkshake</h1>
+    <h1>香蕉奶昔</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>原料：</h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ 查看你的网页，你应该看到你的两个标题。
 
 ![截图](images/recipe-headings.png)
 
