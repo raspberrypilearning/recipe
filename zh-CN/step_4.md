@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: More ingredients
+## 挑战：更多原料
 
-Can you add all of the ingredients for **your** recipe?
+你能把所有原料都加到**你的**食谱中吗？
 
-Your webpage should look something like this:
+你的网页看起来应该是这样：
 
 ![截屏](images/recipe-more-ingredients.png)
 
