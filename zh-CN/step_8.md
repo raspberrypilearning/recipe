@@ -1,12 +1,12 @@
-## Finishing touches
+## 最后一步
 
-Let’s add a little more HTML and CSS to improve your webpage.
+让我们再添加一点HTML和CSS来改进你的网页。
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ 你可以使用`<hr>`标签在食谱的末尾添加一条水平线。
 
 ![截屏](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+注意，这个标签没有结束标签，就像`<img>`标记一样。
 
 + The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
 
