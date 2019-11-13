@@ -1,6 +1,6 @@
-## Receta
+## Preparación
 
-A continuación, vamos a eplicar cómo hacer tu receta.
+A continuación, vamos a explicar cómo preparar tu receta.
 
 + Vas a usar otra lista para escribir los pasos de preparación, pero esta vez vas a usar una**lista ordenada**, usando la etiqueta `<ol>`.
 
