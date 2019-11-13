@@ -6,6 +6,6 @@
 
 Tu receta debería parecerse a este ejemplo:
 
-![captura de pantalla](images/recipe-more-method.png)
+![screenshot](images/recipe-more-method.png)
 
 \--- /challenge \---
