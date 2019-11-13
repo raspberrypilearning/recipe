@@ -2,7 +2,7 @@
 
 En este proyecto aprenderás a crear una página web para tu receta favorita.
 
-![captura de pantalla](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
 ### Información adicional para los líderes de club
 
@@ -41,7 +41,7 @@ También puedes encontrar una versión completa de los desafíos de este proyect
 
 (Todos los recursos anteriores también se pueden descargar como archivos `.zip` de proyectos y voluntarios.)
 
-## Objetivos del Aprendizaje
+## Objetivos de Aprendizaje
 
 + Escribir HTML:
     
@@ -49,13 +49,13 @@ También puedes encontrar una versión completa de los desafíos de este proyect
     + Etiqueta `<hr/>`;
     + Consolidar el uso de etiquetas indentadas.
 
-+ Escribir CSS:
++ Programar CSS:
     
     + Colores (nombres & códigos hexadecimales).
 
-Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
+Este proyecto incluye los siguientes aspectos del [Curríulo de Creación Digital de Raspberry Pi](http://rpf.io/curriculum):
 
-+ [Activos de diseño básico en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator).
++ [Diseño básico en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Retos
 
