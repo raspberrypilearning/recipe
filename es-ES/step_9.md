@@ -12,7 +12,7 @@ Aquí hay algunos ejemplos de colores:
     + `rgb(255,0,0)` (mucho rojo, nada de verde y nada de azul)
     + `#ff0000`
 
-+ Oliva puede escribirse como:
++ Verde oliva puede escribirse como:
     
     + `olive`
     + `rgb(128, 128, 0)` (un poco de rojo y verde y nada de azul)
