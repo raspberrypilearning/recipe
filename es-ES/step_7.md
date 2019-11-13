@@ -2,16 +2,16 @@
 
 Vamos a añadir algo de color a la página web de tu receta.
 
-+ Ya has aprendido a añadir color al texto de tu página web. Añade este código dentro de tu fichero `style.css`, para hacer que todo el texto del cuerpo de tu página web sea azul:
++ Ya has aprendido a añadir color al texto de tu página web. Añade este código dentro de tu archivo `style.css`, para hacer que todo el texto del cuerpo de tu página web sea azul:
 
     body {
         color: blue;
     }
     
 
-![captura de pantalla](images/recipe-blue.png)
+![screenshot](images/recipe-blue.png)
 
-+ Tu navegador conoce los colores como `azul`, `amarillo` y hasta `verde claro`, pero ¿sabías que tu navegador sabe los **nombres** de más de 140 colores?
++ Tu navegador conoce los colores `azul`, `amarillo` y hasta `verde claro`, pero ¿sabías que tu navegador sabe los **nombres** de más de 140 colores?
 
 Hay una lista de todos los nombres de colores que puedes usar: [ jumpto.cc/colours ](http://jumpto.cc/colours), que incluye nombres de colores como ` tomato`, ` firebrick ` y ` peachpuff`.
 
