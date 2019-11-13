@@ -57,15 +57,15 @@ Este proyecto incluye los siguientes aspectos del [Curríulo de Creación Digita
 
 + [Diseño básico en 2D y 3D ](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Retos
+## Desafíos
 
 "Más ingredientes" - añadir más elementos a una lista desordenada; "Más pasos" - añadir más elementos a una lista ordenada; "Más colores" - añadir nombres de colores, valores rgb y codigos hexadecimales; "Opiniones" - añadir otra lista desordenada; "Más estilos" - añadir imágenes y fuentes de letra.
 
 ## Completar este proyecto sin conexión
 
-Si los niños están completando este proyecto sin conexión, necesitarán guardar las imágenes que quieran usar en la misma carpeta que su fichero Template.html.
+Si los niños están completando este proyecto sin conexión, necesitarán guardar las imágenes que quieran usar en la misma carpeta que su archivo Template.html.
 
-Pueden simplemente añadir el nombre de su ficher en las etiquetas `<img>`:
+Después podrán simplemente añadir el nombre del archivo en sus `<img>` etiquetas:
 
     <img src="banana.jpg" />
     
@@ -74,7 +74,7 @@ Pueden simplemente añadir el nombre de su ficher en las etiquetas `<img>`:
 
 ## \--- collapse \---
 
-## title: materiales del proyecto
+## title: Materiales del proyecto
 
 ## Recursos del proyecto
 
