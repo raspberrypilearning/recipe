@@ -1,10 +1,10 @@
 ## Toques finales
 
-Vamos a añadir un poco más de HTML y CSS para mejorar tu página web.
+Vamos a añadir un poco más de código HTML y CSS para mejorar tu página web.
 
-+ Puedes añadir una línea horizontal al final de tu recta, usando la etiqueta `<hr>`.
++ Puedes añadir una línea horizontal al final de tu receta, usando la etiqueta `<hr>`.
 
-![captura de pantalla](images/recipe-hr.png)
+![screenshot](images/recipe-hr.png)
 
 Fíjate que esta etiqueta no tiene etiqueta de fin, como la etiqueta `<img>`.
 
@@ -17,7 +17,7 @@ Fíjate que esta etiqueta no tiene etiqueta de fin, como la etiqueta `<img>`.
     }
     
 
-![captura de pantalla](images/recipe-hr-css.png)
+![screenshot](images/recipe-hr-css.png)
 
 + Hasta puedes cambiar la apariencia de los puntos de enumeración con código CSS:
 
@@ -26,4 +26,4 @@ Fíjate que esta etiqueta no tiene etiqueta de fin, como la etiqueta `<img>`.
     }
     
 
-![captura de pantalla](images/recipe-ul-css.png)
+![screenshot](images/recipe-ul-css.png)
