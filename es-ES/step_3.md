@@ -1,12 +1,12 @@
 ## Ingredientes
 
-Vamos a listar los ingredientes que necesitarás para tu receta.
+Vamos a hacer una lista con los ingredientes que necesitarás para tu receta.
 
 + Abre la plantilla de trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
     El proyecto debería parecerse a esto:
     
-    ![captura de pantalla](images/recipe-starter.png)
+    ![screenshot](images/recipe-starter.png)
 
 + Para tu lista de ingredientes, vas a usar una **lista desordenada**, usando la etiqueta `<ul>`. Ve a la línea 8 de la plantilla y alade este código HTML, sustituyendo el texto en el`<h1>` título con el título de tu receta:
 
