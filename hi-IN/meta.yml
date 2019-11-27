@@ -17,7 +17,7 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: भूमिका
+  - title: परिचय
   - title: रेसिपी तय करें
   - title: सामग्री
   - title: 'चुनौती: अधिक सामग्री'
