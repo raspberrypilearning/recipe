@@ -1,32 +1,29 @@
 ## Toques finales
 
-Vamos a añadir un poco más de HTML y CSS para mejorar tu página web.
+Vamos a añadir un poco más de código HTML y CSS para mejorar tu página web.
 
-+ Puedes añadir una línea horizontal al final de la receta usando la etiqueta `<hr>`.
++ Puedes añadir una línea horizontal al final de tu receta, usando la etiqueta `<hr>`.
 
 ![screenshot](images/recipe-hr.png)
 
-Date cuenta de que esta etiqueta no tiene etiqueta de finalización, como la etiqueta `<img>`.
+Fíjate que esta etiqueta no tiene etiqueta de fin, como la etiqueta `<img>`.
 
-+ La línea que acabamos de añadir no encaja con el estilo del resto de la página. Vamos a arreglar esto añadiendo algo de código CSS:
-
++ La línea que acabas de añadir no cuadra con el estilo de tu página web. Vamos a arreglarlo añadiendo un poco de código CSS:
 ```
-hr {
-    height: 2px;
-    border: none;
-    background-color: tomato;
-}
-```
+    hr {
+        height: 2px;
+        border: none;
+        background-color: tomato;
+    }
+```    
 
 ![screenshot](images/recipe-hr-css.png)
 
-+ Incluso puedes cambiar como son los puntos de las listas desordenadas con este código CSS:
-
++ Hasta puedes cambiar la apariencia de los puntos de enumeración con código CSS:
 ```
-ul {
-    list-style-type: square;
-}
-```
+    ul {
+        list-style-type: square;
+    }
+```    
 
 ![screenshot](images/recipe-ul-css.png)
-

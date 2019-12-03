@@ -1,30 +1,27 @@
 ## Preparación
 
-A continuación vamos a explicar como hacer la receta.
+A continuación, vamos a explicar cómo preparar tu receta.
 
-+ Ahora vamos a usar otra lista para escribir la preparación, pero esta vez vamos a usar una __lista ordenada__ utilizando la etiqueta `<ol>`.
++ Vas a usar otra lista para escribir los pasos de preparación, pero esta vez vas a usar una **lista ordenada**, usando la etiqueta `<ol>`.
 
-Una lista ordenada es una lista numérica, que deberíamos emplear cuando el orden de los pasos es importante.
+Una lista ordenada es una lista con números, que deberías usar cuando el orden de los pasos es importante.
 
-Añade este código bajo la lista de ingredientes. Asegurate de que este dentro de las etiquetas de `<body>`:
-
+Añade este código debajo de la lista de ingredientes, asegurándote que está dentro de la etiqueta `<body>`:
 ```
-<h3>Preparación:</h3>
-
-<ol>
-
-</ol>
-```
+    <h3>Preparación:</h3>
+    
+    <ol>
+    
+    </ol>
+```    
 
 ![screenshot](images/recipe-method.png)
 
-+ Ahora solo tienes que añadir la lista de elementos dentro de la nueva lista ordenada:
-
++ Ahora sólo tienes que listar los elementos en tu lista ordenada:
 ```
-<li>Pela el plátano y mételo en la batidora</li>
-```
+    <li>Pela el plátano y añádelo a la batidora</li>
+```    
 
 ![screenshot](images/recipe-ol.png)
 
-Date cuente de que los elementos de la lista están numerado automáticamente.
-
+¡Fíjate que los elementos se numeran de forma automática!
