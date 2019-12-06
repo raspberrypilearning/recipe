@@ -20,4 +20,4 @@ Nekoliko primjera boja:
 
 Probajte biti sigurni da boje koja odaberete odgovaraju vašem receptu!
 
-\--- /izazov \---
+\--- /challenge \---
