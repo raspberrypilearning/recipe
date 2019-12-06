@@ -2,7 +2,7 @@
 
 Em seguida, vamos explicar como fazer a sua receita.
 
-+ Você usará outra lista para escrever seu modo de preparo, mas desta vez, usará uma **lista ordenada**, usando a tag `<ol>` (ol vem do inglês "ordered list", que significa lista com ordenação).
++ Você usará outra lista para escrever seu modo de preparo, mas desta vez, usará uma **lista ordenada**, usando a tag `<ol>` (ol vem do inglês "ordered list", que significa lista ordenada).
 
 Uma lista ordenada é uma lista numerada, que você deve usar quando a ordem das etapas é importante.
 
