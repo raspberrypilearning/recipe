@@ -1,10 +1,10 @@
-\--- challange \---
+\--- challenge \---
 
 ## Défi: Plus d'étapes
 
-Can you add all of the steps for making **your** recipe?
+Pouvez-vous ajouter toutes les étapes pour faire **votre** recette?
 
-Your method should look something like this:
+Votre méthode devrait ressembler à ceci:
 
 ![capture d'écran](images/recipe-more-method.png)
 
