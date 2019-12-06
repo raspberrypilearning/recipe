@@ -6,7 +6,7 @@ Você consegue adicionar uma imagem à sua página da web? Ou mudar a fonte? Vej
 
 ![captura de tela](images/recipe-final.png)
 
-Aqui vai alguns códigos que ajudarão você:
+Aqui estão alguns códigos que ajudarão você:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
