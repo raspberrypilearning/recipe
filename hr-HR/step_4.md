@@ -8,4 +8,4 @@ Vaša internetska stranica trebala bi izgledati ovako:
 
 ![screenshot](images/recipe-more-ingredients.png)
 
-\--- /izazov \---
+\--- /challenge \---
