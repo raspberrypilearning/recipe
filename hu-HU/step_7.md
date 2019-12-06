@@ -1,48 +1,48 @@
-## Colours!
+## Színek!
 
-Let’s add some colour to your recipe webpage.
+Adjunk hozzá néhány színt a recept weboldalához.
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ Már megtanulta, hogyan kell színes szöveget hozzáadni egy weboldalhoz. Adja hozzá ezt a kódot a `style.css` fájl belsejébe, hogy a webhely teljes szövege kékké váljon:
 
-    body {
-        color: blue;
+    test {
+        szín: kék;
     }
     
 
 ![screenshot](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ Böngészője ismeri a `kék`, a `sárga` és a `halványzöld`színt, de tudta, hogy a böngésző valójában ismeri a 140 különböző színből **nevet**?
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Itt található az összes használható színnév: [jumpto.cc/colours](http://jumpto.cc/colours), amely olyan színneveket tartalmaz, mint `paradicsom`, `firebrick` és `barackpuff`.
 
-Change the text colour from `blue` to `tomato`.
+Változtassa meg a szöveg színét `kék` ről ``paradicsomra.
 
-![screenshot](images/recipe-tomato.png)
+![képernyőkép](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ Az Ön böngészője ismeri a 140 szín nevét, de valójában ismeri a több mint 16 millió szín **színértékét**!
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+Ahhoz, hogy megmondja a böngészőnek, melyik színt kell megjeleníteni, csak tudatnia kell vele, hogy mennyi vörös, zöld és kék színt kell használni.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+A vörös, zöld és kék mennyiség `0` és `255`közötti számként van írva.
 
 ![screenshot](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+Adja hozzá ezt a kódot a weboldal törzsének CSS-hez, hogy világossárga háttér legyen:
 
-    background: rgb(250,250,210);
+    háttér: rgb (250 250 210);
     
 
 ![screenshot](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Ha úgy tetszik, akkor lehet mondani a böngészőt, amely színt kijelző használatával hexadecimális kód (vagy **hexa**). Ez hasonlóan működik, mint a fenti `rgb ()` kód, azzal a különbséggel, hogy a hexadecimális kódok mindig `#`mal kezdődnek, és hexadecimális „számot” használnak `00` és `ff` között a vörös, zöld és kék.
 
 ![screenshot](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+Cserélje ki a CSS-ben található `rgb ()` kódot erre a hexadecimális kódra:
 
-    background: #fafad2;
+    háttér: # fafad2;
     
 
 ![screenshot](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+Ugyanazt a sárgát kell látnia, mint korábban!
