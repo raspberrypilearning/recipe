@@ -1,16 +1,16 @@
-\--- challange \---
+\--- challenge \---
 
 ## Défi: Plus de style
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+Pouvez-vous ajouter une image dans votre page Web? Ou changer la police? Voici à quoi pourrait ressembler votre page Web:
 
 ![screenshot](images/recipe-final.png)
 
-Here’s some code that will help you:
+Voici un code qui vous aidera:
 
-    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    font-size: 12pt;
-    font-weight: bold;
+    font-family: Arial / Comic Sans MS / Courrier / Impact / Tahoma;
+    taille de police: 12 pt;
+    police de caractères: gras;
     
     <img src="image-link-goes-here">
     
