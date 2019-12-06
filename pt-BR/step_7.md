@@ -21,7 +21,7 @@ Altere a cor do texto de `blue` para `tomato`.
 
 + Seu navegador conhece os nomes de 140 cores em inglês, mas na verdade conhece os **valores das cores** de mais de 16 milhões de cores!
 
-Para informar ao navegador qual cor exibir, você só precisa informar o quanto vermelho, verde e azul deve usar.
+Para informar ao navegador qual cor exibir, você só precisa informar o quanto de vermelho, verde e azul deve usar.
 
 As quantidades de vermelho, verde e azul são escritas como um número entre `0` e `255`.
 
