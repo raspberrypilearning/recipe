@@ -8,7 +8,7 @@ Aqui estão algumas cores de exemplo:
 
 + Vermelho pode ser escrito como:
     
-    + `red` (obvio!)
+    + `red` (óbvio!)
     + `rgb(255,0,0)` (Muito vermelho, sem verde e sem azul)
     + `#ff0000`
 
