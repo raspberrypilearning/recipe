@@ -1,35 +1,35 @@
 ## Ingrédients
 
-Let’s list the ingredients that are needed for your recipe.
+Énumérons les ingrédients nécessaires à votre recette.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Ouvrez ce bijou de modèle: [jumpto.cc/html-template](http://jumpto.cc/html-template){: target = "_ blank"}.
     
     Le projet devrait ressembler à ceci:
     
     ![capture d'écran](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ Pour votre liste d'ingrédients, vous allez utiliser une liste **non ordonnée**, à l'aide de la balise `<ul>`. Allez à la ligne 8 du modèle et ajoutez ce code HTML en remplaçant le texte du titre `<h1>` par le nom de votre propre recette:
 
-    <h1>Banana Milkshake</h1>
+    <h1>Milkshake à la banane</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>Ingrédients:</h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Affichez votre page Web et vous devriez voir vos deux en-têtes.
 
 ![capture d'écran](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+Cependant, vous ne verrez pas encore votre liste, car vous n'y avez ajouté aucun élément!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ L'étape suivante consiste à ajouter des éléments de liste à votre liste à l'aide de la balise `<li>`. Ajoutez le code suivant dans votre tag `<ul>`:
 
-    <li>1 banana</li>
+    <li>1 banane</li>
     
 
 ![capture d'écran](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+Comme votre liste n'est pas ordonnée, il n'y a pas de chiffres à côté des éléments de la liste, mais des points.
