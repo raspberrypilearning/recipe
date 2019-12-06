@@ -1,34 +1,34 @@
 ## Introduction
 
-Dans ce projet, vous apprendrez à créer une page Web pour votre recette préférée.
+Dans ce projet, tu apprendras à créer une page web pour ta recette préférée.
 
 ![capture d'écran](images/recipe-final.png)
 
-### Informations complémentaires pour les responsables de club
+### Informations complémentaires pour les responsables du club
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/recipe/print).
+Pour imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Notes pour le responsable de club
+## title: Notes pour le responsable du club
 
 ## Introduction :
 
-Dans ce projet, les enfants découvriront les listes HTML et les couleurs CSS. Ils créeront leur propre recette en ajoutant des listes d'ingrédients et de méthodes.
+Dans ce projet, les enfants découvriront les listes HTML et les couleurs CSS. Ils créeront leur propre recette en ajoutant des listes d'ingrédients et des étapes.
 
-## Ressources en-ligne
+## Ressources en ligne
 
-Nous vous recommandons d'utiliser [bibelot](https://trinket.io/) pour écrire HTML & CSS en ligne.
+Nous vous recommandons d'utiliser [trinket](https://trinket.io/) pour écrire le code HTML et CSS en ligne.
 
-Les enfants peuvent également utiliser ce trinket vide [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pour écrire leur propre code HTML & CSS, ou utiliser ce trinket modèle [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Les enfants peuvent également utiliser ce trinket vide [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pour écrire leur propre code HTML et CSS, ou utiliser ce modèle de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Il y a aussi un Trinket contenant un exemple de solution pour les défis :
 
 + ['Recette' terminé - trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Ressources hors-ligne
+## Ressources hors ligne
 
-Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériel pour projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
+Ce projet peut être [terminé hors ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériel pour projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 + template/index.html
 + template/style.css
