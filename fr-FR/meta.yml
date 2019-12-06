@@ -1,17 +1,17 @@
 ---
 hero_image: images/banner.png
-theme: bleu
+theme: blue
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programmation-0, phys-comp-0, fabrication-0, communauté-0
 title: Recette
 description: Créer une page web au sujet de votre recette préférée, afin que vos amis puissent la suivre!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
-site_areas: projets
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -26,7 +26,7 @@ steps:
   - 
     title: 'Défi: Plus d''ingrédients'
   - 
-    title: Method
+    title: Méthode
   - 
     title: 'Défi: Plus d''étapes'
   - 
