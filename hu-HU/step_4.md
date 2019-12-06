@@ -1,10 +1,10 @@
 \--- kihívás \---
 
-## Challenge: More ingredients
+## Kihívás: További összetevők
 
-Can you add all of the ingredients for **your** recipe?
+Tud hozzá az összes hozzávalót **az** receptet?
 
-Your webpage should look something like this:
+Weboldalának így kell kinéznie:
 
 ![screenshot](images/recipe-more-ingredients.png)
 
