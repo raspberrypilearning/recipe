@@ -1,10 +1,10 @@
-\--- challange \---
+\--- challenge \---
 
 ## Défi: Plus d'ingrédients
 
-Can you add all of the ingredients for **your** recipe?
+Pouvez-vous ajouter tous les ingrédients pour **votre** recette?
 
-Your webpage should look something like this:
+Votre page Web devrait ressembler à ceci:
 
 ![capture d'écran](images/recipe-more-ingredients.png)
 
