@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Recipe
-description: Create a webpage of your favourite recipe, so that your friends can make it!
+title: Recept
+description: Készítsen egy weboldalt a kedvenc receptjéről, hogy barátai elkészítsék!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -20,22 +20,22 @@ steps:
   - 
     title: Bevezetés
   - 
-    title: Decide on a recipe
+    title: Döntse el a receptjét
   - 
-    title: Ingredients
+    title: Hozzávalók
   - 
-    title: 'Challenge: More ingredients'
+    title: 'Kihívás: További összetevők'
   - 
-    title: Method
+    title: Eljárás
   - 
-    title: 'Challenge: More steps'
+    title: 'Kihívás: További lépések'
   - 
-    title: Colours!
+    title: Színek!
   - 
-    title: Finishing touches
+    title: Utolsó simítások
   - 
-    title: 'Challenge: More colours!'
+    title: 'Kihívás: Több szín!'
   - 
-    title: 'Challenge: Reviews'
+    title: 'Kihívás: Vélemények'
   - 
-    title: 'Challenge: More styling'
+    title: 'Kihívás: Több stílus'
