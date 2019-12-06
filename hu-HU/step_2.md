@@ -1,10 +1,10 @@
-## Decide on a recipe
+## Döntse el a receptjét
 
-Before you get coding, you’ll need to decide on a recipe.
+A kódolás megkezdése előtt el kell döntenie a receptről.
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ Gondoljon egy olyan receptre, amelyet meg szeretne osztani barátaival. Lehet, hogy: 
+    + Egy recept, amelyet az interneten talált;
+    + A kedvenc étkezésed;
+    + Valamit kitaláltál!
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+A példában bemutatott recept a banán turmixra vonatkozik. Másolhatja ezt a receptet, ha nem találja meg a sajátját.
