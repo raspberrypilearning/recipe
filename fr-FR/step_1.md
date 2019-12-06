@@ -28,34 +28,34 @@ Il y a aussi un Trinket contenant un exemple de solution pour les défis :
 
 ## Ressources hors ligne
 
-Ce projet peut être [terminé hors ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériel pour projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
+Ce projet peut être [terminé hors ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériel du projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 + template/index.html
 + template/style.css
 
 Vous pouvez aussi trouver une version terminée du projet dans la section "Ressources du bénévole" qui contient:
 
-+ recette-finish / index.html
-+ recette-fini / style.css
-+ recette-fini / banane.jpg
++ recipe-finished/index.html
++ recipe-finished/style.css
++ recipe-finished/banana.jpg
 
-(Toutes les ressources ci-dessus peuvent aussi être téléchargées dans les fichiers `.zip` projet et bénévole)
+(Toutes les ressources ci-dessus peuvent également être téléchargées dans les fichiers projet et bénévole au format `.zip` )
 
 ## Objectifs d'apprentissage
 
-+ Écrire du HTML:
++ Écrire du HTML :
     
-    + `<ul>`, `<ol>` et `<li>` étiquettes de liste;
-    + `<hr/>` balise;
-    + Consolidation de l'utilisation des balises imbriquées.
+    + Les balises de liste `<ul>`, `<ol>` et `<li>`
+    + La balise `<hr/>`
+    + Consolider l'utilisation des balises imbriquées
 
-+ Rédaction CSS:
++ Écrire du CSS:
     
-    + Couleurs (nomme & codes hexadécimaux).
+    + Les couleurs (noms et codes hexadécimaux)
 
 Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
 
-+ [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator){: target="_blank.
++ [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator)
 
 ## Défis
 
@@ -65,7 +65,7 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
 
 Si les enfants terminent ce projet hors ligne, ils devront enregistrer les images qu'ils ont l'intention d'utiliser dans le même dossier que leur fichier Template.html.
 
-Ils peuvent ensuite simplement ajouter le nom du fichier dans leurs balises `<img>`:
+Ils peuvent ensuite simplement ajouter le nom du fichier dans leurs balises `<img>` :
 
     <img src="banana.jpg" />
     
