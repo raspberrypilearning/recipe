@@ -1,23 +1,23 @@
 \--- kihívás \---
 
-## Challenge: More colours!
+## Kihívás: Több szín!
 
-Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+Módosítsa a kód színét a színnevek, `rgb ()` értékek és hexadecimális kódok segítségével. A színkódok listája a <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>címen található, vagy léphet a <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> könyvtárba, és létrehozhat saját színeket!
 
-Here are some example colours:
+Íme néhány példa színre:
 
-+ Red can be written as:
++ A pirosat így lehet írni:
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
-    + `#ff0000`
+    + `piros` (nyilvánvalóan!)
+    + `rgb (255,0,0)` (rengeteg piros, zöld és kék nincs)
+    + `# FF0000`
 
-+ Olive can be written as:
++ Az olajbogyó így írható:
     
-    + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
-    + `#808000`
+    + `olajbogyó`
+    + `rgb (128, 128, 0)` (egy kicsit vörös és zöld, és nincs kék)
+    + `# 808000`
 
-Try to make sure that the colours you use match your recipe!
+Próbálja meg ellenőrizni, hogy a használt színek megfelelnek-e a receptnek!
 
 \--- / challenge \---
