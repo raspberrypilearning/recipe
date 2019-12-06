@@ -1,16 +1,16 @@
 \--- kihívás \---
 
-## Challenge: More styling
+## Kihívás: Több stílus
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+Felvehet egy képet a weboldalára? Vagy megváltoztathatja a betűtípust? Így néz ki weboldala:
 
 ![screenshot](images/recipe-final.png)
 
-Here’s some code that will help you:
+Íme néhány kód, amely segít:
 
-    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    font-size: 12pt;
-    font-weight: bold;
+    betűtípus-család: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    betűméret: 12pt;
+    betűméret: félkövér;
     
     <img src="image-link-goes-here">
     
