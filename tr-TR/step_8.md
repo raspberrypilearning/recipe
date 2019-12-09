@@ -8,7 +8,7 @@ Web sayfanızı geliştirmek için biraz daha HTML ve CSS ekleyelim.
 
 Bu etiketin, `<img>` etiketi gibi bir bitiş etiketine sahip olmadığına dikkat edin.
 
-+ Yeni eklediğiniz satır, web sayfanızın geri kalanına uymuyor. Biraz CSS kodu ekleyerek düzeltelim:
++ Yeni eklediğiniz satır, web sayfanızın geri kalanına uymuyor. Hadi bunu biraz CSS kodu ekleyerek düzeltelim:
 
     hr {
         height: 2px;
