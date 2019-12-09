@@ -1,4 +1,4 @@
-## malzemeler
+## Malzemeler
 
 Tarifiniz için gereken malzemeleri listeleyelim.
 
@@ -10,7 +10,7 @@ Tarifiniz için gereken malzemeleri listeleyelim.
 
 + İçindekiler listeniz için `<ul>` etiketini kullanarak **sırasız bir liste** kullanacaksınız. Şablonun 8. satırına gidin ve bu HTML'yi ekleyin, `<h1>` başlığındaki metni kendi tarifinizin adıyla değiştirin:
 
-    <h1>Banana Milkshake</h1>
+    <h1>Muzlu Milkshake</h1>
     
     <h3>İçindekiler:</h3>
     
