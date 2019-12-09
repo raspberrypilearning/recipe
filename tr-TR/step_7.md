@@ -11,7 +11,7 @@ Tarif web sayfanıza biraz renk ekleyelim.
 
 ![ekran görüntüsü](images/recipe-blue.png)
 
-+ Tarayıcınız `mavi`, `sarı` ve hatta `lightgreen` gibi renkleri bilir, ancak tarayıcınızın aslında 140'tan fazla rengin **ismini** bildiğini biliyor muydunuz?
++ Tarayıcınız `mavi`, `sarı` ve hatta `açık yeşil` gibi renkleri bilir, ancak tarayıcınızın aslında 140'tan fazla rengin **ismini** bildiğini biliyor muydunuz?
 
 Kullanabileceğiniz tüm renk isimlerinin bir listesi var: [jumpto.cc/colours](http://jumpto.cc/colours), `tomato`, `firebrick` ve `peachpuff` gibi renk isimlerini içerir.
 
