@@ -87,7 +87,7 @@ Daha sonra `<img>` etiketlerine dosyanın adını ekleyebilirler:
 ## Kulüp lideri için kaynaklar
 
 + [tamamlanmış tüm proje kaynaklarını içeren .zip dosyası](resources/recipe-volunteer-resources.zip)
-+ [Online tamamlanmış Trinket projesi](https://trinket.io/html/c0fd9b40cd)
++ [Çevrimiçi tamamlanmış Trinket projesi](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
