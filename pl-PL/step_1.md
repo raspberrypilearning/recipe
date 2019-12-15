@@ -1,6 +1,6 @@
 ## Wprowadzenie
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+W tym projekcie nauczysz się, jak stworzyć stronę internetową dla Twojego ulubionego przepisu.
 
 ![zrzut ekranu](images/recipe-final.png)
 
@@ -14,7 +14,7 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 ## Wprowadzenie:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+W tym projekcie dzieci dowiedzą się o listach w HTML i kolorach w CSS. Stworzą własny przepis, dodając listy składników i poleceń.
 
 ## Zasoby Online
 
