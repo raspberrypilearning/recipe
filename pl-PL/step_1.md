@@ -24,7 +24,7 @@ Dzieci mogą też używać pustego edytora [(jumpto.cc/html-blank)](http://jumpt
 
 Dostępny jest także projekt zawierający przykładowe rozwiązania wyzwań:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [Ukończony projekt "Przepis" -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
 ## Zasoby Offline
 
