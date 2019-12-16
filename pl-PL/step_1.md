@@ -61,7 +61,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 "More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
 
-## Completing this project offline
+## Wykonanie projektu offline
 
 If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
 
