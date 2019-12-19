@@ -78,16 +78,16 @@ Ei pot să adauge doar numele fișierului în etichetele `<img>`:
 
 ## Resursele proiectului
 
-+ [.zip file containing all project resources](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [fișier .zip care conține toate resursele proiectului](resources/recipe-project-resources.zip)
++ [Șablon Trinket online](http://jumpto.cc/trinket-template)
++ [Trinket online gol](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
 ## Resursele liderului de club
 
-+ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
-+ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
++ [fișier .zip care conține toate resursele proiectului, finalizate](resources/recipe-volunteer-resources.zip)
++ [Proiect Trinket online, finalizat](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
