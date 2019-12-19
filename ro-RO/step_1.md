@@ -1,12 +1,12 @@
 ## Introducere
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+În acest proiect, vei învăța cum să creezi o pagină web pentru rețeta ta preferată.
 
 ![captură de ecran](images/recipe-final.png)
 
-### Informații suplimentare pentru conducătorii e club
+### Informații suplimentare pentru conducătorii de club
 
-Dacă aveți nevoie să imprimați acest proiect, vă rugăm să folosiți versiunea [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+Dacă vrei să printezi acest proiect, folosește [Versiunea printabilă](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
@@ -14,58 +14,58 @@ Dacă aveți nevoie să imprimați acest proiect, vă rugăm să folosiți versi
 
 ## Introducere:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+În acest proiect, copiii vor învăța cum despre liste HTML și culori CSS. Ei vor crea propria lor rețetă, adăugând liste cu ingrediente și metode.
 
-## Online Resources
+## Resurse online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+Recomandăm utilizarea [trinket](https://trinket.io/) pentru a scrie HTML & CSS online.
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Copiii pot, de asemenea, să folosească acest trinket gol [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pentru a scrie propriul cod HTML & CSS sau, alternativ, acest șablon trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Există, de asemenea, un trinket care conține un exemplu de soluție pentru provocări:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [„Rețetă” completată -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline Resources
+## Resurse offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Asigurați-vă că fiecare copil are acces la o copie a acestor resurse. This section includes the following files:
+Acest proiect poate fi [completat offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) dacă dorești. Poți accesa resursele proiectului dând click pe link-ul „Materiale pentru proiect”. Acest link conține o secțiune „Resursele proiectului” ce include materialele de care copiii vor avea nevoie pentru realizarea proiectului offline. Asigură-te că fiecare copil are acces la câte o copie din aceste resurse. Secțiunea include următoarele fișiere:
 
 + template/index.html
 + template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+De asemenea, poți găsi o versiune completă a provocărilor din acest proiect în secțiunea „Resursele voluntarilor”, care conține:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Toate resursele de mai sus se pot descărca ca și fișiere `.zip` pentru proiecte și voluntari.)
 
-## Obiectivele învățării
+## Obiective de învățare
 
-+ Writing HTML:
++ Scrierea de cod HTML:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + Etichetele pentru liste `<ul>`, `<ol>` și `<li>`;
+    + Eticheta `<hr/>`;
+    + Consolidarea folosirii de etichete înglobate.
 
-+ Writing CSS:
++ Scrierea de cod CSS:
     
-    + Colours (names & hexadecimal codes).
+    + Culori (nume & coduri hexazecimale).
 
-Acest proiect acoperă elemente din următoarele domenii [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii ale curriculumului [Raspberry Pi Digital Making](http://rpf.io/curriculum):
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [Proiectarea elementelor grafice 2D și 3D de bază](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Provocări
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+„Mai multe ingrediente” - adăugarea mai multor elemente într-o listă neordonată; „Mai mulți pași” - adăugarea mai multor elemente într-o listă ordonată; „Mai multe culori” - adăugarea numelor de culori, valori RGB și coduri hexazecimale; „Recenzii” - adăugarea unei alte liste nerodonate; „Mai mult stil” - adăugarea de imagini și fonturi.
 
-## Completing this project offline
+## Completarea acestui proiect offline
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+Dacă copiii completează acest proiect offline, ei vor trebui să salvede imaginile pe care urmează să le folosească în același folder cu fișierul lor Template.html.
 
-They can then just add the name of the file in their `<img>` tags:
+Ei pot să adauge doar numele fișierului în etichetele `<img>`:
 
     <img src="banana.jpg" />
     
