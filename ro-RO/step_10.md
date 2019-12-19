@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Reviews
+## Provocare: recenzii
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+Roagă câțiva prieteni să îți lase o recenzie (părere) pentru rețeta ta. Va trebui să faci o altă listă pentru asta.
 
 ![captură de ecran](images/recipe-reviews.png)
 
