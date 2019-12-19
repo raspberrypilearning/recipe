@@ -59,7 +59,7 @@ Acest proiect acoperă elemente din următoarele domenii ale curriculumului [Ras
 
 ## Provocări
 
-„Mai multe ingrediente” - adăugarea mai multor elemente într-o listă neordonată; „Mai mulți pași” - adăugarea mai multor elemente într-o listă ordonată; „Mai multe culori” - adăugarea numelor de culori, valori RGB și coduri hexazecimale; „Recenzii” - adăugarea unei alte liste nerodonate; „Mai mult stil” - adăugarea de imagini și fonturi.
+„Mai multe ingrediente” - adăugarea mai multor elemente într-o listă neordonată; „Mai mulți pași” - adăugarea mai multor elemente într-o listă ordonată; „Mai multe culori” - adăugarea numelor de culori, valori RGB și coduri hexazecimale; „Recenzii” - adăugarea unei alte liste nerodonate; „Mai multe stiluri” - adăugarea de imagini și fonturi.
 
 ## Completarea acestui proiect offline
 
