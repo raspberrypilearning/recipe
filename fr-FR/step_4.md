@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Défi: Plus d'ingrédients
+## Défi : Ajouter de nouveaux ingrédients
 
-Pouvez-vous ajouter tous les ingrédients pour **votre** recette?
+Peux-tu ajouter compléter la liste d'ingrédients pour **ta** recette?
 
 Votre page Web devrait ressembler à ceci:
 
