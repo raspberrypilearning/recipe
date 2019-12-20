@@ -19,7 +19,7 @@ Ajoute ce code sous la liste d'ingrédients. Vérifie ensuite qu'il est bien à 
 
 + Il ne te reste plus qu'à ajouter des éléments cette nouvelle liste ordonnée :
 
-    <li>Éplucher la banane et l'ajouter dans le mixeur</li>
+    <li>Éplucher la banane et l'ajouter au mixeur</li>
     
 
 ![capture d'écran](images/recipe-ol.png)
