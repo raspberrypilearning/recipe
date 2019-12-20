@@ -47,11 +47,11 @@ Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "
     
     + Znaczniki list `<ul>`, `<ol>` i `<li>`;
     + Znacznik `<hr/>`;
-    + Consolidating the use of nested tags.
+    + Utrwalenie zastosowania zagnieżdżonych znaczników.
 
-+ Writing CSS:
++ Tworzenie kodu CSS:
     
-    + Colours (names & hexadecimal codes).
+    + Kolory(nazwy i kody szesnastkowe).
 
 Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
 
