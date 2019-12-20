@@ -25,7 +25,7 @@ Pour indiquer au navigateur quelle couleur afficher, il suffit de lui indiquer l
 
 Les quantités de rouge, de vert et de bleu s’écrivent sous la forme d’un nombre compris entre `0` et `255`.
 
-![screenshot](images/recipe-rgb-img.png)
+![capture d'écran](images/recipe-rgb-img.png)
 
 Ajoute ce code au CSS de la page Web pour afficher un arrière-plan jaune clair :
 
@@ -38,11 +38,11 @@ Ajoute ce code au CSS de la page Web pour afficher un arrière-plan jaune clair 
 
 ![capture d'écran](images/recipe-hex-img.png)
 
-Tu peux remplacer le code `rgb ()` dans le CSS par ce code hexadécimal :
+Si tu remplaces le code `rgb ()` dans le CSS par ce code hexadécimal...
 
-    arrière-plan: # fafad2;
+    background: #fafad2;
     
 
 ![capture d'écran](images/recipe-hex.png)
 
-Vous devriez voir le même jaune clair qu'auparavant!
+...tu devrais voir le même jaune clair qu'auparavant !
