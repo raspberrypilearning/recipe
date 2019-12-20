@@ -59,7 +59,7 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
 
 ## Défis
 
-"Plus d'ingrédients" - ajouter plus d'articles à une liste non ordonnée; "Plus d'étapes" - ajout de plusieurs éléments à une liste ordonnée; "Plus de couleurs" - ajout de noms de couleurs, de valeurs RVB et de codes hexadécimaux; "Avis" - ajout d'une autre liste non ordonnée; "Plus de style" - ajout d’images et de polices.
+"Ajouter de nouveaux ingrédients" - ajouter des éléments à une liste non ordonnée, "Ajouter des étapes" - ajouter plusieurs éléments à une liste ordonnée, "Mettons de la couleur !" - colorer la page avec des noms de couleurs des valeurs RVB et des codes hexadécimaux, "Ajouter des commentaires" - ajouter une autre liste non ordonnée, "Plus de style" - ajouter des images et des polices.
 
 ## Terminer ce projet hors ligne
 
