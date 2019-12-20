@@ -1,44 +1,44 @@
-## Couleurs!
+## Mettons de la couleur !
 
-Ajoutons de la couleur à votre page de recette.
+Ajoutons de la couleur à ta page Web.
 
-+ Vous avez déjà appris comment ajouter du texte coloré à une page Web. Ajoutez ce code dans votre fichier `style.css` , pour que tout le texte du corps du site Web soit bleu:
++ Tu as déjà appris comment ajouter du texte coloré à une page Web. Ajoute ce code dans le fichier `style.css` , pour que tout le texte de la page soit bleu :
 
-    corps {
-        couleur: bleu;
+    body {
+        color: blue;
     }
     
 
 ![capture d'écran](images/recipe-blue.png)
 
-+ Votre navigateur connaît des couleurs telles que `bleu`, `jaune` et même `lightgreen`, mais saviez-vous que votre navigateur connaît effectivement les **noms** de plus de 140 couleurs différentes?
++ Ton navigateur connaît des couleurs telles que `bleu`, `jaune` et même `lightgreen`, mais sais-tu qu'il connaît aussi les **noms** de plus de 140 autres couleurs ?
 
-Tu peux utiliser une liste de tous les noms de couleurs que tu peux utiliser: [jumpto.cc/colours](http://jumpto.cc/colours) , qui inclut des noms de couleur tels que `tomato` , `firebrick` et `peachpuff` .
+Voici une liste de tous les noms de couleurs que tu peux utiliser: [jumpto.cc/colours](http://jumpto.cc/colours) , qui inclut des noms de couleur tels que `tomato` , `firebrick` et `peachpuff` .
 
-Changez la couleur du texte de `bleu` à `tomates`.
+Essaie de changer la couleur du texte de `bleu` à `tomato` :
 
 ![capture d'écran](images/recipe-tomato.png)
 
-+ Votre navigateur connaît les noms de 140 couleurs, mais connaît en réalité les **valeurs de couleur** de plus de 16 millions de couleurs!
++ Ton navigateur connaît les noms de 140 couleurs, mais connaît surtout les **valeurs numériques** de plus de 16 millions de couleurs!
 
-Pour indiquer au navigateur quelle couleur afficher, il vous suffit de lui indiquer la quantité de rouge, de vert et de bleu à utiliser.
+Pour indiquer au navigateur quelle couleur afficher, il suffit de lui indiquer la quantité de rouge, de vert et de bleu à utiliser.
 
 Les quantités de rouge, de vert et de bleu s’écrivent sous la forme d’un nombre compris entre `0` et `255`.
 
 ![screenshot](images/recipe-rgb-img.png)
 
-Ajoutez ce code au CSS du corps de la page Web pour afficher un arrière-plan jaune clair:
+Ajoute ce code au CSS de la page Web pour afficher un arrière-plan jaune clair :
 
-    arrière-plan: rgb (250, 250, 210);
+    background: rgb(250,250,210);
     
 
 ![capture d'écran](images/recipe-rgb.png)
 
-+ Si vous préférez, vous pouvez indiquer au navigateur la couleur à afficher en utilisant un code hexadécimal (ou **code hexadécimal**). Cela fonctionne de la même manière que le code `rgb ()` ci-dessus, à la différence que les codes hexadécimaux commencent toujours par un `#`et utilisent des "nombres" hexadécimaux compris entre `00` et `ff` pour la quantité de rouge, de vert et de noir. bleu.
++ On peut aussi indiquer au navigateur la couleur à afficher en utilisant un code hexadécimal (ou **hex code**). Cela fonctionne de la même manière que le code `rgb ()` ci-dessus, à la différence que les codes hexadécimaux commencent toujours par un `#` et utilisent des "nombres hexadécimaux" compris entre `00` et `ff` pour la quantité de rouge, de vert et de bleu.
 
 ![capture d'écran](images/recipe-hex-img.png)
 
-Remplacez le code `rgb ()` dans votre CSS par ce code hexadécimal:
+Tu peux remplacer le code `rgb ()` dans le CSS par ce code hexadécimal :
 
     arrière-plan: # fafad2;
     
