@@ -2,15 +2,15 @@
 
 ## Défi: Plus de style
 
-Pouvez-vous ajouter une image dans votre page Web? Ou changer la police? Voici à quoi pourrait ressembler votre page Web:
+Veux-tu ajouter une image sur ta page Web ? Ou changer la police ? Voici à quoi ça pourrait ressembler :
 
 ![screenshot](images/recipe-final.png)
 
-Voici un code qui vous aidera:
+Voici un code pour t'aider :
 
-    font-family: Arial / Comic Sans MS / Courrier / Impact / Tahoma;
-    taille de police: 12 pt;
-    police de caractères: gras;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
     
     <img src="image-link-goes-here">
     
