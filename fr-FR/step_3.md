@@ -1,8 +1,8 @@
 ## Ingrédients
 
-Énumérons les ingrédients nécessaires à votre recette.
+Préparons la liste des ingrédients nécessaires à ta recette.
 
-+ Ouvrez ce bijou de modèle: [jumpto.cc/html-template](http://jumpto.cc/html-template){: target = "_ blank"}.
++ Ouvre ce modèle Trinket : [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
     Le projet devrait ressembler à ceci:
     
