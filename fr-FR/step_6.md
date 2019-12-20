@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Défi: Plus d'étapes
+## Défi : Ajouter des étapes
 
-Pouvez-vous ajouter toutes les étapes pour faire **votre** recette?
+Peux-tu compléter la liste des étapes de **ta** recette ?
 
-Votre méthode devrait ressembler à ceci:
+Ta page Web devrait ressembler à ceci :
 
 ![capture d'écran](images/recipe-more-method.png)
 
