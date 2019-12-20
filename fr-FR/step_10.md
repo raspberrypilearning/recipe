@@ -2,7 +2,7 @@
 
 ## Défi: Commentaires
 
-Demandez à quelques-uns de vos amis de laisser une critique de votre recette. Vous aurez besoin de faire une autre liste pour le faire.
+Demande à tes amis de donner leur avis sur ta recette. Tu aura besoin de faire une autre liste pour les afficher.
 
 ![screenshot](images/recipe-reviews.png)
 
