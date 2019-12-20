@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Défis : Plus de couleurs !
+## Défi : Plus de couleur !
 
-Modifiez les couleurs de votre code en utilisant des noms de couleurs, des valeurs `rgb ()` et des codes hexadécimaux. Il y a une liste de charges de couleurs à <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, ou vous pouvez aller à <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> et créer vos propres couleurs!
+Modifions les couleurs dans le code en utilisant des noms de couleurs, des valeurs `rgb ()` et des codes hexadécimaux. Tu peux utiliser une liste des noms de couleur : <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, ou bien créer une couleur personnalisée : <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> .
 
-Voici quelques exemples de couleurs:
+Voici quelques exemples de couleurs :
 
-+ Le rouge peut être écrit comme:
++ Le rouge peut être écrit de différentes façons :
     
-    + `rouge` (évidemment!)
-    + `rgb (255,0,0)` (charges de rouge, pas de vert et pas de bleu)
-    + `# ff0000`
+    + `red` ( nom de la couleur en anglais )
+    + `rgb (255,0,0)` ( le maximum de rouge, pas de vert et pas de bleu )
+    + `#ff0000 (code héxadécimal : 255 = 0xff, 0 = 0x00 et 0 = 0x00)`
 
-+ Olive peut être écrit comme:
++ Le vert olive peut être écrit comme ceci :
     
     + `olive`
-    + `rgb (128, 128, 0)` (un peu de rouge et de vert et pas de bleu)
-    + `# 808000`
+    + `rgb (128, 128, 0)` (moitié rouge, moitié vert et pas de bleu)
+    + `# 808000 (code héxadécimal : 128 = 0x80, 128 = 0x80 et 0 = 0x00)`
 
-Essayez de vous assurer que les couleurs que vous utilisez correspondent à votre recette!
+Essaye de coordonner les couleurs avec ta recette!
 
 \--- /challenge \---
