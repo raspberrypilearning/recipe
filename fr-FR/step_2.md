@@ -1,9 +1,9 @@
-## Choisi ta recette
+## Choisis ta recette
 
-Avant de coder, vous devrez choisir une recette.
+Avant de commencer à coder, tu dois choisir une recette.
 
-+ Pensez à une recette que vous souhaitez partager avec vos amis. Il pourrait être: 
-    + Une recette trouvée en ligne;
++ Réfléchis à une recette que tu voudrais partager avec tes amis. Ça pourrait être : 
+    + Une recette trouvée en ligne
     + Votre repas préféré
     + Quelque chose que vous avez inventé!
 
