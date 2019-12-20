@@ -43,10 +43,10 @@ Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "
 
 ## Cele dydaktyczne
 
-+ Writing HTML:
++ Tworzenie kodu HTML:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
+    + Znaczniki list `<ul>`, `<ol>` i `<li>`;
+    + Znacznik `<hr/>`;
     + Consolidating the use of nested tags.
 
 + Writing CSS:
