@@ -17,7 +17,7 @@ Ajoute ce code sous la liste d'ingrédients. Vérifie ensuite qu'il est bien à 
 
 ![capture d'écran](images/recipe-method.png)
 
-+ Il ne te reste plus qu'à ajouter des éléments cette nouvelle liste ordonnée :
++ Il ne te reste plus qu'à ajouter des éléments à cette nouvelle liste ordonnée :
 
     <li>Éplucher la banane et l'ajouter au mixeur</li>
     
