@@ -14,7 +14,7 @@ Pour imprimer ce projet, merci d'utiliser la [version imprimable](https://projec
 
 ## Introduction :
 
-Dans ce projet, les enfants découvriront les listes HTML et les couleurs CSS. Ils créeront leur propre recette en ajoutant des listes d'ingrédients et des étapes.
+Dans ce projet, les enfants découvriront les listes HTML et les couleurs CSS. Ils créeront leur propre recette en ajoutant des listes d'ingrédients et d'étapes.
 
 ## Ressources en ligne
 
