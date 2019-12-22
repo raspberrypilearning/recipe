@@ -8,7 +8,7 @@ Voici quelques exemples de couleurs :
 
 + Le rouge peut être écrit de différentes façons :
     
-    + `red` ( nom de la couleur en anglais )
+    + `red` ( évidemment! )
     + `rgb (255,0,0)` ( le maximum de rouge, pas de vert et pas de bleu )
     + `#ff0000 (code héxadécimal : 255 = 0xff, 0 = 0x00 et 0 = 0x00)`
 
