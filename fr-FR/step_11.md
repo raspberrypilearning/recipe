@@ -1,8 +1,8 @@
-\--- challange \---
+\--- challenge \---
 
 ## Défi: Plus de style
 
-Veux-tu ajouter une image sur ta page Web ? Ou changer la police ? Voici à quoi ça pourrait ressembler :
+Peux-tu ajouter une image sur ta page Web ? Ou changer la police ? Voici à quoi ça pourrait ressembler :
 
 ![screenshot](images/recipe-final.png)
 
