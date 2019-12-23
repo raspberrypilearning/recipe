@@ -23,13 +23,13 @@ Vamos a hacer una lista con los ingredientes que necesitarás para tu receta.
 
 ![captura de pantalla](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+¡No podrás ver tu lista todavía porque no la hemos añadido aún!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ El siguiente paso es añadir elementos a tu lista usando la etiqueta `<li>`. Añade el siguiente código dentro de tu etiqueta `<ul>`:
 
-    <li>1 banana</li>
+    <li>1 guineo</li>
     
 
 ![captura de pantalla](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+Como tu lista es desordenada, no hay números al lado de los elementos, sólo viñetas.
