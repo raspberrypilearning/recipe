@@ -14,21 +14,21 @@ Si necesita imprimir este proyecto, use la [versión para imprimir](https://proj
 
 ## Introducción:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+En este proyecto, los niños aprenderán sobre listas de HTML y colores CSS. Crearán su propia receta, añadiendo ingredientes y la lista de pasos.
 
-## Online Resources
+## Recursos en línea
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+Recomendamos usar [trinket](https://trinket.io/) para programar en HTML y CSS en línea.
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Los niños también pueden hacer uso de este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS o alternativamente pueden usar esta plantilla de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+También hay un trinket que contiene una solución de muestra para los desafíos:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [‘Receta’ terminada-- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline Resources
+## Recursos offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Si prefiere, este proyecto se puede [completar offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 + template/index.html
 + template/style.css
