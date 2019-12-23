@@ -26,7 +26,7 @@ También hay un trinket que contiene una solución de muestra para los desafíos
 
 + [‘Receta’ terminada-- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Recursos offline
+## Recursos sin conexión
 
 Si prefiere, este proyecto se puede [completar offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto offline. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
