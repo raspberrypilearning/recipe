@@ -1,4 +1,4 @@
-## Ingredients
+## Ingredientes
 
 Let’s list the ingredients that are needed for your recipe.
 
