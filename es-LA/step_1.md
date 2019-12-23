@@ -55,17 +55,17 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Desafíos
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"Más ingredientes" - añadir más elementos a una lista desordenada; "Más pasos" - añadir más elementos a una lista ordenada; "Más colores" - añadir nombres de colores, valores rgb y codigos hexadecimales; "Revisión" - añadir otra lista desordenada; "Más estilos" - añadir imágenes y fuentes de letra.
 
-## Completing this project offline
+## Completar este proyecto sin conexión
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+Si los niños están completando este proyecto sin conexión, necesitarán guardar las imágenes que quieran usar en la misma carpeta que su archivo Template.html.
 
-They can then just add the name of the file in their `<img>` tags:
+Después podrán simplemente añadir el nombre del archivo en sus `<img>` etiquetas:
 
     <img src="banana.jpg" />
     
@@ -76,18 +76,18 @@ They can then just add the name of the file in their `<img>` tags:
 
 ## title: Materiales del proyecto
 
-## Project resources
+## Recursos del proyecto
 
-+ [.zip file containing all project resources](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [archivo .zip que contiene todos los recursos del proyecto](resources/recipe-project-resources.zip)
++ [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
++ [Trinket en blanco en línea](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
 ## Recursos del líder del club
 
-+ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
-+ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
++ [archivo .zip que contiene todos los recursos del proyecto](resources/recipe-volunteer-resources.zip)
++ [Proyecto Trinket completado en línea](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
