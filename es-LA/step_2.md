@@ -1,6 +1,6 @@
-## Decide on a recipe
+## Decide qué receta quieres hacer
 
-Before you get coding, you’ll need to decide on a recipe.
+Antes de empezar a programar, necesitarás escoger una receta.
 
 + Think about a recipe you want to share with your friends. It could be: 
     + A recipe you found online;
