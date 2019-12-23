@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: More steps
+## Desafío: Más pasos
 
-Can you add all of the steps for making **your** recipe?
+¿Puedes añadir todos los pasos para preparar **tu** receta?
 
-Your method should look something like this:
+Tu receta debería parecerse a este ejemplo:
 
 ![captura de pantalla](images/recipe-more-method.png)
 
