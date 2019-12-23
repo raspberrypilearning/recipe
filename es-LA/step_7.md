@@ -1,4 +1,4 @@
-## Colours!
+## ¡Colores!
 
 Let’s add some colour to your recipe webpage.
 
