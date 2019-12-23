@@ -34,15 +34,15 @@ Añade este código al archivo CSS para mostrar un color amarillo claro de fondo
 
 ![captura de pantalla](images/recipe-rgb.png)
 
-+ Si lo prefieres, puedes decirle al navegador qué color mostrar usando el código hexadecimal (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Si lo prefieres, puedes decirle al navegador qué color mostrar usando el código hexadecimal (o **hex code**). Esto funciona de forma similar al código `rgb()` de arriba, excepto que el hex code siempre empieza con `#`, y usa números hexadecimales entre `00` y `ff` para la cantidad de rojo, verde y azul.
 
 ![captura de pantalla](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+Sustituye el código `rgb()` en tu CSS con este hex code:
 
     background: #fafad2;
     
 
 ![captura de pantalla](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+¡Deberías ver el mismo amarillo claro de antes!
