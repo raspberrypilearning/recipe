@@ -1,6 +1,6 @@
 ## Introducción
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+En este proyecto aprenderás a crear una página web para tu receta favorita.
 
 ![captura de pantalla](images/recipe-final.png)
 
