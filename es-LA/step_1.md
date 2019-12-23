@@ -33,7 +33,7 @@ Si prefiere, este proyecto se puede [completar offline](https://www.codeclubproj
 + template/index.html
 + template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+También puedes encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
