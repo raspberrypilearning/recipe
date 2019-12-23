@@ -28,7 +28,7 @@ También hay un trinket que contiene una solución de muestra para los desafíos
 
 ## Recursos offline
 
-Si prefiere, este proyecto se puede [completar offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Si prefiere, este proyecto se puede [completar offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto offline. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 + template/index.html
 + template/style.css
@@ -39,19 +39,19 @@ You can also find a completed version of this project's challenges in the 'Volun
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Todos los recursos anteriores también se pueden descargar como archivos `.zip` de proyectos y voluntarios.)
 
-## Objetivos del Aprendizaje
+## Objetivos del aprendizaje
 
-+ Writing HTML:
++ Escribiendo HTML:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + Etiquetas de lista `<ul>`, `<ol>` y `<li>`;
+    + Etiqueta `<hr/>`;
+    + Consolidar el uso de etiquetas indentadas.
 
-+ Writing CSS:
++ Escribiendo CSS:
     
-    + Colours (names & hexadecimal codes).
+    + Colores (nombres & códigos hexadecimales).
 
 Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
