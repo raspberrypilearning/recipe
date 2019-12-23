@@ -23,18 +23,18 @@ Cambia el color del texto de `blue` (azul) a `tomato` (tomate).
 
 Para decirle al navegador el color que debe mostrar, sólo debes decirle cuánto rojo, verde y azul debe usar.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+Las cantidades de rojo, verde y azul se escriben como números entre `0` y `255`.
 
 ![captura de pantalla](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+Añade este código al archivo CSS para mostrar un color amarillo claro de fondo al cuerpo de la página web:
 
     background: rgb(250,250,210);
     
 
 ![captura de pantalla](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Si lo prefieres, puedes decirle al navegador qué color mostrar usando el código hexadecimal (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
 
 ![captura de pantalla](images/recipe-hex-img.png)
 
