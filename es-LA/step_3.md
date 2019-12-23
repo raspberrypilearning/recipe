@@ -1,25 +1,25 @@
 ## Ingredientes
 
-Let’s list the ingredients that are needed for your recipe.
+Vamos a hacer una lista con los ingredientes que necesitarás para tu receta.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Abre la plantilla de trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    El proyecto deberá parecerse a esto:
     
     ![captura de pantalla](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ Para tu lista de ingredientes, vas a usar una **lista desordenada**, usando la etiqueta `<ul>`. Ve a la línea 8 de la plantilla y añade este código HTML, sustituyendo el texto en el título `<h1>` con el título de tu receta:
 
-    <h1>Banana Milkshake</h1>
+    <h1>Batida de guineo</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>Ingredientes:</h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Mira tu página web, debería tener 2 cabeceras.
 
 ![captura de pantalla](images/recipe-headings.png)
 
