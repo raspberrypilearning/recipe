@@ -14,7 +14,7 @@
 
 ## مقدمة:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+في هذا المشروع، سيتعلم الاطفال عن القوائم في لغة HTML و الالوان في CSS. سيصنعون الوصفة الخاصة بهم، ويضيفون قوائم المقادير وطريقة العمل.
 
 ## الموارد المتوفرة على الإنترنت
 
@@ -24,7 +24,7 @@ In this project, children will learn about HTML lists and CSS colours. They will
 
 كما يوجد مشروع trinket يحتوي على نموذج حل للتحديات:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [‘الوصفة النهائية’ -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
 ## الموارد المتوفرة دون اتصال بالإنترنت
 
@@ -43,13 +43,13 @@ In this project, children will learn about HTML lists and CSS colours. They will
 
 ## أهداف التعلم
 
-+ Writing HTML:
++ كتابة HTML:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + قوائم علامات `<ul>`, `<ol>` و `<li>`;
+    + علامات `<hr/>`;
+    + دمج استخدام العلامات المتداخلة.
 
-+ Writing CSS:
++ كتابة CSS:
     
     + Colours (names & hexadecimal codes).
 
