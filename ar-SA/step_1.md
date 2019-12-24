@@ -51,7 +51,7 @@
 
 + كتابة CSS:
     
-    + Colours (names & hexadecimal codes).
+    + الالوان (الاسماء و ايعازات hexadecimal).
 
 يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
