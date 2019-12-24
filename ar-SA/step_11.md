@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: More styling
+## التحدي: تنسيقات اضافية
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+هل تستطيع إضافة صورة الى موقع الويب الخاص بك؟ أو تغيير نوع الخط؟ اليك كيف يمكن أن يكون شكل موقع الويب الخاص:
 
 ![لقطة شاشة](images/recipe-final.png)
 
-Here’s some code that will help you:
+إليك بعض التعليمات البرمجية التي ستساعدك:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
