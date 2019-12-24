@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Reviews
+## التحدي: تعليقات
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+إسال اصدقاؤك ليتركوا بعض التعليقات عن وصفتك. ستحتاج أن تصنع قائمة أخرى لتحقيق ذلك.
 
 ![لقطة شاشة](images/recipe-reviews.png)
 
