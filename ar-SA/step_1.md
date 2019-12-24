@@ -59,13 +59,13 @@
 
 ## التحديات
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"مقادير أكثر" - إضافة عناصر أكثر الى قائمة غير مرتبة; "خطوات أكثر" - إضافة عناصر أكثر الى قائمة مرتبة; "ألوان أكثر" - إضافة أسماء الوان، قيم rgb وايعازات hex; "معاينة" - إضافة قائمة غير مرتبة أخرى; "تنسيقات أكثر" - إضافة صور وخطوط.
 
-## Completing this project offline
+## إكمال هذا المشروع من دون اتصال انترنيت
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+اذا كان الاطفال سيكملون هذا المشروع من دون اتصال انترنيت، سيحتاجون الى خزن الصور التي يرغبون باستخدامها في نفس المجلد الموجود به ملف Template.html.
 
-They can then just add the name of the file in their `<img>` tags:
+وعندها يستطيعون إضافة اسم الملف الى علامات `<img>`:
 
     <img src="banana.jpg" />
     
