@@ -1,6 +1,6 @@
 ## المقدمة
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+في هذا المشروع، ستقوم بإنشاء صفحة ويب لوصفتك المفضلة.
 
 ![لقطة شاشة](images/recipe-final.png)
 
