@@ -1,8 +1,8 @@
-## Ingredients
+## المقادير
 
-Let’s list the ingredients that are needed for your recipe.
+دعونا نقم بتعداد المقادير التي نحتاجها لوصفتكم.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ أفتح رابط trinket التالي: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
     الآن يجب أن يبدو الملف الخاص بك مثل هذا:
     
@@ -27,7 +27,7 @@ You won’t see your list yet though, because you haven’t added any list items
 
 + The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
 
-    <li>1 banana</li>
+    <li>موزة واحدة</li>
     
 
 ![لقطة الشاشة](images/recipe-ul.png)
