@@ -34,11 +34,11 @@
 
 ![لقطة الشاشة](images/recipe-rgb.png)
 
-+ أذا كنت تفضل، يمكنك أن تخبر المتصفح أي لون ليعرضه وذلك باستخدام كود hexadecimal أو (**كود hex**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ أذا كنت تفضل، يمكنك أن تخبر المتصفح أي لون ليعرضه وذلك باستخدام كود hexadecimal أو (**كود hex**). هذا يعمل بشكل مشابه لكود `rgb()` في الاعلى، مع فارق أن كود hex دائما تبدأ بـ `#`، وتستخدم أرقام بالنظام العشري بين `00` و `ff` لمقدار الاحمر والاخضر والازرق.
 
 ![لقطة الشاشة](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+استبدل الكود `rgb()` في CSS بكود hex هذه:
 
     background: #fafad2;
     
