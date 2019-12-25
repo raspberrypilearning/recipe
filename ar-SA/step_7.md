@@ -19,7 +19,7 @@
 
 ![لقطة الشاشة](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ إن متصفح الانترنيت خاصتك يعرف الاسماء لـ١٤٠ لون، ولكن في الحقيقة فهو يعرف **قيم الالوان** لاكثر من ١٦ مليون لون!
 
 To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
 
