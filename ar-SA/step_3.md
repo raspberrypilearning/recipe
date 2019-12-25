@@ -32,4 +32,4 @@
 
 ![لقطة الشاشة](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+بما إن قائمتك غير مرتبة، فلا يوجد أرقام بجانب عناصر القائمة، فقط نقاط.
