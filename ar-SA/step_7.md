@@ -27,14 +27,14 @@
 
 ![لقطة الشاشة](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+أضف هذه الكود الى متن CSS لصفحة الويب، حتى تعرض خلفية بلون أصفر فاتح:
 
     background: rgb(250,250,210);
     
 
 ![لقطة الشاشة](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ أذا كنت تفضل، يمكنك أن تخبر المتصفح أي لون ليعرضه وذلك باستخدام كود hexadecimal أو (**كود hex**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
 
 ![لقطة الشاشة](images/recipe-hex-img.png)
 
@@ -45,4 +45,4 @@ Replace the `rgb()` code in your CSS with this hex code:
 
 ![لقطة الشاشة](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+يجب أن ترى الاصفر الفاتح كما في السابق!
