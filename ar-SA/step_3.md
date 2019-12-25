@@ -8,11 +8,11 @@
     
     ![لقطة الشاشة](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ لقائمة المقادير خاصتك، ستقوم باستخدام **قائمة غير مرتبة unorded list** بإستخدام علامة `<ul>`. إذهب الى السكر رقم ٨ من المشروع النموذج وقم بإضافة هذه الكود بلغة HTML، حيث تقوم باستبدال النص في عنوان `<h1>` باسم الوصفة الخاصة بك:
 
-    <h1>Banana Milkshake</h1>
+    <h1>مخفوق الحليب والموز</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>المقادير:</h3>
     
     <ul>
     
