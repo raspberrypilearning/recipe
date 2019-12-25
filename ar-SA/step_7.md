@@ -11,11 +11,11 @@
 
 ![لقطة شاشة](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ إن متصفح الانترنيت لديك يعرف اللون `الازرق` و `الاصفر` وحتى `الاخضر الفاتح`، ولكن هل كنت تعرف حقيقة أن متصفحك يعرف **الاسماء** الخاصة باكثر من ١٤٠ لون مختلف؟
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+هناك قائمة بأسماء جميع الاوان، يمكنك أن تستخدم الموقع:[jumpto.cc/colours](http://jumpto.cc/colours), والذي يحوي اسماء الالوان مثل ` tomato`، و` firebrick` و ` peachpuff`.
 
-Change the text colour from `blue` to `tomato`.
+غيّر لون الخط من `الازرق` الى `tomato`.
 
 ![لقطة الشاشة](images/recipe-tomato.png)
 
