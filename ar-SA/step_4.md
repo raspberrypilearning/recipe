@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: More ingredients
+## تحدي: مكونات إضافية
 
-Can you add all of the ingredients for **your** recipe?
+هل بإمكانك إضافة كل المكونات في **وصفتك**؟
 
-Your webpage should look something like this:
+يجب أن تكون صفحتك بهذا الشكل تقريبًا:
 
 ![لقطة الشاشة](images/recipe-more-ingredients.png)
 
