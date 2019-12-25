@@ -21,9 +21,9 @@
 
 + إن متصفح الانترنيت خاصتك يعرف الاسماء لـ١٤٠ لون، ولكن في الحقيقة فهو يعرف **قيم الالوان** لاكثر من ١٦ مليون لون!
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+حتى تخبر المتصفح أي لون يعرضه، عليك أن تخبره كم هو مقدار اللون الاحمر، والاخضر والازرق المستخدم.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+إن مقدار اللون الاحمر والاخضر والازرق مكتوب بشكل رقم بين `0` و `255`.
 
 ![لقطة الشاشة](images/recipe-rgb-img.png)
 
