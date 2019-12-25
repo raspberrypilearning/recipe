@@ -1,6 +1,6 @@
-## Method
+## الطريقة
 
-Next, let’s explain how to make your recipe.
+والآن لنشرح كيف نصنع وصفتك.
 
 + You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
 
