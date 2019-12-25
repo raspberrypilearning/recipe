@@ -19,13 +19,13 @@
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ قم بعرض موقعك الالكتروني، ويحب أن ترى عناوينك الاثنين.
 
 ![لقطة شاشة](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+ولكنك لن ترى القائمة بعد، وذلك لانك لم تقم بإضافة أي عناصر للقائمة بعد!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ في الخطوة التالية سنقوم بإضافة عناصر للقائمتك، باستخدام العلامة `<li>`. قم بإضافة الكود التالي داخل علامة `<ul>`:
 
     <li>موزة واحدة</li>
     
