@@ -17,11 +17,11 @@
 
 ![لقطة الشاشة](images/recipe-method.png)
 
-+ Now you just need to add list items into your new ordered list:
++ والآن تحتاج فقط إلى إضافة عناصر للقائمة المرتبة الجديدة:
 
-    <li>Peel the banana and add to a blender</li>
+    <li>قشّر الموزة وضعها في الخلاط</li>
     
 
 ![لقطة الشاشة](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+لاحظ أن ترقيم عناصر القائمة يكون تلقائي!
