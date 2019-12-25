@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: More steps
+## تحدي: مزيد من الخطوات
 
-Can you add all of the steps for making **your** recipe?
+هل بإمكانك إضافة كل الخطوات في **وصفتك**؟
 
-Your method should look something like this:
+يجب أن تبدو الخطوات مشابه لهذا الشكل:
 
 ![لقطة الشاشة](images/recipe-more-method.png)
 
