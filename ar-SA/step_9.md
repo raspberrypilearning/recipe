@@ -2,22 +2,22 @@
 
 ## التحدي: ألوان أخرى!
 
-Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+قم بتغيير الالوان داخل متن الصفحة وذلك باستخدام قيم لاسماء الالوان `rgb()` وكود hex. هناك قائمة بالكثير والكثير من الالوان موجودة على <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>، أو يمكنك أن تذهب الى الموقع <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> وصناعة ألوانك الخاصة!
 
-Here are some example colours:
+اليك بعض أمثلة الالوان:
 
-+ Red can be written as:
++ يمكن كتابة اللون الاحمر كالتالي:
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + `red` (بالتأكيد!)
+    + `rgb(255,0,0)`، (كثير من الامر، بدون أخضر وبدون أزرق)
     + `#ff0000`
 
-+ Olive can be written as:
++ يمكن كتابة اللون الزيتوني (أخضر داكن) كالتالي:
     
     + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + `rgb(128, 128, 0)` (قليل من الاحمر والاخضر وبدون أزرق)
     + `#808000`
 
-Try to make sure that the colours you use match your recipe!
+جرّب وتأكد بأن الالوان تناسب وصفتك!
 
 \--- challenge/ \---
