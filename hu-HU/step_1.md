@@ -28,18 +28,18 @@ Találhattok egy trinket, ami a megoldásokat tartalmazza a kihívásokhoz:
 
 ## Offline segédanyagok
 
-Ez a projekt [offline is teljesíthető](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). A projekt erőforrásaihoz a projekt 'Anyagok' linkjére kattintva férhet hozzá. Ez a link egy „Projekt-források” szakaszt tartalmaz, amely olyan forrásokat tartalmaz, amelyek a gyermekek számára szükségesek lesznek a projekt offline eléréséhez. Győződjön meg arról, hogy minden gyermek rendelkezik hozzáféréssel ezeknek az erőforrásoknak a másolatához. Ez a szakasz a következő fájlokat tartalmazza:
+Ez a projekt [offline is teljesíthető](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). A projekt segédanyagaihoz a 'Projektanyagok' linkre kattintva férhet hozzá. Ez a link egy „Projekt Segédanyagok” részt tartalmaz, amely olyan forrásokat tartalmaz, amelyek a gyermekek számára szükségesek lesznek a projekt offline eléréséhez. Győződjön meg arról, hogy minden gyermek rendelkezik ezekkel a segédanyagokkal. Ez a szakasz a következő fájlokat tartalmazza:
 
-+ template / index.html
-+ template / style.css
++ template/index.html
++ template/style.css
 
-A projekt kihívásainak komplett változatát az „Önkéntes erőforrások” szakaszban is megtalálhatja, amely a következőket tartalmazza:
+A projekt kihívásainak teljes változatát az „Önkéntes erőforrások” szakaszban is megtalálhatja, amely a következőket tartalmazza:
 
-+ recept kész / index.html
-+ recept-kész / style.css
-+ recept-kész / banana.jpg
++ recipe-finished/index.html
++ recipe-finished/style.css
++ recipe-finished/banana.jpg
 
-(Az összes fenti erőforrás projekt- és önkéntes `.zip` fájlként letölthető.)
+(Az összes fenti segédanyag letölthető projektként és önkéntes `.zip` fájlként.)
 
 ## Tanulási célok
 
@@ -47,21 +47,21 @@ A projekt kihívásainak komplett változatát az „Önkéntes erőforrások”
     
     + `<ul>`, `<ol>` és `<li>` listacímkék;
     + `<hr/>` címke;
-    + A beágyazott címkék használatának konszolidálása.
+    + A beágyazott címkék használatának megerősítése.
 
 + CSS írása:
     
-    + Színek ( & hexadecimális kód neve).
+    + Színek (nevek és hexadecimális kódok).
 
-Ez a projekt magában foglalja az elemeket a következő területekre vonatkozik a [Raspberry Pi Digital készítése Curriculum](http://rpf.io/curriculum):
+Ez a projekt a[Raspberry Pi Digitális Alkotás Tanterv](http://rpf.io/curriculum) következő részéből fed le elemeket:
 
 + [Alapvető 2D és 3D eszközök tervezése](https://www.raspberrypi.org/curriculum/design/creator).
 
-## kihívások
+## Kihívások
 
-"További összetevők" - további elemek hozzáadása rendezetlen listához; "További lépések" - további elemek hozzáadása a megrendelt listához; "Több szín" - hozzáadja a színneveket, az RGB értékeket és a hexadecimális kódokat; "Vélemények" - újabb rendezetlen lista hozzáadása; "Több stílus" - képek és betűtípusok hozzáadása.
+"Több hozzávaló" - további elemek hozzáadása rendezetlen listához; "Több lépés" - további elemek hozzáadása rendezett listához; "Több szín" - színnevek, rgb és hexadecimális kódok hozzáadása; "Vélemények" - újabb rendezetlen lista hozzáadása; "Több stílus" - képek és betűstílus hozzáadása.
 
-## A projekt offline állapotban történő befejezése
+## Projekt elvégzése offline
 
 Ha a gyermekek offline módon fejezik be a projektet, akkor a használni kívánt képeket ugyanabba a mappába kell menteniük, mint a Template.html fájlt.
 
@@ -74,13 +74,13 @@ Ezután hozzáadhatják a fájl nevét a `<img>` címkéikhez:
 
 ## \--- collapse \---
 
-## cím: Projekt anyagok
+## title: Projekt anyagok
 
-## Projekt források
+## Segédanyagok a projekthez
 
-+ [.zip fájl, amely tartalmazza az összes projekt erőforrást](resources/recipe-project-resources.zip)
-+ [Online talizmán sablon](http://jumpto.cc/trinket-template)
-+ [Online üres talizmán](http://jumpto.cc/trinket-blank)
++ [.zip fájl, amely tartalmazza a projekt összes segédanyagát](resources/recipe-project-resources.zip)
++ [Online Trinket sablon](http://jumpto.cc/trinket-template)
++ [Üres online Trinket](http://jumpto.cc/trinket-blank)
 + [template / index.html](resources/template-index.html)
 + [template / style.css](resources/template-style.css)
 
