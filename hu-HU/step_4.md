@@ -1,11 +1,11 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: További összetevők
+## Kihívás: Több összetevő
 
-Tud hozzá az összes hozzávalót **az** receptet?
+Hozzá tudod adni az összes hozzávalót **receptedhez**?
 
-Weboldalának így kell kinéznie:
+A weboldalnak így kéne kinéznie:
 
-![screenshot](images/recipe-more-ingredients.png)
+![képernyőkép](images/recipe-more-ingredients.png)
 
-\--- / challenge \---
+\--- /challenge \---
