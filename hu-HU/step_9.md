@@ -1,23 +1,23 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Kihívás: Több szín!
 
-Módosítsa a kód színét a színnevek, `rgb ()` értékek és hexadecimális kódok segítségével. A színkódok listája a <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>címen található, vagy léphet a <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> könyvtárba, és létrehozhat saját színeket!
+Módosítsa a weboldalon található színeket `rgb ()` értékek és hexadecimális kódok segítségével. A színkódok listája a <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>címen található, vagy menj a <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> oldalra, és hozd létre a saját színeidet!
 
-Íme néhány példa színre:
+Íme néhány példa:
 
 + A pirosat így lehet írni:
     
-    + `piros` (nyilvánvalóan!)
-    + `rgb (255,0,0)` (rengeteg piros, zöld és kék nincs)
-    + `# FF0000`
+    + `red` (nyilvánvalóan!)
+    + `rgb(255,0,0)` (rengeteg piros, zöld és kék nincs)
+    + `#ff0000`
 
-+ Az olajbogyó így írható:
++ Az olajzöld így írható le:
     
-    + `olajbogyó`
-    + `rgb (128, 128, 0)` (egy kicsit vörös és zöld, és nincs kék)
-    + `# 808000`
+    + `olajzöld`
+    + `rgb(128, 128, 0)` (egy kicsit vörös és zöld, nincs kék)
+    + `#808000`
 
-Próbálja meg ellenőrizni, hogy a használt színek megfelelnek-e a receptnek!
+Győződj meg róla, hogy a színek megfelelnek a receptnek!
 
-\--- / challenge \---
+\--- /challenge \---
