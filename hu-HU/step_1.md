@@ -2,7 +2,7 @@
 
 Ebben a projektben megtanulja, hogyan hozhat létre weboldalt a kedvenc receptjéhez.
 
-![screenshot](images/recipe-final.png)
+![képernyőkép](images/recipe-final.png)
 
 ### További információk klubvezetőknek
 
@@ -81,15 +81,15 @@ Ezután hozzáadhatják a fájl nevét a `<img>` címkéikhez:
 + [.zip fájl, amely tartalmazza a projekt összes segédanyagát](resources/recipe-project-resources.zip)
 + [Online Trinket sablon](http://jumpto.cc/trinket-template)
 + [Üres online Trinket](http://jumpto.cc/trinket-blank)
-+ [template / index.html](resources/template-index.html)
-+ [template / style.css](resources/template-style.css)
++ [template/index.html](resources/template-index.html)
++ [template/style.css](resources/template-style.css)
 
-## A klubvezető forrásai
+## Segédanyagok klubvezetőknek
 
-+ [.zip fájl, amely tartalmazza az összes kitöltött projekt erőforrást](resources/recipe-volunteer-resources.zip)
++ [.zip fájl, amely tartalmazza a projekt összes elkészült erőforrásait](resources/recipe-volunteer-resources.zip)
 + [Online befejezett Trinket projekt](https://trinket.io/html/c0fd9b40cd)
-+ [recept kész / index.html](resources/recipe-finished-index.html)
-+ [recept-kész / style.css](resources/recipe-finished-style.css)
-+ [recept-kész / banana.png](resources/recipe-finished-banana.png)
++ [recipe-finished/index.html](resources/recipe-finished-index.html)
++ [recipe-finished/style.css](resources/recipe-finished-style.css)
++ [recipe-finished/banana.png](resources/recipe-finished-banana.png)
 
 \--- /collapse \---
