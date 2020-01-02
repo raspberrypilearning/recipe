@@ -6,17 +6,17 @@ Ebben a projektben megtanulja, hogyan hozhat létre weboldalt a kedvenc receptj�
 
 ### További információk klubvezetőknek
 
-Ha ki kell nyomtatnia ezt a projektet, kérjük, használja a [nyomtatóbarát](https://projects.raspberrypi.org/en/projects/recipe/print)verziót.
+Ha ki kell nyomtatnia ezt a projektet, kérjük, használja a [nyomtatóbarát verziót](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## cím: A klubvezető megjegyzi
+## title: Klubvezetői jegyzetek
 
 ## Bevezetés:
 
-A projekt során a gyerekek megismerkednek a HTML listákkal és a CSS színekkel. Elkészítik saját receptüket, hozzáfűzik az összetevők és módszerek listáját.
+A projekt során a gyerekek megismerkednek a HTML listákkal és a CSS színekkel. Elkészítik saját receptjüket összetevőkkel és az elkészítés módjával.
 
-## Online források
+## Online segédanyagok
 
 Javasoljuk a [csecsebecsét](https://trinket.io/) írjunk HTML & CSS az interneten.
 
