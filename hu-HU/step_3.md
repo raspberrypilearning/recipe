@@ -1,16 +1,16 @@
 ## Hozzávalók
 
-Soroljuk fel a recepthez szükséges összetevőket.
+Sorold fel a recepthez szükséges összetevőket.
 
-+ Nyissa meg ezt a sablon csecsebecsét: [jumpto.cc/html-](http://jumpto.cc/html-template)minta: {: target = "_ blank"}.
++ Nyissa meg ezt a sablon trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template) {: target = "_ blank"}.
     
-    A projektnek így kell kinéznie:
+    A projektnek így kéne kinéznie:
     
     ![screenshot](images/recipe-starter.png)
 
-+ Az összetevők listájához **rendezetlen**listát fog használni, a `<ul>` címkével. Ugorjon a sablon 8. sorára, és adja hozzá ezt a HTML-t, helyettesítve a `<h1>` cím szövegét a saját receptjével:
++ Az összetevők listájához **rendezetlen listát** kell használni, a `<ul>` címkével. Ugorj a sablon 8. sorára, és add hozzá ezt a HTML-t, helyettesítve a `<h1>` cím szövegét a saját recepted szövegével:
 
-    <h1>Banán turmix</h1>
+    <h1>Banánturmix</h1>
     
     <h3>Hozzávalók:</h3>
     
@@ -19,7 +19,7 @@ Soroljuk fel a recepthez szükséges összetevőket.
     </ul>
     
 
-+ Tekintse meg weboldalát, és látnia kell a két címsort.
++ Nézd meg weboldalad, és látnod kellene a két címsort.
 
 ![screenshot](images/recipe-headings.png)
 
