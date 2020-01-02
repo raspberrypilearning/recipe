@@ -2,17 +2,17 @@
 
 ## Kihívás: Több stílus
 
-Felvehet egy képet a weboldalára? Vagy megváltoztathatja a betűtípust? Így néz ki weboldala:
+Hozzá tudsz adni több egy képet a weboldalhoz? Vagy megváltoztatni a betűstílust? Így nézhet ki a weboldala:
 
-![screenshot](images/recipe-final.png)
+![képernyőkép](images/recipe-final.png)
 
-Íme néhány kód, amely segít:
+Íme néhány kód, ami segíthet:
 
-    betűtípus-család: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    betűméret: 12pt;
-    betűméret: félkövér;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
     
     <img src="image-link-goes-here">
     
 
-\--- / challenge \---
+\--- /challenge \---
