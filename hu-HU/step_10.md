@@ -1,9 +1,9 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Kihívás: Vélemények
 
-Kérdezze meg néhány barátját, hogy hagyja el véleményét receptjével kapcsolatban. Ehhez új listát kell készítenie.
+Kérdezd meg néhány barátod, hogy mondja el véleményét a recepttel kapcsolatban. Ehhez új listát kell készítenie.
 
-![screenshot](images/recipe-reviews.png)
+![képernyőkép](images/recipe-reviews.png)
 
 \--- /challenge \---
