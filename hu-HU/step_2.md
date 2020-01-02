@@ -1,10 +1,10 @@
 ## Döntse el a receptjét
 
-A kódolás megkezdése előtt el kell döntenie a receptről.
+A kódolás megkezdése előtt el kell döntenie a receptjét.
 
-+ Gondoljon egy olyan receptre, amelyet meg szeretne osztani barátaival. Lehet, hogy: 
-    + Egy recept, amelyet az interneten talált;
-    + A kedvenc étkezésed;
-    + Valamit kitaláltál!
++ Gondolj egy olyan receptre, amelyet meg szeretnél osztani a barátaiddal. Lehet, hogy: 
+    + Egy recept, amelyet az interneten találtál;
+    + A kedvenc ételed;
+    + Valami kitalált!
 
-A példában bemutatott recept a banán turmixra vonatkozik. Másolhatja ezt a receptet, ha nem találja meg a sajátját.
+A példában egy banánturmix recept lesz bemutatva. Ha nem találsz magadtól receptet, ezt is lemásolhatod.
