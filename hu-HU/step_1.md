@@ -18,17 +18,17 @@ A projekt során a gyerekek megismerkednek a HTML listákkal és a CSS színekke
 
 ## Online segédanyagok
 
-Javasoljuk a [csecsebecsét](https://trinket.io/) írjunk HTML & CSS az interneten.
+Javasoljuk a [trinket](https://trinket.io/) használatát, hogy HTML-t és CSS-t szerkesszünk online.
 
-A gyermekek felhasználhatják ezt az üres [csecsebecsét (jumpto.cc/html-blank)](http://jumpto.cc/html-blank) saját HTML & CSS-jük írására is, vagy alternatívaként használhatják ezt a sablonos csecsebecsét [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+A gyerekek ezt az üres trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) is használhatják, hogy saját HTML és CSS kódot írjanak, vagy alternatívaként használhatják ezt a sablon trinket[(jumpto.cc/html-template)](http://jumpto.cc/html-template) is.
 
-Van egy csecsebecsét tartalmazó mintamegoldás a kihívásokra:
+Találhattok egy trinket, ami a megoldásokat tartalmazza a kihívásokhoz:
 
-+ ['Recept' kész - trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [Kész a 'Recept' - trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline források
+## Offline segédanyagok
 
-Ez a projekt [elérhető,](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) ha teljesíthető. A projekt erőforrásaihoz a projekt 'Anyagok' linkjére kattintva férhet hozzá. Ez a link egy „Projekt-források” szakaszt tartalmaz, amely olyan forrásokat tartalmaz, amelyek a gyermekek számára szükségesek lesznek a projekt offline eléréséhez. Győződjön meg arról, hogy minden gyermek rendelkezik hozzáféréssel ezeknek az erőforrásoknak a másolatához. Ez a szakasz a következő fájlokat tartalmazza:
+Ez a projekt [offline is teljesíthető](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). A projekt erőforrásaihoz a projekt 'Anyagok' linkjére kattintva férhet hozzá. Ez a link egy „Projekt-források” szakaszt tartalmaz, amely olyan forrásokat tartalmaz, amelyek a gyermekek számára szükségesek lesznek a projekt offline eléréséhez. Győződjön meg arról, hogy minden gyermek rendelkezik hozzáféréssel ezeknek az erőforrásoknak a másolatához. Ez a szakasz a következő fájlokat tartalmazza:
 
 + template / index.html
 + template / style.css
