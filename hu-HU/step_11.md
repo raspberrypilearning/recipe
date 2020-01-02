@@ -1,4 +1,4 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Kihívás: Több stílus
 
