@@ -1,25 +1,25 @@
 ## Utolsó simítások
 
-Adjunk hozzá még egy kicsit HTML-t és CSS-t webhelyének javításához.
+Adjunk hozzá még egy kicsi HTML-t és CSS-t a weboldal tökéletesítéséhez.
 
 + A recept végéhez vízszintes sort adhat a `<hr>` címke használatával.
 
-![screenshot](images/recipe-hr.png)
+![képernyőkép](images/recipe-hr.png)
 
-Vegye figyelembe, hogy ennek a címkének nincs végcímkéje, csakúgy, mint a `<img>` címke.
+Vedd figyelembe, hogy ennek a címkének nincs záró címkéje, csakúgy, mint a `<img>` címkének.
 
-+ Az Ön által hozzáadott sor nem egyezik meg a többi weboldal stílusával. Javítsuk ki ezt néhány CSS-kód hozzáadásával:
++ A hozzáadott sor nem egyezik meg a weboldal stílusával. Javítsuk ki ezt néhány CSS-kód hozzáadásával:
 
-    óra {
-        magasság: 2 képpont;
-        határ: nincs;
-        háttér szín: paradicsom;
+    hr {
+        height: 2px;
+        border: none;
+        background-color: tomato;
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![képernyőkép](images/recipe-hr-css.png)
 
-+ A CSS-kóddal megváltoztathatja még a golyópontok megjelenését is:
++ CSS kóddal a felsorolásjel kinézetét is meg lehet változtatni:
 
     ul {
         list-style-type: square;
