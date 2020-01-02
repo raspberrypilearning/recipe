@@ -1,8 +1,8 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: További lépések
+## Kihívás: Több lépés
 
-Tud felvenni az összes szükséges lépések **az** receptet?
+Hozzá tudja adni a **receptjéhez** az elkészítéshez szükséges lépéseket?
 
 Az Ön módszerenek így kell kinéznie:
 
