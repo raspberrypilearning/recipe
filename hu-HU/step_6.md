@@ -4,8 +4,8 @@
 
 Hozzá tudja adni a **receptjéhez** az elkészítéshez szükséges lépéseket?
 
-Az Ön módszerenek így kell kinéznie:
+Így kéne kinéznie:
 
-![screenshot](images/recipe-more-method.png)
+![képernyőkép](images/recipe-more-method.png)
 
-\--- / challenge \---
+\--- /challenge \---
