@@ -6,7 +6,7 @@ Sorold fel a recepthez szükséges összetevőket.
     
     A projektnek így kéne kinéznie:
     
-    ![screenshot](images/recipe-starter.png)
+    ![képernyőkép](images/recipe-starter.png)
 
 + Az összetevők listájához **rendezetlen listát** kell használni, a `<ul>` címkével. Ugorj a sablon 8. sorára, és add hozzá ezt a HTML-t, helyettesítve a `<h1>` cím szövegét a saját recepted szövegével:
 
@@ -21,15 +21,15 @@ Sorold fel a recepthez szükséges összetevőket.
 
 + Nézd meg weboldalad, és látnod kellene a két címsort.
 
-![screenshot](images/recipe-headings.png)
+![képernyőkép](images/recipe-headings.png)
 
-Még nem fogja látni a listáját, mert még nem adott hozzá semmilyen listaelemet!
+Még nem fogod látni a listádat, mert még nem adtál hozzá semmilyen listaelemet!
 
-+ A következő lépés, ha a `<li>` címkével felveszi a lista elemeit a listájába. Adja hozzá a következő kódot a `<ul>` címkéjéhez:
++ A következő lépés, a `<li>` címkével felvenni a lista elemeit a listába. Adja hozzá a következő kódot a `<ul>` címkén belül:
 
     <li>1 banán</li>
     
 
-![screenshot](images/recipe-ul.png)
+![képernyőkép](images/recipe-ul.png)
 
-Mivel a listája nincs rendezve, a listaelemek mellett nincs szám, csak a felsoroláspontok.
+Mivel a listája nincs rendezve, a listaelemek mellett nincsenek számok, csak pontok.
