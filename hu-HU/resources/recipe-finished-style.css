@@ -1,17 +1,17 @@
 test {
-  háttér: # fafad2;
-  betűtípus-család: futár;
-  szín: paradicsom;
+  background: #fafad2;
+  font-family: courier;
+  color: tomato;
 }
 img {
-  szélesség: 400 képpont;
-  szegély: 4x szoros paradicsom;
+  width: 400px;
+  border: 4px solid tomato;
 }
 ul {
-  listastílus-típus: négyzet;
+  list-style-type: square;
 }
 hr {
-  magasság: 2 képpont;
-  határ: nincs;
-  háttér szín: paradicsom;
+  height: 2px;
+  border: none;
+  background-color: tomato;
 }
