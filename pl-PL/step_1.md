@@ -59,7 +59,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 ## Zadania
 
-"Więcej składników" - dodawanie elementów do nienumerowanej listy; "Więcej kroków" - dodawanie elementów do numerowanej listy; "Więcej kolorów" - dodawanie kolorów według nazw, wartości rgb i kodów szesnastkowych; "Recenzje" - dodawanie kolejnej nienumerowanej listy; "Więcej dekoracji" - dodawanie obrazków i czcionek.
+"Więcej składników" - dodawanie elementów do nieuporządkowanej listy; "Więcej kroków" - dodawanie elementów do uporządkowanej listy; "Więcej kolorów" - dodawanie kolorów według nazw, wartości rgb i kodów szesnastkowych; "Recenzje" - dodawanie kolejnej nieuporządkowanej listy; "Więcej dekoracji" - dodawanie obrazków i czcionek.
 
 ## Wykonanie projektu offline
 
