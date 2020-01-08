@@ -1,4 +1,4 @@
-## Method
+## Metoda
 
 Next, let’s explain how to make your recipe.
 
