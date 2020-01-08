@@ -59,13 +59,13 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 ## Zadania
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"Więcej składników" - dodawanie elementów do nienumerowanej listy; "Więcej kroków" - dodawanie elementów do numerowanej listy; "Więcej kolorów" - dodawanie kolorów według nazw, wartości rgb i kodów szesnastkowych; "Recenzje" - dodawanie kolejnej nienumerowanej listy; "Więcej dekoracji" - dodawanie obrazków i czcionek.
 
 ## Wykonanie projektu offline
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+Jeżeli dzieci wykonują ten projekt offline, będą musiały zapisać wykorzystywane obrazy w tym samym folderze, gdzie znajduje się ich plik Template.html.
 
-They can then just add the name of the file in their `<img>` tags:
+Wtedy będą mogły po prostu wstawić nazwy ich plików w znaczniki `<img>`:
 
     <img src="banana.jpg" />
     
