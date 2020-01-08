@@ -1,8 +1,8 @@
-## Ingredients
+## Składniki
 
-Let’s list the ingredients that are needed for your recipe.
+Wypiszmy składniki potrzebne do twojego przepisu.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Otwórz ten szablon trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
     Projekt powinien wyglądać następująco:
     
