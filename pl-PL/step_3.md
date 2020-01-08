@@ -19,15 +19,15 @@ Wypiszmy składniki potrzebne do twojego przepisu.
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Spójrz na twoją stronę internetową, powinieneś zobaczyć dwa nagłówki.
 
 ![zrzut ekranu](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+Ale nie zobaczysz jeszcze twojej listy, ponieważ nie dodałaś do niej jeszcze żadnych elementów!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ Następny krok to dodanie elementów listy do twojej listy za pomocą tagu `<li>`. Dodaj poniższy kod wewnątrz znaczników `<ul>`:
 
-    <li>1 banana</li>
+    <li>1 banan</li>
     
 
 ![zrzut ekranu](images/recipe-ul.png)
