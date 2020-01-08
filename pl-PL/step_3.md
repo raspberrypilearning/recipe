@@ -8,11 +8,11 @@ Wypiszmy składniki potrzebne do twojego przepisu.
     
     ![zrzut ekranu](images/recipe-starter.png)
 
-+ Do twojej listy składników użyjesz **nienumerowanej listy**, wykorzystując znacznik `<ul>`. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ Do twojej listy składników użyjesz **nienumerowanej listy**, wykorzystując znacznik `<ul>`. Przejdź do linii nr 8 w szablonie i dodaj ten HTML, zamieniając tekst w tytule `<h1>` na nazwę twojego przepisu:
 
-    <h1>Banana Milkshake</h1>
+    <h1>Milkshake Bananowy</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>Składniki:</h3>
     
     <ul>
     
