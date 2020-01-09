@@ -1,27 +1,28 @@
-## Method
+## 作り方
 
-Next, let’s explain how to make your recipe.
+次に、レシピの作り方を説明しましょう。
 
-+ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
-
-An ordered list is a numbered list, which you should use when the order of the steps is important.
-
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
-
-    <h3>Method:</h3>
++ 別のリストを使用してメソッドを記述します。今回は
+    タグを使用して、順序付きリストを使用します。</li> </ul> 
     
-    <ol>
+    順序付きリストは番号付きリストであり、順序が重要な場合に使用する必要があります。
     
-    </ol>
+    このコードをこれまでのリストの下に追加します。タグ内にあることを確認します。</p> 
     
-
-![スクリーンショット](images/recipe-method.png)
-
-+ Now you just need to add list items into your new ordered list:
-
-    <li>Peel the banana and add to a blender</li>
+        <h3>Method:</h3>
+        
+        <ol>
+        
+        </ol>
+        
     
-
-![screenshot](images/recipe-ol.png)
-
-Notice that the list items are automatically numbered!
+    ![スクリーンショット](images/recipe-method.png)
+    
+    + ここで、リスト項目を新しい順序付きリストに追加するだけです。
+    
+        <li>Peel the banana and add to a blender</li>
+        
+    
+    ![screenshot](images/recipe-ol.png)
+    
+    Notice that the list items are automatically numbered!
