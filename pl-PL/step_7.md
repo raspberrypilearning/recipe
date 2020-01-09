@@ -1,8 +1,8 @@
 ## Kolory!
 
-Let’s add some colour to your recipe webpage.
+Dodajmy trochę barw do twojej strony internetowej z przepisem.
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ Już dowiedziałeś się jak dodawać kolorowy tekst do strony internetowej. Add this code inside your `style.css` file, to make all of the text in the website body blue:
 
     body {
         color: blue;
