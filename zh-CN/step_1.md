@@ -2,7 +2,7 @@
 
 在这个项目中，你将学习如何为你最喜欢的食谱创建一个网页。
 
-![截图](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
 ### 俱乐部导师的附加信息
 
@@ -39,7 +39,7 @@
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(上述所有资源均可下载为项目和志愿者`.zip`文件。)
+(上述所有资源也可以以`.zip`压缩包的形式下载。)
 
 ## 学习目标
 
