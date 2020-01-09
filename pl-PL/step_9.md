@@ -1,15 +1,15 @@
-\--- wyzwanie \---
+\--- challenge \---
 
 ## Wyzwanie: Więcej kolorów!
 
-Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+Zmień kolory w twoim kodzie za pomocą nazw kolorów, wartości `rgb()` oraz kodów szesnastkowych. Obszerną listę kolorów znajdziesz na <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, albo możesz przejść do <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> i stworzyć własne kolory!
 
-Here are some example colours:
+Oto kilka przykładowych kolorów:
 
-+ Red can be written as:
++ Czerwony może być zapisany jako:
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + `red` (oczywiście!)
+    + `rgb(255,0,0)` (mnóstwo czerwonego, brak zielonego oraz brak niebieskiego)
     + `#ff0000`
 
 + Olive can be written as:
