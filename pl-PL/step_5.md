@@ -2,7 +2,7 @@
 
 Następnie wyjaśnijmy jak ugotować twój przepis.
 
-+ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
++ Wykorzystasz kolejną listę, aby opisać swoją metodę, ale tym razem użyjesz **listy uporządkowanej** za pomocą znacznika `<ol>`.
 
 An ordered list is a numbered list, which you should use when the order of the steps is important.
 
