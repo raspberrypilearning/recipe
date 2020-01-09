@@ -6,6 +6,6 @@
 
 你的网页看起来应该是这样：
 
-![截屏](images/recipe-more-ingredients.png)
+![screenshot](images/recipe-more-ingredients.png)
 
 \--- /challenge \---
