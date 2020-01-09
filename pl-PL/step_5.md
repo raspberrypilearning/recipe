@@ -1,14 +1,14 @@
-## Metoda
+## Sposób wykonania
 
 Następnie wyjaśnijmy jak ugotować twój przepis.
 
-+ Wykorzystasz kolejną listę, aby opisać swoją metodę, ale tym razem użyjesz **listy uporządkowanej** za pomocą znacznika `<ol>`.
++ Wykorzystasz kolejną listę, aby twój sposób wykonania, ale tym razem użyjesz **listy uporządkowanej** za pomocą znacznika `<ol>`.
 
 Lista uporządkowana to numerowana lista, której powinnaś użyć jeżeli kolejność kroków jest istotna.
 
 Dodaj ten kod pod twoją listą składników, upewnij się, że jest on wciąż wewnątrz twojego znacznika `<body>`:
 
-    <h3>Metoda:</h3>
+    <h3>Sposób wykonania:</h3>
     
     <ol>
     
@@ -19,9 +19,9 @@ Dodaj ten kod pod twoją listą składników, upewnij się, że jest on wciąż 
 
 + Teraz musisz tylko dodać elementy do twojej nowej uporządkowanej listy:
 
-    <li>Peel the banana and add to a blender</li>
+    <li>Obierz banana i włóż go do blendera</li>
     
 
 ![zrzut ekranu](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+Zauważ, że elementy listy są automatycznie numerowane!
