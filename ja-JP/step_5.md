@@ -23,6 +23,6 @@
         <li>Peel the banana and add to a blender</li>
         
     
-    ![screenshot](images/recipe-ol.png)
+    ![スクリーンショット](images/recipe-ol.png)
     
-    Notice that the list items are automatically numbered!
+    先ほどと違って、リスト項目には自動的に番号が付けられていることに注意してください！
