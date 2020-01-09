@@ -4,7 +4,7 @@
 
 你可以在你的网页上添加图片吗？ 或者改变字体？ 你的网页可以是这样的：
 
-![截屏](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
 这里有一些代码可能会帮到你：
 
