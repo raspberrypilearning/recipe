@@ -1,8 +1,8 @@
-\--- wyzwanie \---
+\--- challenge \---
 
-## Challenge: Reviews
+## Wyzwanie: Recenzje
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+Poproś kilku przyjaciół aby zapisali recenzje twojego przepisu. Będziesz musiała stworzyć na nie jeszcze jedną listę.
 
 ![zrzut ekranu](images/recipe-reviews.png)
 
