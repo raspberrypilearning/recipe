@@ -6,7 +6,7 @@
     
     效果应该是这样：
     
-    ![截屏](images/recipe-starter.png)
+    ![screenshot](images/recipe-starter.png)
 
 + 对于你的原料列表，你将使用**无序列表**，用`<ul>`标签表示。 转到模板的第8行，添加这个HTML，将`<h1>`标题中的文本替换为你的食谱的名称：
 
@@ -21,7 +21,7 @@
 
 + 查看你的网页，你应该看到你的两个标题。
 
-![截图](images/recipe-headings.png)
+![screenshot](images/recipe-headings.png)
 
 你现在看不到你的列表，因为你还没有添加任何列表项！
 
@@ -30,6 +30,6 @@
     <li>1个香蕉</li>
     
 
-![截屏](images/recipe-ul.png)
+![screenshot](images/recipe-ul.png)
 
 由于列表是无序的，所以列表项旁边没有数字，只有项目符号。
