@@ -12,12 +12,12 @@ Oto kilka przykładowych kolorów:
     + `rgb(255,0,0)` (mnóstwo czerwonego, brak zielonego oraz brak niebieskiego)
     + `#ff0000`
 
-+ Olive can be written as:
++ Oliwkowy może być zapisany jako:
     
     + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + `rgb(128, 128, 0)` (odrobina czerwonego i zielonego, oraz brak niebieskiego)
     + `#808000`
 
-Try to make sure that the colours you use match your recipe!
+Postaraj się, aby wykorzystane kolory pasowały do twojego przepisu!
 
 \--- /challenge \---
