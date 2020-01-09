@@ -1,6 +1,6 @@
 ## Metoda
 
-Next, let’s explain how to make your recipe.
+Następnie wyjaśnijmy jak ugotować twój przepis.
 
 + You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
 
