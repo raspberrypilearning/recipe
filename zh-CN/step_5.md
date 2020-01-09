@@ -15,13 +15,13 @@
     </ol>
     
 
-![截屏](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
 + 现在你只需要添加列表项目到新的有序列表：
 
     <li>剥香蕉皮，放入搅拌机</li>
     
 
-![截图](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
 注意，列表项是自动编号的！
