@@ -52,40 +52,40 @@
         1. リストタグ。
         2. * * *タグ;
         
-        3. Consolidating the use of nested tags.</ul></li> 
+        3. nestedタグの使用を統合します。</ul></li> 
         
-        4. Writing CSS:
+        4. CCSの作成:
             
-            + Colours (names & hexadecimal codes).</ul> 
+            + 色（名前と16進コード）</ul> 
         
-        このプロジェクトは [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)の中から、以下の内容を取り扱います：
+        このプロジェクトは、Raspberry Pi Digital Making Curriculumの以下の要素をカバーしています：
         
-        + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+        + 基本的な2Dおよび3Dアセットの設計 。
         
         ## チャレンジ
         
-        "More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+        「より多くの材料」-順不同リストにアイテムを追加します。 「その他の手順」-順序付きリストにアイテムを追加します。 「その他の色」-色の名前、RGB値、16進コードを追加します。 「レビュー」-別の順序なしリストを追加します。 「より多くのスタイリング」-画像とフォントを追加します。
         
-        ## Completing this project offline
+        ## このプロジェクトをオフラインで完了する
         
-        If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+        子供たちがこのプロジェクトをオフラインで完了する場合、使用する予定の画像をTemplate.htmlファイルと同じフォルダに保存する必要があります。
         
-        They can then just add the name of the file in their `<img>` tags:
+        次に、<img />タグにファイルの名前を追加するだけです。
         
             <img src="banana.jpg" />
             
         
-        \--- /collapse \---
+        \--- /折りたたむ \---
         
-        ## \--- collapse \---
+        ## \--- 折りたたむ \---
         
-        ## title：プロジェクト資料
+        ## タイトル：プロジェクト資料
         
         ## プロジェクト資料
         
         + [全プロジェクト・リソースの入った.zipファイル](resources/recipe-project-resources.zip)
-        + [Online Trinket template](http://jumpto.cc/trinket-template)
-        + [Online blank Trinket](http://jumpto.cc/trinket-blank)
+        + [Online Trinketテンプレート](http://jumpto.cc/trinket-template)
+        + [Online 空の Trinket](http://jumpto.cc/trinket-blank)
         + [template/index.html](resources/template-index.html)
         + [template/style.css](resources/template-style.css)
         
@@ -97,4 +97,4 @@
         + [recipe-finished/style.css](resources/recipe-finished-style.css)
         + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
         
-        \--- /collapse \---
+        \--- /折りたたむ \---
