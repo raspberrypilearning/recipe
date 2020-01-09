@@ -6,7 +6,7 @@
 
 ![スクリーンショット](images/recipe-final.png)
 
-Here’s some code that will help you:
+役立つコードを次に示します。 
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
@@ -15,4 +15,4 @@ Here’s some code that will help you:
     <img src="image-link-goes-here">
     
 
-\--- /challenge \---
+\--- /チャレンジ\---
