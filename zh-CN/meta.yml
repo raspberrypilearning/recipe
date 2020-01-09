@@ -1,17 +1,17 @@
 ---
 hero_image: images/banner.png
-theme: 蓝色
+theme: blue
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: 食谱
 description: 创建一个网页来介绍你最喜欢的食谱，这样你的朋友就可以学着做了！
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
+technologies: html-css-javascript
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -28,7 +28,7 @@ steps:
   - 
     title: 方法
   - 
-    title: '挑战：更多步'
+    title: '挑战：更多步骤'
   - 
     title: 颜色！
   - 
