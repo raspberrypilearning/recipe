@@ -1,18 +1,18 @@
-\--- wyzwanie \---
+\--- challenge \---
 
-## Challenge: More styling
+## Wyzwanie: Więcej dekoracji
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+Czy możesz dodać obraz do twojej strony internetowej? Albo zmienić czcionkę? Oto jak może wyglądać twoja strona internetowa:
 
 ![zrzut ekranu](images/recipe-final.png)
 
-Here’s some code that will help you:
+Oto kod, który tobie pomoże:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
     font-weight: bold;
     
-    <img src="image-link-goes-here">
+    <img src="wstaw-tutaj-link-obrazu">
     
 
 \--- /challenge \---
