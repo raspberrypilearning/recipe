@@ -34,15 +34,15 @@ Dodaj ten kod CSS dla treści strony internetowej, aby wyświetlić jasnożółt
 
 ![zrzut ekranu](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Jeżeli wolisz, możesz powiedzieć przeglądarce jaki kolor ma wyświetlać za pomocą kodu heksadecymalnego (albo **kodu szesnastkowego**). Działa on w podobny sposób jak kod `rgb()` powyżej, oprócz tego, że kody szesnastkowe zawsze zaczynają się od `#`, i używają "liczb" szesnastkowych pomiędzy `00`, a `ff` dla określenia ilości czerwonego, zielonego i niebieskiego.
 
 ![zrzut ekranu](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+Zastąp kod `rgb()` w twoim CSS tym kodem szesnastkowym:
 
     background: #fafad2;
     
 
 ![zrzut ekranu](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+Powinieneś zobaczyć taki sam jasnożółty jak poprzednio!
