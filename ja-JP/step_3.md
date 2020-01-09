@@ -10,7 +10,9 @@
 
 + 材料のリストには、
     
-    タグを使用して、順序付けられていないリストを使用します。 Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:</p></li> 
+    タグを使用して、順序付けられていないリストを使用します。 テンプレートの8行目に移動し、このHTMLを追加して、
+    
+    # タイトルのテキストを独自のレシピの名前に置き換えます。</p></li> </ul> 
     
         <h1>Banana Milkshake</h1>
         
@@ -21,17 +23,18 @@
         </ul>
         
     
-    + View your webpage, and you should see your two headings.
+    + Webページを表示すると、2つの見出しが表示されます。
     
     ![スクリーンショット](images/recipe-headings.png)
     
-    You won’t see your list yet though, because you haven’t added any list items to it!
+    ただし、リスト項目はまだリストに追加されていないため、リストはまだ表示されません。 
     
-    + The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
-    
-        <li>1 banana</li>
-        
-    
-    ![スクリーンショット](images/recipe-ul.png)
-    
-    As your list is unordered, there are no numbers next to the list items, just bullet points.
+    + 次のステップは、
+        + タグを使用してリストにリストアイテムを追加することです。 
+            タグ内に次のコードを追加します。</li> 
+                <li>1 banana</li>
+                
+            
+            ![スクリーンショット](images/recipe-ul.png)
+            
+            リストは順序付けられていないため、リスト項目の横に数字はなく、箇条書きだけです。
