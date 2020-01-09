@@ -2,7 +2,7 @@
 
 Dodajmy trochę barw do twojej strony internetowej z przepisem.
 
-+ Już dowiedziałeś się jak dodawać kolorowy tekst do strony internetowej. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ Już dowiedziałeś się jak dodawać kolorowy tekst do strony internetowej. Dodaj ten kod wewnątrz twojego pliku `style.css`, aby sprawić, że cały tekst na stronie stanie się niebieski:
 
     body {
         color: blue;
@@ -11,23 +11,23 @@ Dodajmy trochę barw do twojej strony internetowej z przepisem.
 
 ![zrzut ekranu](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ Twoja przeglądarka zna kolory takie jak `blue` (niebieski), `yellow` (żółty), a nawet `lightgreen` (jasnozielony), ale czy wiedziałaś, że twoja przeglądarka zna **nazwy** ponad 140 różnych barw?
 
 Tutaj znajdziesz listę ze wszystkimi nazwami kolorów, których możesz użyć: [jumpto.cc/colours](http://jumpto.cc/colours) (np. `tomato`, `firebrick`, `peachpuff`).
 
-Change the text colour from `blue` to `tomato`.
+Zmień kolor tekstu z `blue` na `tomato` (pomidor).
 
 ![zrzut ekranu](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ Twoja przeglądarka zna nazwy ponad 140 kolorów, ale zna także ponad 16 milionów **wartości kolorów**!
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+Żeby powiedzieć przeglądarce, który kolor ma wyświetlić, musisz jej wskazać ile ma użyć czerwonego, zielonego i niebieskiego.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+Ilości czerwonego, zielonego i niebieskiego są zapisywane jako liczba pomiędzy `0`, a `255`.
 
 ![zrzut ekranu](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+Dodaj ten kod CSS dla treści strony internetowej, aby wyświetlić jasnożółte tło:
 
     background: rgb(250,250,210);
     
