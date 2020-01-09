@@ -6,6 +6,6 @@
 
 你的方法应该看起来像这样：
 
-![截屏](images/recipe-more-method.png)
+![screenshot](images/recipe-more-method.png)
 
 \--- /challenge \---
