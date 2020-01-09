@@ -1,12 +1,12 @@
-## Finishing touches
+## Ostatnie pociągnięcia
 
-Let’s add a little more HTML and CSS to improve your webpage.
+Dodajmy nieco więcej HTML i CSS, aby ulepszyć twoją stronę internetową.
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ Możesz dodać poziomą linię na końcu twojego przepisu za pomocą znacznika `<hr>`.
 
 ![zrzut ekranu](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+Zauważ, że ten znacznik nie ma znacznika zamykającego, tak samo jak znacznik `<img>`.
 
 + The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
 
