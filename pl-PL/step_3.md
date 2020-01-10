@@ -10,7 +10,7 @@ Wypiszmy składniki potrzebne do twojego przepisu.
 
 + Do twojej listy składników użyjesz **nieuporządkowanej listy**, wykorzystując znacznik `<ul>`. Przejdź do linii nr 8 w szablonie i dodaj ten HTML, zamieniając tekst w tytule `<h1>` na nazwę twojego przepisu:
 
-    <h1>Milkshake Bananowy</h1>
+    <h1>Mleczny koktajl bananowy</h1>
     
     <h3>Składniki:</h3>
     
