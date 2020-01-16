@@ -33,6 +33,7 @@ You won’t see your list yet though, because you haven’t added any list items
 ```
 <li>1 banana</li>
 ```
+
 ![screenshot](images/recipe-ul.png)
 
 As your list is unordered, there are no numbers next to the list items, just bullet points.
