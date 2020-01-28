@@ -1,13 +1,13 @@
 ---
-hero_image: images / banner.png
-theme: blå
+hero_image: images/banner.png
+theme: blue
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Oppskrift
-description: Lag en nettside av favorittoppskriften din, slik at vennene dine kan gjøre det!
+title: Recipe
+description: Create a webpage of your favourite recipe, so that your friends can make it!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduksjon
+    title: Introduction
   - 
-    title: Bestem deg på en oppskrift
+    title: Decide on a recipe
   - 
-    title: ingredienser
+    title: Ingredients
   - 
-    title: 'Utfordring: Flere ingredienser'
+    title: 'Challenge: More ingredients'
   - 
-    title: Metode
+    title: Method
   - 
-    title: 'Utfordring: Flere skritt'
+    title: 'Challenge: More steps'
   - 
-    title: Farger!
+    title: Colours!
   - 
-    title: Finpuss
+    title: Finishing touches
   - 
-    title: 'Utfordring: Flere farger!'
+    title: 'Challenge: More colours!'
   - 
-    title: 'Utfordring: Anmeldelser'
+    title: 'Challenge: Reviews'
   - 
-    title: 'Utfordring: Mer styling'
+    title: 'Challenge: More styling'
