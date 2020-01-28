@@ -1,35 +1,35 @@
-## Ingrediente
+## Ingredients
 
-Hai să listăm ingredientele care sunt necesare pentru rețetă.
+Let’s list the ingredients that are needed for your recipe.
 
-+ Deschide șablonul trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    Proiectul ar trebui să arate astfel:
+    The project should look like this:
     
-    ![captură de ecran](images/recipe-starter.png)
+    ![screenshot](images/recipe-starter.png)
 
-+ Pentru lista ta de ingrediente, vei folosi o **listă neordonată**, folosind eticheta `<ul>`. Mergi la linia 8 din șablon și adaugă acest cod HTML, înlocuind textul din titlul `<h1>` cu numele rețetei tale:
++ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
 
-    <h1>Milkshake de banane</h1>
+    <h1>Banana Milkshake</h1>
     
-    <h3>Ingrediente:</h3>
+    <h3>Ingredients:</h3>
     
     <ul>
     
     </ul>
     
 
-+ Uită-te la pagina ta web, și ar trebui să vezi 2 titluri.
++ View your webpage, and you should see your two headings.
 
-![captură de ecran](images/recipe-headings.png)
+![screenshot](images/recipe-headings.png)
 
-Nu vei vedea lista ta încă, deoarece nu ai adăugat nimic acolo!
+You won’t see your list yet though, because you haven’t added any list items to it!
 
-+ Următorul pas este de a adăuga obiecte în lista ta, folosind eticheta `<li>`. Adaugă următorul cod în interiorul etichetei `<ul>`:
++ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
 
-    <li>1 banană</li>
+    <li>1 banana</li>
     
 
-![captură de ecran](images/recipe-ul.png)
+![screenshot](images/recipe-ul.png)
 
-Deoarece lista ta este neordonată, nu există numere lângă lista obiectelor, doar niște puncte.
+As your list is unordered, there are no numbers next to the list items, just bullet points.
