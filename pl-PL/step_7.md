@@ -1,6 +1,6 @@
 ## Kolory!
 
-Dodajmy trochę barw do twojej strony internetowej z przepisem.
+Dodajmy trochę koloru do twojej strony internetowej z przepisem.
 
 + Już dowiedziałeś się jak dodawać kolorowy tekst do strony internetowej. Dodaj ten kod wewnątrz twojego pliku `style.css`, aby sprawić, że cały tekst na stronie stanie się niebieski:
 
@@ -13,13 +13,13 @@ Dodajmy trochę barw do twojej strony internetowej z przepisem.
 
 + Twoja przeglądarka zna kolory takie jak `blue` (niebieski), `yellow` (żółty), a nawet `lightgreen` (jasnozielony), ale czy wiedziałaś, że twoja przeglądarka zna **nazwy** ponad 140 różnych barw?
 
-Tutaj znajdziesz listę ze wszystkimi nazwami kolorów, których możesz użyć: [jumpto.cc/colours](http://jumpto.cc/colours) (np. `tomato`, `firebrick`, `peachpuff`).
+Tutaj znajdziesz listę ze wszystkimi nazwami kolorów, których możesz użyć: [jumpto.cc/colours](http://jumpto.cc/colours) np. `tomato`, `firebrick`, `peachpuff`.
 
-Zmień kolor tekstu z `blue` na `tomato` (pomidor).
+Zmień kolor tekstu z `blue`(niebieski) na `tomato` (pomidorowy).
 
 ![zrzut ekranu](images/recipe-tomato.png)
 
-+ Twoja przeglądarka zna nazwy ponad 140 kolorów, ale zna także ponad 16 milionów **wartości kolorów**!
++ Twoja przeglądarka zna nazwy ponad 140 kolorów, ale w rzeczywistości zna ponad 16 milionów **wartości różnych kolorów**!
 
 Żeby powiedzieć przeglądarce, który kolor ma wyświetlić, musisz jej wskazać ile ma użyć czerwonego, zielonego i niebieskiego.
 
