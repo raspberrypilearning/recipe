@@ -32,4 +32,4 @@ Nećete još uvijek vidjeti vašu listu, jer niste dodali niti jedan sastojak na
 
 ![screenshot](images/recipe-ul.png)
 
-Pošto je vaša lista neuređena, ne postoje brojevi pored pojedinog sastojka, već smo buleti.
+As your list is unordered, there are no numbers next to the list items, just bullet points.
