@@ -1,10 +1,10 @@
-## Priprema
+## Method
 
 Sljedeće, objasnimo kako ćete izraditi vaš recept.
 
 + Korisiti ćete drugu listu za pisanje svoje metode, ali sada ćete koristiti **uređenu listu**, koristeći `<ol>` tag.
 
-Uređena lista je numerirana lista, koja se koristi kada je redoslijed koraka bitan.
+An ordered list is a numbered list, which you should use when the order of the steps is important.
 
 Dodajte sljedeći kod ispod vaše liste sastojaka, budite sigurni da je unutar vašeg `<body>` taga:
 
