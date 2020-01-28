@@ -1,35 +1,35 @@
-## Sastojci
+## Ingredients
 
-Napravimo listu sastojaka potrebnih za tvoj recept.
+Let’s list the ingredients that are needed for your recipe.
 
-+ Otvori ovaj trinket šablon: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    Projekat treba da izgleda ovako:
+    The project should look like this:
     
     ![screenshot](images/recipe-starter.png)
 
-+ Za tvoju listu sastojaka upotrijebićemo **neuređenu listu**, koristeći oznaku `<ul>`. Idi u 8. red šablona i dodaj sljedeći HTML, a tekst koji se nalazi unutar oznake `<h1>` zamijeni nazivom svog recepta:
++ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
 
-    <h1>Frape od banana</h1>
+    <h1>Banana Milkshake</h1>
     
-    <h3>Sastojci:</h3>
+    <h3>Ingredients:</h3>
     
     <ul>
     
     </ul>
     
 
-+ Pogledaj svoju veb-stranicu. Trebalo bi da vidiš svoja dva naslova.
++ View your webpage, and you should see your two headings.
 
 ![screenshot](images/recipe-headings.png)
 
-Svoju listu još uvijek nećeš vidjeti, zato što u nju nije dodat nijedan elemenat!
+You won’t see your list yet though, because you haven’t added any list items to it!
 
-+ Sljedeći korak je dodavanje elemenata liste u listu, koristeći oznaku `<li>`. Unutar oznake `<ul>` dodaj sljedeći kôd:
++ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
 
     <li>1 banana</li>
     
 
 ![screenshot](images/recipe-ul.png)
 
-Pošto je tvoja lista neuređena, pored elemenata liste ne stoje brojevi, već samo tačke.
+As your list is unordered, there are no numbers next to the list items, just bullet points.
