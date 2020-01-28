@@ -6,36 +6,36 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Ricetta
-description: Crea una pagina web della tua ricetta preferita, in modo che i tuoi amici possano realizzarla!
+title: Recipe
+description: Create a webpage of your favourite recipe, so that your friends can make it!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
-site_areas: progetti
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduzione
+    title: Introduction
   - 
-    title: Decidi una ricetta
+    title: Decide on a recipe
   - 
-    title: Ingredienti
+    title: Ingredients
   - 
-    title: 'Sfida: Altri ingredienti'
+    title: 'Challenge: More ingredients'
   - 
-    title: Metodo
+    title: Method
   - 
-    title: 'Sfida: Altri passi'
+    title: 'Challenge: More steps'
   - 
-    title: Colori!
+    title: Colours!
   - 
-    title: Il tocco finale
+    title: Finishing touches
   - 
-    title: 'Sfida: Altri colori!'
+    title: 'Challenge: More colours!'
   - 
-    title: 'Sfida: Recensioni'
+    title: 'Challenge: Reviews'
   - 
-    title: 'Sfida: Più stile'
+    title: 'Challenge: More styling'
