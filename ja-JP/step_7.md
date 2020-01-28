@@ -1,48 +1,48 @@
-## 配色!
+## Colours!
 
-レシピのWebページに色を追加しましょう。
+Let’s add some colour to your recipe webpage.
 
-+ Webページに色付きのテキストを追加する方法は既に学習しました。 style.cssファイル内に次のコードを追加して、Webサイトの本文のすべてのテキストを青にします。
++ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
 
     body {
         color: blue;
     }
     
 
-![スクリーンショット](images/recipe-blue.png)
+![screenshot](images/recipe-blue.png)
 
-+ あなたのブラウザは青blue、黄yellow、さらには薄緑lightgreenのような色を知っていますが、あなたのブラウザが実際に140以上の異なる色の名前を知っていることを知っていましたか？
++ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
 
-使用できるすべての色名のリストがあります。jumpto.cc/ coloursには、トマトtomato、耐火レンガfirebrick、肌色peachpuffなどの色名が含まれています。
+There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
 
-テキストの色を青blueからトマトtomatoに変更します。
+Change the text colour from `blue` to `tomato`.
 
-![スクリーンショット](images/recipe-tomato.png)
+![screenshot](images/recipe-tomato.png)
 
-+ ブラウザは140色の名前を知っていますが、実際には1600万色以上の色の値を知っています！
++ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
 
-表示する色をブラウザに指示するには、使用する赤、緑、青の量をブラウザ側に知らせる必要があります。
+To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
 
-赤、緑、青の量は、0から255の間の数値として書き込まれます。
+The amounts of red, green and blue are written as a number between `0` and `255`.
 
-![スクリーンショット](images/recipe-rgb-img.png)
+![screenshot](images/recipe-rgb-img.png)
 
-Webページの本文のCSSに次のコードを追加して、明るい黄色の背景を表示します。
+Add this code to the CSS for the body of the webpage, to display a light yellow background:
 
     background: rgb(250,250,210);
     
 
-![スクリーンショット](images/recipe-rgb.png)
+![screenshot](images/recipe-rgb.png)
 
-+ 必要に応じて、16進コード（または16進コード）を使用して、表示する色をブラウザーに指示できます。 これは上記のrgb（）コードと同様に機能しますが、16進コードは常に＃で始まり、赤、緑、青の量に00からffまでの16進数の「数字」を使用する点が異なります。 
++ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
 
-![スクリーンショット](images/recipe-hex-img.png)
+![screenshot](images/recipe-hex-img.png)
 
-CSSのrgb（）コードを次の16進コードに置き換えます。 
+Replace the `rgb()` code in your CSS with this hex code:
 
     background: #fafad2;
     
 
-![スクリーンショット](images/recipe-hex.png)
+![screenshot](images/recipe-hex.png)
 
-以前と同じ明るい黄色が表示されるはずです！
+You should see the same light yellow as before!
