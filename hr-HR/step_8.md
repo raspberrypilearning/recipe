@@ -19,7 +19,7 @@ Uočite da ovaj tag nema završni tag, kao i `<img>` tag.
 
 ![screenshot](images/recipe-hr-css.png)
 
-+ Možete čak i promijeniti izgled vaših bulet oznaka sa ovim CSS kodom:
++ You can even change how your bullet points look with this CSS code:
 
     ul {
         list-style-type: square;
