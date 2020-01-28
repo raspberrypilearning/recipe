@@ -1,10 +1,10 @@
-## Tentukan resep
+## Decide on a recipe
 
-Sebelum Anda mendapatkan kode, Anda harus memutuskan resepnya.
+Before you get coding, you’ll need to decide on a recipe.
 
-+ Pikirkan tentang resep yang ingin Anda bagikan dengan teman-teman Anda. Bisa jadi: 
-    + Resep yang Anda temukan online;
-    + Makanan kesukaanmu;
-    + Sesuatu yang Anda buat!
++ Think about a recipe you want to share with your friends. It could be: 
+    + A recipe you found online;
+    + Your favourite meal;
+    + Something you made up!
 
-Contoh resep yang akan Anda lihat dalam proyek ini adalah milkshake pete. Anda dapat menyalin resep ini jika Anda tidak dapat menemukannya sendiri.
+The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
