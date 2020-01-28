@@ -1,10 +1,10 @@
-## レシピを決める
+## Decide on a recipe
 
-コーディングを始める前に、レシピを決める必要があります。
+Before you get coding, you’ll need to decide on a recipe.
 
-+ 友達と共有したいレシピを考えてください。 例えば: 
-    + オンラインで見つけたレシピ
-    + あなたの好きな料理
-    + あなたが作ったもの！
++ Think about a recipe you want to share with your friends. It could be: 
+    + A recipe you found online;
+    + Your favourite meal;
+    + Something you made up!
 
-このプロジェクトで見るレシピの例は、バナナのミルクセーキ用のレシピです。 自分のレシピが見つからない場合は、このレシピをコピーできます。
+The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
