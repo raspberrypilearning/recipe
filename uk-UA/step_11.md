@@ -1,16 +1,16 @@
-\--- завдання \---
+\--- challenge \---
 
-## \--- challenge \---: Більше стилю
+## Challenge: More styling
 
-Чи можете ви додати зображення на свою веб-сторінку? Або змінити шрифт? Ось як могла б виглядати ваша веб-сторінка:
+Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
 
-![знімок екрану](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-Ось коди, які допоможуть вам:
+Here’s some code that will help you:
 
-    шрифт: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    розмір шрифту: 12pt;
-    товщина шрифту: жирний;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
     
     <img src="image-link-goes-here">
     
