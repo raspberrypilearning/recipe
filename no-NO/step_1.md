@@ -1,95 +1,95 @@
-## Introduksjon
+## Introduction
 
-I dette prosjektet lærer du hvordan du oppretter en nettside for din favorittoppskrift.
+In this project, you’ll learn how to create a webpage for your favourite recipe.
 
-![skjermbilde](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-### Tilleggsinformasjon for klubbledere
+### Additional information for club leaders
 
-Hvis du trenger å skrive ut dette prosjektet, bruk [Utskriftsvennlig versjon](https://projects.raspberrypi.org/en/projects/recipe/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## tittel: Klubbleder notater
+## title: Club leader notes
 
-## Introduksjon:
+## Introduction:
 
-I dette prosjektet vil barna lære om HTML-lister og CSS-farger. De vil lage sin egen oppskrift, legge til ingrediens og metodelister.
+In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
-## Online ressurser
+## Online Resources
 
-Vi anbefaler at du bruker [trinket](https://trinket.io/) til å skrive HTML & CSS online.
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
-Barn kan også benytte seg av denne tomme pynten [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) å skrive sin egen HTML & CSS, eller alternativt kan de bruke denne malepinken [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Det er også en pyntegjenstander som inneholder en prøveoppløsning til utfordringene:
+There is also a trinket containing a sample solution to the challenges:
 
-+ ['Oppskrift' Ferdig - Trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
 ## Offline Resources
 
-Dette prosjektet kan være [fullført offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) hvis det er foretrukket. Du kan få tilgang til prosjektressursene ved å klikke på lenken "Project Materials" for dette prosjektet. Denne lenken inneholder en del "Prosjektressurser", som inneholder ressurser som barn trenger for å fullføre dette prosjektet uten nett. Sørg for at hvert barn har tilgang til en kopi av disse ressursene. Denne delen inneholder følgende filer:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-+ mal / index.html
-+ mal / style.css
++ template/index.html
++ template/style.css
 
-Du kan også finne en fullført versjon av prosjektets utfordringer i delen Frivillige ressurser, som inneholder:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-+ oppskrift-ferdig / indeks.html
-+ oppskrift-ferdig / style.css
-+ oppskrift-ferdig / banana.jpg
++ recipe-finished/index.html
++ recipe-finished/style.css
++ recipe-finished/banana.jpg
 
-(Alle ressursene ovenfor er også nedlastbare som prosjekt og frivillig `.zip` filer.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Læringsmål
+## Learning Objectives
 
-+ Skrive HTML:
++ Writing HTML:
     
-    + `<ul>`, `<ol>` og `<li>` liste koder;
+    + `<ul>`, `<ol>` and `<li>` list tags;
     + `<hr/>` tag;
-    + Konsolidere bruken av nestede koder.
+    + Consolidating the use of nested tags.
 
-+ Skrive CSS:
++ Writing CSS:
     
-    + Farger (navn & heksadesimale koder).
+    + Colours (names & hexadecimal codes).
 
-Dette prosjektet dekker elementer fra følgende tråder av [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Design grunnleggende 2D og 3D eiendeler](https://www.raspberrypi.org/curriculum/design/creator).
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## utfordringer
+## Challenges
 
-"Flere ingredienser" - legge til flere elementer på en uordnet liste; "Flere trinn" - legge til flere elementer på en bestilt liste; "Flere farger" - legger til fargenavn, rgb-verdier og heksekoder; "Anmeldelser" - legger til en annen uordnet liste; "Mer styling" - legger til bilder og skrifter.
+"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
 
-## Fullfører dette prosjektet offline
+## Completing this project offline
 
-Hvis barn fullfører dette prosjektet uten nett, må de lagre bilder de har tenkt å bruke i samme mappe som deres Template.html-fil.
+If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
 
-De kan da bare legge til navnet på filen i sine `<img>` koder:
+They can then just add the name of the file in their `<img>` tags:
 
     <img src="banana.jpg" />
     
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## tittel: Prosjektmaterialer
+## title: Project materials
 
-## Prosjektressurser
+## Project resources
 
-+ [.zip-fil som inneholder alle prosjektressurser](resources/recipe-project-resources.zip)
-+ [Online Trinket-mal](http://jumpto.cc/trinket-template)
++ [.zip file containing all project resources](resources/recipe-project-resources.zip)
++ [Online Trinket template](http://jumpto.cc/trinket-template)
 + [Online blank Trinket](http://jumpto.cc/trinket-blank)
-+ [mal / index.html](resources/template-index.html)
-+ [mal / style.css](resources/template-style.css)
++ [template/index.html](resources/template-index.html)
++ [template/style.css](resources/template-style.css)
 
-## Klubblederressurser
+## Club leader resources
 
-+ [.zip-fil som inneholder alle ferdige prosjektressurser](resources/recipe-volunteer-resources.zip)
-+ [Online gjennomført Trinket-prosjekt](https://trinket.io/html/c0fd9b40cd)
-+ [oppskrift-ferdig / indeks.html](resources/recipe-finished-index.html)
-+ [oppskrift-ferdig / style.css](resources/recipe-finished-style.css)
-+ [oppskrift-ferdig / banana.png](resources/recipe-finished-banana.png)
++ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
++ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
++ [recipe-finished/index.html](resources/recipe-finished-index.html)
++ [recipe-finished/style.css](resources/recipe-finished-style.css)
++ [recipe-finished/banana.png](resources/recipe-finished-banana.png)
 
-\--- / kollaps \---
+\--- /collapse \---
