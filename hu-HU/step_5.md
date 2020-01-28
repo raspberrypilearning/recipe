@@ -1,27 +1,27 @@
-## Elkészítés
+## Method
 
-Most magyarázza el hogyan kell elkészíteni a receptet.
+Next, let’s explain how to make your recipe.
 
-+ Másik listát fog használni a módszer megírásához, ezúttal **rendezett listát** fog használni, a `<ol>` címke használatával.
++ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
 
-A rendezett lista számozott lista, amelyet akkor kell használni, ha a lépések sorrendje fontos.
+An ordered list is a numbered list, which you should use when the order of the steps is important.
 
-Add hozzá ezt a kódot az összetevők listája alá, ügyelve arra, hogy még mindig a `<body>` címkén belül van:
+Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
 
-    <h3>Elkészítés:</h3>
+    <h3>Method:</h3>
     
     <ol>
     
     </ol>
     
 
-![képernyőkép](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
-+ Most már csak hozzá kell adnia az elemeket az új rendezett listához:
++ Now you just need to add list items into your new ordered list:
 
-    <li>Hámozza meg a banánt és adja hozzá a turmixgéphez</li>
+    <li>Peel the banana and add to a blender</li>
     
 
-![képernyőkép](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
-Figyelje meg, hogy a listaelemek automatikusan számozódnak!
+Notice that the list items are automatically numbered!
