@@ -1,95 +1,95 @@
-## Pengantar
+## Introduction
 
-Dalam proyek ini, Anda akan belajar cara membuat halaman web untuk resep favorit Anda.
+In this project, you’ll learn how to create a webpage for your favourite recipe.
 
-![tangkapan layar](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-### Informasi tambahan untuk para ketua klub
+### Additional information for club leaders
 
-Jika kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://projects.raspberrypi.org/en/projects/recipe/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Catatan ketua klub
+## title: Club leader notes
 
-## Pengantar:
+## Introduction:
 
-Dalam proyek ini, anak-anak akan belajar tentang daftar HTML dan warna CSS. Mereka akan membuat resep mereka sendiri, menambahkan daftar bahan dan metode.
+In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
-## Sumber Daya Online
+## Online Resources
 
-Kami merekomendasikan menggunakan [trinket](https://trinket.io/) untuk menulis HTML & CSS secara online.
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
-Anak-anak juga dapat menggunakan perhiasan kosong ini [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) untuk menulis HTML & CSS mereka sendiri, atau secara alternatif mereka dapat menggunakan trinket template [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Ada juga trinket yang berisi solusi sampel untuk tantangan:
+There is also a trinket containing a sample solution to the challenges:
 
-+ ['Resep' Selesai - trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Sumber Daya Offline
+## Offline Resources
 
-Proyek ini dapat [selesai offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) jika disukai. Anda dapat mengakses sumber daya proyek dengan mengklik tautan 'Project Materials' untuk proyek ini. Tautan ini berisi bagian 'Sumber Proyek', yang mencakup sumber daya yang dibutuhkan anak-anak untuk menyelesaikan proyek ini secara offline. Pastikan bahwa setiap anak memiliki akses ke salinan sumber daya ini. Bagian ini termasuk file-file berikut:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-+ template / index.html
-+ template / style.css
++ template/index.html
++ template/style.css
 
-Anda juga dapat menemukan versi lengkap dari tantangan proyek ini di bagian 'Sumber Relawan', yang berisi:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-+ resep-selesai / index.html
-+ resep-selesai / style.css
-+ resep selesai / banana.jpg
++ recipe-finished/index.html
++ recipe-finished/style.css
++ recipe-finished/banana.jpg
 
-(Semua sumber daya di atas juga dapat diunduh sebagai proyek dan relawan `file .zip`).
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Tujuan Pembelajaran
+## Learning Objectives
 
-+ Menulis HTML:
++ Writing HTML:
     
-    + `<ul>`, `<ol>` dan `<li>` daftar tag;
+    + `<ul>`, `<ol>` and `<li>` list tags;
     + `<hr/>` tag;
-    + Mengkonsolidasikan penggunaan tag berlapis.
+    + Consolidating the use of nested tags.
 
-+ Menulis CSS:
++ Writing CSS:
     
-    + Warna (nama & kode heksadesimal).
+    + Colours (names & hexadecimal codes).
 
-Proyek ini mencakup unsur-unsur dari rangkaian [Kurikulum Digital Making Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Desain aset 2D dan 3D dasar](https://www.raspberrypi.org/curriculum/design/creator).
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Tantangan
+## Challenges
 
-"Lebih banyak bahan" - menambahkan lebih banyak item ke daftar yang tidak diurutkan; "Lebih banyak langkah" - menambahkan lebih banyak item ke daftar pesanan; "Lebih banyak warna" - menambahkan nama warna, nilai rgb dan kode hex; "Ulasan" - menambahkan daftar lain yang tidak diurutkan; "Lebih banyak gaya" - menambahkan gambar dan font.
+"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
 
-## Menyelesaikan proyek ini secara offline
+## Completing this project offline
 
-Jika anak-anak menyelesaikan proyek ini secara offline, mereka harus menyimpan gambar yang ingin mereka gunakan di folder yang sama dengan file Template.html mereka.
+If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
 
-Mereka kemudian dapat menambahkan nama file dalam tag `<img>`:
+They can then just add the name of the file in their `<img>` tags:
 
     <img src="banana.jpg" />
     
 
-\--- /menggulung \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Materi proyek
+## title: Project materials
 
-## Sumber daya proyek
+## Project resources
 
-+ [file .zip yang berisi semua sumber daya proyek](resources/recipe-project-resources.zip)
-+ [Template Trinket Online](http://jumpto.cc/trinket-template)
-+ [Trinket kosong daring](http://jumpto.cc/trinket-blank)
-+ [template / index.html](resources/template-index.html)
-+ [template / style.css](resources/template-style.css)
++ [.zip file containing all project resources](resources/recipe-project-resources.zip)
++ [Online Trinket template](http://jumpto.cc/trinket-template)
++ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [template/index.html](resources/template-index.html)
++ [template/style.css](resources/template-style.css)
 
-## Sumber daya ketua klub
+## Club leader resources
 
-+ [file .zip yang berisi semua sumber daya proyek yang telah selesai](resources/recipe-volunteer-resources.zip)
-+ [Proyek Trinket yang diselesaikan secara daring](https://trinket.io/html/c0fd9b40cd)
-+ [resep-selesai / index.html](resources/recipe-finished-index.html)
-+ [resep-selesai / style.css](resources/recipe-finished-style.css)
-+ [resep selesai / pisang.png](resources/recipe-finished-banana.png)
++ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
++ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
++ [recipe-finished/index.html](resources/recipe-finished-index.html)
++ [recipe-finished/style.css](resources/recipe-finished-style.css)
++ [recipe-finished/banana.png](resources/recipe-finished-banana.png)
 
-\--- /menggulung \---
+\--- /collapse \---
