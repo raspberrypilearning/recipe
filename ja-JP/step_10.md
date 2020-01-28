@@ -1,9 +1,9 @@
-\---チャレンジ\---
+\--- challenge \---
 
-## 課題：レビュー
+## Challenge: Reviews
 
-友達の何人かにあなたのレシピのレビューを残してもらう。 これを行うには、別のリストを作成する必要があります。 
+Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
 
-![スクリーンショット](images/recipe-reviews.png)
+![screenshot](images/recipe-reviews.png)
 
-\--- /チャレンジ \---
+\--- /challenge \---
