@@ -1,29 +1,29 @@
-## لمس کردن پایان
+## Finishing touches
 
-اجازه دهید یک HTML و CSS کمی بیشتر برای بهبود صفحه وب خود اضافه کنیم.
+Let’s add a little more HTML and CSS to improve your webpage.
 
-+ شما می توانید یک خط افقی را در انتهای دستور خود با استفاده از برچسب `<hr>`.
++ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
 
-![تصویری](images/recipe-hr.png)
+![screenshot](images/recipe-hr.png)
 
-توجه داشته باشید که این برچسب تگ پایان ندارد، همانند تگ `<img>`.
+Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
 
-+ خط شما فقط اضافه شده با سبک بقیه صفحه وب شما مطابقت ندارد. اجازه دهید با اضافه کردن برخی از کد CSS اصلاح کنیم:
++ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
 
     hr {
-        height: 2px؛
-        مرز: هیچ؛
-        پس زمینه: گوجه فرنگی؛
+        height: 2px;
+        border: none;
+        background-color: tomato;
     }
     
 
-![تصویری](images/recipe-hr-css.png)
+![screenshot](images/recipe-hr-css.png)
 
-+ شما حتی می توانید نقاط گلوله خود را با این کد CSS تغییر دهید:
++ You can even change how your bullet points look with this CSS code:
 
     ul {
-        list-style-type: square؛
+        list-style-type: square;
     }
     
 
-![تصویری](images/recipe-ul-css.png)
+![screenshot](images/recipe-ul-css.png)
