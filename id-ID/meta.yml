@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-theme: biru
+theme: blue
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: resep
-description: Buat halaman web dari resep favorit Anda, sehingga teman-teman Anda dapat membuatnya!
+title: Recipe
+description: Create a webpage of your favourite recipe, so that your friends can make it!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Pengantar
+    title: Introduction
   - 
-    title: Tentukan resep
+    title: Decide on a recipe
   - 
-    title: Bahan
+    title: Ingredients
   - 
-    title: 'Tantangan: Lebih banyak bahan'
+    title: 'Challenge: More ingredients'
   - 
-    title: metode
+    title: Method
   - 
-    title: 'Tantangan: Lebih banyak langkah'
+    title: 'Challenge: More steps'
   - 
-    title: Warna!
+    title: Colours!
   - 
-    title: Sentuhan akhir
+    title: Finishing touches
   - 
-    title: 'Tantangan: Lebih banyak warna!'
+    title: 'Challenge: More colours!'
   - 
-    title: 'Tantangan: Ulasan'
+    title: 'Challenge: Reviews'
   - 
-    title: 'Tantangan: Lebih banyak gaya'
+    title: 'Challenge: More styling'
