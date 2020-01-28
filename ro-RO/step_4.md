@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Provocare: mai multe ingrediente
+## Challenge: More ingredients
 
-Poți să adaugi toate ingredientele pentru rețeta **ta**?
+Can you add all of the ingredients for **your** recipe?
 
-Pagina ta web ar trebui să arate cam așa:
+Your webpage should look something like this:
 
-![captură de ecran](images/recipe-more-ingredients.png)
+![screenshot](images/recipe-more-ingredients.png)
 
 \--- /challenge \---
