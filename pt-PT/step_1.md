@@ -1,71 +1,71 @@
-## Introdução
+## Introduction
 
-Neste projeto vais aprender a criar uma página web para a tua receita favorita.
+In this project, you’ll learn how to create a webpage for your favourite recipe.
 
-![captura de ecrã](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-### Informações adicionais para os líderes de clube
+### Additional information for club leaders
 
-Se precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/recipe/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Notas para os líderes de clube
+## title: Club leader notes
 
-## Introdução:
+## Introduction:
 
-Neste projeto, as crianças vāo aprender acerca de listas HTML e cores CSS. Elas irāo criar a sua própria receita, adicionando listas de ingredientes e métodos de preparaçāo.
+In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
-## Recursos online
+## Online Resources
 
-Recomendamos usar [trinket](https://trinket.io/) para codificar HTML & CSS online.
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
-As crianças podem também usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever o seu próprio HTML & CSS, ou alternativamente podem usar este trinket de modelo [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Há também um trinket que contém uma amostra de solução para os desafios:
+There is also a trinket containing a sample solution to the challenges:
 
-+ [‘Receita’ concluida -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Recursos offline
+## Offline Resources
 
-Este projeto pode ser [ concluído offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) se preferires. Pode aceder aos recursos do projeto clicando no link 'Materiais de Projeto' deste projeto. Este link contém uma secção 'Recursos do projeto', que inclui recursos que as crianças precisam para concluir este projeto offline. Certifique-se de que cada criança tem acesso a uma cópia destes recursos. Esta secção inclui os seguintes arquivos:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 + template/index.html
 + template/style.css
 
-Também pode encontrar uma versão completa dos desafios deste projeto na secção 'Recursos Voluntários', que contém:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(Todos os recursos acima também são transferíveis como arquivos `.zip` do projeto e voluntários.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Objetivos de Aprendizagem
+## Learning Objectives
 
-+ Escrever HTML:
++ Writing HTML:
     
-    + Etiquetas de lista `<ul>`, `<ol>` and `<li>`;
-    + Etiqueta `<hr/>`;
+    + `<ul>`, `<ol>` and `<li>` list tags;
+    + `<hr/>` tag;
     + Consolidating the use of nested tags.
 
-+ Escrever CSS:
++ Writing CSS:
     
-    + Cores (nomes & códigos hexadecimais).
+    + Colours (names & hexadecimal codes).
 
-Este projeto abrange elementos das seguintes vertentes do [ Curriculo Raspberry Pi Digital Making ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [ Projetar ativos 2D e 3D básicos ](https://www.raspberrypi.org/curriculum/design/creator).
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Desafios
+## Challenges
 
-"Mais ingredientes" - adicionar mais itens a uma lista desordenada; "Mais passos" - adicionar mais itens a uma lista ordenada; "Mais cores" - adicionar nomes de cores, valores rgb e códigos hex; "Comentários" - adicionar outra lista desordenada; "Mais estilo" - adicionar imagens e fontes.
+"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
 
-## Completar este projeto offline
+## Completing this project offline
 
-Se as crianças estāo a concluir este projecto offline, vāo precisar de guardar as imagens que pretenderem utilizar na mesma pasta que o seu ficheiro Template.html.
+If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
 
-Entāo só basta adicionar o nome do ficheiro às etiquetas `<img>`:
+They can then just add the name of the file in their `<img>` tags:
 
     <img src="banana.jpg" />
     
@@ -74,20 +74,20 @@ Entāo só basta adicionar o nome do ficheiro às etiquetas `<img>`:
 
 ## \--- collapse \---
 
-## title: Materiais do projeto
+## title: Project materials
 
-## Recursos do projeto
+## Project resources
 
-+ [Arquivo .zip contendo todos os recursos do projeto](resources/recipe-project-resources.zip)
-+ [Trinket modelo on-line](http://jumpto.cc/trinket-template)
-+ [Trinket em branco on-line](http://jumpto.cc/trinket-blank)
++ [.zip file containing all project resources](resources/recipe-project-resources.zip)
++ [Online Trinket template](http://jumpto.cc/trinket-template)
++ [Online blank Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Recursos do líder de clube
+## Club leader resources
 
-+ [Arquivo .zip contendo todos os recursos do projeto concluído](resources/recipe-volunteer-resources.zip)
-+ [Projeto Trinket concluido on-line](https://trinket.io/html/c0fd9b40cd)
++ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
++ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
