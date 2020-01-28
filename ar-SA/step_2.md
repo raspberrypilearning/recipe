@@ -1,10 +1,10 @@
-## قرر الوصفة
+## Decide on a recipe
 
-قبل أن تيدأ بالبرمجة، ستحتاج أن تقرر ماهي الوصفة.
+Before you get coding, you’ll need to decide on a recipe.
 
-+ فكر بوصفة ترغب بمشاركتها مع أصدقائك. من الممكن أن تكون: 
-    + وصفة وجدتها على الانترنيت;
-    + وجبتك المفضلة;
-    + شيء إخترعته!
++ Think about a recipe you want to share with your friends. It could be: 
+    + A recipe you found online;
+    + Your favourite meal;
+    + Something you made up!
 
-الوصفة التي سوف تراها في مثال المشروع هي لمخفوق الحليب والموز. تستطيع نسخ هذه الوصفة اذا لم تجد وصفة خاصة بك.
+The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
