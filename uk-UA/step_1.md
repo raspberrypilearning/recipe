@@ -1,71 +1,71 @@
-## Вступ
+## Introduction
 
-У цьому проекті ви дізнаєтеся, як створити веб-сторінку для вашого улюбленого рецепта.
+In this project, you’ll learn how to create a webpage for your favourite recipe.
 
 ![screenshot](images/recipe-final.png)
 
-### Додаткова інформація для керівників гуртка
+### Additional information for club leaders
 
-Якщо вам потрібно роздрукувати цей проект, скористайтеся [ Версія для друку ](https://projects.raspberrypi.org/en/projects/recipe/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Нотатки керівника гуртка
+## title: Club leader notes
 
-## Вступ:
+## Introduction:
 
-У цьому проекті діти дізнаються про HTML-списки та кольори CSS. Вони створить свій власний рецепт, додаючи списки інгредієнтів і методів.
+In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
-## Онлайн Ресурси
+## Online Resources
 
-Ми рекомендуємо використовувати [trinket](https://trinket.io/) щоб написати HTML & CSS онлайн.
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
-Діти також можуть скористатися цим пустим бланком [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) щоб написати свій власний HTML & CSS, або вони можуть по черзі використовувати цей шаблон [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Є також trinket, що містить зразки вирішення \---challenges\---:
+There is also a trinket containing a sample solution to the challenges:
 
-+ ["Рецепт" завершено](https://trinket.io/html/c0fd9b40cd)
++ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Офлайн Ресурси
+## Offline Resources
 
-Цей проект може бути [ завершено оффлайн ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо це є бажаним. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання "Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси Проекту", який включає в себе ресурси, що будуть потрібні дітям, аби завершити проект офлайн. Переконайтеся, що кожна дитина має доступ до копій цих ресурсів. Ця секція містить наступні файли:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 + template/index.html
 + template/style.css
 
-Також, ви можете знайти завершену версію \---challenges\--- цього проекту в секції "Волонтерські Ресурси", яка містить:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(Всі з вищевказаних ресурсів можна завантажувати як проекти і волонтерські файли `.zip`.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Цілі навчання
+## Learning Objectives
 
-+ Написання HTML:
++ Writing HTML:
     
-    + `<ul>`,`<ol>` та `<li>` теги списку;
-    + `<hr/>` тег;
-    + Зміцнення використання вкладених тегів.
+    + `<ul>`, `<ol>` and `<li>` list tags;
+    + `<hr/>` tag;
+    + Consolidating the use of nested tags.
 
-+ Написання CSS:
++ Writing CSS:
     
-    + Кольори (імена & шістнадцяткові коди).
+    + Colours (names & hexadecimal codes).
 
-Цей проект охоплює елементи з наступними стандартами [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Завдання
+## Challenges
 
-"Більше інгредієнтів" - додавання додаткових елементів до неупорядкованого списку; "Додаткові дії" - додавання інших елементів у упорядкований список; "Інші кольори" - додавання назв кольорів, значень rgb та шестигранних кодів; "Огляди" - додавання іншого неупорядкованого списку; "Більше стилів" - додавання зображень і шрифтів.
+"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
 
-## Завершення цього проекту офлайн
+## Completing this project offline
 
-Якщо діти завершують цей проект офлайн, їм потрібно буде зберегти зображення, які вони мають намір використати в тій же папці, що й у файлі Template.html.
+If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
 
-Тоді вони можуть просто додати назву файлу в їх `<img>`теги:
+They can then just add the name of the file in their `<img>` tags:
 
     <img src="banana.jpg" />
     
@@ -74,20 +74,20 @@
 
 ## \--- collapse \---
 
-## title: Матеріали проекту
+## title: Project materials
 
-## Проектні ресурси
+## Project resources
 
-+ [.zip file, що містить всі ресурси проекту](resources/recipe-project-resources.zip)
-+ [Шаблон Online Trinket](http://jumpto.cc/trinket-template)
-+ [Пустий Online Trinket](http://jumpto.cc/trinket-blank)
++ [.zip file containing all project resources](resources/recipe-project-resources.zip)
++ [Online Trinket template](http://jumpto.cc/trinket-template)
++ [Online blank Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Ресурси керівника клубу
+## Club leader resources
 
-+ [.zip-файл, що містить всі ресурси завершеного проекту](resources/recipe-volunteer-resources.zip)
-+ [Завершений "Трінкет" проект](https://trinket.io/html/c0fd9b40cd)
++ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
++ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
