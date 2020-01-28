@@ -1,11 +1,11 @@
-\--- завдання \---
+\--- challenge \---
 
-## Challange: Більше інгредієнтів
+## Challenge: More ingredients
 
-Чи можете ви додати всі інгредієнти для **свого** рецепта?
+Can you add all of the ingredients for **your** recipe?
 
-Ваша веб-сторінка повинна виглядати приблизно так:
+Your webpage should look something like this:
 
-![скріншот](images/recipe-more-ingredients.png)
+![screenshot](images/recipe-more-ingredients.png)
 
 \--- /challenge \---
