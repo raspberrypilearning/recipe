@@ -2,8 +2,8 @@
 
 Zanim zaczniesz kodować, musisz zdecydować się na przepis.
 
-+ Pomyśl o przepisie, którym chciałabyś podzielić się z Twoimi przyjaciółmi. To może być: 
-    + Przepis, który znalazłeś w Internecie;
++ Pomyśl o przepisie, którym chciałabyś podzielić się z twoimi przyjaciółmi. To może być: 
+    + Przepis, który znalazłaś w Internecie;
     + Twoja ulubiona potrawa;
     + Coś wymyślonego przez Ciebie!
 
