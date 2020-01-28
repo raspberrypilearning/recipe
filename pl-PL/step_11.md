@@ -12,7 +12,7 @@ Oto kod, który tobie pomoże:
     font-size: 12pt;
     font-weight: bold;
     
-    <img src="wstaw-tutaj-link-obrazu">
+    <img src="image-link-goes-here">
     
 
 \--- /challenge \---
