@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Tantangan: Lebih banyak warna!
+## Challenge: More colours!
 
-Ubah warna dalam kode Anda dengan menggunakan nama warna, `rgb ()` nilai dan kode hex. Ada daftar banyak warna di <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, atau Anda bisa pergi ke <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> dan membuat warna Anda sendiri!
+Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
 
-Berikut beberapa contoh warna:
+Here are some example colours:
 
-+ Merah dapat ditulis sebagai:
++ Red can be written as:
     
-    + `merah` (jelas!)
-    + `rgb (255,0,0)` (banyak merah, tidak ada hijau dan tidak ada warna biru)
-    + `# ff0000`
+    + `red` (obviously!)
+    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + `#ff0000`
 
-+ Zaitun dapat ditulis sebagai:
++ Olive can be written as:
     
-    + `Zaitun`
-    + `rgb (128, 128, 0)` (sedikit merah dan hijau, dan tidak ada warna biru)
-    + `# 808000`
+    + `olive`
+    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + `#808000`
 
-Cobalah untuk memastikan bahwa warna yang Anda gunakan cocok dengan resep Anda!
+Try to make sure that the colours you use match your recipe!
 
 \--- /challenge \---
