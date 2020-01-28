@@ -1,10 +1,10 @@
-\---挑戰\---
+\--- challenge \---
 
 ## Challenge: More styling
 
 Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
 
-![截圖](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
 Here’s some code that will help you:
 
