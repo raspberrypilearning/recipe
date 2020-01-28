@@ -1,8 +1,8 @@
-## Inledning
+## Introduction
 
 In this project, you’ll learn how to create a webpage for your favourite recipe.
 
-![skärmdump](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
 ### Additional information for club leaders
 
@@ -12,7 +12,7 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Introduktion:
+## Introduction:
 
 In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
