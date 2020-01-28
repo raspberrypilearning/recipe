@@ -1,71 +1,71 @@
-## المقدمة
+## Introduction
 
-في هذا المشروع، ستقوم بإنشاء صفحة ويب لوصفتك المفضلة.
+In this project, you’ll learn how to create a webpage for your favourite recipe.
 
-![لقطة شاشة](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-### معلومات إضافية لقادة النادي
+### Additional information for club leaders
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/recipe/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: ملاحظات قادة النادي
+## title: Club leader notes
 
-## مقدمة:
+## Introduction:
 
-في هذا المشروع، سيتعلم الاطفال عن القوائم في لغة HTML و الالوان في CSS. سيصنعون الوصفة الخاصة بهم، ويضيفون قوائم المقادير وطريقة العمل.
+In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
-## الموارد المتوفرة على الإنترنت
+## Online Resources
 
-نوصي باستخدام [trinket](https://trinket.io/) لكتابة ملفات HTML و & CSS على الإنترنت.
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
-يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML و & CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-كما يوجد مشروع trinket يحتوي على نموذج حل للتحديات:
+There is also a trinket containing a sample solution to the challenges:
 
-+ [‘الوصفة النهائية’ -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## الموارد المتوفرة دون اتصال بالإنترنت
+## Offline Resources
 
-هذا المشروع يمكن [إكماله دون اتصال بالإنترنت](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) إذا كنت تفضل ذلك. يمكنك الوصول إلى موارد المشروع من خلال النقر فوق رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "موارد المشروع"، الذي يتضمن الموارد التي يحتاج إليها الأطفال لإكمال هذا المشروع من دون اتصال بالإنترنت. تأكد من أن كل طفل لديه حق الوصول إلى نسخة من هذه الموارد. يتضمن هذا القسم الملفات التالية:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 + template/index.html
 + template/style.css
 
-يمكنك أيضًا العثور على نسخة كاملة من تحديات هذا المشروع في قسم "موارد المتطوعين" الذي يحتوي على:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(جميع الموارد المذكورة أعلاه قابلة للتنزيل أيضًا كملفات `.zip` للمشاريع والمتطوعين)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## أهداف التعلم
+## Learning Objectives
 
-+ كتابة HTML:
++ Writing HTML:
     
-    + قوائم علامات `<ul>`, `<ol>` و `<li>`;
-    + علامات `<hr/>`;
-    + دمج استخدام العلامات المتداخلة.
+    + `<ul>`, `<ol>` and `<li>` list tags;
+    + `<hr/>` tag;
+    + Consolidating the use of nested tags.
 
-+ كتابة CSS:
++ Writing CSS:
     
-    + الالوان (الاسماء و ايعازات hexadecimal).
+    + Colours (names & hexadecimal codes).
 
-يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [الأصول الأساسية للتصميمات ثنائية الأبعاد وثلاثية الأبعاد](https://www.raspberrypi.org/curriculum/design/creator).
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## التحديات
+## Challenges
 
-"مقادير أكثر" - إضافة عناصر أكثر الى قائمة غير مرتبة; "خطوات أكثر" - إضافة عناصر أكثر الى قائمة مرتبة; "ألوان أكثر" - إضافة أسماء الوان، قيم rgb وايعازات hex; "تعليقات" - إضافة قائمة غير مرتبة أخرى; "تنسيقات أكثر" - إضافة صور وخطوط.
+"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
 
-## إكمال هذا المشروع من دون اتصال انترنيت
+## Completing this project offline
 
-اذا كان الاطفال سيكملون هذا المشروع من دون اتصال انترنيت، سيحتاجون الى خزن الصور التي يرغبون باستخدامها في نفس المجلد الموجود به ملف Template.html.
+If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
 
-وعندها يستطيعون إضافة اسم الملف الى علامات `<img>`:
+They can then just add the name of the file in their `<img>` tags:
 
     <img src="banana.jpg" />
     
@@ -74,20 +74,20 @@
 
 ## \--- collapse \---
 
-## title: مواد المشروع
+## title: Project materials
 
-## موارد المشروع
+## Project resources
 
-+ [ملف.zip يحتوي على كل موارد المشروع](resources/recipe-project-resources.zip)
-+ [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
-+ [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
++ [.zip file containing all project resources](resources/recipe-project-resources.zip)
++ [Online Trinket template](http://jumpto.cc/trinket-template)
++ [Online blank Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## موارد قادة النادي
+## Club leader resources
 
-+ [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/recipe-volunteer-resources.zip)
-+ [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/c0fd9b40cd)
++ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
++ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
