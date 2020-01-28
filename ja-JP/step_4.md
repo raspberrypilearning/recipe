@@ -1,11 +1,11 @@
-\---チャレンジ\---
+\--- challenge \---
 
-## 課題：より多くの材料
+## Challenge: More ingredients
 
-レシピにすべての材料を追加できますか？
+Can you add all of the ingredients for **your** recipe?
 
-Webページは次のようになります。
+Your webpage should look something like this:
 
-![スクリーンショット](images/recipe-more-ingredients.png)
+![screenshot](images/recipe-more-ingredients.png)
 
-\--- /チャレンジ\---
+\--- /challenge \---
