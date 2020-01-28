@@ -1,14 +1,14 @@
-## 仕上げ
+## Finishing touches
 
-Webページを改善するために、もう少しHTMLとCSSを追加しましょう。 
+Let’s add a little more HTML and CSS to improve your webpage.
 
-+ * * *タグを使用して、レシピの最後に水平線を追加できます。 
++ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
 
-![スクリーンショット](images/recipe-hr.png)
+![screenshot](images/recipe-hr.png)
 
-このタグには、<img />タグのように終了タグがないことに注意してください。 
+Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
 
-+ 追加した行は、ウェブページの他のスタイルとは不釣り合いです。 CSSコードを追加して修正しましょう。 
++ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
 
     hr {
         height: 2px;
@@ -17,13 +17,13 @@ Webページを改善するために、もう少しHTMLとCSSを追加しまし�
     }
     
 
-![スクリーンショット](images/recipe-hr-css.png)
+![screenshot](images/recipe-hr-css.png)
 
-+ このCSSコードを使用して、箇条書きの外観を変更することもできます。 
++ You can even change how your bullet points look with this CSS code:
 
     ul {
         list-style-type: square;
     }
     
 
-![スクリーンショット](images/recipe-ul-css.png)
+![screenshot](images/recipe-ul-css.png)
