@@ -1,18 +1,18 @@
-## 介紹
+## Introduction
 
 In this project, you’ll learn how to create a webpage for your favourite recipe.
 
-![截圖](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-### Code Club 工作人員延伸閱讀
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Club leader notes
 
-## 介紹:
+## Introduction:
 
 In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
@@ -70,9 +70,9 @@ They can then just add the name of the file in their `<img>` tags:
     <img src="banana.jpg" />
     
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Project materials
 
@@ -92,4 +92,4 @@ They can then just add the name of the file in their `<img>` tags:
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
