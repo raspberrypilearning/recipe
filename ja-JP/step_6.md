@@ -1,11 +1,11 @@
-\---チャレンジ\---
+\--- challenge \---
 
-## 課題：より多くのステップ
+## Challenge: More steps
 
-レシピにすべての段階を追加できますか？
+Can you add all of the steps for making **your** recipe?
 
-作り方は次のようになります。
+Your method should look something like this:
 
-![スクリーンショット](images/recipe-more-method.png)
+![screenshot](images/recipe-more-method.png)
 
-\--- /チャレンジ\---
+\--- /challenge \---
