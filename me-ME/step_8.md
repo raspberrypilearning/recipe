@@ -1,14 +1,14 @@
-## Završni detalji
+## Finishing touches
 
-Dodajmo još malo HTML-a i CSS-a kako bismo poboljšali tvoju veb-stranicu.
+Let’s add a little more HTML and CSS to improve your webpage.
 
-+ Možeš da dodaš horizontalnu liniju na kraj svog recepta, koristeći oznaku `<hr>`.
++ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
 
 ![screenshot](images/recipe-hr.png)
 
-Imaj u vidu da ova oznaka nema završnu oznaku, isto kao oznaka `<img>`.
+Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
 
-+ Dodata linija ne slaže se sa stilom ostatka tvoje veb-stranice. Popravimo to dodajući CSS kôd:
++ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
 
     hr {
         height: 2px;
@@ -19,7 +19,7 @@ Imaj u vidu da ova oznaka nema završnu oznaku, isto kao oznaka `<img>`.
 
 ![screenshot](images/recipe-hr-css.png)
 
-+ Sljedećim CSS kôdom možeš čak promijeniti izgled znakova za nabrajanje:
++ You can even change how your bullet points look with this CSS code:
 
     ul {
         list-style-type: square;
