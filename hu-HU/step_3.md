@@ -1,35 +1,35 @@
-## Hozzávalók
+## Ingredients
 
-Sorold fel a recepthez szükséges összetevőket.
+Let’s list the ingredients that are needed for your recipe.
 
-+ Nyissa meg ezt a sablon trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template) {: target = "_ blank"}.
++ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    A projektnek így kéne kinéznie:
+    The project should look like this:
     
-    ![képernyőkép](images/recipe-starter.png)
+    ![screenshot](images/recipe-starter.png)
 
-+ Az összetevők listájához **rendezetlen listát** kell használni, a `<ul>` címkével. Ugorj a sablon 8. sorára, és add hozzá ezt a HTML-t, helyettesítve a `<h1>` cím szövegét a saját recepted szövegével:
++ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
 
-    <h1>Banánturmix</h1>
+    <h1>Banana Milkshake</h1>
     
-    <h3>Hozzávalók:</h3>
+    <h3>Ingredients:</h3>
     
     <ul>
     
     </ul>
     
 
-+ Nézd meg weboldalad, és látnod kellene a két címsort.
++ View your webpage, and you should see your two headings.
 
-![képernyőkép](images/recipe-headings.png)
+![screenshot](images/recipe-headings.png)
 
-Még nem fogod látni a listádat, mert még nem adtál hozzá semmilyen listaelemet!
+You won’t see your list yet though, because you haven’t added any list items to it!
 
-+ A következő lépés, a `<li>` címkével felvenni a lista elemeit a listába. Adja hozzá a következő kódot a `<ul>` címkén belül:
++ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
 
-    <li>1 banán</li>
+    <li>1 banana</li>
     
 
-![képernyőkép](images/recipe-ul.png)
+![screenshot](images/recipe-ul.png)
 
-Mivel a listája nincs rendezve, a listaelemek mellett nincsenek számok, csak pontok.
+As your list is unordered, there are no numbers next to the list items, just bullet points.
