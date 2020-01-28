@@ -1,14 +1,14 @@
-## Sposób wykonania
+## Sposób przyrządzenia
 
-Następnie wyjaśnijmy jak ugotować twój przepis.
+Następnie wyjaśnijmy jak przyrządzić twój przepis.
 
-+ Wykorzystasz kolejną listę, aby twój sposób wykonania, ale tym razem użyjesz **listy uporządkowanej** za pomocą znacznika `<ol>`.
++ Wykorzystasz kolejną listę, aby opisać sposób przyrządzenia, ale tym razem użyjesz **listy uporządkowanej** za pomocą znacznika `<ol>`.
 
 Lista uporządkowana to numerowana lista, której powinnaś użyć jeżeli kolejność kroków jest istotna.
 
 Dodaj ten kod pod twoją listą składników, upewnij się, że jest on wciąż wewnątrz twojego znacznika `<body>`:
 
-    <h3>Sposób wykonania:</h3>
+    <h3>Sposób przyrządzenia:</h3>
     
     <ol>
     
