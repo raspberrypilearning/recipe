@@ -1,4 +1,4 @@
-\--- défi \---
+\--- challenge \---
 
 ## Challenge: More colours!
 
@@ -20,4 +20,4 @@ Here are some example colours:
 
 Try to make sure that the colours you use match your recipe!
 
-\--- /défi \---
+\--- /challenge \---
