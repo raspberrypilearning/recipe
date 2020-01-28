@@ -18,6 +18,6 @@ Nekoliko primjera boja:
     + `rgb(128, 128, 0)` (malo crvene i zelene, bez plave)
     + `#808000`
 
-Probajte biti sigurni da boje koja odaberete odgovaraju vašem receptu!
+Try to make sure that the colours you use match your recipe!
 
 \--- /challenge \---
