@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Provocare: mai multe culori!
+## Challenge: More colours!
 
-Schimbă culorile din codul tău folosind nume de culori, valori `rgb()` și coduri hex. Sunt o mulțime de culori pe <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, sau poți să accesezi <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> pentru a-ți crea propriile culori!
+Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
 
-Iată câteva exemple de culori:
+Here are some example colours:
 
-+ Roșul poate fi scris ca și:
++ Red can be written as:
     
-    + `red` (desigur!)
-    + `rgb(255,0,0)` (o mulțime de roșu, fără verde și fără albastru)
+    + `red` (obviously!)
+    + `rgb(255,0,0)` (loads of red, no green and no blue)
     + `#ff0000`
 
-+ Măsliniu poate fi scris ca și:
++ Olive can be written as:
     
     + `olive`
-    + `rgb(128, 128, 0)` (puțin roșu și verde, fără albastru)
+    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
     + `#808000`
 
-Asigură-te că culorile pe care le folosești se potrivesc rețetei tale!
+Try to make sure that the colours you use match your recipe!
 
 \--- /challenge \---
