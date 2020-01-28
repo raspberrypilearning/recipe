@@ -2,17 +2,17 @@
 
 In this project, you’ll learn how to create a webpage for your favourite recipe.
 
-![capture d'écran](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
 ### Additional information for club leaders
 
-Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/recipe/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
-## Effondrement
+## \--- collapse \---
 
-## titre: Le Club des roix des notes
+## title: Club leader notes
 
-## Introduction :
+## Introduction:
 
 In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
@@ -41,7 +41,7 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Objectifs d'apprentissage
+## Learning Objectives
 
 + Writing HTML:
     
@@ -53,11 +53,11 @@ You can also find a completed version of this project's challenges in the 'Volun
     
     + Colours (names & hexadecimal codes).
 
-Ce projet couvre les éléments suivants du [Programme de Créativité Numérique de Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Défis
+## Challenges
 
 "More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
 
@@ -70,11 +70,11 @@ They can then just add the name of the file in their `<img>` tags:
     <img src="banana.jpg" />
     
 
-Effondrement
+\--- /collapse \---
 
-## Effondrement
+## \--- collapse \---
 
-## title: Les material pour le projet
+## title: Project materials
 
 ## Project resources
 
@@ -84,7 +84,7 @@ Effondrement
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Ressources pour le responsable de club
+## Club leader resources
 
 + [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
 + [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
@@ -92,4 +92,4 @@ Effondrement
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
 
-Effondrement
+\--- /collapse \---
