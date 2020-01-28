@@ -1,11 +1,11 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Flere ingredienser
+## Challenge: More ingredients
 
-Kan du legge til alle ingrediensene for **din** oppskrift?
+Can you add all of the ingredients for **your** recipe?
 
-Din nettside skal se slik ut:
+Your webpage should look something like this:
 
-![skjermbilde](images/recipe-more-ingredients.png)
+![screenshot](images/recipe-more-ingredients.png)
 
-\--- /utfordring \---
+\--- /challenge \---
