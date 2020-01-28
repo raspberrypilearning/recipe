@@ -1,35 +1,35 @@
-## عناصر
+## Ingredients
 
-بیایید لیستی از مواد لازم برای دستور غذا را بدست آوریم.
+Let’s list the ingredients that are needed for your recipe.
 
-+ این الگو را باز کنید: [jumpto.cc/html-template](http://jumpto.cc/html-template){: target = "_ blank"}.
++ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    این پروژه باید چنین باشد:
+    The project should look like this:
     
-    ![تصویری](images/recipe-starter.png)
+    ![screenshot](images/recipe-starter.png)
 
-+ برای لیست خود را از مواد تشکیل دهنده، شما در حال رفتن به استفاده از یک **لیست نامرتب**، با استفاده از `<ul>` برچسب. به خط 8 قالب بروید و این HTML را اضافه کنید، جایگزین متن در عنوان `<h1>` با نام دستور خودتان:
++ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
 
-    <h1>موز شیرینی زنجفیلی</h1>
+    <h1>Banana Milkshake</h1>
     
-    <h3>مواد لازم:</h3>
+    <h3>Ingredients:</h3>
     
     <ul>
     
     </ul>
     
 
-+ صفحه وب خود را مشاهده کنید، و شما باید دو عنوان خود را ببینید.
++ View your webpage, and you should see your two headings.
 
-![تصویری](images/recipe-headings.png)
+![screenshot](images/recipe-headings.png)
 
-شما هنوز لیست خود را نمی بینید، زیرا شما هیچ مورد لیستی را به آن اضافه نکرده اید!
+You won’t see your list yet though, because you haven’t added any list items to it!
 
-+ گام بعدی اضافه کردن آیتم های لیست به لیست خود، با استفاده از برچسب `<li>`. کد زیر را در داخل خود اضافه کنید `<ul>` tag:
++ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
 
-    <li>1 موز</li>
+    <li>1 banana</li>
     
 
-![تصویری](images/recipe-ul.png)
+![screenshot](images/recipe-ul.png)
 
-همانطور که لیست شما غیر ارادی است، عددی در کنار آیتم های لیست وجود ندارد، فقط نقاط گلوله ای.
+As your list is unordered, there are no numbers next to the list items, just bullet points.
