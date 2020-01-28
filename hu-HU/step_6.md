@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Kihívás: Több lépés
+## Challenge: More steps
 
-Hozzá tudja adni a **receptjéhez** az elkészítéshez szükséges lépéseket?
+Can you add all of the steps for making **your** recipe?
 
-Így kéne kinéznie:
+Your method should look something like this:
 
-![képernyőkép](images/recipe-more-method.png)
+![screenshot](images/recipe-more-method.png)
 
 \--- /challenge \---
