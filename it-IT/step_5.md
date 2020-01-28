@@ -1,4 +1,4 @@
-## Metodo
+## Method
 
 Next, let’s explain how to make your recipe.
 
@@ -15,13 +15,13 @@ Add this code underneath your ingredients list, making sure that it’s still in
     </ol>
     
 
-![schermata](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
 + Now you just need to add list items into your new ordered list:
 
     <li>Peel the banana and add to a blender</li>
     
 
-![schermata](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
 Notice that the list items are automatically numbered!
