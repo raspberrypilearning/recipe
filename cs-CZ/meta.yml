@@ -1,6 +1,6 @@
 ---
 hero_image: images/banner.png
-theme: modrá
+theme: blue
 duration: 2
 listed: true
 ingredient: false
@@ -11,14 +11,14 @@ description: Create a webpage of your favourite recipe, so that your friends can
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
-site_areas: projekty
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Úvod
+    title: Introduction
   - 
     title: Decide on a recipe
   - 
