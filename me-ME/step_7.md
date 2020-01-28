@@ -1,8 +1,8 @@
-## Boje!
+## Colours!
 
-Dodajmo veb-stranici tvog recepta malo boja.
+Let’s add some colour to your recipe webpage.
 
-+ Već smo naučili kako da na veb-stranicu dodamo tekst u različitim bojama. U `style.css` datoteku dodaj sljedeći kôd, tako da sav tekst u tijelu (body) veb-stranice bude plave boje:
++ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
 
     body {
         color: blue;
@@ -11,38 +11,38 @@ Dodajmo veb-stranici tvog recepta malo boja.
 
 ![screenshot](images/recipe-blue.png)
 
-+ Tvoj pregledač prepoznaje boje kao što su `blue` (plava), `yelow` (žuta), pa čak i `lightgreen` (svijetlozelena). Ali, da li ti je poznato da pregledač, u stvari, prepoznaje **nazive** za više od 140 različitih boja?
++ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
 
-Ovdje se nalazi spisak svih naziva boja koje možeš koristiti: [jumpto.cc/colours](http://jumpto.cc/colours). Ovaj spisak sadrži nazive boja kao što su `tomato` (paradajz), `firebrick` (cigla) i `peachpuff` (breskva).
+There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
 
-Promijeni boju teksta iz `blue` u `tomato`.
+Change the text colour from `blue` to `tomato`.
 
 ![screenshot](images/recipe-tomato.png)
 
-+ Tvoj pregledač prepoznaje nazive 140 boja, ali zapravo zna **vrijednosti boja** za više od 16 miliona boja!
++ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
 
-Da bismo kazali pregledaču koju boju da prikaže, potrebno je da samo da odredimo koliko crvene, zelene i plave boje će koristiti.
+To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
 
-Količine crvene (red), zelene (green) i plave (blue) boje određuju se brojem između `0` i `255`.
+The amounts of red, green and blue are written as a number between `0` and `255`.
 
 ![screenshot](images/recipe-rgb-img.png)
 
-Dodaj CSS-u sljedeći kôd za tijelo (body) veb-stranice, kako bi se prikazala svijetložuta pozadina:
+Add this code to the CSS for the body of the webpage, to display a light yellow background:
 
     background: rgb(250,250,210);
     
 
 ![screenshot](images/recipe-rgb.png)
 
-+ Ako želiš, možeš da kažeš pregledaču koju boju da prikaže koristeći heksadecimalni kôd (ili **hex code**). Ovo funkcioniše na sličan način kao `rgb()` kôd iznad, osim što heksadecimalni kôd uvijek počinje znakom `#`, a za određivanje količine crvene, zelene i plave boje koristi heksadecimalne 'brojeve' između `00` i `ff`.
++ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
 
 ![screenshot](images/recipe-hex-img.png)
 
-Zamijeni `rgb()` kôd u svom CSS-u sljedećim heksadecimalnim kôdom:
+Replace the `rgb()` code in your CSS with this hex code:
 
     background: #fafad2;
     
 
 ![screenshot](images/recipe-hex.png)
 
-Trebalo bi da vidiš istu svijetložutu boju kao i ranije!
+You should see the same light yellow as before!
