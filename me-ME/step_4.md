@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Izazov: Više sastojaka
+## Challenge: More ingredients
 
-Možeš li da dodaš sve sastojke iz **svog** recepta?
+Can you add all of the ingredients for **your** recipe?
 
-Tvoja veb-stranica bi trebalo da izgleda poput ove:
+Your webpage should look something like this:
 
 ![screenshot](images/recipe-more-ingredients.png)
 
