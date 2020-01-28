@@ -1,14 +1,14 @@
-## metode
+## Method
 
-Selanjutnya, mari jelaskan cara membuat resep Anda.
+Next, let’s explain how to make your recipe.
 
-+ Anda akan menggunakan daftar lain untuk menulis metode Anda, tetapi kali ini Anda akan menggunakan **daftar urutan**, dengan menggunakan tag `<ol>`.
++ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
 
-Daftar yang dipesan adalah daftar bernomor, yang harus Anda gunakan ketika urutan langkah-langkah itu penting.
+An ordered list is a numbered list, which you should use when the order of the steps is important.
 
-Tambahkan kode ini di bawah daftar bahan Anda, pastikan bahwa itu masih di dalam tag `<body>`:
+Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
 
-    <h3>Metode:</h3>
+    <h3>Method:</h3>
     
     <ol>
     
@@ -17,11 +17,11 @@ Tambahkan kode ini di bawah daftar bahan Anda, pastikan bahwa itu masih di dalam
 
 ![screenshot](images/recipe-method.png)
 
-+ Sekarang Anda hanya perlu menambahkan item daftar ke dalam daftar pesanan baru Anda:
++ Now you just need to add list items into your new ordered list:
 
-    <li>Kupas pisang dan tambahkan ke blender</li>
+    <li>Peel the banana and add to a blender</li>
     
 
 ![screenshot](images/recipe-ol.png)
 
-Perhatikan bahwa daftar item secara otomatis diberi nomor!
+Notice that the list items are automatically numbered!
