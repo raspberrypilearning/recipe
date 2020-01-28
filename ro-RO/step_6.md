@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Provocare: mai mulți pași
+## Challenge: More steps
 
-Poți să adaugi toți pașii pentru preparea rețetei **tale**?
+Can you add all of the steps for making **your** recipe?
 
-Metoda ta ar trebui să arate cam așa:
+Your method should look something like this:
 
-![captură de ecran](images/recipe-more-method.png)
+![screenshot](images/recipe-more-method.png)
 
 \--- /challenge \---
