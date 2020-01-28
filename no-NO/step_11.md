@@ -1,18 +1,18 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Mer styling
+## Challenge: More styling
 
-Kan du legge til et bilde i websiden din? Eller endre skrift? Slik ser websiden din ut:
+Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
 
-![skjermbilde](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-Her er noen kode som vil hjelpe deg:
+Here’s some code that will help you:
 
-    font-familie: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    skriftstørrelse: 12pt;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
     font-weight: bold;
     
     <img src="image-link-goes-here">
     
 
-\--- /utfordring \---
+\--- /challenge \---
