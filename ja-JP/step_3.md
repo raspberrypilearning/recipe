@@ -1,40 +1,35 @@
-## 材料
+## Ingredients
 
-レシピに必要な材料をリストしましょう。
+Let’s list the ingredients that are needed for your recipe.
 
-+ 次のTrinketのテンプレートを開きます：jumpto.cc/html-template。
++ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    プロジェクトはこのようになります。
+    The project should look like this:
     
-    ![スクリーンショット](images/recipe-starter.png)
+    ![screenshot](images/recipe-starter.png)
 
-+ 材料のリストには、
++ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
+
+    <h1>Banana Milkshake</h1>
     
-    タグを使用して、順序付けられていないリストを使用します。 テンプレートの8行目に移動し、このHTMLを追加して、
+    <h3>Ingredients:</h3>
     
-    # タイトルのテキストを独自のレシピの名前に置き換えます。</p></li> </ul> 
+    <ul>
     
-        <h1>Banana Milkshake</h1>
-        
-        <h3>Ingredients:</h3>
-        
-        <ul>
-        
-        </ul>
-        
+    </ul>
     
-    + Webページを表示すると、2つの見出しが表示されます。
+
++ View your webpage, and you should see your two headings.
+
+![screenshot](images/recipe-headings.png)
+
+You won’t see your list yet though, because you haven’t added any list items to it!
+
++ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
+
+    <li>1 banana</li>
     
-    ![スクリーンショット](images/recipe-headings.png)
-    
-    ただし、リスト項目はまだリストに追加されていないため、リストはまだ表示されません。 
-    
-    + 次のステップは、
-        + タグを使用してリストにリストアイテムを追加することです。 
-            タグ内に次のコードを追加します。</li> 
-                <li>1 banana</li>
-                
-            
-            ![スクリーンショット](images/recipe-ul.png)
-            
-            リストは順序付けられていないため、リスト項目の横に数字はなく、箇条書きだけです。
+
+![screenshot](images/recipe-ul.png)
+
+As your list is unordered, there are no numbers next to the list items, just bullet points.
