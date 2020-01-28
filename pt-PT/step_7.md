@@ -9,7 +9,7 @@ Let’s add some colour to your recipe webpage.
     }
     
 
-![captura de ecrã](images/recipe-blue.png)
+![screenshot](images/recipe-blue.png)
 
 + Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
 
@@ -17,7 +17,7 @@ There’s a list of all the colour names you can use: [jumpto.cc/colours](http:/
 
 Change the text colour from `blue` to `tomato`.
 
-![captura de ecrã](images/recipe-tomato.png)
+![screenshot](images/recipe-tomato.png)
 
 + Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
 
@@ -25,24 +25,24 @@ To tell the browser which colour to display, you just need to let it know how mu
 
 The amounts of red, green and blue are written as a number between `0` and `255`.
 
-![captura de ecrã](images/recipe-rgb-img.png)
+![screenshot](images/recipe-rgb-img.png)
 
 Add this code to the CSS for the body of the webpage, to display a light yellow background:
 
     background: rgb(250,250,210);
     
 
-![captura de ecrã](images/recipe-rgb.png)
+![screenshot](images/recipe-rgb.png)
 
 + If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
 
-![captura de ecrã](images/recipe-hex-img.png)
+![screenshot](images/recipe-hex-img.png)
 
 Replace the `rgb()` code in your CSS with this hex code:
 
     background: #fafad2;
     
 
-![captura de ecrã](images/recipe-hex.png)
+![screenshot](images/recipe-hex.png)
 
 You should see the same light yellow as before!
