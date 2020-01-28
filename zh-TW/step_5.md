@@ -15,13 +15,13 @@ Add this code underneath your ingredients list, making sure that it’s still in
     </ol>
     
 
-![截圖](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
 + Now you just need to add list items into your new ordered list:
 
     <li>Peel the banana and add to a blender</li>
     
 
-![截圖](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
 Notice that the list items are automatically numbered!
