@@ -1,35 +1,35 @@
-## ingredienser
+## Ingredients
 
-La oss liste ingrediensene som trengs for oppskriften din.
+Let’s list the ingredients that are needed for your recipe.
 
-+ Åpne denne malbehandlingen: [jumpto.cc/html-template](http://jumpto.cc/html-template){: target = "_ blank"}.
++ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    Prosjektet skal se slik ut:
+    The project should look like this:
     
-    ![skjermbilde](images/recipe-starter.png)
+    ![screenshot](images/recipe-starter.png)
 
-+ For listen over ingredienser, skal du bruke en **uordnet liste**, ved hjelp av `<ul>` taggen. Gå til linje 8 i malen og legg til denne HTML-teksten, erstatt teksten i `<h1>` tittelen med navnet på din egen oppskrift:
++ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
 
-    <h1>Banan Milkshake</h1>
+    <h1>Banana Milkshake</h1>
     
-    <h3>Ingredienser:</h3>
+    <h3>Ingredients:</h3>
     
     <ul>
     
     </ul>
     
 
-+ Se din nettside, og du bør se de to overskriftene dine.
++ View your webpage, and you should see your two headings.
 
-![skjermbilde](images/recipe-headings.png)
+![screenshot](images/recipe-headings.png)
 
-Du vil ikke se listen din ennå, fordi du ikke har lagt til noen listeposter til den!
+You won’t see your list yet though, because you haven’t added any list items to it!
 
-+ Det neste trinnet er å legge til listeposter i listen din, ved å bruke `<li>` taggen. Legg til følgende kode inne i din `<ul>` tag:
++ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
 
-    <li>1 banan</li>
+    <li>1 banana</li>
     
 
-![skjermbilde](images/recipe-ul.png)
+![screenshot](images/recipe-ul.png)
 
-Siden listen er uordnet, er det ingen tall ved siden av listepostene, bare punktposter.
+As your list is unordered, there are no numbers next to the list items, just bullet points.
