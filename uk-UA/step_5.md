@@ -1,25 +1,27 @@
-## Метод
+## Method
 
-Далі давайте пояснимо, як робити ваш рецепт.
+Next, let’s explain how to make your recipe.
 
-+ Ви будете використовувати інший список, щоб написати метод, але на цей раз ви будете використовувати ** упорядкований список**, використовуючи `<ol>` тег.
++ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
 
-Упорядкований список - це нумерований список, який ви повинні використовувати, коли порядок дій є важливим.
+An ordered list is a numbered list, which you should use when the order of the steps is important.
 
-Додайте цей код під список ваших інгредієнтів, переконавшись, що він все ще знаходиться у вашому `<body>` тезі:
+Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
 
-    <h3>метод:</h3>
+    <h3>Method:</h3>
+    
     <ol>
+    
     </ol>
     
 
-![скріншот](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
-+ Тепер вам просто потрібно додати елементи списку у ваш новий список:
++ Now you just need to add list items into your new ordered list:
 
-    <li>Очистіть банан і додайте до Blender</li>
+    <li>Peel the banana and add to a blender</li>
     
 
-![скріншот](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
-Зверніть увагу, що елементи списку автоматично нумеруються!
+Notice that the list items are automatically numbered!
