@@ -15,7 +15,7 @@ Add this code underneath your ingredients list, making sure that it’s still in
     </ol>
     
 
-![captura de pantalla](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
 + Now you just need to add list items into your new ordered list:
 
