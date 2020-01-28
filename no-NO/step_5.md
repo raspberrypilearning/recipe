@@ -1,27 +1,27 @@
-## Metode
+## Method
 
-Neste, la oss forklare hvordan du lager oppskriften din.
+Next, let’s explain how to make your recipe.
 
-+ Du skal bruke en annen liste for å skrive metoden din, men denne gangen bruker du en **bestilt liste**ved å bruke `<ol>` taggen.
++ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
 
-En bestilt liste er en nummerert liste, som du bør bruke når rekkefølgen av trinnene er viktig.
+An ordered list is a numbered list, which you should use when the order of the steps is important.
 
-Legg til denne koden under ingredienslisten din, og sørg for at den fortsatt er inne i din `<body>` tag:
+Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
 
-    <h3>Metode:</h3>
+    <h3>Method:</h3>
     
     <ol>
     
     </ol>
     
 
-![skjermbilde](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
-+ Nå trenger du bare å legge til listeposter i den nye, bestilte listen:
++ Now you just need to add list items into your new ordered list:
 
-    <li>Skal bananen og legg til en blender</li>
+    <li>Peel the banana and add to a blender</li>
     
 
-![skjermbilde](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
-Legg merke til at listepostene automatisk nummereres!
+Notice that the list items are automatically numbered!
