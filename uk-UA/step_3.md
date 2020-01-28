@@ -1,32 +1,35 @@
-## Інгредієнти
+## Ingredients
 
-Давайте перерахуємо інгредієнти, необхідні для вашого рецепта.
+Let’s list the ingredients that are needed for your recipe.
 
-+ Відкрийте цей шаблон: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    Проект повинен виглядати так:
+    The project should look like this:
     
-    ![скріншот](images/recipe-starter.png)
+    ![screenshot](images/recipe-starter.png)
 
-+ Для вашого списку інгредієнтів ви збираєтеся використовувати **неупорядкований список**, використовуючи `<ul>` тег. Перейдіть до рядка 8 шаблону та додайте цей HTML, замінивши текст у заголовку `<h1>` title вашого власного рецепта:
++ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
 
-    <h1>Банановий мілкшейк</h1>
-    <h3>Інгредієти:</h3>
+    <h1>Banana Milkshake</h1>
+    
+    <h3>Ingredients:</h3>
+    
     <ul>
+    
     </ul>
     
 
-+ Перегляньте свою веб-сторінку, і ви повинні побачити своїх два заголовки.
++ View your webpage, and you should see your two headings.
 
 ![screenshot](images/recipe-headings.png)
 
-Ви ще не побачите свій список, тому що ви не додали ще жодних предметів до списку!
+You won’t see your list yet though, because you haven’t added any list items to it!
 
-+ Наступним кроком буде додавання елементів списку у ваш список, використовуючи `<li>` тег. Додайте наступний код в `<ul>` тег:
++ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
 
-    <li>1 банан</li>
+    <li>1 banana</li>
     
 
-![скріншот](images/recipe-ul.png)
+![screenshot](images/recipe-ul.png)
 
-Оскільки ваш список неупорядкований, поряд із елементами списку немає чисел, а всього лише кульки.
+As your list is unordered, there are no numbers next to the list items, just bullet points.
