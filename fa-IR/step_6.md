@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## چالش: گام های بیشتر
+## Challenge: More steps
 
-آیا می توانید تمام مراحل را برای ساختن **دستور** خود اضافه کنید؟
+Can you add all of the steps for making **your** recipe?
 
-روش شما باید چیزی شبیه به این باشد:
+Your method should look something like this:
 
-![تصویری](images/recipe-more-method.png)
+![screenshot](images/recipe-more-method.png)
 
 \--- /challenge \---
