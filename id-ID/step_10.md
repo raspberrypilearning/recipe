@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Tantangan: Ulasan
+## Challenge: Reviews
 
-Mintalah beberapa teman Anda untuk meninggalkan ulasan untuk resep Anda. Anda harus membuat daftar lain untuk melakukan ini.
+Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
 
 ![screenshot](images/recipe-reviews.png)
 
