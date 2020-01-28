@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Izazov: Komentari
+## Challenge: Reviews
 
-Pitaj nekoliko svojih prijatelja da ostave komentar za tvoj recept. Za prikaz komentara biće potrebno da napraviš još jednu listu.
+Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
 
 ![screenshot](images/recipe-reviews.png)
 
