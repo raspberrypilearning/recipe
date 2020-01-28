@@ -1,6 +1,6 @@
 ## Wprowadzenie
 
-W tym projekcie nauczysz się, jak stworzyć stronę internetową dla Twojego ulubionego przepisu.
+W tym projekcie nauczysz się, jak stworzyć stronę internetową dla twojego ulubionego przepisu.
 
 ![zrzut ekranu](images/recipe-final.png)
 
