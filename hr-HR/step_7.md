@@ -1,6 +1,6 @@
 ## Boje!
 
-Dodajmo boje na vašu internetsku stranicu sa receptom.
+Let’s add some colour to your recipe webpage.
 
 + Već ste naučili kako dodati tekst druge boje na vašu internetsku stranicu. Dodajte sljedeći kod unutar vaše `style.css` datoteke, kako bi sav tekst u tijelu stranice bio plav:
 
@@ -13,7 +13,7 @@ Dodajmo boje na vašu internetsku stranicu sa receptom.
 
 + Vaš preglednik zna za boje kao što su `plava`, `žuta` čak i `svijetlo zelena`, ali jeste li znali da vaš preglednik zapravo zna **imena** preko 140 različitih boja?
 
-Postoji lista svih boja koju možete koristiti: [jumpto.cc/colours](http://jumpto.cc/colours), koja uključuje i nazive boja kao što su `rajčica`, `vatrostalna opeka` and `peachpuff`.
+There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
 
 Promijenite boju teksta iz `plavo` u `rajčica`.
 
