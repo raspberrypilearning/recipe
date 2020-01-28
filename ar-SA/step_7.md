@@ -1,48 +1,48 @@
-## الألوان!
+## Colours!
 
-دعونا نقوم بإضافة بعض الالوان الى صفحتك.
+Let’s add some colour to your recipe webpage.
 
-+ لقد تعلمت كيف تضيف نص ملوّن في صفحتك. قم بإضافة هذه الكود داخل ملف `style.css`، لجعل كل النص داخل الصغحة أزرق اللون:
++ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
 
     body {
         color: blue;
     }
     
 
-![لقطة شاشة](images/recipe-blue.png)
+![screenshot](images/recipe-blue.png)
 
-+ إن متصفح الانترنيت لديك يعرف اللون `الازرق` و `الاصفر` وحتى `الاخضر الفاتح`، ولكن هل كنت تعرف حقيقة أن متصفحك يعرف **الاسماء** الخاصة باكثر من ١٤٠ لون مختلف؟
++ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
 
-هناك قائمة بأسماء جميع الاوان، يمكنك أن تستخدم الموقع:[jumpto.cc/colours](http://jumpto.cc/colours), والذي يحوي اسماء الالوان مثل ` tomato`، و` firebrick` و ` peachpuff`.
+There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
 
-غيّر لون الخط من `الازرق` الى `tomato`.
+Change the text colour from `blue` to `tomato`.
 
-![لقطة الشاشة](images/recipe-tomato.png)
+![screenshot](images/recipe-tomato.png)
 
-+ إن متصفح الانترنيت خاصتك يعرف الاسماء لـ١٤٠ لون، ولكن في الحقيقة فهو يعرف **قيم الالوان** لاكثر من ١٦ مليون لون!
++ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
 
-حتى تخبر المتصفح أي لون يعرضه، عليك أن تخبره كم هو مقدار اللون الاحمر، والاخضر والازرق المستخدم.
+To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
 
-إن مقدار اللون الاحمر والاخضر والازرق مكتوب بشكل رقم بين `0` و `255`.
+The amounts of red, green and blue are written as a number between `0` and `255`.
 
-![لقطة الشاشة](images/recipe-rgb-img.png)
+![screenshot](images/recipe-rgb-img.png)
 
-أضف هذه الكود الى متن CSS لصفحة الويب، حتى تعرض خلفية بلون أصفر فاتح:
+Add this code to the CSS for the body of the webpage, to display a light yellow background:
 
     background: rgb(250,250,210);
     
 
-![لقطة الشاشة](images/recipe-rgb.png)
+![screenshot](images/recipe-rgb.png)
 
-+ أذا كنت تفضل، يمكنك أن تخبر المتصفح أي لون ليعرضه وذلك باستخدام كود hexadecimal أو (**كود hex**). هذا يعمل بشكل مشابه لكود `rgb()` في الاعلى، مع فارق أن كود hex دائما تبدأ بـ `#`، وتستخدم أرقام بالنظام العشري بين `00` و `ff` لمقدار الاحمر والاخضر والازرق.
++ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
 
-![لقطة الشاشة](images/recipe-hex-img.png)
+![screenshot](images/recipe-hex-img.png)
 
-استبدل الكود `rgb()` في CSS بكود hex هذه:
+Replace the `rgb()` code in your CSS with this hex code:
 
     background: #fafad2;
     
 
-![لقطة الشاشة](images/recipe-hex.png)
+![screenshot](images/recipe-hex.png)
 
-يجب أن ترى الاصفر الفاتح كما في السابق!
+You should see the same light yellow as before!
