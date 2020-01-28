@@ -26,7 +26,7 @@ Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
 + [‘Recept’ dovršeni projekt -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline izvori
+## Offline Resources
 
 Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Materijali projekta'. Poveznica sadrži odjeljak 'Resursi projekta' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
 
@@ -53,7 +53,7 @@ Dovršenu verziju projekta challenges možete pronaći i u odjeljku 'Materijali 
     
     + Boje (imena & hexadecimal kodovi).
 
-Ovaj projekt pokriva elemente sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 + [Dizajnirajte osnovna 2D i 3D sredstva](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -79,15 +79,15 @@ Mogu samo dodati ime datoteke u njihvov `<img>` tag:
 ## Resursi projekta
 
 + [.zip datoteka koja sadrži sve materijale projekta](resources/recipe-project-resources.zip)
-+ [Online Trinket predložak](http://jumpto.cc/trinket-template)
-+ [Online prazan Trinket](http://jumpto.cc/trinket-blank)
++ [Online Trinket template](http://jumpto.cc/trinket-template)
++ [Online blank Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
 ## Materijali za voditelja Kluba
 
 + [.zip datoteka koja sadrži sve dovršene materijale projekta](resources/recipe-volunteer-resources.zip)
-+ [Dovršeni Online Trinket projekt](https://trinket.io/html/c0fd9b40cd)
++ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
