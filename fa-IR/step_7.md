@@ -1,48 +1,48 @@
-## رنگ ها
+## Colours!
 
-اجازه دهید کمی رنگ را به صفحه وب شما اضافه کنیم.
+Let’s add some colour to your recipe webpage.
 
-+ شما قبلا یاد گرفتید که چگونه متن رنگی را به یک صفحه وب اضافه کنید. این کد را در داخل `style.css` کنید تا تمام متن در آبی وب سایت ایجاد شود:
++ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
 
-    بدن {
-        رنگ: آبی؛
+    body {
+        color: blue;
     }
     
 
-![تصویری](images/recipe-blue.png)
+![screenshot](images/recipe-blue.png)
 
-+ مرورگر شما رنگ هایی مانند `آبی`، `زرد` و حتی `lightgreen`را می داند، اما آیا می دانستید که مرورگر شما در واقع **نام** از بیش از 140 رنگ مختلف را می داند؟
++ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
 
-لیستی از تمام نام های رنگی که می توانید استفاده کنید عبارتند از: [jumpto.cc/colors](http://jumpto.cc/colours)، که شامل نام های رنگ مانند `گوجه فرنگی`، `firebrick` و `peachpuff`.
+There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
 
-تغییر رنگ متن از `آبی` به `گوجه فرنگی`.
+Change the text colour from `blue` to `tomato`.
 
-![تصویری](images/recipe-tomato.png)
+![screenshot](images/recipe-tomato.png)
 
-+ مرورگر شما اسامی 140 رنگ را می داند، اما در واقع **ارزش رنگی** از بیش از 16 میلیون رنگ می داند!
++ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
 
-برای گفتن مرورگر رنگی که باید نمایش داده شود، فقط باید آن را بشناسید تا مقدار قرمز، سبز و آبی رنگ استفاده کنید.
+To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
 
-مقادیر قرمز، سبز و آبی به صورت شماره ای بین `0` و `255`.
+The amounts of red, green and blue are written as a number between `0` and `255`.
 
-![تصویری](images/recipe-rgb-img.png)
+![screenshot](images/recipe-rgb-img.png)
 
-برای نمایش یک پس زمینه یخ زرد، این کد را به CSS برای بدن صفحه اضافه کنید:
+Add this code to the CSS for the body of the webpage, to display a light yellow background:
 
-    پس زمینه: rgb (250،250،210)؛
+    background: rgb(250,250,210);
     
 
-![تصویری](images/recipe-rgb.png)
+![screenshot](images/recipe-rgb.png)
 
-+ اگر شما ترجیح می دهید، می توانید از کد هگزادسیمال (یا **هگزا کد**) استفاده کنید که کدام رنگ را نمایش می دهد. این نسخهها کار در یک روش مشابه به `RGB ()` ، کد بالا را، جز این که کد هگز همیشه با یک شروع `#`، و استفاده از «تعداد» هگزادسیمال بین `00` و `FF` برای مقدار قرمز، سبز و آبی.
++ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
 
-![تصویری](images/recipe-hex-img.png)
+![screenshot](images/recipe-hex-img.png)
 
-کد `rgb ()` را در CSS خود با این کد هگزا جایگزین کنید:
+Replace the `rgb()` code in your CSS with this hex code:
 
-    پس زمینه: # fafad2؛
+    background: #fafad2;
     
 
-![تصویری](images/recipe-hex.png)
+![screenshot](images/recipe-hex.png)
 
-شما باید زرد همان همان قبل را ببینید!
+You should see the same light yellow as before!
