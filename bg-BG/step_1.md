@@ -1,10 +1,10 @@
-## Въведение
+## Introduction
 
 In this project, you’ll learn how to create a webpage for your favourite recipe.
 
 ![screenshot](images/recipe-final.png)
 
-### Допълнителна информация за клубни лидери
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
@@ -12,7 +12,7 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Въведение:
+## Introduction:
 
 In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
