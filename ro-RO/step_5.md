@@ -1,27 +1,27 @@
-## Metoda
+## Method
 
-Acum, hai să explicăm cum se prepară rețeta ta.
+Next, let’s explain how to make your recipe.
 
-+ Vei folosi o altă listă pentru a scrie metoda ta, dar de data aceasta vei folosi o **listă ordonată**, folosind eticheta `<ol>`.
++ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
 
-O listă ordonată este o listă numerotată pe care ar trebui să o folosești când ordinea pașilor este importantă.
+An ordered list is a numbered list, which you should use when the order of the steps is important.
 
-Adaugă acest cod sub lista ta de ingrediente, asigurându-te în același timp că este în interiorul etichetei `<body>`:
+Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
 
-    <h3>Metoda:</h3>
+    <h3>Method:</h3>
     
     <ol>
     
     </ol>
     
 
-![captură de ecran](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
-+ Acum, trebuie doar să adaugi pași în noua ta listă ordonată:
++ Now you just need to add list items into your new ordered list:
 
-    <li>Decojește banana și adaug-o în blender</li>
+    <li>Peel the banana and add to a blender</li>
     
 
-![captură de ecran](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
-Nu uita că obiectele din listă sunt numerotate automat!
+Notice that the list items are automatically numbered!
