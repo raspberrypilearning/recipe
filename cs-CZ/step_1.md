@@ -1,22 +1,22 @@
-## Úvod
+## Introduction
 
 In this project, you’ll learn how to create a webpage for your favourite recipe.
 
 ![screenshot](images/recipe-final.png)
 
-### Další informace pro vedoucí klubů
+### Additional information for club leaders
 
-Potřebujete-li tento projekt vytisknout, použijte [verzi pro tisk ](https://projects.raspberrypi.org/en/projects/recipe/print) {: target = "_ prázdný.
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Poznámky vedoucího klubu
+## title: Club leader notes
 
-## Úvod:
+## Introduction:
 
 In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
-## Online zdroje
+## Online Resources
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
@@ -26,9 +26,9 @@ There is also a trinket containing a sample solution to the challenges:
 
 + [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline zdroje
+## Offline Resources
 
-Pokud tomu dáváte přednost, můžete tento projekt [dokončit offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Ke zdrojům projektu se dostanete kliknutím na odkaz "materiály pro projekt". Tento odkaz obsahuje sekci "zdroje projektu", se zdroji, které děti budou potřebovat k dokončení projektu offline. Ujistěte se, že každé dítě má přístup ke kopii těchto zdrojů. Tato sekce obsahuje následující soubory:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 + template/index.html
 + template/style.css
@@ -39,9 +39,9 @@ You can also find a completed version of this project's challenges in the 'Volun
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(Všechny výše zmíněné zdroje jsou také stažitelné jako `.zip` soubory.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Vzdělávací cíle
+## Learning Objectives
 
 + Writing HTML:
     
@@ -53,11 +53,11 @@ You can also find a completed version of this project's challenges in the 'Volun
     
     + Colours (names & hexadecimal codes).
 
-Tento projekt zahrnuje prvky z následujících částí výukových osnov [ Raspberry Pi Digitální bastlení ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Výzvy
+## Challenges
 
 "More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
 
@@ -74,20 +74,20 @@ They can then just add the name of the file in their `<img>` tags:
 
 ## \--- collapse \---
 
-## title: Materiály projektu
+## title: Project materials
 
-## Zdroje projektu
+## Project resources
 
-+ [.zip soubor se všemi zdroji projektu](resources/recipe-project-resources.zip)
++ [.zip file containing all project resources](resources/recipe-project-resources.zip)
 + [Online Trinket template](http://jumpto.cc/trinket-template)
 + [Online blank Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Zdroje pro vedoucího klubu
+## Club leader resources
 
-+ [.zip soubor se všemi zdroji dokončeného projektu](resources/recipe-volunteer-resources.zip)
-+ [online trinket dokončeného projektu](https://trinket.io/html/c0fd9b40cd)
++ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
++ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
