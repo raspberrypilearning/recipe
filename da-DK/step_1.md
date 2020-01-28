@@ -1,18 +1,18 @@
-## Introduktion
+## Introduction
 
 In this project, you’ll learn how to create a webpage for your favourite recipe.
 
-![skærmbillede](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-### Yderligere oplysninger for klubledere
+### Additional information for club leaders
 
-Hvis du har brug for at udskrive dette projekt skal du bruge den [Printventlige version](https://projects.raspberrypi.org/en/projects/recipe/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Klubledernotater
+## title: Club leader notes
 
-## Tillykke Med Fødselsdagen:
+## Introduction:
 
 In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
@@ -41,7 +41,7 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Læringsmål
+## Learning Objectives
 
 + Writing HTML:
     
@@ -53,11 +53,11 @@ You can also find a completed version of this project's challenges in the 'Volun
     
     + Colours (names & hexadecimal codes).
 
-Dette projekt dækker elementer fra følgende områder i [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Udfordringer
+## Challenges
 
 "More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
 
@@ -74,7 +74,7 @@ They can then just add the name of the file in their `<img>` tags:
 
 ## \--- collapse \---
 
-## title: Projektmaterialer
+## title: Project materials
 
 ## Project resources
 
@@ -84,7 +84,7 @@ They can then just add the name of the file in their `<img>` tags:
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Klubleder resurser
+## Club leader resources
 
 + [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
 + [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
