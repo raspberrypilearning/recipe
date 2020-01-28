@@ -1,27 +1,27 @@
-## الطريقة
+## Method
 
-والآن لنشرح كيف نصنع وصفتك.
+Next, let’s explain how to make your recipe.
 
-+ ستقوم بإنشاء قائمة أخرى لتكتب بها طريقة العمل، ولكن هذه المرة ستحتاج الى استخدام **قائمة مرتبة ordered list**، وذلك باستخدام علامة `<ol>`.
++ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
 
-القائمة المرتبة هي قائمة رقمية، والتي يجب أن تستخدمها عندما يكون ترتيب الخطوات مهم.
+An ordered list is a numbered list, which you should use when the order of the steps is important.
 
-قم بإضافة هذه الكود أسفل قائمة المقادير خاصتك، وتأكد بإنها لا زالت ضمن العلامة `<body>`:
+Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
 
-    <h3>الطريقة:</h3>
+    <h3>Method:</h3>
     
     <ol>
     
     </ol>
     
 
-![لقطة الشاشة](images/recipe-method.png)
+![screenshot](images/recipe-method.png)
 
-+ والآن تحتاج فقط إلى إضافة عناصر للقائمة المرتبة الجديدة:
++ Now you just need to add list items into your new ordered list:
 
-    <li>قشّر الموزة وضعها في الخلاط</li>
+    <li>Peel the banana and add to a blender</li>
     
 
-![لقطة الشاشة](images/recipe-ol.png)
+![screenshot](images/recipe-ol.png)
 
-لاحظ أن ترقيم عناصر القائمة يكون تلقائي!
+Notice that the list items are automatically numbered!
