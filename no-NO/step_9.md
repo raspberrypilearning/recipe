@@ -1,23 +1,23 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Flere farger!
+## Challenge: More colours!
 
-Endre fargene i koden din ved å bruke farge navn, `rgb ()` verdier og hexekoder. Det er en liste over mange farger på <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, eller du kan gå til <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> og lage dine egne farger!
+Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
 
-Her er noen eksempler på farger:
+Here are some example colours:
 
-+ Rød kan skrives som:
++ Red can be written as:
     
-    + `rød` (åpenbart!)
-    + `rgb (255,0,0)` (masse rød, ingen grønn og ikke blå)
-    + `# FF0000`
+    + `red` (obviously!)
+    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + `#ff0000`
 
-+ Oliven kan skrives som:
++ Olive can be written as:
     
-    + `oliven`
-    + `rgb (128, 128, 0)` (litt rød og grønn, og ingen blå)
-    + `# 808000`
+    + `olive`
+    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + `#808000`
 
-Prøv å sørge for at fargene du bruker, stemmer overens med oppskriften din!
+Try to make sure that the colours you use match your recipe!
 
-\--- /utfordring \---
+\--- /challenge \---
