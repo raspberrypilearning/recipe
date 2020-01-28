@@ -1,18 +1,18 @@
-## Uvod
+## Introduction
 
 In this project, you’ll learn how to create a webpage for your favourite recipe.
 
-![posnetek zaslona](images/recipe-final.png)
+![screenshot](images/recipe-final.png)
 
-### Dodatne informacije za vodje klubov
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
 
-## \--- propad \---
+## \--- collapse \---
 
 ## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
 In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
@@ -53,7 +53,7 @@ You can also find a completed version of this project's challenges in the 'Volun
     
     + Colours (names & hexadecimal codes).
 
-Ta projekt zajema elemente iz [učnega načrta Raspberry Pi za digitalno ustvarjanje](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
