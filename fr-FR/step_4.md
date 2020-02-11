@@ -1,12 +1,11 @@
 --- challenge ---
-## Défi: Plus d'ingrédients
-Peux tu ajouter plus d'ingrédients à __ta__ recette?
 
-Ta page devrais ressembler a ceci:
+## Défi : Ajouter de nouveaux ingrédients
 
-![screenshot](images/recipe-more-ingredients.png)
+Peux-tu compléter la liste d'ingrédients pour **ta** recette?
 
+Ta page Web devrait ressembler à ceci :
 
-
+![capture d'écran](images/recipe-more-ingredients.png)
 
 --- /challenge ---

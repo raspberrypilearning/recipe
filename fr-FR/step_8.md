@@ -1,31 +1,29 @@
 ## Touches finales
 
-Et si on ajoutais encore un peu plus d'HTML et CSS pour améliorer notre page.
+Ajoutons un peu plus de HTML et de CSS pour améliorer ta page Web.
 
-+ Tu peux ajouter une ligne horizontal à la fin de ta recette, en utilisant le tag <hr />.
++ Tu peux ajouter une ligne horizontale à la fin de la recette en utilisant la balise `<hr>`.
 
-![screenshot](images/recipe-hr.png)
+![capture d'écran](images/recipe-hr.png)
 
-Tu remarqueras que ce tag n'a pas besoin d'un tag de fin, tout comme le tag `<img>`.
+Cette balise n'a pas de balise de fin, tout comme `<img>`.
 
-+ La ligne que tu viens d'ajouter n'est pas en phase avec le reste de ta page. Règlons ce problème en ajoutant un peu de code CSS:
++ La ligne que tu viens d'ajouter ne correspond pas au style du reste de la page Web. Corrigeons cela en ajoutant du code CSS :
 
-```
-hr {
-    height: 2px;
-    border: none;
-    background-color: tomato;
-}
-```
+    hr {
+        height: 2px;
+        border: none;
+        background-color: tomato;
+    }
+    
 
-![screenshot](images/recipe-hr-css.png)
+![capture d'écran](images/recipe-hr-css.png)
 
-+ Tu peux même changer le style des puces avec ce code CSS:
++ Tu peux même changer l'apparence des puces avec ce code CSS :
 
-```
-ul {
-    list-style-type: square;
-}
-```
+    ul {
+        list-style-type: square;
+    }
+    
 
-![screenshot](images/recipe-ul-css.png)
+![capture d'écran](images/recipe-ul-css.png)

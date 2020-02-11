@@ -1,55 +1,95 @@
 ## Introduction
 
-Dans ce projet, tu vas apprendre a créer ta propre page internet pour ta recette de cuisine favorite.
+Dans ce projet, tu apprendras à créer une page web pour ta recette préférée.
 
 ![screenshot](images/recipe-final.png)
 
+### Informations complémentaires pour les responsables du club
+
+Pour imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/fr-FR/projects/recipe/print).
+
+--- collapse ---
+---
+title: Notes pour le responsable du club
+---
+## Introduction :
+
+Dans ce projet, les enfants découvriront les listes HTML et les couleurs CSS. Ils créeront leur propre recette en ajoutant des listes d'ingrédients et d'étapes.
+
 ## Ressources en ligne
 
-Nous recommandons l'usage de [trinket](https://trinket.io/) pour écrire du HTML et CSS en ligne.
+Nous vous recommandons d'utiliser [trinket](https://trinket.io/) pour écrire le code HTML et CSS en ligne.
 
-Pour ce projet, les enfants peuvent utiliser un trinket vide ([jumpto.cc/trinket-blank](http:/jumpto.cc/trinket-blank)) pour écrire leur HTML et CSS, ou bien il peuvent se servir de cet exemple ([jumpto.cc/trinket-template](http://jumpto.cc/trinket-template)).
+Les enfants peuvent également utiliser ce trinket vide [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pour écrire leur propre code HTML et CSS, ou utiliser ce modèle de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Il y a également un trinket contenant la solution des défis:
+Il y a aussi un Trinket contenant un exemple de solution pour les défis :
 
-+ [‘Recipe’ Finished](https://trinket.io/html/c0fd9b40cd)
++ ['Recette' terminé - trinket.io/html/c714be52bf](https://trinket.io/html/c714be52bf)
 
+## Ressources hors ligne
 
-## Ressources hors-ligne
-Ce projet peux etre [completé hors-ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si vous voulez. Vous pouvez accéder au ressources du projet en cliquant sur le lien 'Project Materials' pour ce projet. Ce lien contient une section 'Project Resources', qui contient les ressources dont auront besoin les enfants pour réaliser ce projet hors-ligne. Vérifiez que chaque enfant à accès à une copie de ces ressources. Ce dossier contient les fichiers suivants:
+Ce projet peut être [terminé hors ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériel pour le projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
-+ template/Template.html
++ template/index.html
 + template/style.css
 
-Vous pouvez aussi y trouver une version complète des défis de ce projet dans la section 'Volunteer Resources', contenant:
+Vous pouvez aussi trouver une version terminée du projet dans la section "Ressources du bénévole" qui contient:
 
-+ recipe-finished/RecipeFinished.html
++ recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(Toutes les resources sont aussi téléchargeable dans le fichier `.zip`.)
+(Toutes les ressources ci-dessus peuvent également être téléchargées dans les fichiers projet et bénévole au format `.zip` )
 
-## Objectifs de lesson
-+ écrire du HTML:
-	+ `<ul>`, `<ol>` et les tags `<li>`;
-	+ Le tag `<hr/>`;
-	+ Renforcer l'utilisation des tags imbriqués.
+## Objectifs d'apprentissage
 
-+ écrire du CSS:
-	+ Couleurs (Noms et codes hexadécimal).
++ Écrire du HTML :
+    
+    + Les balises de liste `<ul>`, `<ol>` et `<li>`
+    + La balise `<hr/>`
+    + Consolider l'utilisation des balises imbriquées
+
++ Écrire du CSS:
+    
+    + Les couleurs (noms et codes hexadécimaux)
+
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
+
++ [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator)
 
 ## Défis
-"Plus d'ingrédients" - ajouter plus d'ingrédients a une liste désordonné;
-"Plus d'étapes" - ajouter plus d'étapes a une liste ordonné;
-"Plus de couleurs" - ajouter le nom de couleurs, valeurs rgb et codes hexadécimal;
-"Commentaires" - ahouter une autre liste désordonné;
-"Plus de style" - ajouter des images et des typographies.
 
-## Completer ce projet hors-ligne
-Si les enfants complètent ce projet hors-ligne, ils devront sauvegarder les images qu'ils veulent utiliser dans le même dossier que le fichier Template.html.
+"Ajouter de nouveaux ingrédients" - ajouter des éléments à une liste non ordonnée, "Ajouter des étapes" - ajouter plusieurs éléments à une liste ordonnée, "Mettons de la couleur !" - colorer la page avec des noms de couleurs des valeurs RVB et des codes hexadécimaux, "Ajouter des commentaires" - ajouter une autre liste non ordonnée, "Plus de style" - ajouter des images et des polices.
 
-Ils peuvent ensuite juste changer le nom du fichier dans leurs tag `<img>`:
+## Terminer ce projet hors ligne
 
-```
-<img src="banana.jpg" />
-```
+Si les enfants terminent ce projet hors ligne, ils devront enregistrer les images qu'ils ont l'intention d'utiliser dans le même dossier que leur fichier Template.html.
+
+Ils peuvent ensuite simplement ajouter le nom du fichier dans leurs balises `<img>` :
+
+    <img src="banana.jpg" />
+    
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Matériel pour le projet
+---
+## Ressources du projet
+
++ [Fichier .zip contenant toutes les ressources du projet](resources/recipe-project-resources.zip)
++ [Modèle de trinket en ligne](http://jumpto.cc/trinket-template)
++ [Trinket vierge en ligne](http://jumpto.cc/trinket-blank)
++ [template/index.html](resources/template-index.html)
++ [template/style.css](resources/template-style.css)
+
+## Ressources pour le responsable du club
+
++ [Fichier .zip contenant toutes les ressources du projet](resources/recipe-volunteer-resources.zip)
++ [Trinket en ligne du projet terminé](https://trinket.io/html/c714be52bf)
++ [recipe-finished/index.html](resources/recipe-finished-index.html)
++ [recipe-finished/style.css](resources/recipe-finished-style.css)
++ [recipe-finished/banana.png](resources/recipe-finished-banana.png)
+
+--- /collapse ---

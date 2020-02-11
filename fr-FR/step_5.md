@@ -1,29 +1,27 @@
-## Method
+## Méthode
 
-Next, let’s explain how to make your recipe.
+Ensuite, expliquons comment réaliser la recette.
 
-+ Tu vas maintenant utiliser une autre liste pour tes instructions, mais cette fois, tu vas utiliser une __liste ordonné__, en utilisant le tag `<ol>`.
++ Tu vas créer une autre liste pour écrire la méthode, mais cette fois-ci, ce sera une liste **ordonnée**. On utilisera la balise `<ol>`.
 
-Une liste ordonné est une liste numéroté, que tu dois utiliser quand les étapes sont importantes.
+Une liste ordonnée est une liste numérotée. On l'utilise lorsque l'ordre des étapes est important.
 
-Ajoute ce code en dessous de ta liste d'ingrédients, en vérifiant qu'elle se trouve toujours dans ton tag `<body>`.
+Ajoute ce code sous la liste d'ingrédients. Vérifie ensuite qu'il est bien à l'intérieur de la balise `<body>` :
 
-```
-<h3>Instructions:</h3>
+    <h3>Méthode :</h3>
+    
+    <ol>
+    
+    </ol>
+    
 
-<ol>
+![capture d'écran](images/recipe-method.png)
 
-</ol>
-```
++ Il ne te reste plus qu'à ajouter des éléments à cette nouvelle liste ordonnée :
 
-![screenshot](images/recipe-method.png)
+    <li>Éplucher la banane et l'ajouter au mixeur</li>
+    
 
-+ Maintenant, tu as juste a ajouter des éléments à ta nouvelle liste:
+![capture d'écran](images/recipe-ol.png)
 
-```
-<li>Pèle ta banane et ajouter la au blender</li>
-```
-
-![screenshot](images/recipe-ol.png)
-
-T'as vu, la liste est automatiquement numérotée!
+Les éléments de la liste sont alors automatiquement numérotés !
