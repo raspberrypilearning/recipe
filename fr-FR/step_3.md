@@ -1,37 +1,35 @@
 ## Ingrédients
 
-Commençons par lister les ingrédients de notre recette.
+Préparons la liste des ingrédients nécessaires à ta recette.
 
-+ Ouvre ce trinket: [jumpto.cc/trinket-template](http://jumpto.cc/trinket-template). Si tu lis ce projet en ligne, tu peux aussi utiliser la version incorporé ci dessous.
++ Ouvre ce modèle Trinket : [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
+    
+    Le projet devrait ressembler à ceci:
+    
+    ![screenshot](images/recipe-starter.png)
 
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/html/ef4c882ae6" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
++ Pour la liste d'ingrédients, tu vas utiliser une liste **non ordonnée**, à l'aide de la balise `<ul>`. À la ligne 8 du modèle, ajoute ce code HTML en remplaçant le texte du titre `<h1>` par le nom de ta recette :
 
-+ Pour la liste des ingrédients, on va utiliser une __liste désordonné__, en utilisant le tag `<ul>`. Va a la ligne 8 de ton code et ajoute ce code HTML, remplace le texte dans ton `<h1>` avec le titre de ta recette:
+    <h1>Milkshake à la banane</h1>
+    
+    <h3>Ingrédients:</h3>
+    
+    <ul>
+    
+    </ul>
+    
 
-```
-<h1>Milkshake à la banane</h1>
-
-<h3>Ingrédients:</h3>
-
-<ul>
-
-</ul>
-```
-
-+ Regarde ton résultat, et tu devrais voir tes 2 titres.
++ Affiche la page Web, tu devrais voir ces deux en-têtes.
 
 ![screenshot](images/recipe-headings.png)
 
-Tu ne seras pas en mesure de voir ta liste encore, parce qu'il n'y a aucun élément à ta liste!
+Cependant, tu ne verras pas encore la liste, car elle est encore vide !
 
-+ La prochaine étape sera d'ajouter des éléments à ta liste, en utilisant le tag `<li>`. Ajouter le code suivant à l'intérieur de ton tag `<ul>` :
++ L'étape suivante consiste à ajouter des éléments à la liste à l'aide de la balise `<li>`. Ajoute le code suivant dans la balise `<ul>`:
 
-```
-<li>1 banana</li>
-```
+    <li>1 banane</li>
+    
+
 ![screenshot](images/recipe-ul.png)
 
-Comme il s'agit d'une liste désordonné, il n'y a pas de numéro a tes éléments, juste des points.
+Comme cette liste n'est pas ordonnée, il n'y a pas de chiffres à côté des éléments de la liste, mais des puces.

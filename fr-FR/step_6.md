@@ -1,12 +1,11 @@
 --- challenge ---
-## Défi: Plus d'étapes 
-Serais tu capable d'ajouter toutes les étapes pour créer __ta__ recette de cuisine ?
 
-Ceci devrais ressembler a l'image ci-dessous:
+## Défi : Ajouter des étapes
 
-![screenshot](images/recipe-more-method.png)
+Peux-tu compléter la liste des étapes de **ta** recette ?
 
+Ta page Web devrait ressembler à ceci :
 
-
+![capture d'écran](images/recipe-more-method.png)
 
 --- /challenge ---

@@ -1,11 +1,10 @@
-## Choisi ta recette
+## Choisis ta recette
 
-Avant de commencer a coder, tu va devoir choisir une recette
+Avant de commencer à coder, tu dois choisir une recette.
 
-+ Pense à une recette que tu peux partager avec tes copains. Cela peut etre:
-	+ Une recette que tu as trouvé sur internet;
-	+ Ton plat favoris;
-	+ Quelques chose que tu as inventé!
++ Réfléchis à une recette que tu voudrais partager avec tes amis. Ça pourrait être : 
+    + Une recette trouvée en ligne
+    + Ton plat préféré
+    + Quelque chose que tu as inventé !
 
-L'exemple de recette pour ce projet est pour faire un milkshake a la banane. Tu peux copier cette recette si tu n'as pas d'idées.
-
+Dans ce projet, nous utiliserons comme exemple un milkshake à la banane. Si tu n'as pas d'idée de recette, tu peux utiliser celle-ci.
