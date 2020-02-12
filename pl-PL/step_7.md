@@ -15,7 +15,7 @@ Dodajmy trochę koloru do twojej strony internetowej z przepisem.
 
 Tutaj znajdziesz listę ze wszystkimi nazwami kolorów, których możesz użyć: [jumpto.cc/colours](http://jumpto.cc/colours) np. `tomato`, `firebrick`, `peachpuff`.
 
-Zmień kolor tekstu z `blue`(niebieski) na `tomato` (pomidorowy).
+Zmień kolor tekstu z `blue` (niebieski) na `tomato` (pomidorowy).
 
 ![zrzut ekranu](images/recipe-tomato.png)
 
