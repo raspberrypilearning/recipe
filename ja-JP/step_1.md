@@ -8,7 +8,7 @@
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/recipe/print)を使用してください。
 
-## \--- collapse \---
+## \--- 折りたたむ \---
 
 ## title：クラブリーダー・ノート
 
@@ -50,7 +50,8 @@
         、および
         
         1. リストタグ。
-        2. `<hr/>` tag;
+        2. * * *タグ;
+        
         3. nestedタグの使用を統合します。</ul></li> 
         
         4. CCSの作成:
@@ -96,4 +97,4 @@
         + [recipe-finished/style.css](resources/recipe-finished-style.css)
         + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
         
-        \--- /collapse \---
+        \--- /折りたたむ \---
