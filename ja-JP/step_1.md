@@ -1,24 +1,24 @@
-## Introduction
+## はじめに
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+このプロジェクトでは、お気に入りのレシピのウェブページを作成する方法を学びます。
 
-![screenshot](images/recipe-final.png)
+![スクリーンショット](images/recipe-final.png)
 
-### Additional information for club leaders
+### クラブリーダーのための追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/recipe/print)を使用してください。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title：クラブリーダー・ノート
 
-## Introduction:
+## はじめに
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+このプロジェクトでは、子どもたちはHTMLリストとCSSカラーについて学びます。 独自のレシピを作成し、材料と作り方のリストを追加します。
 
-## Online Resources
+## オンライン・リソース
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+オンライン上でHTMLとCSSを書くために、 trinket を使うことをおすすめします。
 
 Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
