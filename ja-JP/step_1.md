@@ -63,35 +63,35 @@
         
         ## チャレンジ
         
-        "More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+        「より多くの材料」-順不同リストにアイテムを追加します。 「その他の手順」-順序付きリストにアイテムを追加します。 「その他の色」-色の名前、RGB値、16進コードを追加します。 「レビュー」-別の順序なしリストを追加します。 「より多くのスタイリング」-画像とフォントを追加します。
         
-        ## Completing this project offline
+        ## このプロジェクトをオフラインで完了する
         
-        If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+        子供たちがこのプロジェクトをオフラインで完了する場合、使用する予定の画像をTemplate.htmlファイルと同じフォルダに保存する必要があります。
         
-        They can then just add the name of the file in their `<img>` tags:
+        次に、<img />タグにファイルの名前を追加するだけです。
         
             <img src="banana.jpg" />
             
         
-        \--- /collapse \---
+        \--- /折りたたむ \---
         
-        ## \--- collapse \---
+        ## \--- 折りたたむ \---
         
-        ## title: Project materials
+        ## タイトル：プロジェクト資料
         
-        ## Project resources
+        ## プロジェクト資料
         
-        + [.zip file containing all project resources](resources/recipe-project-resources.zip)
-        + [Online Trinket template](http://jumpto.cc/trinket-template)
-        + [Online blank Trinket](http://jumpto.cc/trinket-blank)
+        + [全プロジェクト・リソースの入った.zipファイル](resources/recipe-project-resources.zip)
+        + [Online Trinketテンプレート](http://jumpto.cc/trinket-template)
+        + [Online 空の Trinket](http://jumpto.cc/trinket-blank)
         + [template/index.html](resources/template-index.html)
         + [template/style.css](resources/template-style.css)
         
-        ## Club leader resources
+        ## クラブ・リーダー向けリソース
         
-        + [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
-        + [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
+        + [全プロジェクトの完成版リソースの入った.zipファイル](resources/recipe-volunteer-resources.zip)
+        + [完成版プロジェクトのオンラインtrinket](https://trinket.io/html/c0fd9b40cd)
         + [recipe-finished/index.html](resources/recipe-finished-index.html)
         + [recipe-finished/style.css](resources/recipe-finished-style.css)
         + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
