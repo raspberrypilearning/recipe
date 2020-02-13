@@ -20,7 +20,7 @@
 
 オンライン上でHTMLとCSSを書くために、 trinket を使うことをおすすめします。
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+子供たちはこの空白の「trinket」（jumpto.cc/html-blank） を使って独自のHTML & CSSを書くことができます。あるいは、trinket にあるテンプレート（jumpto.cc/html-template）を使用することもできます。
 
 There is also a trinket containing a sample solution to the challenges:
 
