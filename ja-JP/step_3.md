@@ -27,13 +27,14 @@
     
     ![スクリーンショット](images/recipe-headings.png)
     
-    You won’t see your list yet though, because you haven’t added any list items to it!
+    ただし、リスト項目はまだリストに追加されていないため、リストはまだ表示されません。 
     
-    + The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
-    
-        <li>1 banana</li>
-        
-    
-    ![screenshot](images/recipe-ul.png)
-    
-    As your list is unordered, there are no numbers next to the list items, just bullet points.
+    + 次のステップは、
+        + タグを使用してリストにリストアイテムを追加することです。 
+            タグ内に次のコードを追加します。</li> 
+                <li>1 banana</li>
+                
+            
+            ![スクリーンショット](images/recipe-ul.png)
+            
+            リストは順序付けられていないため、リスト項目の横に数字はなく、箇条書きだけです。
