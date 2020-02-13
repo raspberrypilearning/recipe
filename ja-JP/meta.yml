@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Recipe
-description: Create a webpage of your favourite recipe, so that your friends can make it!
+title: レシピ
+description: お気に入りのレシピのウェブページを作成して、友達がそれを作れるようにします！
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: 前書き
   - 
-    title: Decide on a recipe
+    title: レシピを決める
   - 
-    title: Ingredients
+    title: 材料
   - 
-    title: 'Challenge: More ingredients'
+    title: '課題：より多くの材料'
   - 
-    title: Method
+    title: 作り方
   - 
-    title: 'Challenge: More steps'
+    title: '課題：より多くのステップ'
   - 
-    title: Colours!
+    title: 配色!
   - 
-    title: Finishing touches
+    title: 仕上げ
   - 
-    title: 'Challenge: More colours!'
+    title: '課題：より多くの色！'
   - 
-    title: 'Challenge: Reviews'
+    title: '課題：レビュー'
   - 
-    title: 'Challenge: More styling'
+    title: '課題：より多くのスタイリング'
