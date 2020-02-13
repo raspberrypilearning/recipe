@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: More styling
+## 課題：より多くのスタイリング
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+ウェブページに画像を追加できますか？ または、フォントを変更しますか？ Webページの外観は次のとおりです。 
 
-![screenshot](images/recipe-final.png)
+![スクリーンショット](images/recipe-final.png)
 
-Here’s some code that will help you:
+役立つコードを次に示します。 
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
@@ -15,4 +15,4 @@ Here’s some code that will help you:
     <img src="image-link-goes-here">
     
 
-\--- /challenge \---
+\--- /チャレンジ\---
