@@ -1,23 +1,23 @@
-\--- challenge \---
+\---チャレンジ\---
 
-## Challenge: More colours!
+## 課題：より多くの色！
 
-Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+色名、rgb（）値、および16進コードを使用して、コードの色を変更します。 jumpto.cc/coloursにはさまざまな色のリストがありますが、jumpto.cc / colour-pickerにアクセスして独自の色を作成することもできます。 
 
-Here are some example colours:
+以下にいくつかの色の例を示します。 
 
-+ Red can be written as:
++ 赤は次のように書くことができます。
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + red（明らかに！） 
+    + rgb（255,0,0）（赤、緑なし、青なし） 
     + `#ff0000`
 
-+ Olive can be written as:
++ オリーブ色は次のように書くことができます： 
     
     + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + rgb（128、128、0）（赤と緑のビット、青なし）　 
     + `#808000`
 
-Try to make sure that the colours you use match your recipe!
+使用する色がレシピと一致することを確認してください！ 
 
-\--- /challenge \---
+\--- /チャレンジ\---
