@@ -1,34 +1,29 @@
-## 最后润色
+## 最后一步
 
-让我们再添加一点 HTML 和 CSS 来完善你的网页。
+让我们再添加一点HTML和CSS来改进你的网页。
 
-
-
-+ 你可以使用 `<hr>` 标记在食谱结尾处添加一条水平线。
++ 你可以使用`<hr>`标签在食谱的末尾添加一条水平线。
 
 ![screenshot](images/recipe-hr.png)
 
-请注意，此标记就像 `<img>` 标记一样，没有结束标记。
+注意，这个标签没有结束标签，就像`<img>`标记一样。
 
-+ 你刚刚添加的横线与你网页其他部分的样式并不相配。让我们通过添加一些 CSS 代码来解决这个问题：
-
++ 你刚刚添加的行与你的其他页面样式不匹配。 让我们通过添加一些CSS代码来解决这个问题：
 ```
-hr {
-    height: 2px;
-    border: none;
-    background-color: tomato;
-}
-```
+    hr {
+        height: 2px;
+        border: none;
+        background-color: tomato;
+    }
+```    
 
 ![screenshot](images/recipe-hr-css.png)
 
-+ 你甚至可以运用以下 CSS 代码来更改项目编号的外观：
-
++ 你甚至可以通过这个CSS代码来改变项目符号的形状：
 ```
-ul {
-    list-style-type: square;
-}
-```
+    ul {
+        list-style-type: square;
+    }
+```    
 
 ![screenshot](images/recipe-ul-css.png)
-
