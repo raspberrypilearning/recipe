@@ -4,7 +4,7 @@ Préparons la liste des ingrédients nécessaires à ta recette.
 
 + Ouvre ce modèle Trinket : [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    Le projet devrait ressembler à ceci:
+    Le projet devrait ressembler à ceci :
     
     ![screenshot](images/recipe-starter.png)
 
@@ -12,7 +12,7 @@ Préparons la liste des ingrédients nécessaires à ta recette.
 
     <h1>Milkshake à la banane</h1>
     
-    <h3>Ingrédients:</h3>
+    <h3>Ingrédients :</h3>
     
     <ul>
     
