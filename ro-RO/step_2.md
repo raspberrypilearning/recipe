@@ -1,4 +1,4 @@
-## Decide on a recipe
+## Alegerea rețetei
 
 Before you get coding, you’ll need to decide on a recipe.
 
