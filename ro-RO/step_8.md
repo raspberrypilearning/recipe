@@ -1,14 +1,14 @@
-## Finishing touches
+## Ultimele retușuri
 
-Let’s add a little more HTML and CSS to improve your webpage.
+Hai să adăugăm puțin cod HTML și CSS pentru a îmbunătăți pagina ta web.
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ Poți adăuga o linie orizontală la sfârșitul rețetei tale, folosind eticheta `<hr>`.
 
-![screenshot](images/recipe-hr.png)
+![captură de ecran](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+Observă faptul că această etichetă nu are o etichetă pentru închidere, exact ca și eticheta `<img>`.
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ Linia pe care tocmai ai adăugat-o nu se potrivește stilului paginii tale web. Hai să reparăm asta adăugând niște cod CSS:
 
     hr {
         height: 2px;
@@ -17,13 +17,13 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![captură de ecran](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ Poți schimba chiar și cum arată punctele din listă cu codul CSS:
 
     ul {
         list-style-type: square;
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![captură de ecran](images/recipe-ul-css.png)
