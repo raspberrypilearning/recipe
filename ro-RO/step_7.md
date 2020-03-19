@@ -13,36 +13,36 @@ Hai să adaugăm niște culoare la pagina web a rețetei tale.
 
 + Browser-ul tău știe nume de culori precum `blue`, `yellow` și chiar `lightgreen`, dar știai că browser-ul tău știe de fapt **numele** a peste 140 de culori diferite?
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Există o listă a tuturor numelor de culori pe care le poți folosi aici: [jumpto.cc/colours](http://jumpto.cc/colours) care include nume de culori precum `tomato`, `firebrick` și `peachpuff`.
 
-Change the text colour from `blue` to `tomato`.
+Schimbă culoarea textului din `blue` în `tomato`.
 
-![screenshot](images/recipe-tomato.png)
+![captură de ecran](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ Browser-ul tău știe numele a 140 de culori, dar de fapt știe **valoarea culorilor** pentru peste 16 milioane de culori!
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+Pentru a-i spune browser-ului ce culoare să afișeze, trebuie doar să îi spunem cât roșu, verde și albastru să folosească.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+Cantitatea de roșu, verde și albastru este scrisă sub forma unui număr între `0` și `255`.
 
-![screenshot](images/recipe-rgb-img.png)
+![captură de ecran](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+Adaugă acest cod în partea CSS a corpului paginii web, pentru a afișa un fundal de culoare galben deschis:
 
     background: rgb(250,250,210);
     
 
-![screenshot](images/recipe-rgb.png)
+![captură de ecran](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Dacă preferi, poți să îi spui browser-ului ce culoare să afișeze folosind un cod hexazecimal (sau **cod hex**). Acesta funcționează asemănător cu codul `rgb()` de mai sus, cu excepția faptului că codurile hex încep întotdeauna cu un `#` și folosesc „numere” între `00` și `ff` pentru cantitatea de roșu, verde și albastru.
 
-![screenshot](images/recipe-hex-img.png)
+![captură de ecran](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+Înlocuiește codul `rgb()` în CSS cu acest cod hex:
 
     background: #fafad2;
     
 
-![screenshot](images/recipe-hex.png)
+![captură de ecran](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+Ar trebui să vezi același galben deschis ca și cel de dinainte!
