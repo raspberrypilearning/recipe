@@ -1,17 +1,17 @@
-## Colours!
+## Culori!
 
-Let’s add some colour to your recipe webpage.
+Hai să adaugăm niște culoare la pagina web a rețetei tale.
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ Ai învățat deja cum să adaugi text colorat într-o pagină web. Adaugă acest cod în fișierul tău `style.css` pentru a face tot textul din corpul paginii web albastru:
 
     body {
         color: blue;
     }
     
 
-![screenshot](images/recipe-blue.png)
+![captură de ecran](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ Browser-ul tău știe nume de culori precum `blue`, `yellow` și chiar `lightgreen`, dar știai că browser-ul tău știe de fapt **numele** a peste 140 de culori diferite?
 
 There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
 
