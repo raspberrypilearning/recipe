@@ -1,10 +1,10 @@
 ## Alegerea rețetei
 
-Before you get coding, you’ll need to decide on a recipe.
+Înainte de a începe scrierea de cod, va trebui să te decizi asupra unei rețete.
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ Gândește-te la o rețetă pe care vrei să o împărtășești cu prietenii tău. Ar pute să fie: 
+    + O rețetă pe care ai găsit-o online;
+    + Mâncarea ta preferată;
+    + O invenție de-a ta!
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+Rețeta folosită ca exemplu în acest proiect este pentru un milkshake de banane. Poți să copiezi această rețetă dacă nu poți găsi alta singur.
