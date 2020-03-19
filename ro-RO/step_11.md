@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: More styling
+## Provocare: mai multe stiluri
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+Poți adăuga o imagine pe pagina ta web? Sau să schimbi fontul? Iată cum ar putea arăta pagina ta web:
 
-![screenshot](images/recipe-final.png)
+![captură de ecran](images/recipe-final.png)
 
-Here’s some code that will help you:
+Aici găsești un cod care te va ajuta:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
