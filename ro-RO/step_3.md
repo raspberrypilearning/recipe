@@ -23,13 +23,13 @@ Hai să listăm ingredientele care sunt necesare pentru rețetă.
 
 ![captură de ecran](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+Nu vei vedea lista ta încă, deoarece nu ai adăugat nimic acolo!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ Următorul pas este de a adăuga obiecte în lista ta, folosind eticheta `<li>`. Adaugă următorul cod în interiorul etichetei `<ul>`:
 
-    <li>1 banana</li>
+    <li>1 banană</li>
     
 
-![screenshot](images/recipe-ul.png)
+![captură de ecran](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+Deoarece lista ta este neordonată, nu există numere lângă lista obiectelor, doar niște puncte.
