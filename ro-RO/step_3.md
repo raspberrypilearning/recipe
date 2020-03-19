@@ -1,27 +1,27 @@
-## Ingredients
+## Ingrediente
 
-Let’s list the ingredients that are needed for your recipe.
+Hai să listăm ingredientele care sunt necesare pentru rețetă.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Deschide șablonul trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    Proiectul ar trebui să arate astfel:
     
-    ![screenshot](images/recipe-starter.png)
+    ![captură de ecran](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ Pentru lista ta de ingrediente, vei folosi o **listă neordonată**, folosind eticheta `<ul>`. Mergi la linia 8 din șablon și adaugă acest cod HTML, înlocuind textul din titlul `<h1>` cu numele rețetei tale:
 
-    <h1>Banana Milkshake</h1>
+    <h1>Milkshake de banane</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>Ingrediente:</h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Uită-te la pagina ta web, și ar trebui să vezi 2 titluri.
 
-![screenshot](images/recipe-headings.png)
+![captură de ecran](images/recipe-headings.png)
 
 You won’t see your list yet though, because you haven’t added any list items to it!
 
