@@ -1,48 +1,48 @@
-## Colours!
+## ¡Colores!
 
-Let’s add some colour to your recipe webpage.
+Vamos a añadir algo de color a la página web de tu receta.
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ Ya has aprendido a añadir color al texto de tu página web. Añade este código dentro de tu archivo `style.css`, para hacer que todo el texto del cuerpo de tu página web sea azul:
 
     body {
         color: blue;
     }
     
 
-![screenshot](images/recipe-blue.png)
+![captura de pantalla](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ Tu navegador conoce los colores como `blue` (azul), `yellow` (amarillo) y hasta `lightgreen` (verde claro), pero ¿sabías que tu navegador sabe los **nombres** de más de 140 colores?
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+Hay una lista de todos los nombres de colores que puedes usar: [ jumpto.cc/colours ](http://jumpto.cc/colours), que incluye nombres de colores como ` tomato` (tomate), ` firebrick ` (ladrillo) y ` peachpuff` (melocotón).
 
-Change the text colour from `blue` to `tomato`.
+Cambia el color del texto de `blue` (azul) a `tomato` (tomate).
 
-![screenshot](images/recipe-tomato.png)
+![captura de pantalla](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ Tu navegador sabe los nombres de 140 colores, pero de hecho sabe los **códigos de color** de ¡más de 16 millones de colores!
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+Para decirle al navegador el color que debe mostrar, sólo debes decirle cuánto rojo, verde y azul debe usar.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+Las cantidades de rojo, verde y azul se escriben como números entre `0` y `255`.
 
-![screenshot](images/recipe-rgb-img.png)
+![captura de pantalla](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+Añade este código al archivo CSS para mostrar un color amarillo claro de fondo:
 
     background: rgb(250,250,210);
     
 
-![screenshot](images/recipe-rgb.png)
+![captura de pantalla](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ Si lo prefieres, puedes decirle al navegador qué color mostrar usando el código hexadecimal (o **hex code**). Esto funciona de forma similar al código `rgb()` de arriba, excepto que el código hex siempre empieza con `#`, y usa números hexadecimales entre `00` y `ff` para la cantidad de rojo, verde y azul.
 
-![screenshot](images/recipe-hex-img.png)
+![captura de pantalla](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+Sustituye el código `rgb()` con este código hex:
 
     background: #fafad2;
     
 
-![screenshot](images/recipe-hex.png)
+![captura de pantalla](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+¡Deberías ver el mismo amarillo claro de antes!
