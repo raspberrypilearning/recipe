@@ -1,14 +1,14 @@
-## Finishing touches
+## Utolsó simítások
 
-Let’s add a little more HTML and CSS to improve your webpage.
+Adjunk hozzá még egy kicsi HTML-t és CSS-t a weboldal tökéletesítéséhez.
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ A recept végéhez vízszintes sort adhatsz a `<hr>` elem használatával.
 
-![screenshot](images/recipe-hr.png)
+![képernyőkép](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+Vedd figyelembe, hogy ennek az elemnek nincs záró eleme, csakúgy, mint az `<img>` elemnek.
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ A hozzáadott sor illik bele a weboldal stílusába. Javítsuk ki ezt egy kis CSS-kód hozzáadásával:
 
     hr {
         height: 2px;
@@ -17,13 +17,13 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![képernyőkép](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ CSS kóddal a felsorolásjel kinézetét is meg lehet változtatni:
 
     ul {
         list-style-type: square;
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![képernyőkép](images/recipe-ul-css.png)
