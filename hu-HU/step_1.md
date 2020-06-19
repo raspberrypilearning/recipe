@@ -1,71 +1,71 @@
-## Introduction
+## Bevezetés
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+Ebben a projektben megtanulhatod, hogyan hozhatsz létre weboldalt a kedvenc receptednek.
 
-![screenshot](images/recipe-final.png)
+![képernyőkép](images/recipe-final.png)
 
-### Additional information for club leaders
+### További információk klubvezetőknek
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+Ha ki szeretnéd nyomtatni ezt a projektet, kérjük, használd a [nyomtatóbarát verziót](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Klubvezetői jegyzetek
 
-## Introduction:
+## Bevezetés:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+A projekt során a gyerekek megismerkednek a HTML listákkal és a CSS színekkel. Elkészítik saját receptjüket hozzávalókkal és az elkészítés módjával.
 
-## Online Resources
+## Online segédanyagok
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+Javasoljuk a [trinket](https://trinket.io/) használatát, hogy HTML-t és CSS-t szerkesszünk online.
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+A gyerekek ezt az üres trinketet [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) is használhatják, hogy saját HTML és CSS kódot írjanak, vagy alternatívaként használhatják ezt a sablon trinketet[(jumpto.cc/html-template)](http://jumpto.cc/html-template) is.
 
-There is also a trinket containing a sample solution to the challenges:
+Rendelkezésre áll egy trinket egy mintamegoldással a kihívásokra:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ ['Recept' kész változata - trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline Resources
+## Offline segédanyagok
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Ez a projekt [offline is teljesíthető](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). A projekt segédanyagaihoz a 'Projektanyagok' linkre kattintva férhetsz hozzá. Ezen a linken található a 'Projekt segédanyagai' rész, amely tartalmazza a segédanyagokat, amelyek a projekt offline teljesítéséhez szükségesek. Győződj meg arról, hogy minden gyermek rendelkezik ezekkel a segédanyagokkal. Ez a szakasz a következő fájlokat tartalmazza:
 
 + template/index.html
 + template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+A projekt kihívásainak teljesített változatát az „Önkéntes erőforrások” szakaszban is megtalálod, amely a következőket tartalmazza:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Az összes fenti segédanyag letölthető projekt és önkéntes `.zip` fájlként.)
 
-## Learning Objectives
+## Tanulási célok
 
-+ Writing HTML:
++ HTML írása:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + `<ul>`, `<ol>` és `<li>` listaelemek;
+    + `<hr/>` ele,;
+    + Az egymásba ágyazott elemek használatának megerősítése.
 
-+ Writing CSS:
++ CSS írása:
     
-    + Colours (names & hexadecimal codes).
+    + Színek (nevek és hexadecimális kódok).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ez a projekt a [Raspberry Pi Digitális Alkotás Tanterv](http://rpf.io/curriculum) következő részéből fed le elemeket:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [Alapvető 2D és 3D elemek tervezése](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Kihívások
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"Több hozzávaló" - további elemek hozzáadása rendezetlen listához; "Több lépés" - további elemek hozzáadása rendezett listához; "Több szín" - színnevek, rgb és hexadecimális kódok hozzáadása; "Vélemények" - újabb rendezetlen lista hozzáadása; "Több stílus" - képek és betűstílus hozzáadása.
 
-## Completing this project offline
+## Projekt elvégzése offline
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+Ha a gyermekek offline módon fejezik be a projektet, akkor a használni kívánt képeket ugyanabba a mappába kell menteniük, mint a Template.html fájlt.
 
-They can then just add the name of the file in their `<img>` tags:
+Ezután hozzáadhatják a fájl nevét az `<img>` elemekhez:
 
     <img src="banana.jpg" />
     
@@ -74,20 +74,20 @@ They can then just add the name of the file in their `<img>` tags:
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projekt anyagok
 
-## Project resources
+## Segédanyagok a projekthez
 
-+ [.zip file containing all project resources](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [.zip fájl, amely tartalmazza a projekt összes segédanyagát](https://rpf.io/p/en/recipe-go)
++ [Online Trinket sablon](http://jumpto.cc/trinket-template)
++ [Üres online Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Club leader resources
+## Segédanyagok klubvezetőknek
 
-+ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
-+ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
++ [.zip fájl, amely tartalmazza az elkészült projekt összes erőforrását](https://rpf.io/p/en/recipe-go)
++ [Online befejezett Trinket projekt](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
