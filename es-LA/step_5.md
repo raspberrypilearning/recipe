@@ -1,27 +1,27 @@
-## Method
+## Preparación
 
-Next, let’s explain how to make your recipe.
+A continuación, vamos a explicar cómo preparar tu receta.
 
-+ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
++ Vas a usar otra lista para escribir los pasos de preparación, pero esta vez vas a usar una **lista ordenada**, usando la etiqueta `<ol>`.
 
-An ordered list is a numbered list, which you should use when the order of the steps is important.
+Una lista ordenada es una lista con números, que deberías usar cuando el orden de los pasos es importante.
 
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
+Añade este código debajo de tu lista de ingredientes, asegurándote que está dentro de la etiqueta `<body>`:
 
-    <h3>Method:</h3>
+    <h3>Método:</h3>
     
     <ol>
     
     </ol>
     
 
-![screenshot](images/recipe-method.png)
+![captura de pantalla](images/recipe-method.png)
 
-+ Now you just need to add list items into your new ordered list:
++ Ahora sólo tienes que añadir los elementos en tu lista ordenada:
 
-    <li>Peel the banana and add to a blender</li>
+    <li>Pela el plátano y añádelo a la batidora</li>
     
 
-![screenshot](images/recipe-ol.png)
+![captura de pantalla](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+¡Fíjate que los elementos se numeran de forma automática!
