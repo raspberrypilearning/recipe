@@ -78,7 +78,7 @@ Wtedy będą mogły po prostu wstawić nazwy ich plików w znaczniki `<img>`:
 
 ## Zasoby
 
-+ [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/recipe-project-resources.zip)
++ [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](https://rpf.io/p/en/recipe-go)
 + [Pusty szablon Trinket](http://jumpto.cc/trinket-template)
 + [Pusty Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@ Wtedy będą mogły po prostu wstawić nazwy ich plików w znaczniki `<img>`:
 
 ## Zasoby dla lidera klubu
 
-+ [Plik .zip zawierający zasoby z ukończonym projektem](resources/recipe-volunteer-resources.zip)
++ [Plik .zip zawierający zasoby z ukończonym projektem](https://rpf.io/p/en/recipe-go)
 + [Ukończony projekt "Kolorowe Kreacje"](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
