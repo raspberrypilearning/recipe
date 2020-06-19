@@ -6,7 +6,7 @@
 
 ### 俱乐部导师的附加信息
 
-如果您需要打印此项目，请使用[合适打印版本](https://projects.raspberrypi.org/en/projects/recipe/print) 。
+如果你需要打印此项目，请使用[合适打印版本](https://projects.raspberrypi.org/en/projects/recipe/print) 。
 
 ## \--- collapse \---
 
@@ -78,7 +78,7 @@
 
 ## 项目资源
 
-+ [包含所有项目资源的.zip压缩包](resources/recipe-project-resources.zip)
++ [包含所有项目资源的.zip压缩包](https://rpf.io/p/en/recipe-go)
 + [在线 Trinket 模板](http://jumpto.cc/trinket-template)
 + [在线空白 Trinket 项目](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@
 
 ## 俱乐部导师资源
 
-+ [包含所有完整版项目资源的.zip压缩包](resources/recipe-volunteer-resources.zip)
++ [包含所有完整版项目资源的.zip压缩包](https://rpf.io/p/en/recipe-go)
 + [在线完整版Trinket项目](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
