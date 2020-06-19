@@ -1,14 +1,14 @@
-## Finishing touches
+## 最後一步
 
-Let’s add a little more HTML and CSS to improve your webpage.
+讓我們再添加一些 HTML 和 CSS 來改善你的網頁。
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ 你可以使用 `<hr>`標籤在你食譜的結尾添加一條水平線。
 
-![screenshot](images/recipe-hr.png)
+![截圖](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+請注意，這個標籤沒有結束標記，就像是 `<img>` 標籤一樣。
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ 你剛剛添加的線條與你網頁中其餘的樣式不相配。 讓我們透過添加一些CSS代碼來解決這個問題：
 
     hr {
         height: 2px;
@@ -17,13 +17,13 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![截圖](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ 你甚至可以透過個CSS代碼來改變項目符號的樣式：
 
     ul {
         list-style-type: square;
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![截圖](images/recipe-ul-css.png)
