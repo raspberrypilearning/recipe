@@ -1,35 +1,35 @@
-## Ingredients
+## Hozzávalók
 
-Let’s list the ingredients that are needed for your recipe.
+Soroljuk fel a hozzávalókat, amelyek szükségesek a receptedhez.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Nyisd meg ezt a sablon trinketet: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    A projektnek így kell kinéznie:
     
-    ![screenshot](images/recipe-starter.png)
+    ![képernyőkép](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ A hozzávalók listájához **rendezetlen listát** fogsz használni, az `<ul>` címkével. Ugorj a sablon 8. sorára, és add hozzá ezt a HTML kódot, helyettesítve a `<h1>` cím szövegét a saját recepted nevével:
 
-    <h1>Banana Milkshake</h1>
+    <h1>Banánturmix</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>Hozzávalók:</h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Nézd meg a weboldaladat, és látnod kell a két címsort.
 
-![screenshot](images/recipe-headings.png)
+![képernyőkép](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+Még nem fogod látni a listádat, mert még nem adtál hozzá semmilyen listaelemet!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ A következő lépésként adj hozzá elemeket a listához a `<li>` elemmel. Add hozzá a következő kódot az `<ul>` elemen belül:
 
-    <li>1 banana</li>
+    <li>1 banán</li>
     
 
-![screenshot](images/recipe-ul.png)
+![képernyőkép](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+Mivel a listád nincs rendezve, a listaelemek mellett nincsenek számok, csak pontok.
