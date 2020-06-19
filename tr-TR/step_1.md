@@ -78,7 +78,7 @@ Daha sonra `<img>` etiketlerine dosyanın adını ekleyebilirler:
 
 ## Proje kaynakları
 
-+ [tüm proje kaynaklarını içeren .zip dosyası](resources/recipe-project-resources.zip)
++ [tüm proje kaynaklarını içeren .zip dosyası](https://rpf.io/p/en/recipe-go)
 + [Çevrimiçi Trinket şablonu](http://jumpto.cc/trinket-template)
 + [Çevrimiçi boş Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@ Daha sonra `<img>` etiketlerine dosyanın adını ekleyebilirler:
 
 ## Kulüp lideri için kaynaklar
 
-+ [tamamlanmış tüm proje kaynaklarını içeren .zip dosyası](resources/recipe-volunteer-resources.zip)
++ [tamamlanmış tüm proje kaynaklarını içeren .zip dosyası](https://rpf.io/p/en/recipe-go)
 + [Çevrimiçi tamamlanmış Trinket projesi](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
