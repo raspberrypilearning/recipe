@@ -78,7 +78,7 @@
 
 ## 프로젝트 리소스
 
-+ [프로젝트의 모든 리소스가 들어있는 .zip 파일](resources/recipe-project-resources.zip)
++ [프로젝트의 모든 리소스가 들어있는 .zip 파일](https://rpf.io/p/en/recipe-go)
 + [온라인 Trinket 템플릿](http://jumpto.cc/trinket-template)
 + [빈 Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@
 
 ## 교육자를 위한 자료
 
-+ [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](resources/recipe-volunteer-resources.zip)
++ [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](https://rpf.io/p/en/recipe-go)
 + [완성된 온라인 Trinket 프로젝트](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
