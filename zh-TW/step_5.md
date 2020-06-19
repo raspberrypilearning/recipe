@@ -1,27 +1,27 @@
-## Method
+## 作法
 
-Next, let’s explain how to make your recipe.
+接下來，讓我來解釋一下如何製作你的食譜。
 
-+ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
++ 你要使用另一個列表來編寫你的作法，但這次你要通過`<ol>` 標籤來使用**有序料表**
 
-An ordered list is a numbered list, which you should use when the order of the steps is important.
+有序列表是一個有編號的列表，當你認為步驟的順序很重要時你就該使用它。
 
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
+在你的食材列表下面添加這個代碼，確保他仍然在你的 `<body>` 標籤裡：
 
-    <h3>Method:</h3>
+    <h3>作法：</h3>
     
     <ol>
     
     </ol>
     
 
-![screenshot](images/recipe-method.png)
+![截圖](images/recipe-method.png)
 
-+ Now you just need to add list items into your new ordered list:
++ 現在你只需要在你新的有序列表中添加列表項目：
 
-    <li>Peel the banana and add to a blender</li>
+    <li>把香蕉皮剝掉並放進攪拌機</li>
     
 
-![screenshot](images/recipe-ol.png)
+![截圖](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+注意，列表項目會自動編號！
