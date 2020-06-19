@@ -1,0 +1,41 @@
+---
+hero_image: images/banner.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: రెసిపీ లేదా తయారు చేసే విధాన౦
+description: మీకు ఇష్టమైన రెసిపీ యొక్క వెబ్‌పేజీని సృష్టించండి, తద్వారా మీ స్నేహితులు దీన్ని తయారు చేసుకోవచ్చు!
+original_url: https://codeclubprojects.org/en-GB/webdev/recipe
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: పరిచయం
+  - 
+    title: రెసిపీని నిర్ణయించండి
+  - 
+    title: కావలసిన పదార్థాలు
+  - 
+    title: 'సవాలు: మరిన్ని కావలసిన పదార్థాలు'
+  - 
+    title: తయారు చేసే విధానము
+  - 
+    title: 'సవాలు: మరిన్ని దశలు'
+  - 
+    title: రంగులు!
+  - 
+    title: మెరుగులు
+  - 
+    title: 'సవాలు: మరిన్ని రంగులు!'
+  - 
+    title: 'సవాలు: సమీక్షలు లేదా రివ్యులు'
+  - 
+    title: 'సవాలు: మరిన్ని శైలిలు'
