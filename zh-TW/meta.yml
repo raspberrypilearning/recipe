@@ -1,0 +1,30 @@
+---
+hero_image: images/banner.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1，design-1，programming-0，phys-comp-0，manufacture-0，community-0
+title: 食譜
+description: 創建一個有你最喜歡食譜的網頁，這樣你的朋友就可以跟著做了！
+original_url: https://codeclubprojects.org/en-GB/webdev/recipe
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: 介紹
+  - title: 決定一份食譜
+  - title: 食材
+  - title: '挑戰：更多食材'
+  - title: 作法
+  - title: '挑戰：更多步驟'
+  - title: 顏色！
+  - title: 最後一步
+  - title: '挑戰：更多顏色！'
+  - title: '挑戰：評論'
+  - title: '挑戰：更多樣式'
