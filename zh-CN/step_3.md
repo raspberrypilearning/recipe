@@ -1,6 +1,6 @@
 ## 原料
 
-让我们列出你的食谱所需要的原料。
+让我们一起来列出你的食谱所需要的原料。
 
 + 打开这个示例 trinket： [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
