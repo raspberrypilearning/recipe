@@ -83,7 +83,7 @@
         
         ## プロジェクト資料
         
-        + [全プロジェクト・リソースの入った.zipファイル](resources/recipe-project-resources.zip)
+        + [全プロジェクト・リソースの入った.zipファイル](https://rpf.io/p/en/recipe-go)
         + [Online Trinketテンプレート](http://jumpto.cc/trinket-template)
         + [Online 空の Trinket](http://jumpto.cc/trinket-blank)
         + [template/index.html](resources/template-index.html)
@@ -91,7 +91,7 @@
         
         ## クラブ・リーダー向けリソース
         
-        + [全プロジェクトの完成版リソースの入った.zipファイル](resources/recipe-volunteer-resources.zip)
+        + [全プロジェクトの完成版リソースの入った.zipファイル](https://rpf.io/p/en/recipe-go)
         + [完成版プロジェクトのオンラインtrinket](https://trinket.io/html/c0fd9b40cd)
         + [recipe-finished/index.html](resources/recipe-finished-index.html)
         + [recipe-finished/style.css](resources/recipe-finished-style.css)
