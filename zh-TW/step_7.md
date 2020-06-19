@@ -1,48 +1,48 @@
-## Colours!
+## 顏色！
 
-Let’s add some colour to your recipe webpage.
+讓我們為你的食譜網頁添加一些顏色。
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ 你已經學過了如何將彩色的文本加到網頁中。 將這個代碼加進你的 `style.css`檔案，使網站裡的所有文本都變成藍色：
 
     body {
         color: blue;
     }
     
 
-![screenshot](images/recipe-blue.png)
+![截圖](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ 你的瀏覽器知道的顏色有 `藍色`,，`黃色` 甚至是 `亮綠色`，但是你知道實際上你的瀏覽器知道超過140種顏色的**名字**嗎？
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+這是一個你能夠使用的所有顏色名稱列表： [jumpto.cc/colours](http://jumpto.cc/colours)，裡面包含像 `tomato蕃茄紅`，`firebrick火磚色` 和`peachpuff粉蜜桃色`的顏色名稱。
 
-Change the text colour from `blue` to `tomato`.
+將文本顏色從`blue藍色` 改成 `tomato蕃茄紅`.
 
-![screenshot](images/recipe-tomato.png)
+![截圖](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ 你的瀏覽器知道140種顏色的名稱，但實際上它知道超過1600萬種顏色的**色彩值**！
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+要告訴瀏覽器顯示哪個顏色，你只需要讓它知道要使用多少紅色、綠色和藍色。
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+紅色、綠色和藍色的數量以`0` 到 `255`之間的數字表示。
 
-![screenshot](images/recipe-rgb-img.png)
+![截圖](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+將這個代碼加到網頁主體的CSS 中，顯示出淡黃色的背景：
 
     background: rgb(250,250,210);
     
 
-![screenshot](images/recipe-rgb.png)
+![截圖](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ 如果你願意，你可以使用十六進制碼（或 **hex code**）來告訴瀏覽器要顯示哪個顏色。 這個作業方式與上面的 `rgb()` 代碼類似，區別是十六進制代碼總是以`#`開始，並且使用 `00`到 `ff`之間的十六進制“數字”來表示紅色、綠色和藍色的數量。
 
-![screenshot](images/recipe-hex-img.png)
+![截圖](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+在你的CSS中把 `rgb()` 代碼改成十六進制代碼：
 
     background: #fafad2;
     
 
-![screenshot](images/recipe-hex.png)
+![截圖](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+你應該看到跟之前一樣的淡黃色！
