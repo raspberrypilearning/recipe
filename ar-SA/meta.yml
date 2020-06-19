@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Recipe
-description: Create a webpage of your favourite recipe, so that your friends can make it!
+title: وصفة طعام
+description: انشىء صفحة ويب لوصفة الطعام المفضلة لديك, ليتمكن أصدقاؤك من صنعها!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Decide on a recipe
+    title: اختر وصفة الطعام
   - 
-    title: Ingredients
+    title: المقادير
   - 
-    title: 'Challenge: More ingredients'
+    title: 'التحدي: مكونات أخرى'
   - 
-    title: Method
+    title: طريقة التحضير
   - 
-    title: 'Challenge: More steps'
+    title: 'التحدي: خطوات أخرى'
   - 
-    title: Colours!
+    title: الألوان!
   - 
-    title: Finishing touches
+    title: اللمسات الأخيرة
   - 
-    title: 'Challenge: More colours!'
+    title: 'التحدي: ألوان أخرى!'
   - 
-    title: 'Challenge: Reviews'
+    title: 'التحدي: التقييمات'
   - 
-    title: 'Challenge: More styling'
+    title: 'التحدي: تنسيقات أخرى'
