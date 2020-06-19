@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More ingredients
+## تحدي: مقادير إضافية
 
-Can you add all of the ingredients for **your** recipe?
+هل بإمكانك إضافة كل المقادير في **وصفتك**؟
 
-Your webpage should look something like this:
+يجب أن تكون صفحتك بهذا الشكل تقريباً:
 
-![screenshot](images/recipe-more-ingredients.png)
+![لقطة الشاشة](images/recipe-more-ingredients.png)
 
-\--- /challenge \---
+\--- challenge/ \---
