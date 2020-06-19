@@ -1,10 +1,10 @@
-## Decide on a recipe
+## 決定一份食譜
 
-Before you get coding, you’ll need to decide on a recipe.
+在你開始編碼前，你需要決定一份食譜。
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ 想一個你想和你的朋友分享的食譜。 它可以是： 
+    + 在網路上找到的食譜；
+    + 你最喜歡的料理；
+    + 你自己創造的食物！
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+你在這個項目中所見的示範食譜是香蕉奶昔。 如果你找不到自己想做的食譜，你可以複製這個食譜。
