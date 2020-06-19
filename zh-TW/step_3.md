@@ -1,35 +1,35 @@
-## Ingredients
+## 食材
 
-Let’s list the ingredients that are needed for your recipe.
+讓我們一起列出你的食譜所需要的食材。
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ 打開 trinket模板: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    檔案看起來應該像這樣︰
     
-    ![screenshot](images/recipe-starter.png)
+    ![截圖](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ 你的食材列表將使用**無序列表**並用`<ul>`標籤。 到模板的第8行並添加這個HTML，將 `<h1>` 標題中的文本替換成你的食譜名稱：
 
-    <h1>Banana Milkshake</h1>
+    <h1>香蕉奶昔</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>食材： </h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ 查看你的網頁，你應該會看到你的兩個標題。
 
-![screenshot](images/recipe-headings.png)
+![截圖](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+你現在看不到你的列表，因為你還沒添加任何列表項目！
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ 下一步是使用`<li>` 標籤將列表項目加進列表中。 將下面的代碼加進你的`<ul>` 標籤中：
 
-    <li>1 banana</li>
+    <li> 1根香蕉</li>
     
 
-![screenshot](images/recipe-ul.png)
+![截圖](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+由於這是無序列表，所以列表項目旁邊沒有數字，只有要點符號。
