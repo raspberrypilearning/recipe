@@ -78,7 +78,7 @@ Elas podem então adicionar o nome do arquivo em suas tags `<img>`:
 
 ## Recursos do projeto
 
-+ [Arquivo .zip contendo todos os recursos do projeto](resources/recipe-project-resources.zip)
++ [Arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/recipe-go)
 + [Template Online Trinket](http://jumpto.cc/trinket-template)
 + [Trinket online em branco](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@ Elas podem então adicionar o nome do arquivo em suas tags `<img>`:
 
 ## Recursos para o Líder do Clube
 
-+ [Arquivo .zip contendo todos os recursos concluídos do projeto](resources/recipe-volunteer-resources.zip)
++ [Arquivo .zip contendo todos os recursos concluídos do projeto](https://rpf.io/p/en/recipe-go)
 + [Projeto Trinket concluído online](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
