@@ -78,7 +78,7 @@ Sie können einfach den Namen der Datei in ihren `<img>` tags hinzufügen:
 
 ## Projektressourcen
 
-+ [.zip-Datei, die alle Projektressourcen enthält](resources/recipe-project-resources.zip)
++ [.zip-Datei, die alle Projektressourcen enthält](https://rpf.io/p/en/recipe-go)
 + [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
 + [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@ Sie können einfach den Namen der Datei in ihren `<img>` tags hinzufügen:
 
 ## Ressourcen für Clubleiter
 
-+ [.zip-Datei, die alle fertig gestellten Projektressourcen enthält](resources/recipe-volunteer-resources.zip)
++ [.zip-Datei, die alle fertig gestellten Projektressourcen enthält](https://rpf.io/p/en/recipe-go)
 + [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
