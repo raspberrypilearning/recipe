@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More ingredients
+## 挑戰：更多食材
 
-Can you add all of the ingredients for **your** recipe?
+你可以把所有食材都加到 **你的**食譜中嗎？
 
-Your webpage should look something like this:
+你的網頁應該要看起來像這樣：
 
-![screenshot](images/recipe-more-ingredients.png)
+![截圖](images/recipe-more-ingredients.png)
 
 \--- /challenge \---
