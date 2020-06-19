@@ -1,71 +1,71 @@
-## Introduction
+## 介紹
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+在這個項目中，你將學習如何為你最喜歡的食譜創建一個網站。
 
-![screenshot](images/recipe-final.png)
+![截圖](images/recipe-final.png)
 
-### Additional information for club leaders
+### 目前項目的額外資訊：
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+如果你需要列印這個專案，可以先切換成[友好列印模式](https://projects.raspberrypi.org/en/projects/recipe/print)。
 
-## \--- collapse \---
+## \---- collapse \---
 
-## title: Club leader notes
+## 標題: 給教師的其它資訊
 
-## Introduction:
+## 介紹:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+在這個項目中，孩子們將學習 HTML列表和CSS顏色。 他們會創建自己的食譜、添加的食材和作法列表。
 
-## Online Resources
+## 線上資源
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+我們建議使用[trinket](https://trinket.io/)來在線編寫HTML &CSS的代碼
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+孩子們也可以利用這個空白trinket [（jumpto.cc/html-blank）](http://jumpto.cc/html-blank) 來編寫自己的HTML & CSS，或是他們也可以使用這個模板trinket [（jumpto.cc/html-template）](http://jumpto.cc/html-template)。
 
-There is also a trinket containing a sample solution to the challenges:
+這個trinket 包含挑戰樣本的解決方案：
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [完成的“食譜” --trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline Resources
+## 離線資源
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+根據個人喜好，你也可以[離線完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)此專案。 你可以從此項目的「項目材料」連結訪問項目資源。 這個連結包含了'項目資源'，裡面有孩子們離線完成這個項目所需要的資源。 請確保每個孩子都可以取得這些資源的副本。 這個部分包括以下文件：
 
 + template/index.html
 + template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+你還可以在「志工資源」部分中找到該項目挑戰的完整版，裡面包含：
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(以上所有資源也能以項目和志工的壓縮檔案`.zip`來下載。)
 
-## Learning Objectives
+## 學習目標
 
-+ Writing HTML:
++ 編寫HTML：
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + `<ul>`, `<ol>` 和 `<li>` 列表標籤；
+    + `<hr/>` 標籤；
+    + 鞏固嵌套標籤的使用
 
-+ Writing CSS:
++ 編寫CSS：
     
-    + Colours (names & hexadecimal codes).
+    + 顏色(名稱 & 十六進制表示方式)
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+本項目從以下各方面內容涵蓋了[Raspberry Pi 數位製作課程](http://rpf.io/curriculum)：
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [設計基本的2D和3D資源](https://www.raspberrypi.org/curriculum/design/creator)。
 
-## Challenges
+## 挑戰
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+“更多食材”-將更多項目添加到無序列表中； “更多步驟”-將更多項目添加到有序列表中； “更多顏色”-添加顏色名稱，rgb值和十六進制代碼； “評論”-添加另一個無序列表； “更多樣式”-添加圖片和字體。
 
-## Completing this project offline
+## 離線完成這個項目
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+如果孩子們離線完成了這個項目，他們需要將打算使用的圖片保存在與Template.html檔案相同的資料夾中。
 
-They can then just add the name of the file in their `<img>` tags:
+接著他們可以在 `<img>`標籤中加上文件的名稱：
 
     <img src="banana.jpg" />
     
@@ -74,20 +74,20 @@ They can then just add the name of the file in their `<img>` tags:
 
 ## \--- collapse \---
 
-## title: Project materials
+## 標題：項目材料
 
-## Project resources
+## 項目資源
 
-+ [.zip file containing all project resources](resources/recipe-project-resources.zip)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [包含所有項目資源的.zip壓縮檔](https://rpf.io/p/en/recipe-go)
++ [線上Trinket模板](http://jumpto.cc/trinket-template)
++ [線上空白Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Club leader resources
+## 俱樂部領導者資源
 
-+ [.zip file containing all completed project resources](resources/recipe-volunteer-resources.zip)
-+ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
++ [包含所有已完成項目資源的.zip壓縮檔](https://rpf.io/p/en/recipe-go)
++ [線上完成的Trinket專案](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
