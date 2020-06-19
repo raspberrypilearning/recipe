@@ -1,14 +1,14 @@
-## Finishing touches
+## اللمسات الأخيرة
 
-Let’s add a little more HTML and CSS to improve your webpage.
+دعونا نقوم بإضافة مزيد من HTML و CSS لتحسين صفحة الويب خاصتك.
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ يمكنك إضافة خط عرضي في نهاية الوصفة، باستخدام العلامة `<hr>`.
 
-![screenshot](images/recipe-hr.png)
+![لقطة شاشة](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+لاحظ أن هذه العلامة لا تملك علامة نهاية مثل العلامة `<img>`.
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ إن الخط الذي قمت بإضافته للتو لا يماثل تنسيقات صفحتك الأخرى. لنقم بإصلاح هذا عن طريق إضافة تعليم برمجي CSS:
 
     hr {
         height: 2px;
@@ -17,13 +17,13 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![لقطة الشاشة](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ يمكنك أيضاً تغيير شكل النقاط لتبدو كالشكل التالي باستخدام التعليم البرمجي CSS:
 
     ul {
         list-style-type: square;
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![لقطة الشاشة](images/recipe-ul-css.png)
