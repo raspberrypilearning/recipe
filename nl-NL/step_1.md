@@ -78,7 +78,7 @@ Ze kunnen dan gewoon de naam van het bestand toevoegen aan hun `<img>` tags:
 
 ## Projectbronnen
 
-+ [.zip-bestand met alle projectbronnen](resources/recipe-project-resources.zip)
++ [.zip-bestand met alle projectbronnen](https://rpf.io/p/en/recipe-go)
 + [Online Trinket-sjabloon](http://jumpto.cc/trinket-template)
 + [Online lege Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@ Ze kunnen dan gewoon de naam van het bestand toevoegen aan hun `<img>` tags:
 
 ## Clubleiderbronnen
 
-+ [.zip-bestand met alle voltooide projectbronnen](resources/recipe-volunteer-resources.zip)
++ [.zip-bestand met alle voltooide projectbronnen](https://rpf.io/p/en/recipe-go)
 + [Online voltooid Trinket-project](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
