@@ -78,7 +78,7 @@ Ei pot să adauge doar numele fișierului în etichetele `<img>`:
 
 ## Resursele proiectului
 
-+ [fișier .zip care conține toate resursele proiectului](resources/recipe-project-resources.zip)
++ [fișier .zip care conține toate resursele proiectului](https://rpf.io/p/en/recipe-go)
 + [Șablon Trinket online](http://jumpto.cc/trinket-template)
 + [Trinket online gol](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@ Ei pot să adauge doar numele fișierului în etichetele `<img>`:
 
 ## Resursele liderului de club
 
-+ [fișier .zip care conține toate resursele proiectului, finalizate](resources/recipe-volunteer-resources.zip)
++ [fișier .zip care conține toate resursele proiectului, finalizate](https://rpf.io/p/en/recipe-go)
 + [Proiect Trinket online, finalizat](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
