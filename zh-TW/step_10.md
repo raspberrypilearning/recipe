@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Reviews
+## 挑戰：評論
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+請你的朋友給你的食譜留下評價。 你需要再做一個列表來做這件事。
 
-![screenshot](images/recipe-reviews.png)
+![截圖](images/recipe-reviews.png)
 
 \--- /challenge \---
