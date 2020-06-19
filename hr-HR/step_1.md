@@ -78,7 +78,7 @@ Mogu samo dodati ime datoteke u njihvov `<img>` tag:
 
 ## Resursi projekta
 
-+ [.zip datoteka koja sadrži sve materijale projekta](resources/recipe-project-resources.zip)
++ [.zip datoteka koja sadrži sve materijale projekta](https://rpf.io/p/en/recipe-go)
 + [Online Trinket template](http://jumpto.cc/trinket-template)
 + [Online blank Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@ Mogu samo dodati ime datoteke u njihvov `<img>` tag:
 
 ## Materijali za voditelja Kluba
 
-+ [.zip datoteka koja sadrži sve dovršene materijale projekta](resources/recipe-volunteer-resources.zip)
++ [.zip datoteka koja sadrži sve dovršene materijale projekta](https://rpf.io/p/en/recipe-go)
 + [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
