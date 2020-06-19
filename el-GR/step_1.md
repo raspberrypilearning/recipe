@@ -78,7 +78,7 @@
 
 ## Πόροι έργου
 
-+ [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/recipe-project-resources.zip)
++ [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/recipe-go)
 + [Online πρότυπο Trinket](http://jumpto.cc/trinket-template)
 + [Online κενό Trinket](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@
 
 ## Πόροι συντονιστή ομάδας
 
-+ [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/recipe-volunteer-resources.zip)
++ [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/recipe-go)
 + [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
