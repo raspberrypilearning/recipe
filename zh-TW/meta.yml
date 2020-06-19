@@ -5,9 +5,9 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Recipe
-description: Create a webpage of your favourite recipe, so that your friends can make it!
+curriculum: 1，design-1，programming-0，phys-comp-0，manufacture-0，community-0
+title: 食譜
+description: 創建一個有你最喜歡食譜的網頁，這樣你的朋友就可以跟著做了！
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: 介紹
   - 
-    title: Decide on a recipe
+    title: 決定一份食譜
   - 
-    title: Ingredients
+    title: 食材
   - 
-    title: 'Challenge: More ingredients'
+    title: '挑戰：更多食材'
   - 
-    title: Method
+    title: 作法
   - 
-    title: 'Challenge: More steps'
+    title: '挑戰：更多步驟'
   - 
-    title: Colours!
+    title: 顏色！
   - 
-    title: Finishing touches
+    title: 最後一步
   - 
-    title: 'Challenge: More colours!'
+    title: '挑戰：更多顏色！'
   - 
-    title: 'Challenge: Reviews'
+    title: '挑戰：評論'
   - 
-    title: 'Challenge: More styling'
+    title: '挑戰：更多樣式'
