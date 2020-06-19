@@ -78,7 +78,7 @@ Seejärel võivad nad lihtsalt lisada faili nime oma `<img>` siltides:
 
 ## Projekti ressursid
 
-+ [.zip-fail, mis sisaldab kõiki projekti ressursse](resources/recipe-project-resources.zip)
++ [.zip-fail, mis sisaldab kõiki projekti ressursse](https://rpf.io/p/en/recipe-go)
 + [Veebi-trinketi näidis](http://jumpto.cc/trinket-template)
 + [Tühi trinket veebis](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@ Seejärel võivad nad lihtsalt lisada faili nime oma `<img>` siltides:
 
 ## Ringijuhendaja ressursid
 
-+ [.zip-fail, mis sisaldab kõiki lõpetatud projekti ressursse](resources/recipe-volunteer-resources.zip)
++ [.zip-fail, mis sisaldab kõiki lõpetatud projekti ressursse](https://rpf.io/p/en/recipe-go)
 + [Lõpetatud Trinketi projekt veebis](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
