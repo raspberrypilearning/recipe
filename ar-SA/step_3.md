@@ -1,35 +1,35 @@
-## Ingredients
+## المقادير
 
-Let’s list the ingredients that are needed for your recipe.
+دعونا نذكر المقادير اللازمة للوصفة الخاصة بك.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ أفتح رابط trinket التالي: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    الآن يجب أن يبدو المشروع الخاص بك مثل هذا:
     
-    ![screenshot](images/recipe-starter.png)
+    ![لقطة الشاشة](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ لقائمة المقادير خاصتك، ستقوم باستخدام **قائمة غير مرتبة** بإستخدام علامة `<ul>`. انتقل إلى السطر 8 من القالب وقم بإضافة هذا الكود بلغة HTML ، حيث تقوم بإستبدال النص الموجود في عنوان `<h1>` بإسم الوصفة الخاصة بك:
 
-    <h1>Banana Milkshake</h1>
+    <h1>مخفوق الحليب والموز</h1>
     
-    <h3>Ingredients:</h3>
+    <h3>المقادير:</h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ قم بعرض صفحة الويب الخاصة بك، ويجب أن ترى العنوانين الخاصين بك.
 
-![screenshot](images/recipe-headings.png)
+![لقطة شاشة](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+ولكنك لن ترى القائمة بعد، وذلك لأنك لم تقم بإضافة أي عناصر للقائمة بعد!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ في الخطوة التالية سنقوم بإضافة عناصر إلى قائمتك، بإستخدام العلامة `<li>`. قم بإضافة الكود التالي داخل علامة `<ul>`:
 
-    <li>1 banana</li>
+    <li>موزة واحدة</li>
     
 
-![screenshot](images/recipe-ul.png)
+![لقطة الشاشة](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+بما إن قائمتك غير مرتبة، فلا يوجد أرقام بجانب عناصر القائمة، فقط نقاط.
