@@ -13,9 +13,9 @@
 
 + 你的浏览器能识别的颜色有`blue`（蓝色）， `yellow`（黄色），甚至`lightgreen`（亮绿色），但是你知道你的浏览器实际上认识140多种不同的颜色**名称**吗？
 
-这里有一个你可以使用的所有颜色名称的列表：[jumpto.cc/colours](http://jumpto.cc/colours), 包括像`tomato`（西红柿）， `firebrick`（耐火砖）和 `peachpuff`（桃色）的颜色名称。
+这里有一个你可以使用的所有颜色名称的列表：[jumpto.cc/colours](http://jumpto.cc/colours), 包括像`tomato`（蕃茄红）， `firebrick`（火砖色）和 `peachpuff`（粉扑桃色）的颜色名称。
 
-把文本颜色从 `blue` 变成 `tomato`。
+把文本颜色从 `blue` （蓝色）变成 `tomato`（蕃茄红）。
 
 ![screenshot](images/recipe-tomato.png)
 
