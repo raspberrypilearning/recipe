@@ -78,7 +78,7 @@ Ils peuvent ensuite simplement ajouter le nom du fichier dans leurs balises `<im
 
 ## Ressources du projet
 
-+ [Fichier .zip contenant toutes les ressources du projet](resources/recipe-project-resources.zip)
++ [Fichier .zip contenant toutes les ressources du projet](https://rpf.io/p/en/recipe-go)
 + [Modèle de Trinket en ligne](http://jumpto.cc/trinket-template)
 + [Trinket vierge en ligne](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
@@ -86,7 +86,7 @@ Ils peuvent ensuite simplement ajouter le nom du fichier dans leurs balises `<im
 
 ## Ressources pour le responsable du club
 
-+ [Fichier .zip contenant toutes les ressources du projet](resources/recipe-volunteer-resources.zip)
++ [Fichier .zip contenant toutes les ressources du projet](https://rpf.io/p/en/recipe-go)
 + [Trinket en ligne du projet terminé](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
