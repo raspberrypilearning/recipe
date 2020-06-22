@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: More styling
+## आव्हान: अजून स्टाइल ची भर घाला
 
-Can you add an image into your webpage? Or change the font? आपले वेबपेज असे दिसू शकते:
+आपण आपल्या वेबपृष्ठावर एखादे चित्र जोडू शकता का? किंवा फॉन्ट बदलू शकता का? आपले वेबपेज असे दिसू शकते:
 
 ![स्क्रीनशॉट](images/recipe-final.png)
 
