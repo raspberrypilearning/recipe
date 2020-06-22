@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More steps
+## आव्हान: अधिक पायऱ्या
 
-Can you add all of the steps for making **your** recipe?
+आपण **आपली ** पाककृती बनवण्यासाठी अधिक पायऱ्या जोडू शकता का?
 
-Your method should look something like this:
+आपल्या कृतीने यासारखे दिसावे:
 
-![screenshot](images/recipe-more-method.png)
+![स्क्रीनशॉट](images/recipe-more-method.png)
 
 \--- /challenge \---
