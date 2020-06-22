@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Reviews
+## आव्हान: समालोचने
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+आपल्या काही मित्रांना आपल्या पाककृतीसाठी समालोचन करण्यास सांगा. हे करण्यासाठी आपल्याला आणखी एक यादी तयार करण्याची आवश्यकता असेल.
 
-![screenshot](images/recipe-reviews.png)
+![स्क्रीनशॉट](images/recipe-reviews.png)
 
 \--- /challenge \---
