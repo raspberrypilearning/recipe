@@ -34,15 +34,15 @@
 
 ![स्क्रीनशॉट](images/recipe-rgb.png)
 
-+ If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
++ आपण प्राधान्य दिल्यास, हेक्साडेसिमल कोड (किंवा **हेक्स कोड**) वापरून कोणता रंग प्रदर्शित करावा ते ब्राउझरला सांगू शकता. हे वरील `rgb ()` कोड प्रमाणेच कार्य करते, याशिवाय हेक्स कोड नेहमीच `#`सुरू होतात आणि लाल, हिरव्या आणि निळा रंगांसाठी `00` ते `ff` दरम्यानच्या हेक्साडेसिमल 'संख्या' वापरतात.
 
-![screenshot](images/recipe-hex-img.png)
+![स्क्रीनशॉट](images/recipe-hex-img.png)
 
-Replace the `rgb()` code in your CSS with this hex code:
+आपल्या css मधील `rgb ()` कोड पुसून हा कोड त्याठिकाणी टाका:
 
     background: #fafad2;
     
 
-![screenshot](images/recipe-hex.png)
+![स्क्रीनशॉट](images/recipe-hex.png)
 
-You should see the same light yellow as before!
+आपणास पूर्वीप्रमाणे हलका पिवळा रंग दिसला पाहिजे!
