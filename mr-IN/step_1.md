@@ -49,23 +49,23 @@ HTML & CSS लिहीण्यासाठी मुले blank trinket [(jum
     + `<hr/>` टॅग;
     + नेस्टेड टॅगचा वापर एकत्रित करणे.
 
-+ Writing CSS:
++ CSS लिहिणे:
     
-    + Colours (names & hexadecimal codes).
+    + रंग (नावे & हेक्झाडेसीमल कोड).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+या प्रकल्पात [ ​​Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) च्या खालील घटक समाविष्ट आहेत:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
++ [मूलभूत 2D आणि 3D ऍसेटस्](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank.
 
-## Challenges
+## आव्हाने
 
-"More ingredients" - adding more items to an unordered list; "More steps" - adding more items to an ordered list; "More colours" - adding colour names, rgb values and hex codes; "Reviews" - adding another unordered list; "More styling" - adding images and fonts.
+"अधिक साहित्य " - अक्रमांकित यादीमध्ये अधिक पदार्थ जोडणे; "अधिक पायऱ्या " - ऑर्डर यादीमध्ये अधिक पदार्थ जोडणे; "अधिक रंग" - रंगाची नावे, आरजीबी(rgb) मूल्ये आणि हेक्स कोड जोडणे; "पुनरावलोकने" - आणखी एक अक्रमांकित केलेली यादी जोडणे; "अधिक शैली" - प्रतिमा आणि फॉन्ट जोडणे.
 
-## Completing this project offline
+## हा प्रकल्प ऑफलाइन पूर्ण करणे
 
-If children are completing this project offline, they’ll need to save images they intend to use in the same folder as their Template.html file.
+मुले हा प्रकल्प ऑफलाइन पूर्ण करीत असल्यास, प्रतिमा जतन करत असताना त्यांना त्याच फोल्डरमध्ये Template.html मध्ये करणे आवश्यक आहे.
 
-They can then just add the name of the file in their `<img>` tags:
+त्यानंतर ते त्यांच्या `<img>` टॅगमध्ये फाईलचे नाव जोडू शकतात:
 
     <img src="banana.jpg" />
     
@@ -74,20 +74,20 @@ They can then just add the name of the file in their `<img>` tags:
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: प्रकल्प साहित्य
 
-## Project resources
+## प्रकल्प संसाधने
 
-+ [.zip file containing all project resources](https://rpf.io/p/en/recipe-go)
-+ [Online Trinket template](http://jumpto.cc/trinket-template)
-+ [Online blank Trinket](http://jumpto.cc/trinket-blank)
++ [सर्व प्रकल्प संसाधने असलेली.zip फाइल](https://rpf.io/p/en/recipe-go)
++ [ऑनलाइन ट्रिंकेट टेम्पलेट](http://jumpto.cc/trinket-template)
++ [ऑनलाइन रिक्त ट्रिंकेट](http://jumpto.cc/trinket-blank)
 + [template/index.html](resources/template-index.html)
 + [template/style.css](resources/template-style.css)
 
-## Club leader resources
+## क्लब प्रमुख संसाधने
 
-+ [.zip file containing all completed project resources](https://rpf.io/p/en/recipe-go)
-+ [Online completed Trinket project](https://trinket.io/html/c0fd9b40cd)
++ [सर्व पूर्ण प्रकल्पाची संसाधने असलेली.zip फाइल](https://rpf.io/p/en/recipe-go)
++ [ऑनलाईन संपूर्ण Trinket प्रकल्प](https://trinket.io/html/c0fd9b40cd)
 + [recipe-finished/index.html](resources/recipe-finished-index.html)
 + [recipe-finished/style.css](resources/recipe-finished-style.css)
 + [recipe-finished/banana.png](resources/recipe-finished-banana.png)
