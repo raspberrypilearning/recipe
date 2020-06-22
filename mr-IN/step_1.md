@@ -14,9 +14,9 @@
 
 ## परिचय:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+या प्रकल्पात मुले HTML lists आणि CSS मधील रंग यांविषयी शिकतील. साहित्य आणि पद्धती यांच्या याद्या जोडून ते स्वतःच्या पाककृती बनवतील.
 
-## Online Resources
+## ऑनलाईन संसाधने
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
 
