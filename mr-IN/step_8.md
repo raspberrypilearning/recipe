@@ -19,11 +19,11 @@
 
 ![स्क्रीनशॉट](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ या css कोडसह आपले बुलेट पॉइंट कसे दिसतात हे आपण बदलून पाहू शकता:
 
     ul {
         list-style-type: square;
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![स्क्रीनशॉट](images/recipe-ul-css.png)
