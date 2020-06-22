@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: More ingredients
+## आव्हान: अधिक साहित्य
 
 Can you add all of the ingredients for **your** recipe?
 
