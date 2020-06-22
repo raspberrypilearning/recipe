@@ -2,37 +2,37 @@
 
 चला आपल्या पाककृती वेबपृष्ठावर थोडा रंग जोडूया.
 
-+ You’ve already learnt how to add coloured text to a webpage. Add this code inside your `style.css` file, to make all of the text in the website body blue:
++ वेबपृष्ठावर रंगीत मजकूर कसा जोडायचा हे आपण आधीच शिकलेले आहात. वेबसाइटमधील मुख्य मजकूर निळा करण्यासाठी आपल्या `style.css` फाईलमध्ये हा कोड जोडा:
 
     body {
         color: blue;
     }
     
 
-![screenshot](images/recipe-blue.png)
+![स्क्रीनशॉट](images/recipe-blue.png)
 
-+ Your browser knows colours like `blue`, `yellow` and even `lightgreen`, but did you know that your browser actually knows the **names** of over 140 different colours?
++ आपल्या ब्राउझरला `blue`, `yellow` आणि अगदी `lightgreen` सारखे रंग माहित आहेत परंतु आपणास हे माहित आहे काय की आपल्या ब्राउझरला 140 पेक्षा जास्त वेगवेगळ्या ** रंगाची नावे** माहित आहेत?
 
-There’s a list of all the colour names you can use: [jumpto.cc/colours](http://jumpto.cc/colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+आपण वापरू शकता अशा सर्व रंगांच्या नावांची एक सूची आहे: [jumpto.cc/colours ](http://jumpto.cc/colours), ज्यामध्ये `tomato`, `firebrick` आणि `peachpuff` सारख्या रंगांची नावे आहेत.
 
-Change the text colour from `blue` to `tomato`.
+रंगाला `blue` बदलून त्याला `tomato` असा करा.
 
-![screenshot](images/recipe-tomato.png)
+![स्क्रीनशॉट](images/recipe-tomato.png)
 
-+ Your browser knows the names of 140 colours, but actually knows the **colour values** of more than 16 million colours!
++ आपल्या ब्राउझरला 140 रंगांची नावे माहित आहेत परंतु प्रत्यक्षात 1.6 कोटी पेक्षा अधिक रंगांचे **रंग मूल्ये ** माहित आहे!
 
-To tell the browser which colour to display, you just need to let it know how much red, green and blue to use.
+ब्राउझरला कोणता रंग प्रदर्शित करायचा हे सांगण्यासाठी आपल्याला किती लाल, हिरवा आणि निळा वापरायचा हे सांगण्याची आवश्यकता आहे.
 
-The amounts of red, green and blue are written as a number between `0` and `255`.
+लाल, हिरव्या आणि निळ्याचे प्रमाण `0` आणि `255`दरम्यानचे क्रमांक म्हणून लिहिलेले आहे.
 
-![screenshot](images/recipe-rgb-img.png)
+![स्क्रीनशॉट](images/recipe-rgb-img.png)
 
-Add this code to the CSS for the body of the webpage, to display a light yellow background:
+हलक्या पिवळ्या रंगाची पार्श्वभूमी प्रदर्शित करण्यासाठी वेबपृष्ठाच्या मुख्य भागासाठी css मध्ये हा कोड जोडा:
 
     background: rgb(250,250,210);
     
 
-![screenshot](images/recipe-rgb.png)
+![स्क्रीनशॉट](images/recipe-rgb.png)
 
 + If you prefer, you can tell the browser which colour to display by using a hexadecimal code (or **hex code**). This works in a similar way to the `rgb()` code above, except that hex codes always start with a `#`, and use hexadecimal ‘numbers’ between `00` and `ff` for the amount of red, green and blue.
 
