@@ -1,14 +1,14 @@
-## Finishing touches
+## शेवटचा हात
 
-Let’s add a little more HTML and CSS to improve your webpage.
+चला तर मग आपले वेबपृष्ठ सुधारित करण्यासाठी थोडे अधिक HTML आणि CSS जोडूया.
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ आपण आपल्या रेसिपीच्या शेवटी `<hr>` टॅग वापरुन आडवी रेषा जोडू शकता.
 
-![screenshot](images/recipe-hr.png)
+![स्क्रीनशॉट](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+लक्षात घ्या की `<img>` टॅग प्रमाणेच या टॅगला शेवटचा टॅग नाही.
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ आपण आत्ताच जोडलेली रेषा आपल्या उर्वरित वेबपृष्ठाच्या शैलीशी जुळत नाही. चला काही css कोड जोडून ते नीट करूया:
 
     hr {
         height: 2px;
@@ -17,7 +17,7 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![स्क्रीनशॉट](images/recipe-hr-css.png)
 
 + You can even change how your bullet points look with this CSS code:
 
