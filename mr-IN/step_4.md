@@ -2,10 +2,10 @@
 
 ## आव्हान: अधिक साहित्य
 
-Can you add all of the ingredients for **your** recipe?
+आपण **तुमच्या** पाककृतीसाठी लागणाऱ्या सगळ्या साहित्याची भर घालू शकतो का?
 
-Your webpage should look something like this:
+आपले वेबपृष्ठ असे दिसले पाहिजे:
 
-![screenshot](images/recipe-more-ingredients.png)
+![स्क्रीनशॉट](images/recipe-more-ingredients.png)
 
 \--- /challenge \---
