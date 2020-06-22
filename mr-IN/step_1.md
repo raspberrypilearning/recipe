@@ -18,36 +18,36 @@
 
 ## ऑनलाईन संसाधने
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+HTML & CSS ऑनलाइन लिहिण्यासाठीआम्ही [trinket](https://trinket.io/) वापरण्याची शिफारस करतो.
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+HTML & CSS लिहीण्यासाठी मुले blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) चाही उपयोग करू शकतात अथवा वैकल्पिकरित्या ते template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template)याचा उपयोग करू शकतात.
 
-There is also a trinket containing a sample solution to the challenges:
+आव्हानांवर नमुना उपाय असणारा एक trinket देखील आहे:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ [संपूर्ण ‘पाककृती ’ -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
 
-## Offline Resources
+## ऑफलाइन संसाधने
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+प्राधान्य असल्यास हा प्रकल्प [ ऑफलाइन पूर्ण केला जाऊ शकतो ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). आपण या प्रकल्पाची संसाधने Project Material link वर​ क्लिक करून मिळवू शकता. या link मध्ये 'Project Resourses' विभाग आहे, ज्यामध्ये मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यासाठी आवश्यक असणारी संसाधने आहेत. प्रत्येक मुलास या स्त्रोतांच्या प्रतीवर प्रवेश असल्याचे सुनिश्चित करा. या विभागात खालील फायली समाविष्ट आहेत:
 
 + template/index.html
 + template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+आपल्याला या प्रकल्पातील आव्हानांची पूर्ण आवृत्ती 'Volunteer Resources' विभागात सापडेल, ज्यात हे आहे:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(वरील सर्व संसाधने प्रकल्प आणि स्वयंसेवक `.zip` फायली म्हणून डाउनलोड करण्यायोग्य देखील आहेत.)
 
-## Learning Objectives
+## शिकण्याचे उद्दिष्टे
 
-+ Writing HTML:
++ HTML लेखन:
     
-    + `<ul>`, `<ol>` and `<li>` list tags;
-    + `<hr/>` tag;
-    + Consolidating the use of nested tags.
+    + `<ul>`, `<ol>` आणि `<li>` lists टॅग;
+    + `<hr/>` टॅग;
+    + नेस्टेड टॅगचा वापर एकत्रित करणे.
 
 + Writing CSS:
     
