@@ -17,7 +17,7 @@
 
 ![स्क्रीनशॉट](images/recipe-method.png)
 
-+ Now you just need to add list items into your new ordered list:
++ आता आपल्याला आपल्या नवीन ऑर्डर केलेल्या यादीमध्ये सूची पदार्थ जोडण्याची आवश्यकता आहे:
 
     <li>केळी सोलून ब्लेंडर मध्ये टाका</li>
     
