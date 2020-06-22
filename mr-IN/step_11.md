@@ -2,11 +2,11 @@
 
 ## Challenge: More styling
 
-Can you add an image into your webpage? Or change the font? Here’s how your webpage could look:
+Can you add an image into your webpage? Or change the font? आपले वेबपेज असे दिसू शकते:
 
-![screenshot](images/recipe-final.png)
+![स्क्रीनशॉट](images/recipe-final.png)
 
-Here’s some code that will help you:
+खालील कोड ची तुम्ही मदत घेऊ शकता:
 
     font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
     font-size: 12pt;
