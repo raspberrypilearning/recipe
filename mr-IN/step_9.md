@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: More colours!
+## आव्हान: अधिक रंग!
 
-Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+आपल्या कोडमधील रंग बदलण्यासाठी रंगांची नावे `rgb()`मूल्ये आणि हेक्स कोड वापरा. <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a> येथे पुष्कळ रंगांची यादी आहे अथवा <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> येथे जाऊन आपले स्वतःचे रंग तयार करू शकता!
 
-Here are some example colours:
+येथे काही रंगांची उदाहरणे आहेत:
 
-+ Red can be written as:
++ लाल रंग असा लिहिला जाऊ शकतो:
     
     + `red` (obviously!)
     + `rgb(255,0,0)` (loads of red, no green and no blue)
