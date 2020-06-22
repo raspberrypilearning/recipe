@@ -1,18 +1,18 @@
-## Introduction
+## परिचय
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+या प्रकल्पात आपण आपल्या पसंतीच्या पाककृतीसाठी वेबपेज कसे तयार करावे ते शिकाल.
 
-![screenshot](images/recipe-final.png)
+![स्क्रीनशॉट](images/recipe-final.png)
 
-### Additional information for club leaders
+### क्लब प्रमुखांसाठी अधिक माहिती
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+तुम्हाला या प्रकल्पाची छपाई करण्याची आवश्यकता असल्यास कृपया [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print). वापरा.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: क्लब प्रमुखांसाठी काही टिपा
 
-## Introduction:
+## परिचय:
 
 In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
 
