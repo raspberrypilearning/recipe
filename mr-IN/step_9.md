@@ -8,16 +8,16 @@
 
 + लाल रंग असा लिहिला जाऊ शकतो:
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + `red` (अर्थात!)
+    + `rgb(255,0,0)` (भरपूर लाल रंग, हिरवाआणि निळा अजिबात नाही)
     + `#ff0000`
 
-+ Olive can be written as:
++ ऑलिव्ह रंग असा लिहिला जाऊ शकतो:
     
     + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + `rgb (128, 128, 0)` (थोडासा लाल, हिरवा आणि निळा अजिबात नाही)
     + `#808000`
 
-Try to make sure that the colours you use match your recipe!
+आपण वापरत असलेले रंग आपल्या पाककृतीशी जुळत असल्याचे सुनिश्चित करण्याचा प्रयत्न करा!
 
 \--- /challenge \---
