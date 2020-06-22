@@ -1,10 +1,10 @@
-## Decide on a recipe
+## एका पाककृती ची निवड करा
 
-Before you get coding, you’ll need to decide on a recipe.
+आपण कोडिंग करण्यापूर्वी, आपल्याला पाककृती निवडण्याची आवश्यकता आहे.
 
-+ Think about a recipe you want to share with your friends. It could be: 
-    + A recipe you found online;
-    + Your favourite meal;
-    + Something you made up!
++ आपल्या मित्रांसमवेत सामायिक करू इच्छित असलेल्या पाककृतीविषयी विचार करा. हे असू शकते: 
+    + आपल्याला ऑनलाइन सापडलेली एक पाककृती;
+    + आपल्या आवडीचे जेवण;
+    + आपण बनवलेले काहीतरी!
 
-The example recipe you’ll see in this project is for a banana milkshake. You can copy this recipe if you can’t find one of your own.
+या प्रकल्पामध्ये आपण पाहिलेली उदाहरणार्थ पाककृती केळी मिल्कशेक आहे. आपणास आपली एखादी पाककृती न सापडल्यास आपण हीच पाककृती वापरू शकता.
