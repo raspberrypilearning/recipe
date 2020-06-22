@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Recipe
-description: Create a webpage of your favourite recipe, so that your friends can make it!
+title: पाककृती
+description: आपल्या आवडत्या पाककृतींचे वेबपेज तयार करा, जेणेकरून आपले मित्रमैत्रिणी खाद्यपदार्थ तयार करु शकतील!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Decide on a recipe
+    title: एका पाककृती ची निवड करा
   - 
-    title: Ingredients
+    title: साहित्य
   - 
-    title: 'Challenge: More ingredients'
+    title: 'आव्हान: अधिक साहित्य'
   - 
-    title: Method
+    title: कृती
   - 
-    title: 'Challenge: More steps'
+    title: 'आव्हान: अधिक पायऱ्या'
   - 
-    title: Colours!
+    title: रंग!
   - 
-    title: Finishing touches
+    title: शेवटचा हात
   - 
-    title: 'Challenge: More colours!'
+    title: 'आव्हान: अधिक रंग!'
   - 
-    title: 'Challenge: Reviews'
+    title: 'आव्हान: समालोचन'
   - 
     title: 'Challenge: More styling'
