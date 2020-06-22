@@ -1,35 +1,35 @@
-## Ingredients
+## साहित्य
 
-Let’s list the ingredients that are needed for your recipe.
+आपल्या कृतीसाठी आवश्यक असलेल्या साहित्याची यादी करूया.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ हा टेम्पलेट ट्रिंकेट उघडा:[jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    प्रकल्प असा दिसायला हवा:
     
-    ![screenshot](images/recipe-starter.png)
+    ![स्क्रीनशॉट](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ आपल्या साहित्याच्या सूचीसाठी आपण ** अक्रमांकित यादी** वापरणार आहोत, `<ul>` टॅग वापरुन. टेम्प्लेटच्या 8 व्या ओळीवर जा आणि `<h1>` शीर्षकातील मजकूरास आपल्या स्वत: च्या पाककृतीच्या नावाने बदलून हे HTML जोडा:
 
-    <h1>Banana Milkshake</h1>
+    <h1> केळी मिल्कशेक </h1>
     
-    <h3>Ingredients:</h3>
+    <h3> साहित्य: </h3>
     
     <ul>
     
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ आपले वेबपृष्ठ पहा आणि आपल्याला आपली दोन शीर्षके दिसली पाहिजेत.
 
-![screenshot](images/recipe-headings.png)
+![स्क्रीनशॉट](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+आपण अद्याप आपली सूची पाहू शकणार नाही, कारण आपण त्यात कोणतीही सूची पदार्थ जोडलेली नाहीत!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ पुढील पायरी म्हणजे `<li>` टॅग वापरुन आपल्या यादीमध्ये सूची पदार्थ जोडणे. आपल्या `<ul>` टॅगमध्ये खालील कोड जोडा:
 
-    <li>1 banana</li>
+    <li>1 केळी</li>
     
 
-![screenshot](images/recipe-ul.png)
+![स्क्रीनशॉट](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+आपली यादी अक्रमांकीत असल्यामुळे, यादीतील पदार्थांच्या पुढे क्रमांक नाहीत, फक्त बुलेट पॉइंट्स आहेत.
