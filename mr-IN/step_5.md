@@ -1,27 +1,27 @@
-## Method
+## कृती
 
-Next, let’s explain how to make your recipe.
+पुढे, आपली कृती कशी बनवायची ते समजावून घेऊया.
 
-+ You’re going to use another list to write your method, but this time you’ll be using an **ordered list**, by using the `<ol>` tag.
++ आपली कृती लिहिण्यासाठी आपण आणखी एक सूची वापरणार आहात, परंतु यावेळी आपण **क्रमांकित यादी** चा वापर करणार आहोत `<ol>` टॅग वापरुन.
 
-An ordered list is a numbered list, which you should use when the order of the steps is important.
+ऑर्डर केलेली यादी ही एक क्रमांकित यादी आहे, जी आपण पायऱ्यांची क्रमवारी महत्त्वाची असते तेव्हा वापरली पाहिजे.
 
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
+हा कोड आपल्या साहित्य सूचीच्या खाली जोडा, तो अद्याप आपल्या `<body>` टॅगमध्ये आहे याची खात्री करुन:
 
-    <h3>Method:</h3>
+    <h3>कृती:</h3>
     
     <ol>
     
     </ol>
     
 
-![screenshot](images/recipe-method.png)
+![स्क्रीनशॉट](images/recipe-method.png)
 
 + Now you just need to add list items into your new ordered list:
 
-    <li>Peel the banana and add to a blender</li>
+    <li>केळी सोलून ब्लेंडर मध्ये टाका</li>
     
 
-![screenshot](images/recipe-ol.png)
+![स्क्रीनशॉट](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+लक्षात घ्या की यादीतील पदार्थ आपोआप क्रमांकित झाले आहेत!
