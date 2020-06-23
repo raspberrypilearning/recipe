@@ -1,20 +1,28 @@
 --- challenge ---
-## التحدي: أنماط أخرى
-هل يمكنك إضافة صورة إلى صفحة الويب؟ أو تغيير الخط؟ يمكن أن تكون صفحة الويب كما يلي:
 
-![screenshot](images/recipe-final.png)
+## التحدي: تنسيقات اضافية
+
+هل تستطيع إضافة صورة الى موقع الويب الخاص بك؟ أو تغيير نوع الخط؟ إليك كيف يمكن أن تبدو صفحة الويب الخاصة بك:
+
+![لقطة شاشة](images/recipe-final.png)
 
 إليك بعض التعليمات البرمجية التي ستساعدك:
 
-```
-font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;‎
-font-size: 12pt;‎
-font-weight: bold;‎
-
-<img src="image-link-goes-here">
-```
-
-
-
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+    
+    <img src="image-link-goes-here">
+    
 
 --- /challenge ---
+
+
+***
+تمت ترجمة هذا المشروع بواسطة متطوعين:
+
+نادية علي قاسم
+
+نور يحيى شاكر
+
+بفضل المتطوعين ، يمكننا إعطاء الناس في جميع أنحاء العالم فرصة للتعلم بلغتهم الخاصة. يمكنك مساعدتنا في الوصول إلى المزيد من الأشخاص من خلال التطوع للترجمة - مزيد من المعلومات على [rpf.io/translate](https://rpf.io/translate).
