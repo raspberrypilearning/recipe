@@ -19,8 +19,9 @@
 
 + आता आपल्याला आपल्या नवीन ऑर्डर केलेल्या यादीमध्ये सूची पदार्थ जोडण्याची आवश्यकता आहे:
 
-    <li>Peel the banana and add to a blender</li>
-    
+```
+<li>Peel the banana and add to a blender</li>
+```    
 
 ![स्क्रीनशॉट](images/recipe-ol.png)
 
