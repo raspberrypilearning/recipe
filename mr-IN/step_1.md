@@ -6,7 +6,7 @@
 
 ### क्लब प्रमुखांसाठी अधिक माहिती
 
-तुम्हाला या प्रकल्पाची छपाई करण्याची आवश्यकता असल्यास कृपया [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print). वापरा.
+आपल्याला हा प्रकल्प प्रिंट करण्याची आवश्यकता असल्यास, [प्रिंट अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/recipe/print) वापरा.
 
 ## \--- collapse \---
 
