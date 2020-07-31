@@ -8,7 +8,7 @@ Una lista ordenada es una lista con números, que deberías usar cuando el orden
 
 Añade este código debajo de tu lista de ingredientes, asegurándote que está dentro de la etiqueta `<body>`:
 ```
-    <h3>Método:</h3>
+    <h3>Preparación:</h3>
     
     <ol>
     
