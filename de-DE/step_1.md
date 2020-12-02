@@ -54,7 +54,7 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
     
     + Farben (Namen & hexadezimal Codes).
 
-Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
+Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum) ab:
 
 + [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
 

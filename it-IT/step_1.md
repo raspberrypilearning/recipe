@@ -37,7 +37,7 @@ Una versione completa delle sfide di questo progetto è presente anche nella sez
 + Scrivere in CSS:
 	+ Colori (nomi e codici esadecimali).
 
-Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [Progettazione di risorse 2D e 3D di base](https://www.raspberrypi.org/curriculum/design/creator).
 

@@ -54,7 +54,7 @@ También puedes encontrar una versión completa de los desafíos de este proyect
     
     + Colores (nombres & códigos hexadecimales).
 
-Este proyecto incluye los siguientes aspectos del [Curríulo de Creación Digital de Raspberry Pi](http://rpf.io/curriculum):
+Este proyecto incluye los siguientes aspectos del [Curríulo de Creación Digital de Raspberry Pi](https://rpf.io/curriculum):
 
 + [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 

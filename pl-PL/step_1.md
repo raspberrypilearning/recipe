@@ -54,7 +54,7 @@ Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "
     
     + Kolory(nazwy i kody szesnastkowe).
 
-Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
+Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](https://rpf.io/curriculum):
 
 + [ Projektuj podstawowe zasoby 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 

@@ -53,7 +53,7 @@ title: Σημειώσεις συντονιστή ομάδας
     
     + Χρώματα (ονόματα & δεκαεξαδικοί κωδικοί).
 
-Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [Σχεδιασμός βασικών στοιχείων 2D και 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
