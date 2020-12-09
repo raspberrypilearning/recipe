@@ -53,7 +53,7 @@ Takođe, završenu verziju izazova ovoga projekta možete naći u odjeljku 'Izvo
     
     + Boje (nazivi i heksadecimalni kodovi).
 
-Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [Dizajniranje osnovnih 2D i 3D elemenata](https://www.raspberrypi.org/curriculum/design/creator).
 

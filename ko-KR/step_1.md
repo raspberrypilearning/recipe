@@ -54,7 +54,7 @@ title: 교육자 노트
     
     + Colours(색상 이름 & 대응되는 Hex Code) 사용법
 
-이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](https://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
 
 + [2D와 3D 디자인](https://www.raspberrypi.org/curriculum/design/creator)
 

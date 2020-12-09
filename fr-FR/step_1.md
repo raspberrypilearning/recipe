@@ -53,7 +53,7 @@ Vous pouvez aussi trouver une version terminée du projet dans la section "Resso
     
     + Les couleurs (noms et codes hexadécimaux)
 
-Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](https://rpf.io/curriculum):
 
 + [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator)
 

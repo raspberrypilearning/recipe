@@ -54,7 +54,7 @@ title: ملاحظات قادة النادي
     
     + الألوان (أسماء &amp , ايعازات hexadecimal).
 
-يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](https://rpf.io/curriculum):
 
 + [التصاميم الأساسية للنماذج ثنائية الأبعاد وثلاثية الأبعاد.](https://www.raspberrypi.org/curriculum/design/creator).
 

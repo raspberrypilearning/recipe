@@ -53,7 +53,7 @@ title: 給教師的其它資訊
     
     + 顏色(名稱 & 十六進制表示方式)
 
-本項目從以下各方面內容涵蓋了[Raspberry Pi 數位製作課程](http://rpf.io/curriculum)：
+本項目從以下各方面內容涵蓋了[Raspberry Pi 數位製作課程](https://rpf.io/curriculum)：
 
 + [設計基本的2D和3D資源](https://www.raspberrypi.org/curriculum/design/creator)。
 

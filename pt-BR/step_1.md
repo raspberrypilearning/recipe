@@ -54,7 +54,7 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
     
     + Cores (nomes & códigos hexadecimais).
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](https://rpf.io/curriculum):
 
 + [Design de ativos básicos em 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
