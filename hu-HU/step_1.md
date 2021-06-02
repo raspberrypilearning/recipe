@@ -28,7 +28,7 @@ Rendelkezésre áll egy trinket egy mintamegoldással a kihívásokra:
 
 ## Offline segédanyagok
 
-Ez a projekt [offline is teljesíthető](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). A projekt segédanyagaihoz a 'Projektanyagok' linkre kattintva férhetsz hozzá. Ezen a linken található a 'Projekt segédanyagai' rész, amely tartalmazza a segédanyagokat, amelyek a projekt offline teljesítéséhez szükségesek. Győződj meg arról, hogy minden gyermek rendelkezik ezekkel a segédanyagokkal. Ez a szakasz a következő fájlokat tartalmazza:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. A projekt segédanyagaihoz a 'Projektanyagok' linkre kattintva férhetsz hozzá. Ezen a linken található a 'Projekt segédanyagai' rész, amely tartalmazza a segédanyagokat, amelyek a projekt offline teljesítéséhez szükségesek. Győződj meg arról, hogy minden gyermek rendelkezik ezekkel a segédanyagokkal. Ez a szakasz a következő fájlokat tartalmazza:
 
 + template/index.html
 + template/style.css
@@ -53,7 +53,7 @@ A projekt kihívásainak teljesített változatát az „Önkéntes erőforráso
     
     + Színek (nevek és hexadecimális kódok).
 
-Ez a projekt a [Raspberry Pi Digitális Alkotás Tanterv](http://rpf.io/curriculum) következő részéből fed le elemeket:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [Alapvető 2D és 3D elemek tervezése](https://www.raspberrypi.org/curriculum/design/creator).
 
