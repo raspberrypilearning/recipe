@@ -28,7 +28,7 @@ Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
 ## Offline Resources
 
-Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Materijali projekta'. Poveznica sadrži odjeljak 'Resursi projekta' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Materijalima projekta možete pristupiti klikom na poveznicu 'Materijali projekta'. Poveznica sadrži odjeljak 'Resursi projekta' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
 
 + template/index.html
 + template/style.css
@@ -53,7 +53,7 @@ Dovršenu verziju projekta challenges možete pronaći i u odjeljku 'Materijali 
     
     + Boje (imena & hexadecimal kodovi).
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [Dizajnirajte osnovna 2D i 3D sredstva](https://www.raspberrypi.org/curriculum/design/creator).
 
