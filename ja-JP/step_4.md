@@ -1,4 +1,4 @@
-\---チャレンジ\---
+\--- challenge \---
 
 ## 課題：より多くの材料
 
@@ -8,4 +8,4 @@ Webページは次のようになります。
 
 ![スクリーンショット](images/recipe-more-ingredients.png)
 
-\--- /チャレンジ\---
+\--- /challenge \---
