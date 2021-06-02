@@ -28,7 +28,7 @@ HTML & CSS लिहीण्यासाठी मुले blank trinket [(jum
 
 ## ऑफलाइन संसाधने
 
-प्राधान्य असल्यास हा प्रकल्प [ ऑफलाइन पूर्ण केला जाऊ शकतो ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). आपण या प्रकल्पाची संसाधने Project Material link वर​ क्लिक करून मिळवू शकता. या link मध्ये 'Project Resourses' विभाग आहे, ज्यामध्ये मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यासाठी आवश्यक असणारी संसाधने आहेत. प्रत्येक मुलास या स्त्रोतांच्या प्रतीवर प्रवेश असल्याचे सुनिश्चित करा. या विभागात खालील फायली समाविष्ट आहेत:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. आपण या प्रकल्पाची संसाधने Project Material link वर​ क्लिक करून मिळवू शकता. या link मध्ये 'Project Resourses' विभाग आहे, ज्यामध्ये मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यासाठी आवश्यक असणारी संसाधने आहेत. प्रत्येक मुलास या स्त्रोतांच्या प्रतीवर प्रवेश असल्याचे सुनिश्चित करा. या विभागात खालील फायली समाविष्ट आहेत:
 
 + template/index.html
 + template/style.css
@@ -53,7 +53,7 @@ HTML & CSS लिहीण्यासाठी मुले blank trinket [(jum
     
     + रंग (नावे & हेक्झाडेसीमल कोड).
 
-या प्रकल्पात [ ​​Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) च्या खालील घटक समाविष्ट आहेत:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [मूलभूत 2D आणि 3D ऍसेटस्](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank.
 
