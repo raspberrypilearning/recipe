@@ -28,7 +28,7 @@
 
 ## 離線資源
 
-根據個人喜好，你也可以[離線完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)此專案。 你可以從此項目的「項目材料」連結訪問項目資源。 這個連結包含了'項目資源'，裡面有孩子們離線完成這個項目所需要的資源。 請確保每個孩子都可以取得這些資源的副本。 這個部分包括以下文件：
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. 你可以從此項目的「項目材料」連結訪問項目資源。 這個連結包含了'項目資源'，裡面有孩子們離線完成這個項目所需要的資源。 請確保每個孩子都可以取得這些資源的副本。 這個部分包括以下文件：
 
 + template/index.html
 + template/style.css
@@ -53,7 +53,7 @@
     
     + 顏色(名稱 & 十六進制表示方式)
 
-本項目從以下各方面內容涵蓋了[Raspberry Pi 數位製作課程](http://rpf.io/curriculum)：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [設計基本的2D和3D資源](https://www.raspberrypi.org/curriculum/design/creator)。
 
