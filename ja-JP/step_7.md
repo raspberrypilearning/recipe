@@ -13,7 +13,7 @@
 
 + あなたのブラウザは青blue、黄yellow、さらには薄緑lightgreenのような色を知っていますが、あなたのブラウザが実際に140以上の異なる色の名前を知っていることを知っていましたか？
 
-使用できるすべての色名のリストがあります。jumpto.cc/ coloursには、トマトtomato、耐火レンガfirebrick、肌色peachpuffなどの色名が含まれています。
+使用できるすべての色名のリストがあります。[jumpto.cc/colours](http://jumpto.cc/colours)には、トマト`tomato`、耐火レンガ`firebrick`、肌色`peachpuff`などの色名が含まれています。
 
 テキストの色を青blueからトマトtomatoに変更します。
 
