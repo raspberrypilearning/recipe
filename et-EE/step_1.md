@@ -28,7 +28,7 @@ Leidub ka trinket, mis sisaldab näidislahendust väljakutsetele:
 
 ## Võrguvälised ressursid
 
-Selle projekti saab soovi korral [lõpetada võrguühenduseta](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Saad ligipääsu projekti ressurssidele, klõpsates selle projekti "Projekti materjalide" lingil. See link sisaldab jaotist "Projekti ressursid", mis sisaldab ressursse, mida lapsed selle projekti võrguühenduseta lõpetamiseks vajavad. Veenduge, et igal lapsel on juurdepääs nende ressursside koopiale. See jaotis sisaldab järgmisi faile:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Saad ligipääsu projekti ressurssidele, klõpsates selle projekti "Projekti materjalide" lingil. See link sisaldab jaotist "Projekti ressursid", mis sisaldab ressursse, mida lapsed selle projekti võrguühenduseta lõpetamiseks vajavad. Veenduge, et igal lapsel on juurdepääs nende ressursside koopiale. See jaotis sisaldab järgmisi faile:
 
 + template/index.html
 + template/style.css
@@ -53,7 +53,7 @@ Selle projekti väljakutsete lõpetatud versiooni leiate ka jaotisest "Vabatahtl
     
     + Värvid (nimed & heksadetsimaalsed koodid).
 
-Selles projektis käsitletakse elemente [Raspberry Pi digitaalse tegemise õppekava](http://rpf.io/curriculum) järgmistest valdkondadest:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [Disaini põhilisi 2D- ja 3D-varasid](https://www.raspberrypi.org/curriculum/design/creator).
 
