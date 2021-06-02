@@ -28,7 +28,7 @@
 
 ## 离线资源
 
-如果愿意的话，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)。 你可以点击本项目的“项目资料”链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都可以访问这些资源。 这部分包含如下文件：
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. 你可以点击本项目的“项目资料”链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都可以访问这些资源。 这部分包含如下文件：
 
 + template/index.html
 + template/style.css
@@ -53,7 +53,7 @@
     
     + 颜色（名称 & 十六进制表示方式）。
 
-本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [设计基本的 2D 和 3D 资源](https://www.raspberrypi.org/curriculum/design/creator) 。
 
