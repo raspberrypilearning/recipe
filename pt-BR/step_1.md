@@ -28,7 +28,7 @@ Há também um Trinket contendo um exemplo de solução para os desafios:
 
 ## Recursos Offline
 
-Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
 + template/index.html
 + template/style.css
@@ -53,7 +53,7 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
     
     + Cores (nomes & códigos hexadecimais).
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 + [Design de ativos básicos em 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
