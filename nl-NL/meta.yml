@@ -7,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Recept
-description: Maak een webpagina met je favoriete recept, zodat je vrienden het kunnen maken!
+description: Maak een webpagina met je favoriete recept, zodat je vrienden het kunnen
+  maken!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -17,14 +18,16 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Kies een recept
-  - title: Ingrediënten
-  - title: 'Uitdaging: meer ingrediënten'
-  - title: Bereiding
-  - title: 'Uitdaging: meer stappen'
-  - title: Kleuren!
-  - title: Afwerking
-  - title: 'Uitdaging: meer kleuren!'
-  - title: 'Uitdaging: beoordelingen'
-  - title: 'Uitdaging: meer stijl'
+- title: Inleiding
+  completion: engaged
+- title: Kies een recept
+- title: Ingrediënten
+- title: 'Uitdaging: meer ingrediënten'
+- title: Bereiding
+- title: 'Uitdaging: meer stappen'
+- title: Kleuren!
+- title: Afwerking
+- title: 'Uitdaging: meer kleuren!'
+- title: 'Uitdaging: beoordelingen'
+  completion: internal
+- title: 'Uitdaging: meer stijl'

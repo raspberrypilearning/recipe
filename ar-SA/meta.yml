@@ -17,14 +17,16 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: اختر وصفة الطعام
-  - title: المقادير
-  - title: 'التحدي: مكونات أخرى'
-  - title: طريقة التحضير
-  - title: 'التحدي: خطوات أخرى'
-  - title: الألوان!
-  - title: اللمسات الأخيرة
-  - title: 'التحدي: ألوان أخرى!'
-  - title: 'التحدي: التقييمات'
-  - title: 'التحدي: تنسيقات أخرى'
+- title: المقدمة
+  completion: engaged
+- title: اختر وصفة الطعام
+- title: المقادير
+- title: 'التحدي: مكونات أخرى'
+- title: طريقة التحضير
+- title: 'التحدي: خطوات أخرى'
+- title: الألوان!
+- title: اللمسات الأخيرة
+- title: 'التحدي: ألوان أخرى!'
+- title: 'التحدي: التقييمات'
+  completion: internal
+- title: 'التحدي: تنسيقات أخرى'

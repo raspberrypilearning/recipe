@@ -7,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Przepis
-description: Naucz się, jak stworzyć stronę internetową ze swoim ulubionym przepisem, aby twoi znajomi mogli go zrobić!
+description: Naucz się, jak stworzyć stronę internetową ze swoim ulubionym przepisem,
+  aby twoi znajomi mogli go zrobić!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -17,14 +18,16 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Wprowadzenie
-  - title: Zdecyduj się na przepis
-  - title: Składniki
-  - title: 'Wyzwanie: Więcej składników'
-  - title: Sposób przyrządzenia
-  - title: 'Wyzwanie: Więcej kroków'
-  - title: Kolory!
-  - title: Ostatnie pociągnięcia
-  - title: 'Wyzwanie: Więcej kolorów!'
-  - title: 'Wyzwanie: Recenzje'
-  - title: 'Wyzwanie: Więcej dekoracji'
+- title: Wprowadzenie
+  completion: engaged
+- title: Zdecyduj się na przepis
+- title: Składniki
+- title: 'Wyzwanie: Więcej składników'
+- title: Sposób przyrządzenia
+- title: 'Wyzwanie: Więcej kroków'
+- title: Kolory!
+- title: Ostatnie pociągnięcia
+- title: 'Wyzwanie: Więcej kolorów!'
+- title: 'Wyzwanie: Recenzje'
+  completion: internal
+- title: 'Wyzwanie: Więcej dekoracji'

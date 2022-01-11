@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 theme: blue
 duration: 2
@@ -6,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Рецепт
-description: В ході цього проекту ви навчитесь створювати веб-сторінку для свого улюбленого рецепту.
+description: В ході цього проекту ви навчитесь створювати веб-сторінку для свого улюбленого
+  рецепту.
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -15,5 +17,6 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Рецепт
+  completion: engaged

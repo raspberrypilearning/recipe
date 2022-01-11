@@ -7,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Ricetta
-description: Crea una pagina web della tua ricetta preferita, in modo che i tuoi amici possano realizzarla!
+description: Crea una pagina web della tua ricetta preferita, in modo che i tuoi amici
+  possano realizzarla!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -16,8 +17,9 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduzione
+  completion: engaged
 - title: Decidi una ricetta
 - title: Ingredienti
 - title: 'Sfida: Altri ingredienti'
@@ -27,4 +29,5 @@ steps:
 - title: Il tocco finale
 - title: 'Sfida: Altri colori!'
 - title: 'Sfida: Recensioni'
+  completion: internal
 - title: 'Sfida: Più stile'

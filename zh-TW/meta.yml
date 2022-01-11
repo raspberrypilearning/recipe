@@ -17,14 +17,16 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 介紹
-  - title: 決定一份食譜
-  - title: 食材
-  - title: '挑戰：更多食材'
-  - title: 作法
-  - title: '挑戰：更多步驟'
-  - title: 顏色！
-  - title: 最後一步
-  - title: '挑戰：更多顏色！'
-  - title: '挑戰：評論'
-  - title: '挑戰：更多樣式'
+- title: 介紹
+  completion: engaged
+- title: 決定一份食譜
+- title: 食材
+- title: 挑戰：更多食材
+- title: 作法
+- title: 挑戰：更多步驟
+- title: 顏色！
+- title: 最後一步
+- title: 挑戰：更多顏色！
+- title: 挑戰：評論
+  completion: internal
+- title: 挑戰：更多樣式

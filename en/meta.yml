@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 theme: blue
 duration: 2
@@ -6,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Recipe
-description: Create a webpage of your favourite recipe, so that your friends can make it!
+description: Create a webpage of your favourite recipe, so that your friends can make
+  it!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -15,8 +17,9 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Decide on a recipe
 - title: Ingredients
 - title: 'Challenge: More ingredients'
@@ -26,4 +29,5 @@ steps:
 - title: Finishing touches
 - title: 'Challenge: More colours!'
 - title: 'Challenge: Reviews'
+  completion: internal
 - title: 'Challenge: More styling'
