@@ -17,14 +17,18 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Sissejuhatus
-  - title: Vali retsept
-  - title: Koostisosad
-  - title: 'Väljakutse: rohkem koostisosi'
-  - title: Valmistamine
-  - title: 'Väljakutse: veel samme'
-  - title: Värvid!
-  - title: Viimistlus
-  - title: 'Väljakutse: rohkem värve!'
-  - title: 'Väljakutse: arvustused'
-  - title: 'Väljakutse: rohkem laade'
+- title: Sissejuhatus
+- title: Vali retsept
+- title: Koostisosad
+  completion:
+  - engaged
+- title: 'Väljakutse: rohkem koostisosi'
+- title: Valmistamine
+- title: 'Väljakutse: veel samme'
+- title: Värvid!
+- title: Viimistlus
+  completion:
+  - internal
+- title: 'Väljakutse: rohkem värve!'
+- title: 'Väljakutse: arvustused'
+- title: 'Väljakutse: rohkem laade'

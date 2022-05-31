@@ -7,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Συνταγή
-description: Δημιούργησε μια ιστοσελίδα της αγαπημένης σου συνταγής, ώστε να την εκτελέσουν οι φίλοι σου!
+description: Δημιούργησε μια ιστοσελίδα της αγαπημένης σου συνταγής, ώστε να την εκτελέσουν
+  οι φίλοι σου!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -17,14 +18,18 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Εισαγωγή
-  - title: Διάλεξε μια συνταγή
-  - title: Συστατικά
-  - title: 'Πρόκληση: Περισσότερα συστατικά'
-  - title: Εκτέλεση
-  - title: 'Πρόκληση: Περισσότερα βήματα'
-  - title: Χρώματα!
-  - title: Τελευταίες πινελιές
-  - title: 'Πρόκληση: Περισσότερα χρώματα!'
-  - title: 'Πρόκληση: Κριτικές'
-  - title: 'Πρόκληση: Περισσότερο στυλ'
+- title: Εισαγωγή
+- title: Διάλεξε μια συνταγή
+- title: Συστατικά
+  completion:
+  - engaged
+- title: 'Πρόκληση: Περισσότερα συστατικά'
+- title: Εκτέλεση
+- title: 'Πρόκληση: Περισσότερα βήματα'
+- title: Χρώματα!
+- title: Τελευταίες πινελιές
+  completion:
+  - internal
+- title: 'Πρόκληση: Περισσότερα χρώματα!'
+- title: 'Πρόκληση: Κριτικές'
+- title: 'Πρόκληση: Περισσότερο στυλ'

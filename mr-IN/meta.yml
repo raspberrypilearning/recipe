@@ -7,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: पाककृती
-description: आपल्या आवडत्या पाककृतींचे वेबपेज तयार करा, जेणेकरून आपले मित्रमैत्रिणी खाद्यपदार्थ तयार करु शकतील!
+description: आपल्या आवडत्या पाककृतींचे वेबपेज तयार करा, जेणेकरून आपले मित्रमैत्रिणी
+  खाद्यपदार्थ तयार करु शकतील!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -17,14 +18,18 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: परिचय
-  - title: एका पाककृती ची निवड करा
-  - title: साहित्य
-  - title: 'आव्हान: अधिक साहित्य'
-  - title: कृती
-  - title: 'आव्हान: अधिक पायऱ्या'
-  - title: रंग!
-  - title: शेवटचा हात
-  - title: 'आव्हान: अधिक रंग!'
-  - title: 'आव्हान: समालोचन'
-  - title: 'आव्हान: अजून स्टाइल ची भर घाला'
+- title: परिचय
+- title: एका पाककृती ची निवड करा
+- title: साहित्य
+  completion:
+  - engaged
+- title: 'आव्हान: अधिक साहित्य'
+- title: कृती
+- title: 'आव्हान: अधिक पायऱ्या'
+- title: रंग!
+- title: शेवटचा हात
+  completion:
+  - internal
+- title: 'आव्हान: अधिक रंग!'
+- title: 'आव्हान: समालोचन'
+- title: 'आव्हान: अजून स्टाइल ची भर घाला'
