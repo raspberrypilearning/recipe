@@ -18,15 +18,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Sissejuhatus
-  completion: engaged
 - title: Vali retsept
 - title: Koostisosad
+  completion:
+  - engaged
 - title: 'Väljakutse: rohkem koostisosi'
 - title: Valmistamine
 - title: 'Väljakutse: veel samme'
 - title: Värvid!
 - title: Viimistlus
+  completion:
+  - internal
 - title: 'Väljakutse: rohkem värve!'
 - title: 'Väljakutse: arvustused'
-  completion: internal
 - title: 'Väljakutse: rohkem laade'

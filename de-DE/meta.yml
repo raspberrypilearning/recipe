@@ -19,15 +19,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Wähle ein Rezept aus
 - title: Zutaten
+  completion:
+  - engaged
 - title: 'Aufgabe: Noch mehr Zutaten'
 - title: Zubereitung
 - title: 'Aufgabe: Weitere Schritte'
 - title: Farben!
 - title: Der letzte Schliff
+  completion:
+  - internal
 - title: 'Aufgabe: Noch mehr Farben!'
 - title: 'Aufgabe: Beurteilungen'
-  completion: internal
 - title: 'Aufgabe: Noch mehr Gestaltungsmöglichkeiten'

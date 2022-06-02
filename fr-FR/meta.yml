@@ -19,15 +19,17 @@ version: 3
 last_tested: 01/01/2017
 steps:
 - title: Introduction
-  completion: engaged
 - title: Choisis ta recette
 - title: Ingrédients
+  completion:
+  - engaged
 - title: 'Défi : Ajouter de nouveaux ingrédients'
 - title: Méthode
 - title: 'Défi : Ajouter des étapes'
 - title: Mettons de la couleur !
 - title: Touches finales
+  completion:
+  - internal
 - title: 'Défi : Plus de couleur !'
 - title: 'Défi : Ajouter des commentaires'
-  completion: internal
 - title: 'Défi : Plus de style'

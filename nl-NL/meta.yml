@@ -19,15 +19,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Kies een recept
 - title: Ingrediënten
+  completion:
+  - engaged
 - title: 'Uitdaging: meer ingrediënten'
 - title: Bereiding
 - title: 'Uitdaging: meer stappen'
 - title: Kleuren!
 - title: Afwerking
+  completion:
+  - internal
 - title: 'Uitdaging: meer kleuren!'
 - title: 'Uitdaging: beoordelingen'
-  completion: internal
 - title: 'Uitdaging: meer stijl'

@@ -19,15 +19,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Διάλεξε μια συνταγή
 - title: Συστατικά
+  completion:
+  - engaged
 - title: 'Πρόκληση: Περισσότερα συστατικά'
 - title: Εκτέλεση
 - title: 'Πρόκληση: Περισσότερα βήματα'
 - title: Χρώματα!
 - title: Τελευταίες πινελιές
+  completion:
+  - internal
 - title: 'Πρόκληση: Περισσότερα χρώματα!'
 - title: 'Πρόκληση: Κριτικές'
-  completion: internal
 - title: 'Πρόκληση: Περισσότερο στυλ'

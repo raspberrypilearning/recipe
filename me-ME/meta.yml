@@ -19,15 +19,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Odaberi recept
 - title: Sastojci
+  completion:
+  - engaged
 - title: 'Izazov: Više sastojaka'
 - title: Priprema
 - title: 'Izazov: Više koraka'
 - title: Boje!
 - title: Završni detalji
+  completion:
+  - internal
 - title: 'Izazov: Više boja!'
 - title: 'Izazov: Komentari'
-  completion: internal
 - title: 'Izazov: Više stilova'

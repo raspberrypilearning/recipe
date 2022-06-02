@@ -19,15 +19,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Zdecyduj się na przepis
 - title: Składniki
+  completion:
+  - engaged
 - title: 'Wyzwanie: Więcej składników'
 - title: Sposób przyrządzenia
 - title: 'Wyzwanie: Więcej kroków'
 - title: Kolory!
 - title: Ostatnie pociągnięcia
+  completion:
+  - internal
 - title: 'Wyzwanie: Więcej kolorów!'
 - title: 'Wyzwanie: Recenzje'
-  completion: internal
 - title: 'Wyzwanie: Więcej dekoracji'

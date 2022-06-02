@@ -19,15 +19,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Decide on a recipe
 - title: Ingredients
+  completion:
+  - engaged
 - title: 'Challenge: More ingredients'
 - title: Method
 - title: 'Challenge: More steps'
 - title: Colours!
 - title: Finishing touches
+  completion:
+  - internal
 - title: 'Challenge: More colours!'
 - title: 'Challenge: Reviews'
-  completion: internal
 - title: 'Challenge: More styling'

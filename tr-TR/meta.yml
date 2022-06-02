@@ -19,15 +19,17 @@ version: 3
 last_tested: 01/01/2017
 steps:
 - title: Giriş
-  completion: engaged
 - title: Bir tarife karar verin
 - title: Malzemeler
+  completion:
+  - engaged
 - title: 'Meydan Okuma: Daha fazla malzeme'
 - title: Yöntem
 - title: 'Meydan Okuma: Daha fazla adım'
 - title: Renkler!
 - title: Son rötuşlar
+  completion:
+  - internal
 - title: 'Meydan Okuma: Daha fazla renk!'
 - title: 'Meydan Okuma: Yorumlar'
-  completion: internal
 - title: 'Meydan Okuma: Daha fazla şekillendirme'

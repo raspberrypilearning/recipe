@@ -18,15 +18,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: اختر وصفة الطعام
 - title: المقادير
+  completion:
+  - engaged
 - title: 'التحدي: مكونات أخرى'
 - title: طريقة التحضير
 - title: 'التحدي: خطوات أخرى'
 - title: الألوان!
 - title: اللمسات الأخيرة
+  completion:
+  - internal
 - title: 'التحدي: ألوان أخرى!'
 - title: 'التحدي: التقييمات'
-  completion: internal
 - title: 'التحدي: تنسيقات أخرى'

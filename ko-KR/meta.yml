@@ -18,15 +18,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: 소개
-  completion: engaged
 - title: 레시피 페이지에 들어갈 내용을 정하기
 - title: 레시피 재료 추가하기
+  completion:
+  - engaged
 - title: '과제: 더 많은 재료 추가하기'
 - title: 레시피 방법 추가하기
 - title: '과제: 요리 방법 추가하기'
 - title: 색상 추가하기
 - title: 레시피 제작 마무리
+  completion:
+  - internal
 - title: '과제: 더 많은 색상 추가!'
 - title: '과제: 리뷰'
-  completion: internal
 - title: '과제: 스타일 꾸미기'

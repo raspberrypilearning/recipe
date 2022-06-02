@@ -19,15 +19,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: परिचय
-  completion: engaged
 - title: एका पाककृती ची निवड करा
 - title: साहित्य
+  completion:
+  - engaged
 - title: 'आव्हान: अधिक साहित्य'
 - title: कृती
 - title: 'आव्हान: अधिक पायऱ्या'
 - title: रंग!
 - title: शेवटचा हात
+  completion:
+  - internal
 - title: 'आव्हान: अधिक रंग!'
 - title: 'आव्हान: समालोचन'
-  completion: internal
 - title: 'आव्हान: अजून स्टाइल ची भर घाला'

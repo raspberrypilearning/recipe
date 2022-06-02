@@ -18,15 +18,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: 介绍
-  completion: engaged
 - title: 选择一份食谱
 - title: 原料
+  completion:
+  - engaged
 - title: 挑战：更多原料
 - title: 方法
 - title: 挑战：更多步骤
 - title: 颜色！
 - title: 最后一步
+  completion:
+  - internal
 - title: 挑战：更多颜色！
 - title: 挑战：评论
-  completion: internal
 - title: 挑战：更多样式

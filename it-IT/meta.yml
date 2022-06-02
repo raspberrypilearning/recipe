@@ -19,15 +19,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduzione
-  completion: engaged
 - title: Decidi una ricetta
 - title: Ingredienti
+  completion:
+  - engaged
 - title: 'Sfida: Altri ingredienti'
 - title: Metodo
 - title: 'Sfida: Altri passi'
 - title: Colori!
 - title: Il tocco finale
+  completion:
+  - internal
 - title: 'Sfida: Altri colori!'
 - title: 'Sfida: Recensioni'
-  completion: internal
 - title: 'Sfida: Più stile'

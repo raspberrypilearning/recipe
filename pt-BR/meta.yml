@@ -19,15 +19,17 @@ version: 3
 last_tested: 01/01/2017
 steps:
 - title: Introdução
-  completion: engaged
 - title: Escolha uma receita
 - title: Ingredientes
+  completion:
+  - engaged
 - title: 'Desafio: Mais ingredientes'
 - title: Modo de preparo
 - title: 'Desafio: Mais passos'
 - title: Cores!
 - title: Toques finais
+  completion:
+  - internal
 - title: 'Desafio: Mais cores!'
 - title: 'Desafio: Comentários'
-  completion: internal
 - title: 'Desafio: Mais estilos'
