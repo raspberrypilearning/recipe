@@ -15,4 +15,4 @@
     <img src="image-link-goes-here">
     
 
-\--- /チャレンジ\---
+\--- /challenge \---
