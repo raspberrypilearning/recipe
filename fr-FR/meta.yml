@@ -23,6 +23,8 @@ steps:
     title: Choisis ta recette
   - 
     title: Ingrédients
+    completion:
+      - engaged
   - 
     title: 'Défi : Ajouter de nouveaux ingrédients'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Mettons de la couleur !
   - 
     title: Touches finales
+    completion:
+      - internal
   - 
     title: 'Défi : Plus de couleur !'
   - 
