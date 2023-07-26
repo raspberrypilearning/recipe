@@ -1,10 +1,10 @@
-## Ingredients
+## Інгредієнти
 
-Let’s list the ingredients that are needed for your recipe.
+Давай перерахуємо інгредієнти, необхідні для твого рецепта.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
++ Відкрий цей шаблон: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
     
-    The project should look like this:
+    Проєкт повинен виглядати так:
     
     ![screenshot](images/recipe-starter.png)
 
