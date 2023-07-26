@@ -23,6 +23,8 @@ steps:
     title: اختر وصفة الطعام
   - 
     title: المقادير
+    completion:
+      - engaged
   - 
     title: 'التحدي: مكونات أخرى'
   - 
@@ -33,6 +35,8 @@ steps:
     title: الألوان!
   - 
     title: اللمسات الأخيرة
+    completion:
+      - internal
   - 
     title: 'التحدي: ألوان أخرى!'
   - 
