@@ -23,6 +23,8 @@ steps:
     title: 레시피 페이지에 들어갈 내용을 정하기
   - 
     title: 레시피 재료 추가하기
+    completion:
+      - engaged
   - 
     title: '과제: 더 많은 재료 추가하기'
   - 
@@ -33,6 +35,8 @@ steps:
     title: 색상 추가하기
   - 
     title: 레시피 제작 마무리
+    completion:
+      - internal
   - 
     title: '과제: 더 많은 색상 추가!'
   - 
