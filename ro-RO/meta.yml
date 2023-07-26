@@ -23,6 +23,8 @@ steps:
     title: Alegerea rețetei
   - 
     title: Ingrediente
+    completion:
+      - engaged
   - 
     title: 'Provocare: mai multe ingrediente'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Culori!
   - 
     title: Ultimele retușuri
+    completion:
+      - internal
   - 
     title: 'Provocare: mai multe culori!'
   - 
