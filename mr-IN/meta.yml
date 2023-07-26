@@ -23,6 +23,8 @@ steps:
     title: एका पाककृती ची निवड करा
   - 
     title: साहित्य
+    completion:
+      - engaged
   - 
     title: 'आव्हान: अधिक साहित्य'
   - 
@@ -33,6 +35,8 @@ steps:
     title: रंग!
   - 
     title: शेवटचा हात
+    completion:
+      - internal
   - 
     title: 'आव्हान: अधिक रंग!'
   - 
