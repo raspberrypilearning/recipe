@@ -23,6 +23,8 @@ steps:
     title: Vali retsept
   - 
     title: Koostisosad
+    completion:
+      - engaged
   - 
     title: 'Väljakutse: rohkem koostisosi'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Värvid!
   - 
     title: Viimistlus
+    completion:
+      - internal
   - 
     title: 'Väljakutse: rohkem värve!'
   - 
