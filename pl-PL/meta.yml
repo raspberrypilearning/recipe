@@ -23,6 +23,8 @@ steps:
     title: Zdecyduj się na przepis
   - 
     title: Składniki
+    completion:
+      - engaged
   - 
     title: 'Wyzwanie: Więcej składników'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Kolory!
   - 
     title: Ostatnie pociągnięcia
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: Więcej kolorów!'
   - 
