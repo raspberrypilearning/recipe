@@ -23,6 +23,8 @@ steps:
     title: Bir tarife karar verin
   - 
     title: Malzemeler
+    completion:
+      - engaged
   - 
     title: 'Meydan okuma: Daha fazla malzeme'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Renkler!
   - 
     title: Son rötuşlar
+    completion:
+      - internal
   - 
     title: 'Meydan Okuma: Daha fazla renk!'
   - 
