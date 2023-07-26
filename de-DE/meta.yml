@@ -23,6 +23,8 @@ steps:
     title: Wähle ein Rezept aus
   - 
     title: Zutaten
+    completion:
+      - engaged
   - 
     title: 'Aufgabe: Noch mehr Zutaten'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Farben!
   - 
     title: Der letzte Schliff
+    completion:
+      - internal
   - 
     title: 'Herausforderung: Noch mehr Farben!'
   - 
