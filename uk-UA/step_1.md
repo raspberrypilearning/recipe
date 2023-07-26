@@ -1,47 +1,47 @@
-## Introduction
+## Вступ
 
-In this project, you’ll learn how to create a webpage for your favourite recipe.
+У цьому проекті ви дізнаєтеся, як створити веб-сторінку для вашого улюбленого рецепта.
 
 ![screenshot](images/recipe-final.png)
 
-### Additional information for club leaders
+### Додаткова інформація для керівників гуртка
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/recipe/print).
+Якщо вам потрібно роздрукувати цей проект, скористайтеся [ Версія для друку ](https://projects.raspberrypi.org/en/projects/recipe/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Нотатки керівника гуртка
 
-## Introduction:
+## Вступ:
 
-In this project, children will learn about HTML lists and CSS colours. They will create their own recipe, adding ingredient and method lists.
+У цьому проекті діти дізнаються про HTML-списки та кольори CSS. Вони створить свій власний рецепт, додаючи списки інгредієнтів і методів.
 
-## Online Resources
+## Онлайн Ресурси
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online.
+Ми рекомендуємо використовувати [trinket](https://trinket.io/) щоб написати HTML & CSS онлайн.
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Діти також можуть скористатися цим пустим бланком [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) щоб написати свій власний HTML & CSS, або вони можуть по черзі використовувати цей шаблон [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Є також trinket, що містить зразки вирішення \---challenges\---:
 
-+ [‘Recipe’ Finished -- trinket.io/html/c0fd9b40cd](https://trinket.io/html/c0fd9b40cd)
++ ["Рецепт" завершено](https://trinket.io/html/c0fd9b40cd)
 
-## Offline Resources
+## Офлайн Ресурси
 
-This project can be [completed offline](https://rpf.io/html-offline) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+За бажанням цей проєкт можна [виконати офлайн](https://rpf.io/html-offline). Ви можете отримати доступ до ресурсів проекту, натиснувши посилання "Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси Проекту", який включає в себе ресурси, що будуть потрібні дітям, аби завершити проект офлайн. Переконайтеся, що кожна дитина має доступ до копій цих ресурсів. Ця секція містить наступні файли:
 
 + template/index.html
 + template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Також, ви можете знайти завершену версію \---challenges\--- цього проекту в секції "Волонтерські Ресурси", яка містить:
 
 + recipe-finished/index.html
 + recipe-finished/style.css
 + recipe-finished/banana.jpg
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Всі з вищевказаних ресурсів можна завантажувати як проекти і волонтерські файли `.zip`.)
 
-## Learning Objectives
+## Цілі навчання
 
 + Writing HTML:
     
