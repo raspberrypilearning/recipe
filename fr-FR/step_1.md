@@ -28,7 +28,7 @@ Il y a aussi un Trinket contenant un exemple de solution pour les défis :
 
 ## Ressources hors-ligne
 
-This project can be [completed offline](https://rpf.io/html-offline) if preferred. Vous pouvez accéder aux ressources du projet en cliquant sur le lien « Matériel pour le projet ». Ce lien contient une section « Ressources du projet » qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
+Ce projet peut être [terminé hors-ligne](https://rpf.io/html-offline) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien « Matériel pour le projet ». Ce lien contient une section « Ressources du projet » qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 + template/index.html
 + template/style.css
@@ -53,7 +53,7 @@ Vous pouvez aussi trouver une version terminée du projet dans la section « Res
     
     + Les couleurs (noms et codes hexadécimaux)
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](https://rpf.io/curriculum):
 
 + [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator)
 
