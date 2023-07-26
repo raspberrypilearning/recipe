@@ -23,6 +23,8 @@ steps:
     title: Διάλεξε μια συνταγή
   - 
     title: Συστατικά
+    completion:
+      - engaged
   - 
     title: 'Πρόκληση: Περισσότερα συστατικά'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Χρώματα!
   - 
     title: Τελευταίες πινελιές
+    completion:
+      - internal
   - 
     title: 'Πρόκληση: Περισσότερα χρώματα!'
   - 
