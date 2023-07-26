@@ -23,6 +23,8 @@ steps:
     title: Decide que receta quieres hacer
   - 
     title: Ingredientes
+    completion:
+      - engaged
   - 
     title: 'Desafío: Más ingredientes'
   - 
@@ -33,6 +35,8 @@ steps:
     title: '¡Colores!'
   - 
     title: Toques finales
+    completion:
+      - internal
   - 
     title: 'Desafío: ¡Más colores!'
   - 
