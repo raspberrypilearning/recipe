@@ -23,6 +23,8 @@ steps:
     title: రెసిపీని నిర్ణయించండి
   - 
     title: కావలసిన పదార్థాలు
+    completion:
+      - engaged
   - 
     title: 'సవాలు: మరిన్ని కావలసిన పదార్థాలు'
   - 
@@ -33,6 +35,8 @@ steps:
     title: రంగులు!
   - 
     title: మెరుగులు
+    completion:
+      - internal
   - 
     title: 'సవాలు: మరిన్ని రంగులు!'
   - 
