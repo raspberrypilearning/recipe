@@ -23,6 +23,8 @@ steps:
     title: Kies een recept
   - 
     title: ingrediënten
+    completion:
+      - engaged
   - 
     title: 'Uitdaging: meer ingrediënten'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Kleuren!
   - 
     title: Afwerking
+    completion:
+      - internal
   - 
     title: 'Uitdaging: meer kleuren!'
   - 
