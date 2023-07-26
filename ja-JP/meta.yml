@@ -23,6 +23,8 @@ steps:
     title: レシピを決める
   - 
     title: 材料
+    completion:
+      - engaged
   - 
     title: '課題：より多くの材料'
   - 
@@ -33,6 +35,8 @@ steps:
     title: 配色!
   - 
     title: 仕上げ
+    completion:
+      - internal
   - 
     title: '課題：より多くの色！'
   - 
