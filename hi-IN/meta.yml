@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: रेसिपी
-description: अपनी पसंदीदा रेसिपी का वेबपेज बनाएँ, ताकि आपके मित्र इसे बना सकें!
+description: अपनी पसंदीदा रेसिपी का वेब पृष्ठ बनाएँ, ताकि आपके मित्र इसे बना सकें!
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -20,19 +20,23 @@ steps:
   - 
     title: भूमिका
   - 
-    title: रेसिपी तय करें
+    title: एक रेसिपी तय करें
   - 
     title: सामग्री
+    completion:
+      - engaged
   - 
     title: 'चुनौती: अधिक सामग्री'
   - 
-    title: विधि
+    title: तरीका
   - 
     title: 'चुनौती: अधिक चरण'
   - 
     title: रंग!
   - 
-    title: अंतिम रूप देना
+    title: अंतिम समापन कार्य
+    completion:
+      - internal
   - 
     title: 'चुनौती: अधिक रंग!'
   - 
