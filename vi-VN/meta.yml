@@ -23,6 +23,8 @@ steps:
     title: Decide on a recipe
   - 
     title: Ingredients
+    completion:
+      - engaged
   - 
     title: 'Challenge: More ingredients'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Colours!
   - 
     title: Finishing touches
+    completion:
+      - internal
   - 
     title: 'Challenge: More colours!'
   - 
