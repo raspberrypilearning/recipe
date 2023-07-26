@@ -23,6 +23,8 @@ steps:
     title: 決定一份食譜
   - 
     title: 食材
+    completion:
+      - engaged
   - 
     title: '挑戰：更多食材'
   - 
@@ -33,6 +35,8 @@ steps:
     title: 顏色！
   - 
     title: 最後一步
+    completion:
+      - internal
   - 
     title: '挑戰：更多顏色！'
   - 
