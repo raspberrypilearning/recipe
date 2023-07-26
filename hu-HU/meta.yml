@@ -23,6 +23,8 @@ steps:
     title: Válassz egy receptet
   - 
     title: Hozzávalók
+    completion:
+      - engaged
   - 
     title: 'Kihívás: Több hozzávaló'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Színek!
   - 
     title: Utolsó simítások
+    completion:
+      - internal
   - 
     title: 'Kihívás: Több szín!'
   - 
