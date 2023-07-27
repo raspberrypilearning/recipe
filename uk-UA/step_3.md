@@ -6,7 +6,7 @@
     
     Проєкт повинен виглядати так:
     
-    ![screenshot](images/recipe-starter.png)
+    ![скріншот](images/recipe-starter.png)
 
 + Для списку інгредієнтів ти використовуватимеш **неупорядкований список** за допомогою тегу `<ul>`. Перейди до рядка 8 шаблону та додай цей HTML-код, замінивши текст у заголовку `<h1>` title на назву свого рецепта:
 
@@ -16,17 +16,17 @@
     </ul>
     
 
-+ View your webpage, and you should see your two headings.
++ Переглянь свою веб-сторінку. Ти маєш побачити два свої заголовки.
 
-![screenshot](images/recipe-headings.png)
+![скріншот](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+Ти поки шо не побачиш список, оскільки ти ще не додав(-ла) до нього жодного пункту.
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
++ Наступним кроком буде додавання до списку пунктів за допомогою тегу `<li>`. Додай наступний код у тег `<ul>`:
 
-    <li>1 banana</li>
+    <li>1 банан</li>
     
 
-![screenshot](images/recipe-ul.png)
+![скріншот](images/recipe-ul.png)
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+Оскільки твій список неупорядкований, поряд із пунктами списку немає чисел, а лише маркери.
