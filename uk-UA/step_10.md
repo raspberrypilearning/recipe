@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Reviews
+## Завдання: відгуки
 
-Ask a few of your friends to leave a review for your recipe. You’ll need to make another list to do this.
+Попроси кількох друзів залишити відгук на твій рецепт. Для цього тобі потрібно буде створити ще один список.
 
-![screenshot](images/recipe-reviews.png)
+![знімок екрану](images/recipe-reviews.png)
 
-\--- /challenge \---
+-- /challenge \---
