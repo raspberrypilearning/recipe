@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: More steps
+## Завдання: наступні кроки
 
-Can you add all of the steps for making **your** recipe?
+Чи можеш ти додати всі кроки для приготування **свого** рецепту?
 
-Your method should look something like this:
+Твої кроки мають виглядати приблизно так:
 
-![screenshot](images/recipe-more-method.png)
+![скріншот](images/recipe-more-method.png)
 
 \--- /challenge \---
