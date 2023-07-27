@@ -8,14 +8,11 @@
     
     ![screenshot](images/recipe-starter.png)
 
-+ For your list of ingredients, you’re going to use an **unordered list**, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
++ Для списку інгредієнтів ти використовуватимеш **неупорядкований список** за допомогою тегу `<ul>`. Перейди до рядка 8 шаблону та додай цей HTML-код, замінивши текст у заголовку `<h1>` title на назву свого рецепта:
 
-    <h1>Banana Milkshake</h1>
-    
-    <h3>Ingredients:</h3>
-    
+    <h1>Банановий молочний коктейль</h1>
+    <h3>Інгредієнти:</h3>
     <ul>
-    
     </ul>
     
 
