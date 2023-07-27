@@ -2,22 +2,22 @@
 
 ## Завдання: більше кольорів!
 
-Change the colours in your code by using colour names, `rgb()` values and hex codes. There’s a list of loads of colours at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>, or you can go to <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> and create your own colours!
+Змінюй кольори у своєму коді за допомогою назв кольорів, значень `rbg()` та шістнадцяткових кодів. У списку <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a> є список кольорів, окрім того, ти можеш перейти на <a href="http://jumpto.cc/colour-picker" target="_blank">jumpto.cc/colour-picker</a> та створити власні кольори!
 
 Ось декілька прикладів кольорів:
 
 + Червоний можна записати як:
     
-    + `red` (obviously!)
-    + `rgb(255,0,0)` (loads of red, no green and no blue)
+    + `red` (червоний)
+    + `rgb(255,0,0)` (високе значення червоного, нульові значення зеленого та синього)
     + `#ff0000`
 
-+ Olive can be written as:
++ Оливковий можна записати як:
     
-    + `olive`
-    + `rgb(128, 128, 0)` (a bit of red and green, and no blue)
+    + `olive (оливковий)`
+    + `rgb(128, 128, 0)` (трохи червоного та зеленого, без синього кольору)
     + `#808000`
 
-Try to make sure that the colours you use match your recipe!
+Спробуй зробити так, щоб кольорі на твоїй веб-сторінці відповідали твоєму рецепту!
 
 \--- /challenge \---
