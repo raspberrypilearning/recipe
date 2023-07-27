@@ -1,14 +1,14 @@
-## Finishing touches
+## Останні штрихи
 
-Let’s add a little more HTML and CSS to improve your webpage.
+Давай додамо трохи більше HTML- та CSS-коду для покращення твоєї веб-сторінки.
 
-+ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
++ Ти можеш додати горизонтальну лінію в кінці свого рецепта за допомогою тега `<hr>`.
 
-![screenshot](images/recipe-hr.png)
+![знімок екрану](images/recipe-hr.png)
 
-Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
+Зверни увагу, що цей тег не має кінцевого тегу, як і `<img>`.
 
-+ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
++ Щойно додана тобою лінія не відповідає стилю решти веб-сторінки. Давай це виправимо за допомогою такого коду CSS:
 
     hr {
         height: 2px;
@@ -17,13 +17,13 @@ Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
     }
     
 
-![screenshot](images/recipe-hr-css.png)
+![знімок екрану](images/recipe-hr-css.png)
 
-+ You can even change how your bullet points look with this CSS code:
++ Ти навіть можеш змінити вигляд маркування за допомогою такого коду CSS:
 
     ul {
         list-style-type: square;
     }
     
 
-![screenshot](images/recipe-ul-css.png)
+![знімок екрану](images/recipe-ul-css.png)
