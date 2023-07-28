@@ -6,6 +6,6 @@
 
 Твоя веб-сторінка повинна виглядати приблизно так:
 
-![скріншот](images/recipe-more-ingredients.png)
+![знімок екрана](images/recipe-more-ingredients.png)
 
 \--- /challenge \---
