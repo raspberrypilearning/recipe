@@ -19,7 +19,9 @@
 
 + ここで、リスト項目を新しい順序付きリストに追加するだけです。
 
-    <li>Peel the banana and add to a blender</li>
+```
+<li>Peel the banana and add to a blender</li>
+```
     
 
 ![スクリーンショット](images/recipe-ol.png)
