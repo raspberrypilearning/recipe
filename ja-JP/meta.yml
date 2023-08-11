@@ -1,0 +1,34 @@
+---
+hero_image: images/banner.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: レシピ
+description: お気に入りのレシピのウェブページを作成して、友達がそれを作れるようにします！
+original_url: https://codeclubprojects.org/en-GB/webdev/recipe
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: 前書き
+  - title: レシピを決める
+  - title: 材料
+    completion:
+      - engaged
+  - title: '課題：より多くの材料'
+  - title: 作り方
+  - title: '課題：より多くのステップ'
+  - title: 配色!
+  - title: 仕上げ
+    completion:
+      - internal
+  - title: '課題：より多くの色！'
+  - title: '課題：レビュー'
+  - title: '課題：より多くのスタイリング'

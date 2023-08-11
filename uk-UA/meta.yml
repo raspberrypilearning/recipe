@@ -7,8 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Рецепт
-description: В ході цього проекту ви навчитесь створювати веб-сторінку для свого улюбленого
-  рецепту.
+description: У цьому проєкті ти навчишся створювати вебсторінку для свого улюбленого рецепта.
 original_url: https://codeclubprojects.org/en-GB/webdev/recipe
 interests: ''
 technologies: html-css-javascript
@@ -18,4 +17,18 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-- title: Рецепт
+  - title: Вступ
+  - title: Обери рецепт
+  - title: Інгредієнти
+    completion:
+      - engaged
+  - title: 'Завдання: більше інгредієнтів'
+  - title: Послідовність дій
+  - title: 'Завдання: наступні кроки'
+  - title: Кольори!
+  - title: Останні штрихи
+    completion:
+      - internal
+  - title: 'Завдання: більше кольорів!'
+  - title: 'Завдання: відгуки'
+  - title: 'Завдання: більше стилів'
