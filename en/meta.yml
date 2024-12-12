@@ -18,7 +18,7 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-- title: Introduction
+- title: What you will make
 - title: Decide on a recipe
 - title: Ingredients
   completion:
