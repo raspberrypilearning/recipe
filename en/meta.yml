@@ -22,13 +22,10 @@ steps:
 - title: Ingredients
   completion:
   - engaged
-- title: 'Challenge: More ingredients'
 - title: Method
-- title: 'Challenge: More steps'
-- title: Colours!
+- title: Colours
 - title: Finishing touches
   completion:
   - internal
-- title: 'Challenge: More colours!'
-- title: 'Challenge: Reviews'
-- title: 'Challenge: More styling'
+- title: Challenge
+- title: What can you do now?

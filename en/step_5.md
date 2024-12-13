@@ -1,32 +1,34 @@
-## Method
+## Finishing touches
 
-Next, let’s explain how to make your recipe.
+Let’s add a little more HTML and CSS to improve your webpage.
 
 
 
-+ You’re going to use another list to write your method, but this time you’ll be using an __ordered list__, by using the `<ol>` tag.
++ You can add a horizontal line at the end of your recipe, by using the `<hr>` tag.
 
-An ordered list is a numbered list, which you should use when the order of the steps is important.
+![screenshot](images/recipe-hr.png)
 
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
+Notice that this tag doesn’t have an end tag, just like the `<img>` tag.
 
-```
-<h3>Method:</h3>
-
-<ol>
-
-</ol>
-```
-
-![screenshot](images/recipe-method.png)
-
-+ Now you just need to add list items into your new ordered list:
++ The line you’ve just added doesn’t match the style of the rest of your webpage. Let’s fix that by adding some CSS code:
 
 ```
-<li>Peel the banana and add to a blender</li>
+hr {
+    height: 2px;
+    border: none;
+    background-color: tomato;
+}
 ```
 
-![screenshot](images/recipe-ol.png)
+![screenshot](images/recipe-hr-css.png)
 
-Notice that the list items are automatically numbered!
++ You can even change how your bullet points look with this CSS code:
+
+```
+ul {
+    list-style-type: square;
+}
+```
+
+![screenshot](images/recipe-ul-css.png)
 
