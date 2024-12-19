@@ -1,33 +1,60 @@
 ## Method
 
-Next, let’s explain how to make your recipe.
+Next, let’s explain how to make the recipe.
 
 
+--- task ---
+This time you’ll need an __ordered list__ with numbered steps.
 
-+ You’re going to use another list to write your method, but this time you’ll be using an __ordered list__, by using the `<ol>` tag.
+Add this code underneath your ingredients list:
 
-An ordered list is a numbered list, which you should use when the order of the steps is important.
-
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
-
-```
+--- code ---
+---
+language: html
+line_numbers: true
+line_number_start: 13
+line_highlights: 14-18
+---
+</ul>
 <h3>Method:</h3>
 
 <ol>
 
 </ol>
-```
+</body>
+--- /code ---
+--- /task ---
+
+--- task ---
+Click **Run** to check you have added the code in the right place.
 
 ![screenshot](images/recipe-method.png)
+--- /task ---
 
-+ Now you just need to add list items into your new ordered list:
+--- task ---
 
-```
+Now write in the first step you need to make your recipe, inside `<li>` and `</li>`:
+
+--- code ---
+---
+language: html
+line_numbers: true
+line_number_start: 16
+line_highlights: 17
+---
+<ol>
 <li>Peel the banana and add to a blender</li>
-```
+</ol>
+--- /code ---
+--- /task ---
+
+--- task ---
+Click **Run** to see your instructions appear.
 
 ![screenshot](images/recipe-ol.png)
 
-Notice that the list items are automatically numbered!
+--- /task ---
 
-add yours
+--- task ---
+Now finish adding the rest of the steps to make your recipe, each inside `<li>` and `</li>`.
+--- /task ---

@@ -53,7 +53,7 @@ Click **Run** to view your webpage, and you should see your two headings.
 
 ![A web page with the title Banana milkshake and subtitle ingredients](images/recipe-headings.png)
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+You won’t see your list yet though, because you haven’t added any list items to it.
 
 --- /task ---
 
@@ -80,6 +80,6 @@ line_highlights: 12
 
 --- task ---
 
-**Run** your code to see the updated list. Add the rest of the ingredients you need for your recipe.
+**Run** your code to see the updated list, then add the rest of the ingredients you need for your recipe.
 
 --- /task ---
