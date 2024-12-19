@@ -48,20 +48,38 @@ line_highlights: 11-13
 
 --- /task ---
 
-+ View your webpage, and you should see your two headings.
+--- task ---
+Click **Run** to view your webpage, and you should see your two headings.
 
-![screenshot](images/recipe-headings.png)
+![A web page with the title Banana milkshake and subtitle ingredients](images/recipe-headings.png)
 
 You won’t see your list yet though, because you haven’t added any list items to it!
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
+--- /task ---
 
-```
+--- task ---
+
+Add the first item into your list, by using the `<li>` tag.
+
+--- code ---
+---
+language: html
+line_numbers: true
+line_number_start: 10
+line_highlights: 12
+---
+<h3>Ingredients:</h3>
+<ul>
 <li>1 banana</li>
-```
+</ul>
 
-![screenshot](images/recipe-ul.png)
+</body>
+--- /code ---
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+--- /task ---
 
-add your ingredients
+--- task ---
+
+**Run** your code to see the updated list. Add the rest of the ingredients you need for your recipe.
+
+--- /task ---
