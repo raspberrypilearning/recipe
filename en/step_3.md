@@ -1,6 +1,6 @@
 ## Method
 
-Next, let's explain how to make the recipe.
+Next, explain how to make the recipe.
 
 
 --- task ---
@@ -17,7 +17,6 @@ line_highlights: 14-18
 ---
 </ul>
 <h3>Method:</h3>
-
 <ol>
 
 </ol>
@@ -33,14 +32,14 @@ Click **Run** to check you have added the code in the right place.
 
 --- task ---
 
-Now write in the first step you need to make your recipe, inside `<li>` and `</li>`:
+Write down the first step in your recipe, using `<li>` and `</li>`:
 
 --- code ---
 ---
 language: html
 line_numbers: true
-line_number_start: 16
-line_highlights: 17
+line_number_start: 17
+line_highlights: 18
 ---
 <ol>
 <li>Peel the banana and add to a blender</li>
@@ -49,12 +48,12 @@ line_highlights: 17
 --- /task ---
 
 --- task ---
-Click **Run** to see your instructions appear.
+Click **Run** to see your instruction appear, with a number 1 as it is the first instruction in the list.
 
 ![screenshot](images/recipe-ol.png)
 
 --- /task ---
 
 --- task ---
-Now finish adding the rest of the steps to make your recipe, each inside `<li>` and `</li>`.
+Finish adding the rest of the steps to make your recipe.
 --- /task ---
