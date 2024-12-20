@@ -42,7 +42,6 @@ Add some CSS code to set the style of the line. Replace `???` with the colour yo
 language: css
 line_numbers: true
 line_number_start: 4
-line_highlights: 4-8
 ---
 hr {
     height: 2px;
@@ -55,9 +54,9 @@ hr {
 
 --- task ---
 Click **Run** to see the new style.
---- /task ---
 
 ![A recipe for banana milkshake in light red with a light red line underneath it](images/recipe-hr-css.png)
+--- /task ---
 
 --- task ---
 
@@ -68,7 +67,6 @@ Add a style to change the bullet points to squares instead of circles:
 language: css
 line_numbers: true
 line_number_start: 9
-line_highlights: 9-11
 ---
 ul {
     list-style-type: square;
