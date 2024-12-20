@@ -1,10 +1,10 @@
 ## Method
 
-Next, let’s explain how to make the recipe.
+Next, let's explain how to make the recipe.
 
 
 --- task ---
-This time you’ll need an __ordered list__ with numbered steps.
+This time you'll need an __ordered list__ with numbered steps.
 
 Add this code underneath your ingredients list:
 
