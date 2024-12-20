@@ -26,6 +26,8 @@ Ask a few of your friends to leave a review for your recipe and add it to your s
 
 --- /task ---
 
+--- task ---
+
 Choose an image from the pictures tab and add it to your page.
 
 ![The sidebar with image gallery selected and images of banana, dough and tomatoes](images/recipe-images.png)

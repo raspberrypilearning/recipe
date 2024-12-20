@@ -27,7 +27,7 @@ Click **Run** to see the results.
 --- /task ---
 
 --- task ---
-Choose a colour from this [list of colours](http://jumpto.cc/colours){target="_blank"}.
+Choose a colour from this [list of colours](http://jumpto.cc/colours){:target="_blank"}.
 
 Change the text colour from `blue` to your chosen colour, then click **Run** to see the result.
 
