@@ -19,6 +19,7 @@ line_highlights: 20
 </ol>
 <hr>
 --- /code ---
+--- /task ---
 
 --- task --- 
 Click **Run** to see the line.
