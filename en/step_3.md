@@ -11,7 +11,7 @@ Add this code underneath your ingredients list:
 --- code ---
 ---
 language: html
-line_numbers: true
+line_numbers: false
 line_number_start: 13
 line_highlights: 14-18
 ---
@@ -37,7 +37,7 @@ Write down the first step in your recipe, using `<li>` and `</li>`:
 --- code ---
 ---
 language: html
-line_numbers: true
+line_numbers: false
 line_number_start: 17
 line_highlights: 18
 ---

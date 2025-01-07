@@ -29,7 +29,9 @@ line_highlights: 8-10
 --- /task ---
 
 --- task ---
-The `<ul>` tag creates an unordered list. Add the tags to start and end your list. 
+The `<ul>` tag creates an unordered list. 
+
+Add the tags to start and end your list. 
 
 --- code ---
 ---
@@ -49,9 +51,11 @@ line_highlights: 11-13
 --- /task ---
 
 --- task ---
-Click **Run** to view your webpage, and you should see your two headings.
+Click **Run** to view your webpage. 
 
-![A web page with the title Banana milkshake and subtitle ingredients](images/recipe-headings.png)
+You should see your two headings.
+
+![A web page with the title 'Banana Milkshake' and the subtitle 'Ingredients'](images/recipe-headings.png)
 
 You won’t see your list yet though, because you haven’t added any list items to it.
 
@@ -80,6 +84,12 @@ line_highlights: 12
 
 --- task ---
 
-**Run** your code to see the updated list, then add the rest of the ingredients you need for your recipe.
+**Run** your code to see the updated list.
+
+--- /task ---
+
+--- task ---
+
+Add more list items for the rest of the ingredients in your recipe.
 
 --- /task ---

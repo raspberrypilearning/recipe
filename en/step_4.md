@@ -23,7 +23,7 @@ body {
 --- task---
 Click **Run** to see the results.
 
-![A banana milkshake recipe written in blue text](images/recipe-blue.png)
+![A banana milkshake recipe written in blue text](images/recipe-blue.png){:style="width:50%;"}
 --- /task ---
 
 --- task ---
@@ -31,7 +31,7 @@ Choose a colour from this [list of colours](http://jumpto.cc/colours){:target="_
 
 Change the text colour from `blue` to your chosen colour, then click **Run** to see the result.
 
-![A banana milkshake recipe written in light red text](images/recipe-tomato.png)
+![A banana milkshake recipe written in light red text](images/recipe-tomato.png){:style="width:50%;"}
 
 --- /task ---
 

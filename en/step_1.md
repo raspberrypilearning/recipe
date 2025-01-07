@@ -1,6 +1,6 @@
 ## What you will make
 
-Learn how to create a webpage for your favourite recipe.
+Create a webpage for your favourite recipe.
 
 --- print-only ---
 ![A webpage about how to make banana milkshake with an image of banana slices](images/recipe-final.png)
