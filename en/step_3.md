@@ -1,40 +1,59 @@
-## Ingredients
+## Method
 
-Let’s list the ingredients that are needed for your recipe.
+Next, explain how to make the recipe.
 
 
+--- task ---
+This time you'll need an __ordered list__ with numbered steps.
 
-+ Open this template trinket: [jumpto.cc/html-template](http://jumpto.cc/html-template){:target="_blank"}.
+Add this code underneath your ingredients list:
 
-	The project should look like this:
-
-	![screenshot](images/recipe-starter.png)
-
-+ For your list of ingredients, you’re going to use an __unordered list__, using the `<ul>` tag. Go to line 8 of the template and add this HTML, replacing the text in the `<h1>` title with the name of your own recipe:
-
-```
-<h1>Banana Milkshake</h1>
-
-<h3>Ingredients:</h3>
-
-<ul>
-
+--- code ---
+---
+language: html
+line_numbers: false
+line_number_start: 13
+line_highlights: 14-18
+---
 </ul>
-```
+<h3>Method:</h3>
+<ol>
 
-+ View your webpage, and you should see your two headings.
+</ol>
+</body>
+--- /code ---
+--- /task ---
 
-![screenshot](images/recipe-headings.png)
+--- task ---
+Click **Run** to check you have added the code in the right place.
 
-You won’t see your list yet though, because you haven’t added any list items to it!
+![screenshot](images/recipe-method.png)
+--- /task ---
 
-+ The next step is to add list items into your list, by using the `<li>` tag. Add the following code inside your `<ul>` tag:
+--- task ---
 
-```
-<li>1 banana</li>
-```
+Write down the first step in your recipe, using `<li>` and `</li>`:
 
-![screenshot](images/recipe-ul.png)
+--- code ---
+---
+language: html
+line_numbers: false
+line_number_start: 17
+line_highlights: 18
+---
+<ol>
+<li>Peel the banana and add to a blender</li>
+</ol>
+--- /code ---
+--- /task ---
 
-As your list is unordered, there are no numbers next to the list items, just bullet points.
+--- task ---
+Click **Run** to see your instruction appear, with a number 1 as it is the first instruction in the list.
 
+![screenshot](images/recipe-ol.png)
+
+--- /task ---
+
+--- task ---
+Finish adding the rest of the steps to make your recipe.
+--- /task ---

@@ -1,32 +1,82 @@
-## Method
+## Finishing touches
 
-Next, let’s explain how to make your recipe.
+--- task ---
+Select your `index.html` file in the sidebar.
 
+![Sidebar of the code editor showing two files - index.html and style.css](images/recipe-sidebar.png){:style=“width:50%;“}
+--- /task ---
 
+--- task ---
+Add a horizontal line at the end of your recipe using the `<hr>` tag.
 
-+ You’re going to use another list to write your method, but this time you’ll be using an __ordered list__, by using the `<ol>` tag.
-
-An ordered list is a numbered list, which you should use when the order of the steps is important.
-
-Add this code underneath your ingredients list, making sure that it’s still inside your `<body>` tag:
-
-```
-<h3>Method:</h3>
-
-<ol>
-
+--- code ---
+---
+language: html
+line_numbers: true
+line_number_start: 19
+line_highlights: 20
+---
 </ol>
-```
+<hr>
+--- /code ---
+--- /task ---
 
-![screenshot](images/recipe-method.png)
+--- task --- 
+Click **Run** to see the line.
 
-+ Now you just need to add list items into your new ordered list:
+![A banana milkshake recipe in light red text with a grey line underneath it](images/recipe-hr.png)
 
-```
-<li>Peel the banana and add to a blender</li>
-```
+--- /task ---
 
-![screenshot](images/recipe-ol.png)
+The line you’ve just added doesn’t match the style of the rest of your webpage.
 
-Notice that the list items are automatically numbered!
+--- task ---
+Switch back to `style.css` 
+--- /task ---
 
+--- task ---
+Add some CSS code to set the style of the line. Replace `???` with the colour you chose for your text.
+
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 4
+---
+hr {
+    height: 2px;
+    border: none;
+    background-color: ???;
+}
+--- /code ---
+
+--- /task ---
+
+--- task ---
+Click **Run** to see the new style.
+
+![A recipe for banana milkshake in light red with a light red line underneath it](images/recipe-hr-css.png)
+--- /task ---
+
+--- task ---
+
+Add a style to change the bullet points to squares instead of circles:
+
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 9
+---
+ul {
+    list-style-type: square;
+}
+--- /code ---
+--- /task ---
+
+--- task ---
+Click **Run** to see the new shape.
+
+![A recipe for banana milkshake with bullet points in the shape of squares](images/recipe-ul-css.png){:style=“width:50%;“}
+
+--- /task ---

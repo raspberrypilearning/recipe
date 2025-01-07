@@ -1,12 +1,36 @@
---- challenge ---
-## Challenge: More ingredients
-Can you add all of the ingredients for __your__ recipe?
+## Colours
 
-Your webpage should look something like this:
+--- task ---
+Click on the `style.css` file in the sidebar. 
 
-![screenshot](images/recipe-more-ingredients.png)
+--- /task ---
 
+--- task ---
+Add this code to make all of the text blue:
 
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 1
+---
+body {
+    color: blue;
+}
+--- /code ---
+--- /task ---
 
+--- task---
+Click **Run** to see the results.
 
---- /challenge ---
+![A banana milkshake recipe written in blue text](images/recipe-blue.png){:style="width:50%;"}
+--- /task ---
+
+--- task ---
+Choose a colour from this [list of colours](http://jumpto.cc/colours){:target="_blank"}.
+
+Change the text colour from `blue` to your chosen colour, then click **Run** to see the result.
+
+![A banana milkshake recipe written in light red text](images/recipe-tomato.png){:style="width:50%;"}
+
+--- /task ---
