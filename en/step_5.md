@@ -3,7 +3,7 @@
 --- task ---
 Select your `index.html` file in the sidebar.
 
-![Sidebar of the code editor showing two files - index.html and style.css](images/recipe-sidebar.png)
+![Sidebar of the code editor showing two files - index.html and style.css](images/recipe-sidebar.png){:style=“width:50%;“}
 --- /task ---
 
 --- task ---
@@ -77,6 +77,6 @@ ul {
 --- task ---
 Click **Run** to see the new shape.
 
-![A recipe for banana milkshake with bullet points in the shape of squares](images/recipe-ul-css.png)
+![A recipe for banana milkshake with bullet points in the shape of squares](images/recipe-ul-css.png){:style=“width:50%;“}
 
 --- /task ---

@@ -10,9 +10,9 @@ If you are following the [HTML & CSS: Module 1](https://projects.raspberrypi.org
 
 --- no-print ---
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mystery-letter-starter" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/mystery-letter-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
 
 --- /no-print ---
 
-Or, why not try out another [HTML & CSS](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project.
+Or, why not try out another [HTML & CSS](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project?

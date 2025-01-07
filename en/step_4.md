@@ -34,8 +34,3 @@ Change the text colour from `blue` to your chosen colour, then click **Run** to 
 ![A banana milkshake recipe written in light red text](images/recipe-tomato.png){:style="width:50%;"}
 
 --- /task ---
-
-
-
-
-

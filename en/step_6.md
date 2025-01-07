@@ -30,7 +30,7 @@ Ask a few of your friends to leave a review for your recipe and add it to your s
 
 Choose an image from the pictures tab and add it to your page.
 
-![The sidebar with image gallery selected and images of banana, dough and tomatoes](images/recipe-images.png)
+![The sidebar with image gallery selected and images of banana, dough and tomatoes](images/recipe-images.png){:style=“width:50%;“}
 
 Here’s some HTML code to help you:
 
