@@ -5,7 +5,7 @@ The example recipe you’ll see in this project is for a banana milkshake, but y
 List the ingredients that are needed for your recipe.
 
 --- task ---
-Open the [starter project](https://staging-editor.raspberrypi.org/en/projects/recipe-starter){:target="_blank"}.
+Open the [starter project](https://editor.raspberrypi.org/en/projects/recipe-starter){:target="_blank"}.
 --- /task ---
 
 --- task ---
